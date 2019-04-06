@@ -1,0 +1,57 @@
+{
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(3-5)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage": {
+        "gen": "#% increased elemental damage",
+        "org": [
+            "12% increased elemental damage",
+            "14% increased elemental damage",
+            "22% increased elemental damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced enemy stun threshold": {
+        "gen": "#% reduced enemy stun threshold",
+        "org": [
+            "10% reduced enemy stun threshold",
+            "15% reduced enemy stun threshold"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "damage penetrates #% elemental resistances": {
+        "gen": "damage penetrates #% elemental resistances",
+        "org": [
+            "damage penetrates (3-5)% elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

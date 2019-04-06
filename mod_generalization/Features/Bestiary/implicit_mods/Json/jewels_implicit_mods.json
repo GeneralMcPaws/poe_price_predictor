@@ -1,0 +1,185 @@
+{
+    "#% additional chance to receive a critical strike": {
+        "gen": "#% additional chance to receive a critical strike",
+        "org": [
+            "(3 to 5)% additional chance to receive a critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage per equipped corrupted item": {
+        "gen": "#% increased chaos damage per equipped corrupted item",
+        "org": [
+            "1% increased chaos damage per equipped corrupted item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% increased damage while dead": {
+        "gen": "#% increased damage while dead",
+        "org": [
+            "(20 to 30)% increased damage while dead"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased endurance, frenzy and power charge duration": {
+        "gen": "#% increased endurance, frenzy and power charge duration",
+        "org": [
+            "(3 to 7)% increased endurance, frenzy and power charge duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life leeched per second per equipped corrupted item": {
+        "gen": "#% increased life leeched per second per equipped corrupted item",
+        "org": [
+            "1% increased life leeched per second per equipped corrupted item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% increased mana leeched per second per equipped corrupted item": {
+        "gen": "#% increased mana leeched per second per equipped corrupted item",
+        "org": [
+            "1% increased mana leeched per second per equipped corrupted item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% increased vaal skill damage": {
+        "gen": "#% increased vaal skill damage",
+        "org": [
+            "(5 to 10)% increased vaal skill damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced character size": {
+        "gen": "#% reduced character size",
+        "org": [
+            "1% reduced character size"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% reduced chill duration on you": {
+        "gen": "#% reduced chill duration on you",
+        "org": [
+            "(3 to 5)% reduced chill duration on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced freeze duration on you": {
+        "gen": "#% reduced freeze duration on you",
+        "org": [
+            "(3 to 5)% reduced freeze duration on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced ignite duration on you": {
+        "gen": "#% reduced ignite duration on you",
+        "org": [
+            "(3 to 5)% reduced ignite duration on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced shock duration on you": {
+        "gen": "#% reduced shock duration on you",
+        "org": [
+            "(3 to 5)% reduced shock duration on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(1 to 3)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds 1-(2 to 3) chaos damage to attacks": {
+        "gen": "",
+        "org": [
+            "adds 1-(2 to 3) chaos damage to attacks"
+        ],
+        "params": []
+    },
+    "you are immune to silence": {
+        "gen": "",
+        "org": [
+            "you are immune to silence"
+        ],
+        "params": []
+    }
+}

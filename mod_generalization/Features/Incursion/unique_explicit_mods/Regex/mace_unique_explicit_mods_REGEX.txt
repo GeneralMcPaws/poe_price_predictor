@@ -1,0 +1,265 @@
+#% reduced enemy stun threshold
+#% increased physical damage
+#% reduced attack speed
+#% reduced enemy stun threshold
+#% increased stun duration on enemies
+extra gore
+#% reduced enemy stun threshold
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+#% to fire resistance
+#% to lightning resistance
+#% reduced enemy stun threshold
+# to maximum life
+# to maximum mana
+#% increased physical damage
+#% reduced movement speed
+#% increased area of effect
+#% increased area damage
+#% reduced enemy stun threshold
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% of physical attack damage leeched as life
+#% chance to cause bleeding on hit
+#% of attack damage leeched as life against bleeding enemies
+#% reduced enemy stun threshold
+adds # physical damage
+#% increased attack speed
+minions have #% increased maximum life
+minions' attacks deal # additional physical damage
+can summon up to # additional golem at a time
+grants level # summon stone golem
+#% reduced enemy stun threshold
+adds # physical damage
+adds # cold damage
+#% increased attack speed
+#% to fire resistance
+#% increased chill duration on enemies
+attacks with this weapon deal double damage to chilled enemies
+#% reduced enemy stun threshold
+#% increased physical damage
+adds # physical damage
+#% increased critical strike chance
+#% increased rarity of items dropped by frozen enemies
+#% increased cold damage with attack skills
+trigger level # icicle burst when you kill a frozen enemy
+#% reduced enemy stun threshold
+#% increased physical damage
+adds # cold damage
+#% increased critical strike chance
+#% increased cold damage with attack skills
+#% increased rarity of items dropped by frozen enemies
+#% reduced enemy stun threshold
+#% increased physical damage
+skills chain # times
+#% increased lightning damage with attack skills
+# strength requirement
+# intelligence requirement
+trigger a socketed lightning spell on hit
+socketed lightning spells deal #% increased spell damage if triggered
+#% reduced enemy stun threshold
+adds # physical damage
+#% increased physical damage
+#% reduced enemy stun threshold with this weapon
+cannot knock enemies back
+all attack damage chills when you stun
+#% reduced enemy stun threshold
+adds # physical damage
+gain #% of physical attack damage as extra fire damage
+#% to chaos resistance per endurance charge
+#% reduced elemental damage taken when hit per endurance charge
+adds # physical damage per endurance charge
+# to armour per endurance charge
+# fire damage taken per second per endurance charge if you've been hit recently
+#% increased elemental damage
+#% increased cast speed
+#% increased critical strike chance for spells
+adds # fire damage to spells
+adds # cold damage to spells
+adds # lightning damage to spells
+#% increased elemental damage
+#% increased physical damage
+#% increased damage with hits against frozen enemies
+#% increased cold damage
+#% increased attack speed
+#% increased cast speed
+#% chance to freeze
+#% increased elemental damage
+#% increased physical damage
+adds # physical damage
+#% increased fire damage
+#% increased attack speed
+#% increased critical strike chance
+adds # fire damage to attacks with this weapon per # strength
+#% increased elemental damage
+socketed gems are supported by level # hypothermia
+socketed gems are supported by level # ice bite
+socketed gems are supported by level # cold penetration
+socketed gems are supported by level # mana leech
+socketed gems are supported by level # added cold damage
+socketed gems are supported by level # reduced mana
+#% increased elemental damage
+#% increased damage
+#% global chance to blind enemies on hit
+# mana gained on kill per level
+# energy shield gained on kill per level
+cannot be blinded
+#% increased elemental damage
+# to level of socketed fire gems
+socketed gems are supported by level # fire penetration
+#% increased spell damage
+#% increased physical damage
+# life gained for each enemy hit by attacks
+#% increased light radius
+socketed gems deal # additional fire damage
+#% increased elemental damage
+#% increased physical damage
+#% increased attack speed
+# to level of socketed gems
+#% increased experience gain
+#% increased elemental damage
+#% increased intelligence requirement
+#% increased elemental damage
+adds # physical damage
+#% increased critical strike chance
+#% chance to gain a power charge when you stun
+gain unholy might for # seconds on critical strike
+#% increased elemental damage
+grants level # scorching ray skill
+#% increased cast speed
+recover #% of maximum life on kill
+recover #% of maximum mana on kill
+#% increased scorching ray beam length
+#% increased elemental damage
+adds # lightning damage to spells
+#% increased cast speed
+#% reduced mana cost of skills
+nearby enemies are hindered, with #% reduced movement speed
+#% increased damage with hits and ailments against hindered enemies
+#% increased elemental damage
+# to strength
+#% increased cast speed
+# to maximum mana
+socketed gems are supported by level # iron will
+#% increased damage per # strength when in main hand
+#% increased armour per # strength when in off hand
+#% increased elemental damage
+#% increased physical damage
+#% increased chaos damage
+#% increased area of effect
+#% increased chaos skill effect duration
+#% increased elemental damage
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+#% of physical damage converted to lightning damage
+every # seconds you gain elemental overload for # seconds
+you have resolute technique while you do not have elemental overload
+#% increased elemental damage
+#% reduced number of zombies allowed
+# to zombie maximum life
+#% increased zombie resistances
+#% increased zombie size
+enemies killed by zombies explode dealing fire damage
+zombies deal #% more physical damage
+#% increased elemental damage
+socketed gems are supported by level # elemental proliferation
+adds # physical damage
+#% increased attack speed
+#% increased cast speed
+#% increased global critical strike chance
+#% of elemental damage leeched as life
+#% increased elemental damage
+#% increased stun duration on enemies
+#% increased physical damage
+# to strength
+#% reduced enemy stun threshold
+#% of physical attack damage leeched as life
+#% increased stun duration on enemies
+#% increased stun duration on enemies
+#% increased physical damage
+adds # physical damage
+# to all attributes
+# life gained on kill
+enemies killed explode dealing #% of their life as fire damage
+#% increased stun duration on enemies
+#% increased physical damage
+adds # cold damage
+#% increased stun duration on enemies
+never deal critical strikes
+#% increased stun duration on enemies
+#% increased physical damage
+adds # physical damage
+# to strength
+#% reduced enemy stun threshold
+#% of physical attack damage leeched as life
+#% increased stun duration on enemies
+gain #% of physical damage as extra cold damage
+#% increased stun duration on enemies
+# to level of socketed melee gems
+# to level of socketed minion gems
+#% increased physical damage
+#% increased maximum mana
+minions have #% increased maximum life
+#% increased skill effect duration
+#% reduced strength requirement
+#% increased stun duration on enemies
+#% reduced attack speed
+all attacks with this weapon are critical strikes
+#% increased stun duration on enemies
+#% increased physical damage
+#% increased cast speed
+#% increased attack speed
+#% less animate weapon duration
+weapons you animate create an additional copy
+#% chance to trigger level # animate weapon on kill
+#% increased stun duration on enemies
+#% increased physical damage
+#% increased attack speed
+#% reduced rarity of items found
+#% reduced experience gain
+#% of physical attack damage leeched as mana
+#% increased stun duration on enemies
+socketed gems are supported by level # increased area of effect
+#% increased physical damage
+adds # physical damage
+#% reduced attack speed
+# to accuracy rating
+#% reduced movement speed
+#% increased stun duration on enemies
+#% increased stun duration on enemies
+trigger level # elemental warding when you hit an enemy while cursed
+#% increased physical damage
+adds # physical damage
+adds # cold damage
+#% increased stun duration on enemies
+never deal critical strikes
+#% increased stun duration on enemies
+#% increased physical damage
+adds # physical damage
+# to all attributes
+recover #% of maximum life on kill
+enemies killed explode dealing #% of their life as fire damage
+#% increased stun duration on enemies
+adds # physical damage
+#% of physical damage converted to lightning damage
+#% chance to shock
+#% chance to cause monsters to flee
+enemies you shock have #% reduced cast speed
+enemies you shock have #% reduced movement speed
+damage penetrates #% lightning resistance
+#% increased stun duration on enemies
+socketed gems are supported by level # endurance charge on melee stun
+adds # physical damage
+# to intelligence
+#% increased physical damage per endurance charge
+#% reduced enemy stun threshold with this weapon
+#% increased stun duration on enemies
+adds # physical damage
+#% increased critical strike chance
+#% to all elemental resistances
+hits can't be evaded
+your critical strikes do not deal extra damage
+you gain onslaught for # seconds on critical strike

@@ -1,0 +1,609 @@
+{
+    "# mana gained on kill": {
+        "gen": "# mana gained on kill",
+        "org": [
+            "+10 mana gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+(150-200) to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed active skill gems": {
+        "gen": "# to level of socketed active skill gems",
+        "org": [
+            "+1 to level of socketed active skill gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(90-100) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum number of skeletons": {
+        "gen": "# to maximum number of skeletons",
+        "org": [
+            "+1 to maximum number of skeletons"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum number of spectres": {
+        "gen": "# to maximum number of spectres",
+        "org": [
+            "+1 to maximum number of spectres"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum number of zombies": {
+        "gen": "# to maximum number of zombies",
+        "org": [
+            "+1 to maximum number of zombies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+2 to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "#% chance to blind enemies on critical strike": {
+        "gen": "#% chance to blind enemies on critical strike",
+        "org": [
+            "30% chance to blind enemies on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% chance to cause bleeding on critical strike": {
+        "gen": "#% chance to cause bleeding on critical strike",
+        "org": [
+            "50% chance to cause bleeding on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to ignite": {
+        "gen": "#% chance to ignite",
+        "org": [
+            "20% chance to ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased area of effect for attacks": {
+        "gen": "#% increased area of effect for attacks",
+        "org": [
+            "20% increased area of effect for attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "20% increased attack speed",
+            "(25-30)% increased attack speed",
+            "(6-12)% increased attack speed",
+            "(10-15)% increased attack speed",
+            "(5-8)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage per level": {
+        "gen": "#% increased chaos damage per level",
+        "org": [
+            "1% increased chaos damage per level"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(50-75)% increased critical strike chance",
+            "(40-50)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire damage taken": {
+        "gen": "#% increased fire damage taken",
+        "org": [
+            "10% increased fire damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased melee damage against bleeding enemies": {
+        "gen": "#% increased melee damage against bleeding enemies",
+        "org": [
+            "50% increased melee damage against bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "10% increased movement speed",
+            "5% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(80-100)% increased physical damage",
+            "(40-60)% increased physical damage",
+            "(120-150)% increased physical damage",
+            "(220-260)% increased physical damage",
+            "(160-190)% increased physical damage",
+            "(270-320)% increased physical damage",
+            "(50-70)% increased physical damage",
+            "(400-500)% increased physical damage",
+            "(50-100)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage taken": {
+        "gen": "#% increased physical damage taken",
+        "org": [
+            "10% increased physical damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased skeleton duration": {
+        "gen": "#% increased skeleton duration",
+        "org": [
+            "(150-200)% increased skeleton duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased strength requirement": {
+        "gen": "#% increased strength requirement",
+        "org": [
+            "25% increased strength requirement"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "0.6% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.6"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as mana": {
+        "gen": "#% of physical attack damage leeched as mana",
+        "org": [
+            "0.6% of physical attack damage leeched as mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.6"
+            }
+        ]
+    },
+    "adds # chaos damage": {
+        "gen": "adds # chaos damage",
+        "org": [
+            "adds (60-68) to (90-102) chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds 35 to 70 cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "35 to 70"
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (425-475) to (550-600) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (90-115) to (230-260) physical damage",
+            "adds (65-75) to (100-110) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage to attacks per level": {
+        "gen": "adds # physical damage to attacks per level",
+        "org": [
+            "adds 1 to 2 physical damage to attacks per level"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1 to 2"
+            }
+        ]
+    },
+    "cannot be frozen": {
+        "gen": "",
+        "org": [
+            "cannot be frozen"
+        ],
+        "params": []
+    },
+    "cannot leech life from critical strikes": {
+        "gen": "",
+        "org": [
+            "cannot leech life from critical strikes"
+        ],
+        "params": []
+    },
+    "culling strike against burning enemies": {
+        "gen": "",
+        "org": [
+            "culling strike against burning enemies"
+        ],
+        "params": []
+    },
+    "deal no elemental damage": {
+        "gen": "",
+        "org": [
+            "deal no elemental damage"
+        ],
+        "params": []
+    },
+    "deal no non-elemental damage": {
+        "gen": "",
+        "org": [
+            "deal no non-elemental damage"
+        ],
+        "params": []
+    },
+    "enemies you attack reflect # physical damage to you": {
+        "gen": "enemies you attack reflect # physical damage to you",
+        "org": [
+            "enemies you attack reflect 100 physical damage to you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "gain #% of weapon physical damage as extra damage of an element": {
+        "gen": "gain #% of weapon physical damage as extra damage of an element",
+        "org": [
+            "gain 300% of weapon physical damage as extra damage of an element"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "300"
+            }
+        ]
+    },
+    "gain a frenzy charge if an attack ignites an enemy": {
+        "gen": "",
+        "org": [
+            "gain a frenzy charge if an attack ignites an enemy"
+        ],
+        "params": []
+    },
+    "gain a frenzy charge on critical strike": {
+        "gen": "",
+        "org": [
+            "gain a frenzy charge on critical strike"
+        ],
+        "params": []
+    },
+    "manifest dancing dervish also manifests a copy of dancing dervish": {
+        "gen": "",
+        "org": [
+            "manifest dancing dervish also manifests a copy of dancing dervish"
+        ],
+        "params": []
+    },
+    "manifested dancing dervish dies when rampage ends": {
+        "gen": "",
+        "org": [
+            "manifested dancing dervish dies when rampage ends"
+        ],
+        "params": []
+    },
+    "manifested dancing dervish disables both weapon slots": {
+        "gen": "",
+        "org": [
+            "manifested dancing dervish disables both weapon slots"
+        ],
+        "params": []
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (10-15)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased maximum life": {
+        "gen": "minions have #% increased maximum life",
+        "org": [
+            "minions have (10-15)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased movement speed": {
+        "gen": "minions have #% increased movement speed",
+        "org": [
+            "minions have (80-100)% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "no physical damage": {
+        "gen": "",
+        "org": [
+            "no physical damage"
+        ],
+        "params": []
+    },
+    "rampage": {
+        "gen": "",
+        "org": [
+            "rampage"
+        ],
+        "params": []
+    },
+    "socketed gems are supported by level # blood magic": {
+        "gen": "socketed gems are supported by level # blood magic",
+        "org": [
+            "socketed gems are supported by level 1 blood magic"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "socketed melee gems have #% increased area of effect": {
+        "gen": "socketed melee gems have #% increased area of effect",
+        "org": [
+            "socketed melee gems have 15% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "socketed red gems get #% physical damage as extra fire damage": {
+        "gen": "socketed red gems get #% physical damage as extra fire damage",
+        "org": [
+            "socketed red gems get 10% physical damage as extra fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "triggers level # manifest dancing dervish on rampage": {
+        "gen": "triggers level # manifest dancing dervish on rampage",
+        "org": [
+            "triggers level 15 manifest dancing dervish on rampage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "your elemental damage can shock": {
+        "gen": "",
+        "org": [
+            "your elemental damage can shock"
+        ],
+        "params": []
+    },
+    "your physical damage can shock": {
+        "gen": "",
+        "org": [
+            "your physical damage can shock"
+        ],
+        "params": []
+    }
+}

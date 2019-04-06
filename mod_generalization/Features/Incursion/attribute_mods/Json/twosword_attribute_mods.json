@@ -1,0 +1,12 @@
+{
+    "influence":0,
+    "item_level" : 0,   
+    "sockets_number":0,
+    "linked_sockets":0,
+    "Quality": 0 ,
+    "Physical Damage" :0,
+    "Elemental Damage" :0,
+    "Critical Strike Chance" :0,
+    "Attacks per Second" :0,
+    "corrupted":0
+}

@@ -1,0 +1,16 @@
+{
+    "creates a smoke cloud on use": {
+        "gen": "",
+        "org": [
+            "creates a smoke cloud on use"
+        ],
+        "params": []
+    },
+    "creates consecrated ground on use": {
+        "gen": "",
+        "org": [
+            "creates consecrated ground on use"
+        ],
+        "params": []
+    }
+}

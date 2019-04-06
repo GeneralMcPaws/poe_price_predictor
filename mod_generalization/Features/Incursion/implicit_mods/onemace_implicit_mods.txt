@@ -1,0 +1,7 @@
+10% reduced Enemy Stun Threshold
+15% reduced Enemy Stun Threshold
+12% increased Elemental Damage
+14% increased Elemental Damage
+22% increased Elemental Damage
+damage penetrates (3-5)% elemental resistances
+(3-5)% increased attack speed

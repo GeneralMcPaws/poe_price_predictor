@@ -1,0 +1,10 @@
+#% to chaos resistance
+minions deal #% increased damage
+# to level of vaal gems in this item
+enemies cannot leech life from you
+when hit, #% of damage is taken from mana before life
+gems in this item are supported by level # cast when stunned
+gems in this item are supported by level # cast on crit
+grants level # wrath skill
+grants level # hatred skill
+grants level # anger skill

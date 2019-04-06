@@ -1,0 +1,172 @@
+#% increased maximum Life
+#% increased maximum Mana
+#% increased Mana Regeneration Rate
+#% increased Attack Speed while holding a Shield
+#% increased Fire Damage
+#% increased Cold Damage
+#% chance to block attack damage while holding a shield
+#% chance to block spell damage while holding a shield
+#% increased Lightning Damage
+#% increased Physical Damage
+#% increased Global Physical Damage
+#% increased Chaos Damage
+#% increased Critical Strike Chance with Fire Skills
+#% to Critical Strike Multiplier with Fire Skills
+#% increased Critical Strike Chance with Cold Skills
+#% to Critical Strike Multiplier with Cold Skills
+#% increased Critical Strike Chance with Lightning Skills
+#% to Critical Strike Multiplier with Lightning Skills
+#% increased critical strike chance with elemental skills
+#% to critical strike multiplier with elemental skills
+#% chance to block spell damage while wielding a staff
+#% of attack damage leeched as life
+damage penetrates #% fire resistance
+minions have #% increased attack speed
+minions have #% increased cast speed
+damage penetrates #% cold resistance
+#% of damage taken gained as mana over # seconds when hit
+#% of life regenerated per second
+#% reduced physical damage taken over time
+#% increased global defences
+damage penetrates #% lightning resistance
+damage penetrates #% elemental resistances
+#% increased damage with ailments
+# to armour if you've hit an enemy recently
+#% chance to avoid interruption from stuns while casting
+#% chance to gain onslaught when you use a flask
+#% chance to gain an additional vaal soul on kill
+#% of energy shield regenerated per second if you've hit an enemy recently
+# to evasion rating if hit an enemy recently
+#% increased Attack Speed while Dual Wielding
+#% chance to block attack damage while dual wielding
+# additional Block Chance with Shields
+# additional Spell Block Chance with Shields
+#% chance to block spell damage while dual wielding
+#% increased Totem Damage
+#% increased Totem Life
+#% increased Physical Damage with Axes 
+#% increased Physical Damage with Swords 
+#% increased Physical Damage with One Handed Melee Weapons 
+#% increased Melee Physical Damage while holding a Shield 
+#% increased Physical Damage with Two Handed Melee Weapons 
+#% increased Physical Damage Dual Wielding 
+#% increased Attack Speed with Axes 
+#% increased Attack Speed with Swords 
+#% increased Attack Speed with One Handed Melee Weapons 
+#% increased Attack Speed with Two Handed Melee Weapons 
+#% increased Attack Speed while Dual Wielding 
+#% increased Critical Strike Chance with One Handed Melee Weapons 
+#% to Critical Strike Multiplier with One Handed Melee Weapons
+#% increased Critical Strike Chance with Two Handed Melee Weapons 
+#% to Critical Strike Multiplier with Two Handed Melee Weapons 
+#% increased Critical Strike Chance while Dual Wielding 
+#% increased Weapon Critical Strike Chance while Dual Wielding
+#% to Critical Strike Multiplier while Dual Wielding 
+#% increased Trap Damage
+#% increased Mine Damage
+#% increased physical weapon damage while dual wielding
+#% increased Trap Throwing Speed
+#% increased Mine Laying Speed
+# additional Spell Block Chance with Staves
+#% increased Physical Damage with Maces 
+#% increased Physical Damage with Staves 
+#% increased Attack Speed with Maces 
+#% increased Attack Speed with Staves 
+#% of Physical Attack Damage Leeched as Life 
+#% increased Armour
+#% chance to block attack damage if you were damaged by a hit recently
+#% increased Damage with Poison
+#% increased Physical Damage with Bows 
+#% increased Physical Damage with Claws 
+#% increased Physical Damage with Daggers 
+#% increased Attack Speed with Bows
+#% increased Damage with Bleeding
+#% increased critical strike chance for spells
+#% increased Attack Speed with Claws 
+#% increased Attack Speed with Daggers 
+#% of Physical Attack Damage Leeched as Mana 
+#% increased Evasion Rating
+#% increased maximum Energy Shield
+#% increased Energy Shield Recharge Rate
+#% faster start of Energy Shield Recharge
+#% increased Physical Damage with Wands
+#% increased Spell Damage while wielding a Staff
+#% chance to block attack damage while wielding a staff
+#% increased Spell Damage while holding a Shield
+#% increased Minion Damage
+#% increased Attack Speed with Wands
+#% increased Cast Speed while Dual Wielding
+#% increased Cast Speed while holding a Shield
+#% increased Cast Speed while wielding a Staff
+#% increased Cast Speed with Fire Skills
+#% increased Cast Speed with Cold Skills
+#% increased Cast Speed with Lightning Skills
+# additional Block Chance with Staves
+Minions have #% increased maximum Life
+#% increased Projectile Damage
+#% increased Damage
+minions deal #% increased damage
+#% increased Damage over Time
+#% increased Area Damage
+#% increased Attack Speed
+#% increased Attack and Cast Speed
+#% increased Projectile Speed
+# to Strength
+# to Dexterity 
+# to Intelligence 
+# to Strength and Dexterity 
+# to Strength and Intelligence 
+# to Dexterity and Intelligence 
+# to all Attributes 
+#% increased Rarity of Items found 
+#% increased Global Critical Strike Chance 
+#% increased Global Critical Strike Multiplier
+#% to Global Critical Strike Multiplier
+#% increased Critical Strike Chance for Elemental Skills 
+#% increased Critical Strike Multiplier for Elemental Skills 
+#% to Fire Resistance 
+#% to Cold Resistance 
+#% to Lightning Resistance 
+#% to Fire and Cold Resistances 
+#% to Fire and Lightning Resistances 
+#% to Cold and Lightning Resistances 
+#% to all Elemental Resistances 
+#% to Chaos Resistance 
+#% increased Stun Duration on Enemies 
+#% increased Stun and Block Recovery 
+#% reduced Mana Cost of Skills 
+#% chance to Knock Enemies Back on hit 
+#% increased Freeze Duration on Enemies
+#% chance to Freeze 
+#% increased Shock Duration on Enemies
+#% chance to Shock 
+#% increased Ignite Duration on Enemies
+#% chance to Ignite 
+Totems gain #% to all Elemental Resistances 
+#% Chance to Poison
+#% chance to Poison on Hit
+#% increased Poison Duration
+#% Chance to Bleed with Attacks
+#% Increased Bleeding Duration
+#% increased Poison Damage
+#% increased Bleeding Damage
+#% increased Burning Damage
+#% increased Melee Damage 
+#% increased Melee Critical Strike Chance 
+#% increased Melee Critical Strike Multiplier
+#% to Melee Critical Strike Multiplier
+# Life gained for each Enemy hit by your Attacks
+attacks have #% chance to cause bleeding
+# Mana gained for each Enemy hit by your Attacks 
+#% increased Accuracy Rating
+#% increased Global Critical Strike Chance
+#% increased Accuracy Rating
+#% increased Global Accuracy Rating
+#% increased Spell Damage
+#% increased Cast Speed
+# Energy Shield gained for each Enemy hit by your Attacks 
+#% increased critical strike chance for spells
+#% to critical strike multiplier for spells
+minions have #% chance to block attack damage 
+Minions have #% to all Elemental Resistances 
+#% increased spell damage while dual wielding

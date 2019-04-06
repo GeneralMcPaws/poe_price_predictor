@@ -1,0 +1,68 @@
+{
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fishing line strength": {
+        "gen": "#% increased fishing line strength",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fishing range": {
+        "gen": "#% increased fishing range",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of fish found": {
+        "gen": "#% increased quantity of fish found",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of fish found": {
+        "gen": "#% increased rarity of fish found",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced fishing pool consumption": {
+        "gen": "#% reduced fishing pool consumption",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

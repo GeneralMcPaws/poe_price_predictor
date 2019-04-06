@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ml_features_template_generator", "ml_features_template_generator\ml_features_template_generator.pyproj", "{3D04D93B-CC74-41AC-9560-7BB3D67B2D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D04D93B-CC74-41AC-9560-7BB3D67B2D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D04D93B-CC74-41AC-9560-7BB3D67B2D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86391A0-C38A-4457-AC87-D2D825BF8A6D}
+	EndGlobalSection
+EndGlobal

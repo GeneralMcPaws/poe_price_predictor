@@ -1,0 +1,35 @@
+#% increased area of effect
+#% to critical strike multiplier during any flask effect
+#% increased attack speed during any flask effect
+#% increased cast speed during any flask effect
+#% increased critical strike chance during any flask effect
+#% increased skill effect duration
+#% increased maximum energy shield
+#% increased maximum life
+#% increased movement speed during any flask effect
+#% increased rarity of items found
+#% increased quantity of items found
+wrath has #% increased aura effect
+anger has #% increased aura effect
+hatred has #% increased aura effect
+determination has #% increased aura effect
+discipline has #% increased aura effect
+grace has #% increased aura effect
+#% increased intelligence
+#% increased dexterity
+#% increased dexterity
+#% increased strength
+#% increased strength
+#% increased intelligence
+#% to all elemental resistances
+#% increased strength
+#% increased intelligence
+# to maximum life
+#% increased stun and block recovery
+# to maximum life
+has # abyssal socket
+# to strength
+#% increased global physical damage
+#% increased stun duration on enemies
+# to maximum energy shield
+# to armour and evasion rating

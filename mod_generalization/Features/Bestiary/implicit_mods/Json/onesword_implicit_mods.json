@@ -1,0 +1,84 @@
+{
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+190 to accuracy rating",
+            "+240 to accuracy rating",
+            "+330 to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "20% chance to cause bleeding on hit",
+            "15% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits": {
+        "gen": "#% chance to dodge attack hits",
+        "org": [
+            "6% chance to dodge attack hits",
+            "4% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [
+            "40% increased global accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "#% increased global critical strike multiplier": {
+        "gen": "#% increased global critical strike multiplier",
+        "org": [
+            "+35% increased global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+35"
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+25% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+25"
+            }
+        ]
+    }
+}

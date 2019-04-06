@@ -1,0 +1,16 @@
+#% increased area of effect
+adds # physical damage
+adds # physical damage
+adds # physical damage
+#% increased attack speed
+#% increased physical damage
+#% increased physical damage
+resolute technique
+socketed gems are supported by level # additional accuracy
+socketed gems are supported by level # fortify
+socketed gems are supported by level # onslaught
+#% increased global accuracy rating
+#% increased global accuracy rating
+# to accuracy rating
+# to accuracy rating
+#% to global critical strike multiplier

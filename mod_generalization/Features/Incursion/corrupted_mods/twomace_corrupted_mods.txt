@@ -1,0 +1,13 @@
+(25-30)% increased Area of Effect
+Adds 1 to (2-3) Physical Damage
+Adds (4-5) to (6-8) Physical Damage
+Adds (8-9) to (11-13) Physical Damage
+(5-7)% increased Attack Speed
+(10-15)% increased Physical Damage
+(16-20)% increased Physical Damage
+Socketed Gems are Supported by Level 10 Onslaught
+(5-7)% chance to gain an Endurance Charge when you Stun an Enemy
+Socketed Gems are Supported by Level 10 Reduced Mana
+45% increased Stun Duration on Enemies
+30% increased Stun Duration on Enemies
+Socketed Gems are Supported by Level 10 Fortify

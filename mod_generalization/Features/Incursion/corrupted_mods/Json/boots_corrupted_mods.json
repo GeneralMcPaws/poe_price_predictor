@@ -1,0 +1,331 @@
+{
+    "# armour while stationary": {
+        "gen": "# armour while stationary",
+        "org": [
+            "+(139-322) armour while stationary",
+            "+(35-60) armour while stationary",
+            "+(61-138) armour while stationary"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life regenerated per second while moving": {
+        "gen": "# life regenerated per second while moving",
+        "org": [
+            "100 life regenerated per second while moving"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "# to global evasion rating while moving": {
+        "gen": "# to global evasion rating while moving",
+        "org": [
+            "+(139-322) to global evasion rating while moving",
+            "+(35-60) to global evasion rating while moving",
+            "+(61-138) to global evasion rating while moving"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed aoe gems": {
+        "gen": "# to level of socketed aoe gems",
+        "org": [
+            "+2 to level of socketed aoe gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed aura gems": {
+        "gen": "# to level of socketed aura gems",
+        "org": [
+            "+2 to level of socketed aura gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed curse gems": {
+        "gen": "# to level of socketed curse gems",
+        "org": [
+            "+2 to level of socketed curse gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed duration gems": {
+        "gen": "# to level of socketed duration gems",
+        "org": [
+            "+2 to level of socketed duration gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed gems": {
+        "gen": "# to level of socketed gems",
+        "org": [
+            "+1 to level of socketed gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of socketed projectile gems": {
+        "gen": "# to level of socketed projectile gems",
+        "org": [
+            "+2 to level of socketed projectile gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed trap or mine gems": {
+        "gen": "# to level of socketed trap or mine gems",
+        "org": [
+            "+2 to level of socketed trap or mine gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed warcry gems": {
+        "gen": "# to level of socketed warcry gems",
+        "org": [
+            "+2 to level of socketed warcry gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to maximum endurance charges": {
+        "gen": "# to maximum endurance charges",
+        "org": [
+            "+1 to maximum endurance charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "#% chance to dodge attack hits": {
+        "gen": "#% chance to dodge attack hits",
+        "org": [
+            "(4-6)% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits while moving": {
+        "gen": "#% chance to dodge attack hits while moving",
+        "org": [
+            "(6-10)% chance to dodge attack hits while moving"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge spell hits": {
+        "gen": "#% chance to dodge spell hits",
+        "org": [
+            "(4-6)% chance to dodge spell hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge spell hits while moving": {
+        "gen": "#% chance to dodge spell hits while moving",
+        "org": [
+            "(6-10)% chance to dodge spell hits while moving"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(8-10)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [
+            "(4-6)% increased maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [
+            "(4-6)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "(8-10)% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(8-16)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold and lightning resistances": {
+        "gen": "#% to cold and lightning resistances",
+        "org": [
+            "(3-5)% to cold and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and cold resistances": {
+        "gen": "#% to fire and cold resistances",
+        "org": [
+            "(3-5)% to fire and cold resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and lightning resistances": {
+        "gen": "#% to fire and lightning resistances",
+        "org": [
+            "(3-5)% to fire and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # haste skill": {
+        "gen": "grants level # haste skill",
+        "org": [
+            "grants level 21 haste skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "21"
+            }
+        ]
+    }
+}

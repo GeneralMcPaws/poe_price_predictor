@@ -1,0 +1,21 @@
+# life regenerated per second
+#% increased mana regeneration rate
+# to dexterity
+# to intelligence
+#% increased rarity of items found
+#% increased rarity of items found
+#% increased mana regeneration rate
+# to strength and dexterity
+# to strength and intelligence
+# to dexterity and intelligence
+# to all attributes
+# to strength
+has # socket
+#% increased global defences
+#% to global critical strike multiplier
+#% to fire resistance
+#% increased mana regeneration rate
+# life regenerated per second
+#% increased damage
+#% of life regenerated per second
+#% increased mana regeneration rate

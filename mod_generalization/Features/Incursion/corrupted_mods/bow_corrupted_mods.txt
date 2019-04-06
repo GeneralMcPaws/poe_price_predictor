@@ -1,0 +1,25 @@
+Bow Attacks fire an additional Arrow
+(9-11)% chance to gain a Frenzy Charge on Kill
+Adds (10-15) to (20-23) Fire Damage
+Adds (19-23) to (31-38) Cold Damage
+Adds (22-28) to (39-47) Cold Damage
+Adds (23-27) to (34-43) Fire Damage
+Adds (27-34) to (45-53) Fire Damage
+Adds (2-3) to (30-34) Lightning Damage
+Adds (3-6) to (63-72) Lightning Damage
+Adds (4-8) to (89-92) Lightning Damage
+Adds (8-11) to (17-20) Cold Damage
+Adds (4-5) to (6-8) Physical Damage
+Adds (8-9) to (11-13) Physical Damage
+Adds 1 to (2-3) Physical Damage
+Socketed Gems are Supported by Level 10 Onslaught
+(10-15)% increased Physical Damage
+(16-20)% increased Physical Damage
+(3-5)% increased Attack Speed
+Socketed Gems are supported by Level 10 Blind
+Socketed Gems are supported by Level 10 Faster Projectiles
+(20-24)% increased Elemental Damage with Attack Skills
+(30-50)% increased Critical Strike Chance
+(30-50)% increased Critical Strike Chance
+(20-24)% increased Elemental Damage with Attack Skills
+(3-5)% increased movement speed

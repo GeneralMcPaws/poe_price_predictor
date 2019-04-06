@@ -1,0 +1,279 @@
+#% increased attack speed
+#% increased cast speed
+# to maximum life
+#% reduced maximum mana
+#% chance to gain a power, frenzy or endurance charge on kill
+conduit
+adds # physical damage to attacks
+# to strength
+#% increased armour
+iron grip
+#% increased global physical damage
+# to strength
+#% increased armour
+#% of life regenerated per second with at least # strength
+# to maximum life
+#% increased projectile speed
+#% reduced movement speed
+#% chance to knock enemies back on hit
+#% increased projectile damage
+# to armour
+knockback direction is reversed
+socketed gems are supported by level # knockback
+# to intelligence
+# to maximum life
+#% increased armour
+#% increased global critical strike chance
+you have vaal pact if you've dealt a critical strike recently
+#% increased evasion and energy shield
+#% reduced trap throwing speed
+skills used by traps have #% increased area of effect
+increases and reductions to cast speed also apply to trap throwing speed
+grants level # doryani's touch skill
+# to maximum energy shield
+#% chance to shock
+adds # lightning damage to unarmed attacks
+adds # lightning damage to spells while unarmed
+# energy shield gained on killing a shocked enemy
+#% increased armour
+#% increased evasion and energy shield
+#% reduced trap throwing speed
+skills which throw traps have blood magic
+skills used by traps have #% increased area of effect
+increases and reductions to cast speed also apply to trap throwing speed
+#% chance to gain an endurance, frenzy or power charge when any of your traps are triggered by an enemy
+# life regenerated per second
+#% to fire resistance
+#% increased damage per crab barrier
+#% chance that if you would gain a crab barrier, you instead gain up to
+your maximum number of crab barriers
+#% increased attack speed
+#% increased armour
+#% increased movement speed
+#% increased stun duration on you
+#% increased melee damage per endurance charge
+you cannot be shocked while at maximum endurance charges
+# to strength
+adds # cold damage to spells and attacks
+# to evasion rating
+#% to cold resistance
+#% of physical damage converted to cold damage
+reflects # cold damage to melee attackers
+# to dexterity
+#% increased attack speed
+#% increased global critical strike chance
+#% to global critical strike multiplier
+#% increased evasion rating
+# to strength
+adds # cold damage to spells and attacks
+# to evasion rating
+#% to cold resistance
+#% of physical damage converted to cold damage
+reflects # cold damage to melee attackers
+your cold damage can ignite
+#% increased global accuracy rating
+# to maximum life
+#% to chaos resistance
+#% chance to dodge spell hits
+curse enemies with level # assassin's mark on hit
+#% increased attack critical strike chance per # accuracy rating
+adds # fire damage to attacks
+adds # lightning damage to attacks
+# to maximum energy shield
+#% increased quantity of items found
+#% increased spell damage
+# to intelligence
+#% reduced cast speed
+# to maximum energy shield
+# to intelligence
+# to maximum life
+# to maximum mana
+curse enemies with level # temporal chains on hit
+socketed gems are supported by level # faster casting
+# to intelligence
+# to maximum energy shield
+# to maximum life
+gain +2% to critical strike chance for 2 seconds when you spend a total of 800 mana
+gain +2% to critical strike chance for 2 seconds after spending a total of 800 mana
+# to level of socketed elemental gems
+#% increased critical strike chance for spells
+#% increased energy shield
+#% increased mana cost of skills
+# energy shield gained on kill
+# to strength
+# to maximum life
+#% to cold resistance
+minions have #% reduced movement speed
+minions have #% to cold resistance
+minions gain #% of physical damage as extra cold damage
+#% increased spell damage
+# to intelligence
+adds # chaos damage to spells
+#% reduced cast speed
+# to maximum energy shield
+# to total mana cost of skills
+grants level # blight skill
+#% increased damage over time
+#% increased energy shield
+#% increased area of effect
+blight has #% increased hinder duration
+you cannot be hindered
+#% increased attack speed
+#% increased armour and evasion
+# life regenerated per second
+recover #% of your maximum life on rampage
+gain # souls for vaal skills on rampage
+rampage
+# to dexterity
+#% increased attack speed
+#% increased evasion rating
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as mana
+# to level of socketed vaal gems
+#% increased armour and evasion
+# to maximum life
+#% to cold resistance
+you gain onslaught for # seconds on using a vaal skill
+#% increased armour and evasion
+#% to all elemental resistances
+#% increased rarity of items found
+#% reduced movement speed
+has # abyssal socket
+#% increased attack speed
+#% increased maximum life
+with a murderous eye jewel socketed, intimidate enemies for # seconds on hit with attacks
+with a searching eye jewel socketed, maim enemies for # seconds on hit with attacks
+has # abyssal sockets
+#% increased attack speed
+#% increased maximum life
+with a murderous eye jewel socketed, intimidate enemies for # seconds on hit with attacks
+with a searching eye jewel socketed, maim enemies for # seconds on hit with attacks
+#% increased damage over time
+# to strength
+attacks have #% chance to cause bleeding
+#% increased attack damage against bleeding enemies
+bleeding enemies you kill explode, dealing #% of their maximum life as physical damage
+#% reduced bleeding duration
+socketed gems are supported by level # concentrated effect
+#% increased armour and evasion
+# to maximum life
+#% reduced mana cost per endurance charge
+gain rampage while at maximum endurance charges
+lose all endurance charges when rampage ends
+#% increased armour and evasion
+# to maximum life
+# to accuracy against bleeding enemies
+attacks always inflict bleeding while you have cat's stealth
+#% increased damage with hits and ailments against bleeding enemies
+you have crimson dance while you have cat's stealth
+#% increased armour and evasion
+#% increased spell damage per power charge
+#% increased physical damage per endurance charge
+#% increased elemental damage per frenzy charge
+#% chance to steal power, frenzy, and endurance charges on hit
+#% increased stun and block recovery
+curses in this item are reflected back to you
+you cannot be chilled for # seconds after being chilled
+you cannot be frozen for # seconds after being frozen
+you cannot be ignited for # seconds after being ignited
+you cannot be shocked for # seconds after being shocked
+you grant # frenzy charges to allies on death
+adds # cold damage to spells and attacks
+# to maximum life
+#% to cold resistance
+#% less poison duration
+your cold damage can poison
+cold skills have #% chance to poison on hit
+adds # fire damage to spells and attacks
+# to maximum life
+#% to fire resistance
+#% less poison duration
+your fire damage can poison
+fire skills have #% chance to poison on hit
+adds # lightning damage to spells and attacks
+# to maximum life
+#% to lightning resistance
+#% less poison duration
+your lightning damage can poison
+lightning skills have #% chance to poison on hit
+adds # cold damage to attacks
+#% increased maximum life
+#% to cold resistance
+#% increased freeze duration on enemies
+your hits can only kill frozen enemies
+#% increased herald of ice damage
+# to strength
+#% increased armour and energy shield
+# to maximum life
+#% increased mana regeneration rate
+removes elemental ailments on rampage
+gain immunity to physical damage for # seconds on rampage
+rampage
+#% increased armour and energy shield
+# to maximum life
+#% to cold and lightning resistances
+# seconds to avian's might duration
+adds # cold damage while you have avian's might
+adds # lightning damage while you have avian's might
+#% reduced spell damage
+#% increased armour and energy shield
+# to maximum energy shield
+#% increased attribute requirements
+iron will
+#% increased armour and energy shield
+# accuracy rating per # intelligence
+# life per # dexterity
+# mana per # strength
+#% increased energy shield per # strength
+#% increased evasion rating per # intelligence
+#% increased melee physical damage per # dexterity
+#% increased attack speed when on full life
+adds # lightning damage to attacks
+# to accuracy rating
+#% increased movement speed when on low life
+#% to global critical strike multiplier
+#% reduced enemy stun threshold
+#% more physical damage with unarmed attacks
+extra gore
+#% increased global critical strike chance
+#% to global critical strike multiplier
+#% increased evasion and energy shield
+#% of physical attack damage leeched as mana
+creates a smoke cloud on rampage
+gain unholy might for # seconds on rampage
+rampage
+grants level # aspect of the spider skill
+#% increased evasion and energy shield
+# to maximum life
+#% increased attack and cast speed
+#% increased damage with hits and ailments against enemies affected by # spider's webs
+adds # chaos damage for each spider's web on the enemy
+socketed gems are supported by level # vile toxins
+adds # chaos damage
+# to maximum life
+#% to chaos resistance
+#% increased poison duration
+# to dexterity
+#% increased evasion and energy shield
+# to maximum life
+#% increased damage with ailments per elder item equipped
+# to maximum life per elder item equipped
+#% increased effect of non-damaging ailments per elder item equipped
+remove an ailment when you use a flask if all equipped items are elder items
+#% increased evasion rating
+# to maximum life
+#% increased attack speed per frenzy charge
+#% increased accuracy rating per frenzy charge
+#% reduced frenzy charge duration per frenzy charge
+attacks have #% chance to poison while at maximum frenzy charges
+#% increased evasion and energy shield
+# to maximum life
+# life gained on kill
+# energy shield gained on kill
+grants malachai's endurance, frenzy and power for # seconds each, in sequence
+socketed gems are supported by level # added lightning damage
+adds # lightning damage to attacks
+#% increased attack speed
+# to maximum energy shield
+#% increased shock duration on enemies
+#% increased stun duration on enemies

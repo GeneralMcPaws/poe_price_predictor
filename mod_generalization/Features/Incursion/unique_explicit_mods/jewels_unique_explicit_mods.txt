@@ -1,0 +1,415 @@
+(6-8)% increased maximum Life
+Adds 1 to Maximum Life per 3 Intelligence Allocated in Radius
+Minions have (5-10)% increased Movement Speed
+Minions have (2-5)% chance to Dodge Attack Hits
+10% increased Mana Regeneration Rate
+4% increased Movement Speed
+4% increased Attack and Cast Speed
+(4-6)% increased Dexterity
+(4-6)% increased Strength
+(15-10)% reduced Intelligence
++(16-24) to Intelligence
+Strength from Passives in Radius is Transformed to Intelligence
++(16-24) to Dexterity
+Intelligence from Passives in Radius is Transformed to Dexterity
+10% reduced Trap Duration
+Can have up to 1 additional Trap placed at a time
+(20-30)% increased Mana Regeneration Rate
+(40-60)% increased Spell Damage while no Mana is Reserved
+Traps and Mines deal (3-5) to (10-15) additional Physical Damage
+Traps and Mines have a 25% chance to Poison on Hit
+Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage
+Increases and Reductions to Cold Damage in Radius are Transformed to apply to Physical Damage
+(10-15)% increased Global Physical Damage
+With at least 40 Dexterity in Radius, Shrapnel Shot's cone has a 50% chance to deal Double Damage
+With at least 40 Dexterity in Radius, Shrapnel Shot has 25% increased Area of Effect
+2% reduced Mana Reserved
+4% increased Skill Effect Duration
+3% reduced Mana Cost of Skills
+3% chance to Avoid Elemental Ailments
+8% increased Life Recovery from Flasks
+2% chance to Dodge Attacks
+2% chance to Dodge Attack Hits
+8% increased effect of Flasks on you
+3% increased effect of Non-Curse Auras you Cast
+4% increased Effect of your Curses
+Minions have +(7-10)% to all Elemental Resistances
+With at least 40 Intelligence in Radius, Summon Skeleton can summon up to 5 Skeleton Mages
++(16-24) to Strength
+Intelligence from Passives in Radius is Transformed to Strength
+5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius
+20% increased Accuracy Rating
+3% increased Character Size
+(4-6)% increased Dexterity
+4% increased maximum Life
+3% increased Character Size
+5% increased Global Defences
+(5-7)% increased Attributes
+10% increased Damage
+3% increased Character Size
+(4-6)% increased Strength
+30% increased Global Critical Strike Chance
+3% increased Character Size
+(4-6)% increased Intelligence
+(15-20)% increased Armour
+Increases and Reductions to Energy Shield in Radius are Transformed to apply to Armour at 200% of their value
+(3-6)% increased maximum Energy Shield
+Increases and Reductions to Life in Radius are Transformed to apply to Energy Shield
++(16-24) to Intelligence
+Dexterity from Passives in Radius is Transformed to Intelligence
+(10-15)% increased Cold Damage
+With at least 40 Dexterity in Radius, Melee Damage dealt by Frost Blades Penetrates 15% Cold Resistance
+With at least 40 Dexterity in Radius, Frost Blades has 25% increased Projectile Speed
+Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage
+(7-10)% increased Projectile Damage
+With at least 40 Intelligence in Radius, Freezing Pulse fires 2 additional Projectiles
+With at least 40 Intelligence in Radius, 25% increased Freezing Pulse Damage if you've Shattered an Enemy Recently
++(16-24) to Dexterity
+Strength from Passives in Radius is Transformed to Dexterity
+Minions have (5-15)% increased maximum Life
+Minions Recover 2% of their Maximum Life when they Block
+2% of Life Regenerated per second
+10% increased Damage taken
+Summon 2 additional Skeleton Warriors with Summon Skeleton
++1 second to Summon Skeleton Cooldown
+(7-10)% increased Projectile Damage
+With at least 40 Intelligence in Radius, Frostbolt Projectiles gain 40% increased Projectile Speed per second
+With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles
+Gain 30 Mana per Grand Spectrum
+Gain 200 Armour per Grand Spectrum
+12% increased Elemental Damage per Grand Spectrum
+(8-12)% increased Damage over Time
+With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Damage with Hits and Poison for each Poison on the Enemy
+With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit
+(15-25)% increased Trap Damage
+(40-60)% increased Trap Trigger Area of Effect
+(10-15)% increased Lightning Damage
+With at least 40 Intelligence in Radius, Spark fires Projectiles in a Nova
+With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles
+(20-15)% reduced Spark Duration
+(15-20)% increased maximum Mana
+Increases and Reductions to Life in Radius are Transformed to apply to Mana at 200% of their value
+(20-25)% increased Damage for each Equipped Magic Item
+(10-15)% increased Movement Speed while Ignited
++(16-24) to Strength
+Dexterity from Passives in Radius is Transformed to Strength
+(10-15)% increased Fire Damage
+With at least 40 Intelligence in Radius, Magma Orb has 10% increased Area of Effect per Chain
+With at least 40 Intelligence in Radius, Magma Orb fires an additional Projectile
+If 4 Notables are Allocated in Radius, When you Kill a Rare monster, you gain 1 of its mods for 20 seconds
+Passives in Radius can be Allocated without being connected to your tree
+(18-25)% increased Fire Damage
+(18-25)% increased Cold Damage
+2% chance to Freeze
+2% chance to Ignite
+Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers
+5% chance to Gain Unholy Might for 4 seconds on Melee Kill
+Adds (3-5) to (8-12) Fire Attack Damage per Buff on you
+Adds (2-3) to (5-8) Fire Spell Damage per Buff on you
+(10-15)% increased Area of Effect while Unarmed
+(10-15)% increased Global Physical Damage
+With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage to surrounding targets
+With at least 40 Dexterity in Radius, Dual Strike has a 20% chance to deal Double Damage with the Main-Hand Weapon
+Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus
+50% increased Effect of non-Keystone Passive Skills in Radius
+Notable Passive Skills in Radius grant nothing
+(15-20)% increased Damage with Hits against Chilled Enemies
+With at least 40 Dexterity in Radius, Ice Shot has 25% increased Area of Effect
+With at least 40 Dexterity in Radius, Ice Shot Pierces 5 additional Targets
+(10-15)% increased Global Physical Damage
+With at least 40 Strength in Radius, Cleave grants Fortify on Hit
+With at least 40 Strength in Radius, Cleave has 3% increased Area of Effect per Nearby Enemy
+(10-15)% increased Fire Damage
+With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Tar if it does not Ignite an Enemy
+With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy
+Projectiles Pierce an additional Target
+10% increased Projectile Damage
+Golems have (16-20)% increased Attack and Cast Speed
+30% increased Effect of Buffs granted by your Golems
+Golems have +(800-1000) to Armour
+Primordial
+Golem Skills have (20-30)% increased Cooldown Recovery Speed
+Golems have (10-15)% increased Cooldown Recovery Speed
+(16-20)% increased Golem Damage for each Type of Golem you have Summoned
+Golems regenerate 2% of their Maximum Life per second
+Primordial
+(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds
+Golems Summoned in the past 8 seconds deal (35-45)% increased Damage
+Golems have (18-22)% increased Maximum Life
+Your Golems are aggressive
+Primordial
+1% increased Evasion Rating per 3 Dexterity Allocated in Radius
+1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius
+1% increased Melee Physical Damage with Unarmed Attacks per 3 Dexterity Allocated in Radius
+While your Passive Skill Tree connects to the Duelist's starting location, you gain: 1% of Attack Damage Leeched as Life
+While your Passive Skill Tree connects to the Ranger's starting location, you gain: 7% increased Movement Speed
+While your Passive Skill Tree connects to the Shadow's starting location, you gain: +0.5% to Critical Strike Chance
+While your Passive Skill Tree connects to the Witch's starting location, you gain: 0.5% of maximum Mana Regenerated per second
+While your Passive Skill Tree connects to the Templar's starting location, you gain: Damage Penetrates 5% Elemental Resistances
+While your Passive Skill Tree connects to the Scion's starting location, you gain: +25 to All Attributes
+While your Passive Skill Tree connects to the Marauder's starting location, you gain: Melee Skills have 15% increased Area of Effect
+While your Passive Skill Tree connects to a class' starting location, you gain: Marauder: Melee Skills have 15% increased Area of Effect Duelist: 1% of Attack Damage Leeched as Life Ranger: 7% increased Movement Speed Shadow: +0.5% to Critical Strike Chance Witch: 0.5% of maximum Mana Regenerated per second Templar: Damage Penetrates 5% Elemental Resistances Scion: +25 to All Attributes
+(50-30)% reduced Totem Damage
+Totems fire 2 additional Projectiles
+(8-12)% increased Global Physical Damage
+With at least 40 Strength in Radius, Ground Slam has a 25% chance to grant an Endurance Charge when you Stun an Enemy
+With at least 40 Strength in Radius, Ground Slam has a 50% increased angle
+20% of Block Chance applied to Spells
+(2-4)% additional Block Chance
+(7-10)% additional Chance to receive a Critical Strike
+(10-15)% increased Global Physical Damage
+With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a Nova
+With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles
+(10-15)% increased Fire Damage
+With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel farther, up to +4 Radius
+With at least 40 Intelligence in Radius, Fireball Projectiles gain Area as they travel farther, up to 50% increased Area of Effect
+(10-15)% increased Cold Damage
+With at least 40 Strength in Radius, 20% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer
++2 to maximum number of Spectres
+(50-40)% reduced Mana Cost of Raise Spectre
+Spectres have (800-1000)% increased Critical Strike Chance
+Spectres have a Base Duration of 20 seconds Spectres do not travel between Areas
+3% increased Totem Life per 10 Strength Allocated in Radius
+Totems cannot be Stunned
+Minions deal (8-12)% increased Damage
+With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 8 Ranged Weapons
+(10-15)% increased Cold Damage
+With at least 40 Dexterity in Radius, Melee Damage dealt by Frost Blades Penetrates 15% Cold Resistance
+With at least 40 Dexterity in Radius, Frost Blades has 25% increased Projectile Speed
+(7-10)% increased maximum Mana
+With at least 40 Intelligence in Radius, 10% of Damage taken gained as Mana over 4 seconds when Hit during Rallying Cry for you and Allies
+(7-13)% increased Chaos Damage
+With at least 40 Intelligence in Radius, Enemies Hindered by Blight take 25% increased Chaos Damage
+With at least 40 Intelligence in Radius, Blight has 50% increased Hinder Duration
+Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius
+-1 Strength per 1 Strength on Allocated Passives in Radius
+1% additional Physical Damage Reduction per 10 Strength on Allocated Passives in Radius
++5% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
+Adds 1 to 2 Lightning Damage to Attacks
+-1 Strength per 1 Strength on Allocated Passives in Radius
+-1 Intelligence per 1 Intelligence on Allocated Passives in Radius
+0.4% of Energy Shield Regenerated per Second for every 10 Intelligence on Allocated Passives in Radius
++100 to Accuracy Rating per 10 Intelligence on Unallocated Passives in Radius
+-1 Dexterity per 1 Dexterity on Allocated Passives in Radius
+2% increased Movement Speed per 10 Dexterity on Allocated Passives in Radius
++15 to Maximum Mana per 10 Dexterity on Unallocated Passives in Radius
+1% additional Physical Damage Reduction per 10 Strength on Allocated Passives in Radius
++5% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
+(7-10)% increased Projectile Damage
+With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 5% increased Damage each time it Hits
+(10-15)% increased Fire Damage
+With at least 40 Dexterity in Radius, Burning Arrow can inflict an additional Ignite on an Enemy
++20 to Dexterity
++6% to all Elemental Resistances
+3 Mana Regenerated per second
+10% increased Elemental Damage
+10% increased Global Physical Damage
++50 to Armour
+Can Summon up to 1 additional Golem at a time
+If you have 3 Primordial Jewels, can Summon up to 1 additional Golem at a time
+Gain 5% of Lightning Damage as Extra Chaos Damage
+Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill
+Gain 5% of Lightning Damage as Extra Chaos Damage
+Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant Chance to Block Spells at 35% of its value
+Passives granting Lightning Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Power Charge on Kill
+(30-40)% increased Armour while Bleeding
+Bleeding you inflict is Reflected to you
++1% to Chaos Resistance per Poison on you
+Poison you inflict is Reflected to you
+Gain 5% of Cold Damage as Extra Chaos Damage
+Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill
+Gain 5% of Cold Damage as Extra Chaos Damage
+Passives granting Cold Resistance or all Elemental Resistances in Radius also grant Chance to Dodge Attack Hits at 35% of its value
+Passives granting Cold Resistance or all Elemental Resistances in Radius also grant an equal chance to gain a Frenzy Charge on Kill
+(10-15)% increased Cold Damage
+With 40 Intelligence in Radius, Glacial Cascade has an additional Burst
+With 40 Intelligence in Radius, 20% of Glacial Cascade Physical Damage Converted to Cold Damage
+Gain 5% of Fire Damage as Extra Chaos Damage
+Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill
+Gain 5% of Fire Damage as Extra Chaos Damage
+Passives granting Fire Resistance or all Elemental Resistances in Radius also grant Chance to Block at 35% of its value
+Passives granting Fire Resistance or all Elemental Resistances in Radius also grant an equal chance to gain an Endurance Charge on Kill
+(10-15)% increased Armour
+With at least 40 Strength in Radius, Vigilant Strike Fortifies you and Nearby Allies for 12 seconds
+Minions deal (8-12)% increased Damage
+(3-5)% increased Skeleton Movement Speed
+(7-10)% increased Skeleton Attack Speed
+(7-10)% increased Skeleton Cast Speed
+(20-10)% reduced Skeleton Duration
+Minions have (6-8)% increased Area of Effect
+With at least 40 Intelligence in Radius, Raised Spectres have a 50% chance to gain Soul Eater for 30 seconds on Kill
+(8-12)% Chance for Traps to Trigger an additional time
+Minions deal (10-15)% increased Damage
+With at least 40 Intelligence in Radius, Raised Zombies' Slam Attack has 100% increased Cooldown Recovery Speed
+With at least 40 Intelligence in Radius, Raised Zombies' Slam Attack deals 30% increased Damage
+(7-10)% increased Projectile Damage
+With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles simultaneously on the first and final attacks
+8% increased Attack Damage
++1 to Melee Weapon and Unarmed Attack range
+(4-6)% increased maximum Energy Shield
+(4-6)% increased maximum Life
+(4-6)% increased maximum Mana
+<Two or Three random aura modifiers>
+(8-12)% increased Global Physical Damage
+With at least 40 Strength in Radius, Heavy Strike has a  20% chance to deal Double Damage
+(10-15)% increased Fire Damage
+With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles
+With at least 40 Strength in Radius, Molten Strike has 25% increased Area of Effect
+(10-15)% increased Cold Damage
+With at least 40 Strength in Radius, Glacial Hammer deals Cold-only Splash Damage to surrounding targets
+With at least 40 Strength in Radius, 25% of Glacial Hammer Physical Damage Converted to Cold Damage
+(10-15)% increased Cold Damage
+With at least 40 Intelligence in Radius, Cold Snap has a 50% chance to grant a Power Charge on Kill
+(10-15)% increased Cold Damage
+With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of Frenzy Charges when Enemies die in it's Area With at least 40 Intelligence in Radius, Cold Snap Cooldown can be bypassed by Power Charges instead of Frenzy Charges
+60% reduced Mana Cost of Totem Skills that cast an Aura
+Corrupted
+(15-20)% increased Vaal Skill Effect Duration
+Corrupted
+1% of maximum Mana gained on Kill
+Removes 1% of maximum Life on Kill
+Removes 1% of maximum Energy Shield on Kill
+Corrupted
+20% faster start of Energy Shield Recharge
+10% increased Damage taken while on Full Energy Shield
+Corrupted
+50% chance to gain an additional Vaal Soul per Enemy Shattered
+Corrupted
+10% reduced Quantity of Items found
+(20-30)% increased Burning Damage
+Corrupted
+With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield, and 50% of Physical Damage bypasses Energy Shield
+Corrupted
+(20-30)% increased Spell Damage
+100% increased Mana Cost of Skills
+Corrupted
+-1 to Maximum Endurance Charges
+Corrupted
+With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead
+Corrupted
+10% increased Experience Gain for Corrupted Gems
+Corrupted
+-1 to Maximum Frenzy Charges
+Corrupted
+-1 to Maximum Power Charges
+Corrupted
+(20-30)% chance to gain an additional Vaal Soul on Kill
+Corrupted
+(10-20)% increased Damage per Curse on you
+You can have one additional Curse
+Corrupted
+(80-120)% increased Vaal Skill Critical Strike Chance
+Corrupted
+(15-20)% increased Chaos Damage
+15% reduced Movement Speed
+Corrupted
+20% increased Global Accuracy Rating
+3% increased Character Size
+(4-6)% increased Dexterity
+4% increased maximum Life
+3% increased Character Size
+5% increased Global Defences
+(5-7)% increased Attributes
+10% increased Damage
+3% increased Character Size
+(4-6)% increased Strength
+30% increased Global Critical Strike Chance
+3% increased Character Size
+(4-6)% increased Intelligence
+If at least 70 Intelligence is Allocated within the Radius, Enemies can have an additional Curse
+Passives in Radius apply to Minions instead of you
+Recover 2% of your Maximum Life when you Consume or Destroy a Corpse
+If at least 70 Dexterity is Allocated in Radius, gain 5% of Physical Damage as Extra Chaos Damage
+(20-30)% increased Spell Damage while your Energy Shield is Full
+5% chance to Dodge Spell Damage while your Energy Shield is Full
+Adds (3-5) to (8-12) Physical Damage per Buff on you
++3 Life gained for each Elemental Ailment on Enemies hit by your Attacks
++3 Life gained for each Elemental Ailment on Enemies hit by your Spells
+4% increased Attributes per allocated Keystone
+(10-15)% increased Life Regeneration rate when on full Energy Shield
+(15-25)% increased Spell Damage while not on Low Mana
+10% reduced Mana Cost while not on Low Mana
++4 Intelligence for each Unallocated Passive in Radius
+If at least 70 Strength is Allocated in Radius, 15% increased Life Recovery rate
+(20-10)% reduced Life Leeched per second
+(25-30)% increased Damage while Leeching
+With 5 Corrupted Items Equipped: Gain Soul Eater for 10 seconds on Vaal Skill use
+Corrupted
++4 to Unarmed Range
+Elemental Hit deals (10-15)% increased Damage
+With 40 total Intelligence and Dexterity in Radius, Elemental Hit cannot choose Fire
+Elemental Hit deals (10-15)% increased Damage
+With 40 total Strength and Intelligence in Radius, Elemental Hit cannot choose Cold
+Elemental Hit deals (10-15)% increased Damage
+With 40 total Dexterity and Strength in Radius, Elemental Hit cannot choose Lightning
+(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+Damage Penetrates (10-15)% Fire Resistance while affected by Anger
++(30-50)% to Critical Strike Multiplier while affected by Anger
+(40-60)% increased Fire Damage while affected by Anger
+Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+(6-10)% of Damage taken from Mana before Life while affected by Clarity
+(15-20)% of Damage taken gained as Mana over 4 seconds when Hit while affected by Clarity
+Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+(20-30)% increased Mana Recovery Rate while affected by Clarity
+(10-15)% chance to Recover 10% of Maximum Mana when you use a Skill while affected by Clarity
+-(10-5) to Total Mana Cost of Skills while affected by Clarity
++(600-1000) to Armour while affected by Determination
+(5-8)% chance to Block while affected by Determination
+(5-8)% additional Physical Damage Reduction while affected by Determination
+You take (60-40)% reduced Extra Damage from Critical Strikes while affected by Determination
+(50-40)% reduced Reflected Physical Damage taken while affected by Determination
+Unaffected by Vulnerability while affected by Determination
+(5-8)% chance to Block Spells while affected by Discipline
++(20-30) Energy Shield gained for each Enemy Hit while affected by Discipline
+(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+(1.5-2.5)% of Maximum Energy Shield Regenerated per Second while affected by Discipline
+(30-40)% faster start of Energy Shield Recharge while affected by Discipline
++(5-8)% chance to Evade Attacks while affected by Grace
+(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+(6-10)% chance to Dodge Attack Hits while affected by Grace
+(10-15)% increased Movement Speed while affected by Grace
+Unaffected by Enfeeble while affected by Grace
+(5-8)% chance to Dodge Spell Hits while affected by Haste
+(30-50)% increased cooldown recovery speed of Movement Skills used while affected by Haste
+Debuffs on you expire (20-15)% faster while affected by Haste
+You gain Onslaught for 4 seconds on Kill while affected by Haste
+You have Phasing while affected by Haste
+Unaffected by Temporal Chains while affected by Haste
+Adds (58-70) to (88-104) Cold Damage while affected by Hatred
++(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+(40-60)% increased Cold Damage while affected by Hatred
+(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
++(30-50)% to Chaos Resistance while affected by Purity of Elements
+(50-40)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+Unaffected by Elemental Weakness while affected by Purity of Elements
+Immune to Ignite while affected by Purity of Fire
+(50-40)% reduced Reflected Fire Damage taken while affected by Purity of Fire
+(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+Unaffected by Burning Ground while affected by Purity of Fire
+Unaffected by Flammability while affected by Purity of Fire
+Immune to Freeze while affected by Purity of Ice
+(50-40)% reduced Reflected Cold Damage taken while affected by Purity of Ice
+(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+Unaffected by Chilled Ground while affected by Purity of Ice
+Unaffected by Frostbite while affected by Purity of Ice
+Immune to Shock while affected by Purity of Lightning
+(50-40)% reduced Reflected Lightning Damage taken while affected by Purity of Lightning
+(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+Unaffected by Conductivity while affected by Purity of Lightning
+Unaffected by Shocked Ground while affected by Purity of Lightning
+(1-1.5)% of Damage leeched as Life while affected by Vitality
+(100-140) Life Regenerated per Second while affected by Vitality
++(20-30) Life gained for each Enemy Hit while affected by Vitality
+(50-70)% increased Life Recovery from Flasks while affected by Vitality
+(20-30)% increased Life Recovery Rate while affected by Vitality
+(70-100)% increased Critical Strike Chance while affected by Wrath
+(40-60)% increased Lightning Damage while affected by Wrath
+(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath

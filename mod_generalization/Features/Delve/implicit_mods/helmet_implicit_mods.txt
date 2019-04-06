@@ -1,0 +1,10 @@
++(2 to 4)% to Chaos Resistance															
+Minions deal (15 to 20)% increased Damage															
++(1 to 2) to Level of Vaal Gems in this item																			
+Enemies Cannot Leech Life From You																				
+When Hit, (3 to 5)% of Damage is taken from Mana before Life																				
+Gems in this item are supported by level 12 Cast when Stunned																				
+Gems in this item are supported by level 12 Cast On Crit																				
+Grants level 7 Wrath Skill																				
+Grants level 11 Hatred Skill																				
+Grants level 15 Anger Skill

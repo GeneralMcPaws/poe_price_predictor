@@ -1,0 +1,22 @@
+#% chance to gain a frenzy charge on kill
+#% chance to gain a power charge on critical strike
+adds # cold damage
+adds # fire damage
+adds # cold damage
+adds # lightning damage
+adds # fire damage
+adds # lightning damage
+adds # lightning damage
+adds # cold damage
+adds # fire damage
+#% increased attack speed
+#% to global critical strike multiplier
+#% chance to gain unholy might for # seconds on kill
+#% increased critical strike chance
+#% increased damage over time
+#% increased spell damage
+adds # chaos damage
+adds # chaos damage
+adds # chaos damage
+#% increased global critical strike chance
+#% increased global critical strike chance

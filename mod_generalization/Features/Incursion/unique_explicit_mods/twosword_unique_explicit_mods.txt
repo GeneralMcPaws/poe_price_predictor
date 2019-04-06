@@ -1,0 +1,86 @@
+(80-100)% increased Physical Damage
+Adds 35 to 70 Cold Damage
+0.6% of Physical Attack Damage Leeched as Mana
+Cannot be Frozen
++1 to Level of Socketed Active Skill Gems
+(40-60)% increased Physical Damage
+Adds (60-68) to (90-102) Chaos Damage
+1% increased Chaos Damage per Level
+Adds 1 to 2 Physical Damage to Attacks per Level
+Minions have (10-15)% increased maximum Life
+(150-200)% increased Skeleton Duration
+Minions deal (10-15)% increased Damage
++1 to maximum number of Zombies
++1 to maximum number of Skeletons
++1 to maximum number of Spectres
+25% increased Strength Requirement
+Minions have (10-15)% increased maximum Life
+Minions have (80-100)% increased Movement Speed
+(150-200)% increased Skeleton Duration
+Minions deal (10-15)% increased Damage
++1 to maximum number of Zombies
++1 to maximum number of Skeletons
++1 to maximum number of Spectres
+25% increased Strength Requirement
+(120-150)% increased Physical Damage
+20% increased Attack Speed
++(150-200) to Accuracy Rating
+10% increased Movement Speed
+(220-260)% increased Physical Damage
+20% increased Attack Speed
+(50-75)% increased Critical Strike Chance
++10 Mana gained on Kill
+10% increased Movement Speed
+Gain a Frenzy Charge on Critical Strike
+Socketed Gems are Supported by Level 1 Blood Magic
+Adds (90-115) to (230-260) Physical Damage
+(40-50)% increased Critical Strike Chance
+Enemies you Attack Reflect 100 Physical Damage to you
++2 to Weapon range
+(160-190)% increased Physical Damage
+(25-30)% increased Attack Speed
+5% increased Movement Speed
+Rampage
+Triggers Level 15 Manifest Dancing Dervish on Rampage
+Manifested Dancing Dervish disables both weapon slots
+Manifested Dancing Dervish dies when Rampage ends
+(270-320)% increased Physical Damage
+0.6% of Physical Attack Damage Leeched as Life
+50% increased Melee Damage against Bleeding Enemies
+Cannot Leech Life from Critical Strikes
+30% chance to Blind Enemies on Critical Strike
+50% chance to cause Bleeding on Critical Strike
+Socketed Melee Gems have 15% increased Area of Effect
+Socketed Red Gems get 10% Physical Damage as Extra Fire Damage
+(50-70)% increased Physical Damage
+Adds (65-75) to (100-110) Physical Damage
+(6-12)% increased Attack Speed
+(160-190)% increased Physical Damage
+(25-30)% increased Attack Speed
+5% increased Movement Speed
+Rampage
+Triggers Level 15 Manifest Dancing Dervish on Rampage
+Manifested Dancing Dervish disables both weapon slots
+Manifested Dancing Dervish dies when Rampage ends
+Manifest Dancing Dervish also manifests a copy of Dancing Dervish
+No Physical Damage
+Adds (425-475) to (550-600) Fire Damage
+(10-15)% increased Attack Speed
+20% chance to Ignite
+10% increased Physical Damage taken
+10% increased Fire Damage taken
+Culling Strike against Burning Enemies
+Gain a Frenzy Charge if an Attack Ignites an Enemy
+(400-500)% increased Physical Damage
+(5-8)% increased Attack Speed
++(90-100) to maximum Life
+20% increased Area of Effect for Attacks
+Deal no Elemental Damage
+Your Physical Damage can Shock
+(50-100)% increased Physical Damage
+(5-8)% increased Attack Speed
++(90-100) to maximum Life
+Your Elemental Damage can Shock
+Gain 300% of Weapon Physical Damage as Extra Damage of an Element
+20% increased Area of Effect for Attacks
+Deal no Non-Elemental Damage

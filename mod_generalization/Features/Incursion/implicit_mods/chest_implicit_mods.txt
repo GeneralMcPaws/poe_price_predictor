@@ -1,0 +1,6 @@
+3% reduced Movement Speed
+5% reduced Movement Speed
++(8-12)% to all Elemental Resistances
+(3-10)% increased Spell Damage
++(20-25) to maximum Mana
+3% increased Movement Speed

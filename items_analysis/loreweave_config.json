@@ -1,0 +1,48 @@
+{
+    "data": {
+        "filename": "C:/Users/Digi/Desktop/poe_price_predictor/record_creator/record_creator/csv/unique/loreweave_values.csv",
+        "outliers":{
+            "method":"IQR",
+            "threshold":2,
+            "high_quantile":0.7
+        },
+        "no_of_features":10,
+        "corr_threshold":0.15,
+        "lag": 24,
+        "forecasted_seq":1,
+        "train_test_split": 0.9,
+        "interpolation_config_filename":"interpolation_config.json",
+        "feature_selection":true
+    },
+    "training": {
+        "epochs": 1000,
+        "batch_size": 5
+    },
+    "model": {
+        "loss": "mse",
+        "optimizer": "adam",
+        "layers": [
+            {
+                "type": "lstm",
+                "neurons": 10,
+                "input_timesteps": 24,
+                "input_dim": 2,
+                "return_seq": true
+            },
+            {
+                "type": "lstm",
+                "neurons": 5,
+                "return_seq": false
+            },
+            {
+                "type": "Dropout",
+                "rate": 0.05
+            },
+            {
+                "type": "dense",
+                "neurons": 1,
+                "activation": "linear"
+            }
+        ]
+    }
+}

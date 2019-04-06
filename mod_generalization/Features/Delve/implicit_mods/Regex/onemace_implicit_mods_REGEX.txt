@@ -1,0 +1,8 @@
+#% reduced enemy stun threshold
+#% reduced enemy stun threshold
+#% increased elemental damage
+#% increased elemental damage
+#% increased elemental damage
+damage penetrates #% elemental resistances
+damage penetrates #% elemental resistances
+#% increased attack speed

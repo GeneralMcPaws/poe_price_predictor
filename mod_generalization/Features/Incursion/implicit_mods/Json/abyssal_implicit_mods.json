@@ -1,0 +1,121 @@
+{
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(4-5)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage": {
+        "gen": "#% increased damage",
+        "org": [
+            "(4-5)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of non-damaging ailments on enemies": {
+        "gen": "#% increased effect of non-damaging ailments on enemies",
+        "org": [
+            "(5-7)% increased effect of non-damaging ailments on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "(8-10)% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vaal skill damage": {
+        "gen": "#% increased vaal skill damage",
+        "org": [
+            "(5-10)% increased vaal skill damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced mana reserved": {
+        "gen": "#% reduced mana reserved",
+        "org": [
+            "1% reduced mana reserved"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "corrupted blood cannot be inflicted on you": {
+        "gen": "",
+        "org": [
+            "corrupted blood cannot be inflicted on you"
+        ],
+        "params": []
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (4-5)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "you cannot be cursed with silence": {
+        "gen": "",
+        "org": [
+            "you cannot be cursed with silence"
+        ],
+        "params": []
+    },
+    "you cannot be hindered": {
+        "gen": "",
+        "org": [
+            "you cannot be hindered"
+        ],
+        "params": []
+    },
+    "you cannot be maimed": {
+        "gen": "",
+        "org": [
+            "you cannot be maimed"
+        ],
+        "params": []
+    }
+}

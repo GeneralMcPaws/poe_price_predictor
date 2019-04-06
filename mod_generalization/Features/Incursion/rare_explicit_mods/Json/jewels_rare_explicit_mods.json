@@ -1,0 +1,1718 @@
+{
+    "# additional block chance with shields": {
+        "gen": "# additional block chance with shields",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# additional block chance with staves": {
+        "gen": "# additional block chance with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# additional spell block chance with shields": {
+        "gen": "# additional spell block chance with shields",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# additional spell block chance with staves": {
+        "gen": "# additional spell block chance with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# energy shield gained for each enemy hit by your attacks": {
+        "gen": "# energy shield gained for each enemy hit by your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life gained for each enemy hit by your attacks": {
+        "gen": "# life gained for each enemy hit by your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana gained for each enemy hit by your attacks": {
+        "gen": "# mana gained for each enemy hit by your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to all attributes": {
+        "gen": "# to all attributes",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to dexterity": {
+        "gen": "# to dexterity",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to dexterity and intelligence": {
+        "gen": "# to dexterity and intelligence",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength and dexterity": {
+        "gen": "# to strength and dexterity",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength and intelligence": {
+        "gen": "# to strength and intelligence",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional block chance while dual wielding": {
+        "gen": "#% additional block chance while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to block spells while dual wielding": {
+        "gen": "#% additional chance to block spells while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to block spells with shields": {
+        "gen": "#% additional chance to block spells with shields",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to block spells with staves": {
+        "gen": "#% additional chance to block spells with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to block with staves": {
+        "gen": "#% additional chance to block with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to bleed with attacks": {
+        "gen": "#% chance to bleed with attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block attack damage if you were damaged by a hit recently": {
+        "gen": "#% chance to block attack damage if you were damaged by a hit recently",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block attack damage while dual wielding": {
+        "gen": "#% chance to block attack damage while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block attack damage while holding a shield": {
+        "gen": "#% chance to block attack damage while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block attack damage while wielding a staff": {
+        "gen": "#% chance to block attack damage while wielding a staff",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block spell damage while dual wielding": {
+        "gen": "#% chance to block spell damage while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block spell damage while holding a shield": {
+        "gen": "#% chance to block spell damage while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block with shields": {
+        "gen": "#% chance to block with shields",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to freeze": {
+        "gen": "#% chance to freeze",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to ignite": {
+        "gen": "#% chance to ignite",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to knock enemies back on hit": {
+        "gen": "#% chance to knock enemies back on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to poison": {
+        "gen": "#% chance to poison",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to poison on hit": {
+        "gen": "#% chance to poison on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to shock": {
+        "gen": "#% chance to shock",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% faster start of energy shield recharge": {
+        "gen": "#% faster start of energy shield recharge",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased accuracy rating": {
+        "gen": "#% increased accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased area damage": {
+        "gen": "#% increased area damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased armour": {
+        "gen": "#% increased armour",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack and cast speed": {
+        "gen": "#% increased attack and cast speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed while dual wielding": {
+        "gen": "#% increased attack speed while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed while holding a shield": {
+        "gen": "#% increased attack speed while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with axes": {
+        "gen": "#% increased attack speed with axes",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with bows": {
+        "gen": "#% increased attack speed with bows",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with claws": {
+        "gen": "#% increased attack speed with claws",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with daggers": {
+        "gen": "#% increased attack speed with daggers",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with maces": {
+        "gen": "#% increased attack speed with maces",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with one handed melee weapons": {
+        "gen": "#% increased attack speed with one handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with staves": {
+        "gen": "#% increased attack speed with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with swords": {
+        "gen": "#% increased attack speed with swords",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with two handed melee weapons": {
+        "gen": "#% increased attack speed with two handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with wands": {
+        "gen": "#% increased attack speed with wands",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bleeding damage": {
+        "gen": "#% increased bleeding damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bleeding duration": {
+        "gen": "#% increased bleeding duration",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased burning damage": {
+        "gen": "#% increased burning damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed while dual wielding": {
+        "gen": "#% increased cast speed while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed while holding a shield": {
+        "gen": "#% increased cast speed while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed while wielding a staff": {
+        "gen": "#% increased cast speed while wielding a staff",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed with cold skills": {
+        "gen": "#% increased cast speed with cold skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed with fire skills": {
+        "gen": "#% increased cast speed with fire skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed with lightning skills": {
+        "gen": "#% increased cast speed with lightning skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage": {
+        "gen": "#% increased chaos damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold damage": {
+        "gen": "#% increased cold damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance for elemental skills": {
+        "gen": "#% increased critical strike chance for elemental skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance for spells": {
+        "gen": "#% increased critical strike chance for spells",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance while dual wielding": {
+        "gen": "#% increased critical strike chance while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with cold skills": {
+        "gen": "#% increased critical strike chance with cold skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with elemental skills": {
+        "gen": "#% increased critical strike chance with elemental skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with fire skills": {
+        "gen": "#% increased critical strike chance with fire skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with lightning skills": {
+        "gen": "#% increased critical strike chance with lightning skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with one handed melee weapons": {
+        "gen": "#% increased critical strike chance with one handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance with two handed melee weapons": {
+        "gen": "#% increased critical strike chance with two handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike multiplier for elemental skills": {
+        "gen": "#% increased critical strike multiplier for elemental skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage": {
+        "gen": "#% increased damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage over time": {
+        "gen": "#% increased damage over time",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with bleeding": {
+        "gen": "#% increased damage with bleeding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with poison": {
+        "gen": "#% increased damage with poison",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased energy shield recharge rate": {
+        "gen": "#% increased energy shield recharge rate",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased evasion rating": {
+        "gen": "#% increased evasion rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire damage": {
+        "gen": "#% increased fire damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased freeze duration on enemies": {
+        "gen": "#% increased freeze duration on enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike multiplier": {
+        "gen": "#% increased global critical strike multiplier",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global physical damage": {
+        "gen": "#% increased global physical damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ignite duration on enemies": {
+        "gen": "#% increased ignite duration on enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning damage": {
+        "gen": "#% increased lightning damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mana regeneration rate": {
+        "gen": "#% increased mana regeneration rate",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum mana": {
+        "gen": "#% increased maximum mana",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee critical strike chance": {
+        "gen": "#% increased melee critical strike chance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee critical strike multiplier": {
+        "gen": "#% increased melee critical strike multiplier",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee damage": {
+        "gen": "#% increased melee damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee physical damage while holding a shield": {
+        "gen": "#% increased melee physical damage while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mine damage": {
+        "gen": "#% increased mine damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mine laying speed": {
+        "gen": "#% increased mine laying speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased minion damage": {
+        "gen": "#% increased minion damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage dual wielding": {
+        "gen": "#% increased physical damage dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with axes": {
+        "gen": "#% increased physical damage with axes",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with bows": {
+        "gen": "#% increased physical damage with bows",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with claws": {
+        "gen": "#% increased physical damage with claws",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with daggers": {
+        "gen": "#% increased physical damage with daggers",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with maces": {
+        "gen": "#% increased physical damage with maces",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with one handed melee weapons": {
+        "gen": "#% increased physical damage with one handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with staves": {
+        "gen": "#% increased physical damage with staves",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with swords": {
+        "gen": "#% increased physical damage with swords",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with two handed melee weapons": {
+        "gen": "#% increased physical damage with two handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage with wands": {
+        "gen": "#% increased physical damage with wands",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical weapon damage while dual wielding": {
+        "gen": "#% increased physical weapon damage while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased poison damage": {
+        "gen": "#% increased poison damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased poison duration": {
+        "gen": "#% increased poison duration",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile damage": {
+        "gen": "#% increased projectile damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile speed": {
+        "gen": "#% increased projectile speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of items found": {
+        "gen": "#% increased rarity of items found",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shock duration on enemies": {
+        "gen": "#% increased shock duration on enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while dual wielding": {
+        "gen": "#% increased spell damage while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while holding a shield": {
+        "gen": "#% increased spell damage while holding a shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while wielding a staff": {
+        "gen": "#% increased spell damage while wielding a staff",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun and block recovery": {
+        "gen": "#% increased stun and block recovery",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun duration on enemies": {
+        "gen": "#% increased stun duration on enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased totem damage": {
+        "gen": "#% increased totem damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased totem life": {
+        "gen": "#% increased totem life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased trap damage": {
+        "gen": "#% increased trap damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased trap throwing speed": {
+        "gen": "#% increased trap throwing speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased weapon critical strike chance while dual wielding": {
+        "gen": "#% increased weapon critical strike chance while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as mana": {
+        "gen": "#% of physical attack damage leeched as mana",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced mana cost of skills": {
+        "gen": "#% reduced mana cost of skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold and lightning resistances": {
+        "gen": "#% to cold and lightning resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold resistance": {
+        "gen": "#% to cold resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier for spells": {
+        "gen": "#% to critical strike multiplier for spells",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier while dual wielding": {
+        "gen": "#% to critical strike multiplier while dual wielding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with cold skills": {
+        "gen": "#% to critical strike multiplier with cold skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with elemental skills": {
+        "gen": "#% to critical strike multiplier with elemental skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with fire skills": {
+        "gen": "#% to critical strike multiplier with fire skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with lightning skills": {
+        "gen": "#% to critical strike multiplier with lightning skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with one handed melee weapons": {
+        "gen": "#% to critical strike multiplier with one handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier with two handed melee weapons": {
+        "gen": "#% to critical strike multiplier with two handed melee weapons",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and cold resistances": {
+        "gen": "#% to fire and cold resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and lightning resistances": {
+        "gen": "#% to fire and lightning resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire resistance": {
+        "gen": "#% to fire resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to lightning resistance": {
+        "gen": "#% to lightning resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to melee critical strike multiplier": {
+        "gen": "#% to melee critical strike multiplier",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "attacks have #% chance to cause bleeding": {
+        "gen": "attacks have #% chance to cause bleeding",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% chance to block": {
+        "gen": "minions have #% chance to block",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% chance to block attack damage": {
+        "gen": "minions have #% chance to block attack damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased maximum life": {
+        "gen": "minions have #% increased maximum life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% to all elemental resistances": {
+        "gen": "minions have #% to all elemental resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "totems gain #% to all elemental resistances": {
+        "gen": "totems gain #% to all elemental resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

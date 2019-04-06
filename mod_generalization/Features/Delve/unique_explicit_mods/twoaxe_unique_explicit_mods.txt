@@ -1,0 +1,94 @@
++1 to Level of Socketed Strength Gems
+(80-100)% increased Physical Damage
+Adds 5 to 10 Physical Damage
++(15-30) to Strength
+Culling Strike
+Socketed Gems are Supported by Level 20 Increased Area of Effect
+(120-160)% increased Physical Damage
++10 to Strength
++(50-80) to Accuracy Rating
++10 Mana gained on Kill
++2 to Weapon range
+(100-125)% increased Physical Damage
++10 Life gained on Kill
+(30-40)% increased Rarity of Items found
+15% increased Movement Speed when on Full Life
+Culling Strike
+Hits can't be Evaded
+(120-140)% increased Physical Damage
+1.2% of Damage Leeched as Life on Critical Strike
+3% increased Global Critical Strike Chance per Level
+Gain a Flask Charge when you deal a Critical Strike
++1 to Level of Socketed Strength Gems
+(80-100)% increased Physical Damage
+Adds 5 to 10 Physical Damage
+Adds (30-40) to (70-80) Physical Damage
++(15-30) to Strength
+Gain 70% of Physical Damage as Extra Fire Damage
+Culling Strike
+(180-200)% increased Physical Damage
++100 to maximum Life
+10 Life Regenerated per second
+(200-212)% increased Physical Damage
+(8-12)% increased Attack Speed
+Rampage
+2% increased Area of Effect per 25 Rampage Kills
+Gain a Frenzy Charge on every 50th Rampage Kill
+1% of Physical Attack Damage Leeched as Life
+50% increased Mana Cost of Skills
+50% chance to cause Bleeding on Hit
+(140-170)% increased Physical Damage
+15% reduced Attack Speed
+25% chance to Curse Enemies with Level 10 Vulnerability on Hit
+Attacks have 25% chance to inflict Bleeding when Hitting Cursed Enemies
+(190-230)% increased Physical Damage
+(8-12)% increased Attack Speed
+50% of Physical Damage Converted to Fire Damage
+Damage Penetrates 20% Fire Resistance
+20% chance to Trigger Level 16 Molten Burst on Melee Hit
+(160-220)% increased Physical Damage
+Adds (16-21) to (32-38) Fire Damage
++(150-250) to Accuracy Rating
+6% Chance to Block Spell Damage
++20 Life gained on Kill
+Culling Strike
+7% Chance to Block Spell Damage
++8% Chance to Block Attack Damage while Dual Wielding
+(100-120)% increased Physical Damage
+Adds (55-65) to (100-120) Fire Damage in Main Hand
+Adds (55-65) to (100-120) Chaos Damage in Off Hand
+Counts as Dual Wielding
+(200-212)% increased Physical Damage
+(8-12)% increased Attack Speed
+Rampage
+2% increased Area of Effect per 25 Rampage Kills
+Gain a Frenzy Charge on every 50th Rampage Kill
+(150-170)% increased Physical Damage
+Adds (7-10) to (15-25) Physical Damage
+1% of Physical Attack Damage Leeched as Life
+Attacks have Blood Magic
+(280-320)% increased Physical Damage
+(30-25)% reduced Attack Speed
+Attacks have 25% chance to inflict Bleeding when Hitting Cursed Enemies
+Trigger Level 20 Bone Nova when you Kill a Bleeding Enemy
+Adds (310-350) to (460-500) Cold Damage
+15% increased Movement Speed if you've used a Warcry Recently
+150% increased Elemental Damage if you've used a Warcry Recently
+Warcries Knock Enemies Back in an Area
+(200-250)% increased Physical Damage
+(7-12)% increased Attack Speed
+(30-40)% increased Critical Strike Chance
+Nearby Allies have 30% increased Item Rarity
+Nearby Allies have Culling Strike
+Insufficient Mana doesn't prevent your Melee Attacks
+Socketed Gems are supported by Level 25 Melee Splash
+(250-300)% increased Physical Damage
+1% of Physical Attack Damage Leeched as Life
+1% of Physical Attack Damage Leeched as Mana
+Recover 5% of Maximum Life on Kill
+Enemies you hit are destroyed on Kill
++2 to Level of Socketed Support Gems
+Adds (220-235) to (270-290) Physical Damage
+(12-16)% increased Attack Speed
++2 to Weapon range
+25% chance to cause Bleeding on Hit

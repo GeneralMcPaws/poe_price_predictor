@@ -1,0 +1,228 @@
+has # abyssal socket
+has # abyssal socket
+#% increased effect of socketed jewels
+# to strength
+adds # physical damage to attacks
+# to strength
+#% increased maximum life
+#% to cold resistance
+#% increased flask life recovery rate
+# to maximum life
+# to strength
+# to intelligence
+#% to cold resistance
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as mana
+#% increased global physical damage
+#% to cold resistance
+#% increased projectile damage
+#% reduced flask charges gained
+#% increased flask effect duration
+deals # chaos damage per second to nearby enemies
+when you kill a rare monster, you gain its mods for # seconds
+#% increased global physical damage
+adds # physical damage to attacks
+# to maximum life
+#% of physical attack damage leeched as life
+#% increased flask charges gained during any flask effect
+#% increased mana regeneration rate during any flask effect
+#% increased stun and block recovery
+# to all attributes
+#% increased quantity of items found
+#% to fire resistance
+#% increased flask effect duration
+# physical damage taken from attacks
+#% increased stun duration on enemies
+#% increased global physical damage
+# to strength
+#% increased flask charges gained
+#% to all elemental resistances while you have at least # strength
+# to strength
+#% increased global physical damage
+# to maximum mana
+#% to lightning resistance
+#% increased movement speed
+you have onslaught while not on low mana
+lose # mana per second
+you take #% reduced extra damage from critical strikes
+# to maximum life
+#% to all maximum resistances
+#% to all elemental resistances
+nearby enemies are intimidated
+#% increased damage
+# to all attributes
+#% increased movement speed
+enemies are unlucky when damaging you while you are cursed with vulnerability
+you are cursed with level # vulnerability
+# to maximum energy shield
+implicit modifier magnitudes are tripled
+level requirement reduced by #
+#% increased damage
+# to intelligence
+# to maximum energy shield
+#% increased maximum energy shield
+#% increased energy shield recharge rate
+#% increased global physical damage
+#% increased elemental damage with attack skills
+adds # fire damage to attacks
+adds # cold damage to attacks
+adds # lightning damage to attacks
+#% to all elemental resistances
+#% increased elemental damage with attack skills during any flask effect
+# to strength
+#% increased quantity of items found
+#% to cold resistance
+rampage
+#% increased rarity of items found per # rampage kills
+# to maximum life
+#% increased maximum life
+#% of life regenerated per second
+flasks do not apply to you
+flasks apply to your zombies and spectres
+#% increased stun duration on enemies
+#% more maximum physical attack damage
+#% less minimum physical attack damage
+adds # physical damage to attacks
+# to strength
+gain # life when you stun an enemy
+#% increased stun and block recovery
+#% increased trap damage
+#% increased mana regeneration rate
+#% to fire resistance
+#% reduced trap duration
+#% increased light radius
+# to maximum life
+# to strength
+# to dexterity
+# to maximum life
+#% increased damage with hits against rare monsters
+when you kill a rare monster, you gain its modifiers for # seconds
+# to maximum energy shield
+# to evasion rating
+# to maximum energy shield
+#% to all elemental resistances
+you have phasing if energy shield recharge has started recently
+#% chance to dodge attack hits while phasing
+#% increased movement speed while phasing
+# to maximum energy shield
+adds # lightning damage to attacks
+#% increased shock duration on you
+# to all attributes
+#% increased movement speed
+#% increased effect of curses on you
+you are cursed with level # vulnerability
+you count as on low life while you are cursed with vulnerability
+shocks you cause are reflected back to you
+#% increased damage while shocked
+#% increased movement speed while shocked
+#% increased global physical damage
+# to maximum life
+#% to cold resistance
+#% of physical attack damage leeched as life
+#% increased flask effect duration
+#% reduced flask charges gained during any flask effect
+#% of life leech applies to enemies as chaos damage
+#% increased movement speed during any flask effect
+#% increased stun and block recovery
+# to maximum life
+#% to all elemental resistances
+#% increased mana recovery from flasks
+#% reduced flask effect duration
+gain soul eater during any flask effect
+lose souls gained from soul eater when you use a flask
+# to maximum life
+# to maximum life
+culling strike against enemies cursed with poacher's mark
+curse enemies with level # poacher's mark on hit, which can apply to hexproof enemies
+take # physical damage when you use a movement skill
+you have no armour or energy shield
+#% increased stun and block recovery
+# to intelligence
+your energy shield starts at zero
+you cannot recharge energy shield
+you cannot regenerate energy shield
+you lose #% of energy shield per second
+life leech is applied to energy shield instead while on full life
+gain #% of maximum life as extra maximum energy shield
+#% increased stun duration on enemies
+#% increased global physical damage
+# to strength
+# to dexterity
+#% increased flask charges gained
+#% to all elemental resistances while you have at least # strength
+#% increased projectile attack damage while you have at least # dexterity
+#% increased stun duration on enemies
+#% increased global physical damage
+# to strength
+# to intelligence
+#% increased flask charges gained
+#% to all elemental resistances while you have at least # strength
+#% increased critical strike chance while you have at least # intelligence
+# to maximum life
+# to maximum life
+# life regenerated per second
+# mana regenerated per second
+#% to all elemental resistances
+# physical damage taken from attacks
+#% increased armour while not ignited, frozen or shocked
+# to strength
+# to maximum life
+#% to fire resistance
+#% to cold resistance
+#% of attack damage leeched as life against chilled enemies
+enemies ignited by an attack burn #% faster
+deal no physical damage
+#% increased stun and block recovery
+grants summon harbinger of time skill
+#% increased attack and cast speed
+#% increased energy shield recovery rate
+#% increased life recovery rate
+#% increased cooldown recovery speed
+debuffs on you expire #% faster
+# to maximum life
+# to maximum life
+#% increased attributes
+cannot be frozen if dexterity is higher than intelligence
+cannot be ignited if strength is higher than dexterity
+cannot be shocked if intelligence is higher than strength
+#% increased damage per # of your lowest attribute
+# to strength
+#% increased cold damage
+# to armour
+#% to fire resistance
+#% to lightning resistance
+#% of cold damage leeched as life
+#% chance to freeze during any flask effect
+# to strength
+#% increased fire damage
+# to armour
+#% to cold resistance
+#% to lightning resistance
+#% of fire damage leeched as life
+#% chance to ignite during any flask effect
+# to strength
+#% increased lightning damage
+# to armour
+#% to fire resistance
+#% to cold resistance
+#% of lightning damage leeched as life
+#% chance to shock during any flask effect
+# to strength
+#% increased global physical damage
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% of physical damage leeched as life
+#% reduced enemy stun threshold during any flask effect
+# to armour and evasion rating
+#% increased maximum life
+#% to cold resistance
+#% increased attack damage per # of the lowest of armour and evasion rating
+#% chance to gain fortify when you stun an enemy with melee damage
+you have onslaught while you have fortify
+# to maximum energy shield
+#% increased elemental damage with attack skills
+# to maximum mana
+# to maximum energy shield
+#% of attack damage leeched as mana per power charge
+chill effect and freeze duration on you are based on #% of energy shield

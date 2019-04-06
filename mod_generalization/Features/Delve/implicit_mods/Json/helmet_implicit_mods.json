@@ -1,0 +1,126 @@
+{
+    "# to level of vaal gems in this item": {
+        "gen": "# to level of vaal gems in this item",
+        "org": [
+            "+(1 to 2) to level of vaal gems in this item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(2 to 4)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "enemies cannot leech life from you": {
+        "gen": "",
+        "org": [
+            "enemies cannot leech life from you"
+        ],
+        "params": []
+    },
+    "gems in this item are supported by level # cast on crit": {
+        "gen": "gems in this item are supported by level # cast on crit",
+        "org": [
+            "gems in this item are supported by level 12 cast on crit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "gems in this item are supported by level # cast when stunned": {
+        "gen": "gems in this item are supported by level # cast when stunned",
+        "org": [
+            "gems in this item are supported by level 12 cast when stunned"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "grants level # anger skill": {
+        "gen": "grants level # anger skill",
+        "org": [
+            "grants level 15 anger skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "grants level # hatred skill": {
+        "gen": "grants level # hatred skill",
+        "org": [
+            "grants level 11 hatred skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "11"
+            }
+        ]
+    },
+    "grants level # wrath skill": {
+        "gen": "grants level # wrath skill",
+        "org": [
+            "grants level 7 wrath skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "7"
+            }
+        ]
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (15 to 20)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "when hit, #% of damage is taken from mana before life": {
+        "gen": "when hit, #% of damage is taken from mana before life",
+        "org": [
+            "when hit, (3 to 5)% of damage is taken from mana before life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

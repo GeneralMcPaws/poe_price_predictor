@@ -1,0 +1,60 @@
+#% increased rarity of items found
+#% increased quantity of items found
+wrath has #% increased aura effect
+anger has #% increased aura effect
+hatred has #% increased aura effect
+determination has #% increased aura effect
+discipline has #% increased aura effect
+grace has #% increased aura effect
+#% increased intelligence
+#% increased dexterity
+#% increased dexterity
+#% increased strength
+properties are doubled while in a breach
+#% increased strength
+#% increased intelligence
+#% to all elemental resistances
+adds # cold damage to spells and attacks
+adds # cold damage to spells and attacks
+adds # cold damage to spells and attacks
+adds # fire damage to spells and attacks
+adds # fire damage to spells and attacks
+adds # fire damage to spells and attacks
+adds # lightning damage to spells and attacks
+adds # lightning damage to spells and attacks
+adds # lightning damage to spells and attacks
+grants level # anger skill
+bleeding cannot be inflicted on you
+cannot be ignited
+cannot be poisoned
+grants level # conductivity skill
+grants level # despair skill
+#% of fire damage leeched as life
+grants level # flammability skill
+grants level # frostbite skill
+grants level # hatred skill
+#% increased attack speed
+#% increased cast speed
+#% increased global physical damage
+# mana gained for each enemy hit by your attacks
+grants level # wrath skill
+adds # physical damage to attacks
+# to maximum mana
+# to maximum life
+has # socket
+#% to cold resistance
+#% to fire resistance
+#% increased rarity of items found
+#% to cold and lightning resistances
+#% to fire and cold resistances
+#% to fire and lightning resistances
+#% to cold and lightning resistances
+# to maximum energy shield
+#% to lightning resistance
+#% to cold resistance
+#% increased global critical strike chance
+#% to all elemental resistances
+you can catch corrupted fish
+#% to chaos resistance
+adds # physical damage to attacks
+#% increased elemental damage

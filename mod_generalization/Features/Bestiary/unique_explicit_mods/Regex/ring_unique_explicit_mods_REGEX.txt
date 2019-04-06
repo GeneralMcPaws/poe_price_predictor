@@ -1,0 +1,388 @@
+adds # physical damage to attacks
+#% increased global physical damage
+adds # chaos damage to attacks
+# to maximum life
+# life regenerated per second
+#% chance to cause monsters to flee
+# to maximum mana
+# to intelligence
+#% to all elemental resistances
+# mana gained on kill
+enemies can have # additional curse
+# to maximum life
+# to strength
+# life gained for each enemy hit by your attacks
+# to maximum endurance charges
+# to maximum mana
+# to maximum mana
+#% increased mana regeneration rate
+#% increased experience gain
+#% increased intelligence for each equipped unique item
+#% additional chance for slain monsters to drop scrolls of wisdom
+has # socket
+socketed gems have elemental equilibrium
+socketed gems have #% reduced elemental equilibrium effect
+#% to all elemental resistances
+#% to fire resistance when socketed with a red gem
+#% to cold resistance when socketed with a green gem
+#% to lightning resistance when socketed with a blue gem
+all sockets are white
+#% to cold resistance
+#% to fire resistance
+#% increased burning damage
+#% of cold damage converted to fire damage
+#% increased light radius
+ignited enemies you hit are destroyed on kill
+#% to fire resistance
+#% increased fire damage
+#% increased cast speed
+#% chance to ignite
+you can inflict an additional ignite on an enemy
+ignited enemies burn #% slower
+#% to fire resistance
+#% increased fire damage
+#% to cold resistance
+#% chance to ignite
+#% increased attack speed while ignited
+#% increased cast speed while ignited
+#% chance to be ignited
+#% increased rarity of items found
+# to dexterity
+#% increased rarity of items found
+#% to all elemental resistances
+#% to cold and lightning resistances
+#% increased cold damage
+adds # lightning damage to spells and attacks
+# to maximum life
+#% of damage leeched as life against shocked enemies
+#% of damage leeched as mana against frozen enemies
+#% to fire and cold resistances
+#% increased fire damage
+adds # cold damage to spells and attacks
+# to maximum energy shield
+#% increased damage while ignited
+# to armour while frozen
+#% to fire and lightning resistances
+#% increased lightning damage
+# to maximum mana
+when you kill a shocked enemy, inflict an equivalent shock on each nearby enemy
+when you kill an ignited enemy, inflict an equivalent ignite on each nearby enemy
+adds # fire damage to spells and attacks
+#% to cold and lightning resistances
+# to intelligence
+#% increased lightning damage
+#% increased mana regeneration rate
+#% of lightning damage converted to cold damage
+your spells have #% chance to shock against frozen enemies
+# to maximum energy shield
+# life regenerated per second
+#% increased mana regeneration rate
+minions have #% increased maximum life
+minions have #% increased area of effect
+# physical damage taken on minion death
+#% to lightning resistance
+# to all attributes
+#% increased mana regeneration rate
+#% reduced effect of curses on you
+# life regenerated per second per level
+#% to cold resistance
+adds # cold damage to spells and attacks
+# to evasion rating
+#% chance to avoid being chilled
+#% chance to freeze
+adds # cold damage against chilled enemies
+# to maximum mana
+# to maximum mana
+# mana regenerated per second
+# to total mana cost of skills
+#% of damage taken gained as mana over # seconds when hit
+# to maximum energy shield
+#% increased attack speed
+#% increased cast speed
+#% increased mana regeneration rate
+# to maximum energy shield
+temporal chains has #% reduced effect on you
+# to maximum life
+adds # fire damage to attacks
+# to maximum life
+#% to cold resistance
+#% reduced effect of chill on you
+#% increased movement speed while ignited
+#% to cold resistance
+#% increased maximum mana
+#% increased mana regeneration rate
+cannot be chilled
+cannot be frozen
+#% to cold resistance
+adds # physical damage to attacks
+#% increased damage
+# to all attributes
+#% increased rarity of items found
+#% to all elemental resistances
+#% increased global critical strike chance
+trigger level # consecrate when you deal a critical strike
+#% increased global critical strike chance
+#% increased light radius
+#% increased rarity of items dropped by enemies killed with a critical strike
+#% increased damage while on consecrated ground
+#% chance to block attack damage while on consecrated ground
+#% to fire resistance
+# to strength
+adds # fire damage to spells and attacks
+#% increased ignite duration on enemies
+#% chance to ignite
+recover # life when you ignite an enemy
+#% to all elemental resistances
+#% to all elemental resistances
+#% increased movement speed when on low life
+#% increased light radius
+#% to chaos resistance when on low life
+enemies are unlucky when damaging you while you are on low life
+# to maximum energy shield
+# to intelligence
+right ring slot: you cannot regenerate mana
+right ring slot: #% of energy shield regenerated per second
+right ring slot: # to maximum mana
+left ring slot: you cannot recharge or regenerate energy shield
+left ring slot: # mana regenerated per second
+left ring slot: # to maximum energy shield
+#% to all elemental resistances
+#% increased damage with hits and ailments per freeze, shock and ignite on enemy
+#% increased elemental damage with attack skills
+#% to all elemental resistances
+#% increased elemental damage
+#% chance to freeze, shock and ignite
+adds # physical damage to attacks
+adds # physical damage to attacks
+#% reduced attack speed
+#% chance to gain a frenzy charge when you stun an enemy
+#% to all elemental resistances
+#% increased quantity of items found
+#% reduced quantity of items found
+can't use other rings
+#% to all elemental resistances
+#% reduced effect of curses on you
+# life gained for each enemy hit by your attacks
+# mana gained for each enemy hit by your attacks
+# to maximum life
+# to strength
+#% of maximum life regenerated per second per endurance charge
+# life gained for each enemy hit by your attacks
+# to maximum endurance charges
+has # socket
+you can catch corrupted fish
+#% increased cast speed
+#% increased fishing line strength
+#% increased quantity of fish caught
+#% increased rarity of fish caught
+#% increased fish bite sensitivity
+corrupted
+has # socket
+# to level of socketed aura gems
+socketed gems reserve no mana
+#% increased mana reserved
+#% to lightning resistance
+#% increased damage with hits against shocked enemies
+#% increased lightning damage
+# to maximum mana
+#% of damage leeched as life against shocked enemies
+#% chance to shock
+# to maximum energy shield
+# to maximum energy shield
+#% to fire resistance
+#% to cold resistance
+stun threshold is based on energy shield instead of life
+has # socket
+#% increased effect of buffs granted by socketed golem skills
+socketed golem skills gain #% of maximum life as extra maximum energy shield
+# to level of socketed golem gems
+#% increased spell damage
+# to maximum energy shield
+#% to lightning resistance
+has # socket
+socketed golem skills have #% increased attack and cast speed
+gain onslaught for # seconds when you cast socketed golem skill
+# to level of socketed golem gems
+adds # physical damage to attacks
+#% increased attack speed
+#% chance to dodge attack hits
+has # socket
+socketed golem skills have #% chance to taunt on hit
+socketed golem skills have #% life regenerated per second
+# to level of socketed golem gems
+# to strength
+#% increased fire damage
+# to maximum life
+# to maximum life
+#% increased elemental damage with attack skills
+adds # fire damage to attacks
+#% reduced rarity of items found
+left ring slot: #% reduced reflected elemental damage taken
+right ring slot: #% reduced reflected physical damage taken
+has # socket
+# to level of socketed gems
+#% to chaos resistance
+# to accuracy rating
+# to armour
+# to maximum life
+#% to chaos resistance
+#% of physical attack damage leeched as life
+you gain onslaught for # seconds on kill
+adds # physical damage to attacks
+#% increased global physical damage
+adds # chaos damage to attacks
+# to maximum life
+# life regenerated per second
+#% chance to cause monsters to flee
+melee attacks have #% chance to cause bleeding
+melee attacks have #% chance to poison on hit
+#% to fire and cold resistances
+#% increased fire damage
+#% increased cold damage
+#% increased mana regeneration rate
+#% chance to trigger level # summon spectral wolf on kill
+# to maximum life
+adds # fire damage to attacks
+adds # cold damage to attacks
+# to maximum life
+#% to cold resistance
+#% increased movement speed while ignited
+the effect of chill on you is reversed
+#% increased global critical strike chance
+# to accuracy rating
+#% to global critical strike multiplier
+# to maximum mana
+#% of physical attack damage leeched as mana
+gain a power charge on non-critical strike
+lose all power charges on critical strike
+#% increased power charge duration
+has # socket
+# to level of socketed gems
+#% increased attack and cast speed
+# to maximum life per red socket
+# to maximum energy shield per blue socket
+# to maximum mana per green socket
+#% increased item quantity per white socket
+# to maximum energy shield
+#% increased attack speed
+#% increased cast speed
+#% increased accuracy rating per frenzy charge
+# cold damage per frenzy charge
+# fire damage per endurance charge
+# lightning damage per power charge
+you can apply an additional curse to enemies while at maximum power charges
+gain arcane surge on hit with spells while at maximum power charges
+#% chance that if you would gain power charges, you instead gain up to your maximum number of power charges
+#% increased armour per endurance charge
+#% increased attack and cast speed per endurance charge
+#% increased attack and cast speed per power charge
+#% chance to block attack damage per endurance charge
+#% chance to block attack damage per frenzy charge
+#% chance to block attack damage per power charge
+you cannot be stunned while at maximum endurance charges
+#% chance that if you would gain endurance charges, you instead gain up to your maximum number of endurance charges
+#% chance that if you would gain frenzy charges, you instead gain up to your maximum number of frenzy charges
+#% chance that if you would gain power charges, you instead gain up to
+your maximum number of power charges
+#% to chaos resistance per endurance charge
+gain #% of cold damage as extra chaos damage per frenzy charge
+#% increased critical strike chance per endurance charge
+#% increased critical strike chance per frenzy charge
+#% to critical strike multiplier per power charge
+#% increased damage per endurance charge
+#% increased damage per frenzy charge
+#% increased damage per power charge
+#% chance to dodge attack hits per endurance charge
+#% chance to dodge attack hits per frenzy charge
+#% chance to dodge attack hits per power charge
+#% increased endurance charge duration
+gain an endurance charge every second if you've been hit recently
+#% chance to gain an endurance charge on kill
+#% increased energy shield per power charge
+#% increased evasion rating per frenzy charge
+gain #% of fire damage as extra chaos damage per endurance charge
+gain a flask charge when you deal a critical strike while at maximum frenzy charges
+#% increased frenzy charge duration
+#% chance to gain a frenzy charge on hit
+#% chance to gain a frenzy charge on kill
+intimidate enemies for # seconds on hit with attacks while at maximum endurance charges
+you have iron reflexes while at maximum frenzy charges
+#% of maximum life regenerated per second per endurance charge
+#% of life regenerated per second per frenzy charge
+#% of maximum life regenerated per second per power charge
+gain #% of lightning damage as extra chaos damage per power charge
+# to maximum endurance charges
+# to maximum frenzy charges
+# to maximum power charges
+you have mind over matter while at maximum power charges
+#% increased movement speed per endurance charge
+#% increased movement speed per frenzy charge
+#% increased movement speed per power charge
+gain onslaught for # seconds on hit while at maximum frenzy charges
+#% additional physical damage reduction per frenzy charge
+#% additional physical damage reduction per power charge
+#% increased power charge duration
+#% chance to gain a power charge on critical strike
+#% chance to gain a power charge on kill
+you have vaal pact while at maximum endurance charges
+# to maximum energy shield
+#% increased mana regeneration rate
+#% increased skill effect duration
+#% reduced skill effect duration
+unaffected by temporal chains
+#% increased rarity of items found
+#% reduced rarity of items found
+# to maximum life
+#% increased quantity of items found
+#% increased rarity of items found
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% to cold resistance
+#% increased cold damage
+#% increased cast speed
+spells fire an additional projectile
+#% to chaos resistance
+#% reduced maximum life
+#% reduced maximum energy shield
+#% to chaos resistance
+gain #% of physical damage as extra chaos damage
+has # socket
+consumes socketed support gems when they reach maximum level can consume # support gems has not consumed any gems
+adds # physical damage to attacks
+adds # cold damage to attacks
+#% increased maximum energy shield
+#% increased maximum life
+#% increased attack damage if your other ring is a shaper item
+cannot be stunned by attacks if your other ring is an elder item
+#% chance to trigger level # tentacle whip on kill
+#% increased elemental damage
+adds # lightning damage to spells
+#% increased maximum energy shield
+#% increased maximum life
+#% increased spell damage if your other ring is an elder item
+cannot be stunned by spells if your other ring is a shaper item
+#% chance to trigger level # summon volatile anomaly on kill
+#% increased elemental damage
+#% increased mana regeneration rate
+#% to fire and lightning resistances
+#% increased burning damage for each time you have shocked a non-shocked enemy recently
+adds # lightning damage to hits against ignited enemies
+your lightning damage can ignite
+# to strength
+#% increased maximum energy shield
+#% increased maximum life
+# to strength
+#% increased maximum energy shield
+#% increased maximum life
+# to strength
+#% increased maximum energy shield
+#% increased maximum life
+curse enemies with socketed curse gem on hit
+# to dexterity
+#% increased maximum energy shield
+#% increased maximum life
+# to all attributes
+# to dexterity and intelligence
+# to strength and dexterity
+# to strength and intelligence

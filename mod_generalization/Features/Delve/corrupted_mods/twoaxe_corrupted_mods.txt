@@ -1,0 +1,16 @@
+(10-15)% increased Physical Damage
+(14-18)% increased Critical Strike Chance
+(16-20)% increased Physical Damage
+(25-30)% increased Area of Effect
+(5-7)% increased Attack Speed
++(1-2) to Weapon range
+20% chance to cause Bleeding on Hit
+(30-40)% increased Attack Damage against Bleeding Enemies
+Adds (4-5) to (6-8) Physical Damage
+Adds (8-9) to (11-13) Physical Damage
+Adds 1 to (2-3) Physical Damage
+Socketed Gems are Supported by Level 1 Blood Magic
+Socketed Gems are Supported by Level 10 Fortify
+Socketed Gems are Supported by Level 10 Life Gain On Hit
+Socketed Gems are Supported by Level 10 Onslaught
+Socketed Gems are Supported by Level 10 Reduced Mana

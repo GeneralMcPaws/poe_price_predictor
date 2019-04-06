@@ -1,0 +1,6 @@
+#% reduced movement speed
+#% reduced movement speed
+#% to all elemental resistances
+#% increased spell damage
+# to maximum mana
+#% increased movement speed

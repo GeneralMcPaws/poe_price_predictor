@@ -1,0 +1,6601 @@
+{
+    "# to maximum number of sentinels of purity": {
+        "gen": "# to maximum number of sentinels of purity",
+        "org": [
+            "+1 to maximum number of sentinels of purity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "#% chance for discharge not to consume charges": {
+        "gen": "#% chance for discharge not to consume charges",
+        "org": [
+            "20% chance for discharge not to consume charges",
+            "30% chance for discharge not to consume charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance for immortal call to not consume endurance charges": {
+        "gen": "#% chance for immortal call to not consume endurance charges",
+        "org": [
+            "20% chance for immortal call to not consume endurance charges",
+            "30% chance for immortal call to not consume endurance charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance for phase run to not consume frenzy charges": {
+        "gen": "#% chance for phase run to not consume frenzy charges",
+        "org": [
+            "20% chance for phase run to not consume frenzy charges",
+            "30% chance for phase run to not consume frenzy charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance for puncture to maim on hit": {
+        "gen": "#% chance for puncture to maim on hit",
+        "org": [
+            "20% chance for puncture to maim on hit",
+            "30% chance for puncture to maim on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance for tectonic slam to not consume an endurance charge": {
+        "gen": "#% chance for tectonic slam to not consume an endurance charge",
+        "org": [
+            "25% chance for tectonic slam to not consume an endurance charge",
+            "40% chance for tectonic slam to not consume an endurance charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance on frenzy to gain an additional frenzy charge": {
+        "gen": "#% chance on frenzy to gain an additional frenzy charge",
+        "org": [
+            "20% chance on frenzy to gain an additional frenzy charge",
+            "30% chance on frenzy to gain an additional frenzy charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to create an additional animate weapon copy": {
+        "gen": "#% chance to create an additional animate weapon copy",
+        "org": [
+            "16% chance to create an additional animate weapon copy",
+            "24% chance to create an additional animate weapon copy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits if you have finished channelling charged dash recently": {
+        "gen": "#% chance to dodge attack hits if you have finished channelling charged dash recently",
+        "org": [
+            "4% chance to dodge attack hits if you have finished channelling charged dash recently",
+            "6% chance to dodge attack hits if you have finished channelling charged dash recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits while at maximum blade flurry stages": {
+        "gen": "#% chance to dodge attack hits while at maximum blade flurry stages",
+        "org": [
+            "6% chance to dodge attack hits while at maximum blade flurry stages",
+            "9% chance to dodge attack hits while at maximum blade flurry stages"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain a power charge on critical strike with ice spear": {
+        "gen": "#% chance to gain a power charge on critical strike with ice spear",
+        "org": [
+            "10% chance to gain a power charge on critical strike with ice spear",
+            "15% chance to gain a power charge on critical strike with ice spear"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain an additional power charge on kill with power siphon": {
+        "gen": "#% chance to gain an additional power charge on kill with power siphon",
+        "org": [
+            "30% chance to gain an additional power charge on kill with power siphon",
+            "45% chance to gain an additional power charge on kill with power siphon"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to summon an additional skeleton warrior with summon skeleton": {
+        "gen": "#% chance to summon an additional skeleton warrior with summon skeleton",
+        "org": [
+            "20% chance to summon an additional skeleton warrior with summon skeleton",
+            "40% chance to summon an additional skeleton warrior with summon skeleton"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased abyssal cry damage": {
+        "gen": "#% increased abyssal cry damage",
+        "org": [
+            "25% increased abyssal cry damage",
+            "40% increased abyssal cry damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased abyssal cry duration": {
+        "gen": "#% increased abyssal cry duration",
+        "org": [
+            "24% increased abyssal cry duration",
+            "36% increased abyssal cry duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ancestral protector totem placement speed": {
+        "gen": "#% increased ancestral protector totem placement speed",
+        "org": [
+            "12% increased ancestral protector totem placement speed",
+            "18% increased ancestral protector totem placement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ancestral warchief totem area of effect": {
+        "gen": "#% increased ancestral warchief totem area of effect",
+        "org": [
+            "12% increased ancestral warchief totem area of effect",
+            "8% increased ancestral warchief totem area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ancestral warchief totem damage": {
+        "gen": "#% increased ancestral warchief totem damage",
+        "org": [
+            "25% increased ancestral warchief totem damage",
+            "40% increased ancestral warchief totem damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased animate weapon duration": {
+        "gen": "#% increased animate weapon duration",
+        "org": [
+            "20% increased animate weapon duration",
+            "30% increased animate weapon duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased arc damage": {
+        "gen": "#% increased arc damage",
+        "org": [
+            "25% increased arc damage",
+            "40% increased arc damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased arctic armour buff effect": {
+        "gen": "#% increased arctic armour buff effect",
+        "org": [
+            "24% increased arctic armour buff effect",
+            "36% increased arctic armour buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased arctic breath area of effect": {
+        "gen": "#% increased arctic breath area of effect",
+        "org": [
+            "12% increased arctic breath area of effect",
+            "8% increased arctic breath area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased arctic breath damage": {
+        "gen": "#% increased arctic breath damage",
+        "org": [
+            "25% increased arctic breath damage",
+            "40% increased arctic breath damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased arctic breath duration": {
+        "gen": "#% increased arctic breath duration",
+        "org": [
+            "24% increased arctic breath duration",
+            "36% increased arctic breath duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased assassin's mark curse effect": {
+        "gen": "#% increased assassin's mark curse effect",
+        "org": [
+            "20% increased assassin's mark curse effect",
+            "30% increased assassin's mark curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased assassin's mark duration": {
+        "gen": "#% increased assassin's mark duration",
+        "org": [
+            "30% increased assassin's mark duration",
+            "45% increased assassin's mark duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ball lightning area of effect": {
+        "gen": "#% increased ball lightning area of effect",
+        "org": [
+            "12% increased ball lightning area of effect",
+            "8% increased ball lightning area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ball lightning damage": {
+        "gen": "#% increased ball lightning damage",
+        "org": [
+            "25% increased ball lightning damage",
+            "40% increased ball lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased barrage attack speed": {
+        "gen": "#% increased barrage attack speed",
+        "org": [
+            "10% increased barrage attack speed",
+            "15% increased barrage attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased barrage damage": {
+        "gen": "#% increased barrage damage",
+        "org": [
+            "25% increased barrage damage",
+            "40% increased barrage damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bear trap cooldown recovery speed": {
+        "gen": "#% increased bear trap cooldown recovery speed",
+        "org": [
+            "10% increased bear trap cooldown recovery speed",
+            "15% increased bear trap cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bear trap damage": {
+        "gen": "#% increased bear trap damage",
+        "org": [
+            "25% increased bear trap damage",
+            "40% increased bear trap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blade flurry area of effect": {
+        "gen": "#% increased blade flurry area of effect",
+        "org": [
+            "12% increased blade flurry area of effect",
+            "8% increased blade flurry area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blade flurry damage": {
+        "gen": "#% increased blade flurry damage",
+        "org": [
+            "25% increased blade flurry damage",
+            "40% increased blade flurry damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blade vortex area of effect": {
+        "gen": "#% increased blade vortex area of effect",
+        "org": [
+            "12% increased blade vortex area of effect",
+            "8% increased blade vortex area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blade vortex duration": {
+        "gen": "#% increased blade vortex duration",
+        "org": [
+            "20% increased blade vortex duration",
+            "30% increased blade vortex duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blade vortex spell damage": {
+        "gen": "#% increased blade vortex spell damage",
+        "org": [
+            "25% increased blade vortex spell damage",
+            "40% increased blade vortex spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bladefall area of effect": {
+        "gen": "#% increased bladefall area of effect",
+        "org": [
+            "12% increased bladefall area of effect",
+            "8% increased bladefall area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bladefall critical strike chance": {
+        "gen": "#% increased bladefall critical strike chance",
+        "org": [
+            "60% increased bladefall critical strike chance",
+            "90% increased bladefall critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bladefall damage": {
+        "gen": "#% increased bladefall damage",
+        "org": [
+            "25% increased bladefall damage",
+            "40% increased bladefall damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blast rain area of effect": {
+        "gen": "#% increased blast rain area of effect",
+        "org": [
+            "12% increased blast rain area of effect",
+            "8% increased blast rain area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blast rain damage": {
+        "gen": "#% increased blast rain damage",
+        "org": [
+            "25% increased blast rain damage",
+            "40% increased blast rain damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blight area of effect": {
+        "gen": "#% increased blight area of effect",
+        "org": [
+            "12% increased blight area of effect",
+            "8% increased blight area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blight damage": {
+        "gen": "#% increased blight damage",
+        "org": [
+            "25% increased blight damage",
+            "40% increased blight damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased blink arrow cooldown recovery speed": {
+        "gen": "#% increased blink arrow cooldown recovery speed",
+        "org": [
+            "20% increased blink arrow cooldown recovery speed",
+            "30% increased blink arrow cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bodyswap cast speed": {
+        "gen": "#% increased bodyswap cast speed",
+        "org": [
+            "12% increased bodyswap cast speed",
+            "8% increased bodyswap cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bodyswap damage": {
+        "gen": "#% increased bodyswap damage",
+        "org": [
+            "25% increased bodyswap damage",
+            "40% increased bodyswap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased bone offering duration": {
+        "gen": "#% increased bone offering duration",
+        "org": [
+            "30% increased bone offering duration",
+            "45% increased bone offering duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased burning arrow damage": {
+        "gen": "#% increased burning arrow damage",
+        "org": [
+            "25% increased burning arrow damage",
+            "40% increased burning arrow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased caustic arrow area of effect": {
+        "gen": "#% increased caustic arrow area of effect",
+        "org": [
+            "12% increased caustic arrow area of effect",
+            "8% increased caustic arrow area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased caustic arrow damage": {
+        "gen": "#% increased caustic arrow damage",
+        "org": [
+            "25% increased caustic arrow damage",
+            "40% increased caustic arrow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased caustic arrow duration": {
+        "gen": "#% increased caustic arrow duration",
+        "org": [
+            "20% increased caustic arrow duration",
+            "30% increased caustic arrow duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chance to consume an additional corpse with devouring totem": {
+        "gen": "#% increased chance to consume an additional corpse with devouring totem",
+        "org": [
+            "40% increased chance to consume an additional corpse with devouring totem",
+            "60% increased chance to consume an additional corpse with devouring totem"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased charged dash damage": {
+        "gen": "#% increased charged dash damage",
+        "org": [
+            "25% increased charged dash damage",
+            "40% increased charged dash damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cleave area of effect": {
+        "gen": "#% increased cleave area of effect",
+        "org": [
+            "12% increased cleave area of effect",
+            "8% increased cleave area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cleave attack speed": {
+        "gen": "#% increased cleave attack speed",
+        "org": [
+            "10% increased cleave attack speed",
+            "15% increased cleave attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cleave damage": {
+        "gen": "#% increased cleave damage",
+        "org": [
+            "25% increased cleave damage",
+            "40% increased cleave damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold snap area of effect": {
+        "gen": "#% increased cold snap area of effect",
+        "org": [
+            "12% increased cold snap area of effect",
+            "8% increased cold snap area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold snap cooldown recovery speed": {
+        "gen": "#% increased cold snap cooldown recovery speed",
+        "org": [
+            "20% increased cold snap cooldown recovery speed",
+            "30% increased cold snap cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold snap damage": {
+        "gen": "#% increased cold snap damage",
+        "org": [
+            "25% increased cold snap damage",
+            "40% increased cold snap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased conductivity curse effect": {
+        "gen": "#% increased conductivity curse effect",
+        "org": [
+            "20% increased conductivity curse effect",
+            "30% increased conductivity curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased conductivity duration": {
+        "gen": "#% increased conductivity duration",
+        "org": [
+            "30% increased conductivity duration",
+            "45% increased conductivity duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased contagion area of effect": {
+        "gen": "#% increased contagion area of effect",
+        "org": [
+            "12% increased contagion area of effect",
+            "8% increased contagion area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased contagion damage": {
+        "gen": "#% increased contagion damage",
+        "org": [
+            "25% increased contagion damage",
+            "40% increased contagion damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased contagion duration": {
+        "gen": "#% increased contagion duration",
+        "org": [
+            "20% increased contagion duration",
+            "30% increased contagion duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased conversion trap cooldown recovery speed": {
+        "gen": "#% increased conversion trap cooldown recovery speed",
+        "org": [
+            "20% increased conversion trap cooldown recovery speed",
+            "30% increased conversion trap cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased convocation buff effect": {
+        "gen": "#% increased convocation buff effect",
+        "org": [
+            "24% increased convocation buff effect",
+            "36% increased convocation buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased convocation cooldown recovery speed": {
+        "gen": "#% increased convocation cooldown recovery speed",
+        "org": [
+            "20% increased convocation cooldown recovery speed",
+            "30% increased convocation cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cremation cast speed": {
+        "gen": "#% increased cremation cast speed",
+        "org": [
+            "12% increased cremation cast speed",
+            "8% increased cremation cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cremation damage": {
+        "gen": "#% increased cremation damage",
+        "org": [
+            "25% increased cremation damage",
+            "40% increased cremation damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cyclone attack speed": {
+        "gen": "#% increased cyclone attack speed",
+        "org": [
+            "10% increased cyclone attack speed",
+            "15% increased cyclone attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cyclone damage": {
+        "gen": "#% increased cyclone damage",
+        "org": [
+            "25% increased cyclone damage",
+            "40% increased cyclone damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dark pact area of effect": {
+        "gen": "#% increased dark pact area of effect",
+        "org": [
+            "12% increased dark pact area of effect",
+            "8% increased dark pact area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dark pact cast speed": {
+        "gen": "#% increased dark pact cast speed",
+        "org": [
+            "12% increased dark pact cast speed",
+            "8% increased dark pact cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dark pact damage": {
+        "gen": "#% increased dark pact damage",
+        "org": [
+            "25% increased dark pact damage",
+            "40% increased dark pact damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased decoy totem area of effect": {
+        "gen": "#% increased decoy totem area of effect",
+        "org": [
+            "16% increased decoy totem area of effect",
+            "24% increased decoy totem area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased decoy totem life": {
+        "gen": "#% increased decoy totem life",
+        "org": [
+            "40% increased decoy totem life",
+            "60% increased decoy totem life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased desecrate cooldown recovery speed": {
+        "gen": "#% increased desecrate cooldown recovery speed",
+        "org": [
+            "20% increased desecrate cooldown recovery speed",
+            "30% increased desecrate cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased despair curse effect": {
+        "gen": "#% increased despair curse effect",
+        "org": [
+            "20% increased despair curse effect",
+            "30% increased despair curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased despair duration": {
+        "gen": "#% increased despair duration",
+        "org": [
+            "30% increased despair duration",
+            "45% increased despair duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased detonate dead area of effect": {
+        "gen": "#% increased detonate dead area of effect",
+        "org": [
+            "12% increased detonate dead area of effect",
+            "8% increased detonate dead area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased detonate dead damage": {
+        "gen": "#% increased detonate dead damage",
+        "org": [
+            "25% increased detonate dead damage",
+            "40% increased detonate dead damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased devouring totem leech per second": {
+        "gen": "#% increased devouring totem leech per second",
+        "org": [
+            "24% increased devouring totem leech per second",
+            "36% increased devouring totem leech per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased discharge damage": {
+        "gen": "#% increased discharge damage",
+        "org": [
+            "25% increased discharge damage",
+            "40% increased discharge damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased discharge radius": {
+        "gen": "#% increased discharge radius",
+        "org": [
+            "5% increased discharge radius",
+            "8% increased discharge radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dominating blow duration": {
+        "gen": "#% increased dominating blow duration",
+        "org": [
+            "20% increased dominating blow duration",
+            "30% increased dominating blow duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased double strike attack speed": {
+        "gen": "#% increased double strike attack speed",
+        "org": [
+            "10% increased double strike attack speed",
+            "15% increased double strike attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased double strike critical strike chance": {
+        "gen": "#% increased double strike critical strike chance",
+        "org": [
+            "60% increased double strike critical strike chance",
+            "90% increased double strike critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased double strike damage": {
+        "gen": "#% increased double strike damage",
+        "org": [
+            "25% increased double strike damage",
+            "40% increased double strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dual strike attack speed": {
+        "gen": "#% increased dual strike attack speed",
+        "org": [
+            "10% increased dual strike attack speed",
+            "15% increased dual strike attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dual strike critical strike chance": {
+        "gen": "#% increased dual strike critical strike chance",
+        "org": [
+            "60% increased dual strike critical strike chance",
+            "90% increased dual strike critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dual strike damage": {
+        "gen": "#% increased dual strike damage",
+        "org": [
+            "25% increased dual strike damage",
+            "40% increased dual strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased earthquake area of effect": {
+        "gen": "#% increased earthquake area of effect",
+        "org": [
+            "12% increased earthquake area of effect",
+            "8% increased earthquake area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased earthquake damage": {
+        "gen": "#% increased earthquake damage",
+        "org": [
+            "25% increased earthquake damage",
+            "40% increased earthquake damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of the buff granted by your chaos golems": {
+        "gen": "#% increased effect of the buff granted by your chaos golems",
+        "org": [
+            "100% increased effect of the buff granted by your chaos golems",
+            "75% increased effect of the buff granted by your chaos golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of the buff granted by your flame golems": {
+        "gen": "#% increased effect of the buff granted by your flame golems",
+        "org": [
+            "100% increased effect of the buff granted by your flame golems",
+            "150% increased effect of the buff granted by your flame golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of the buff granted by your ice golems": {
+        "gen": "#% increased effect of the buff granted by your ice golems",
+        "org": [
+            "100% increased effect of the buff granted by your ice golems",
+            "150% increased effect of the buff granted by your ice golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of the buff granted by your lightning golems": {
+        "gen": "#% increased effect of the buff granted by your lightning golems",
+        "org": [
+            "100% increased effect of the buff granted by your lightning golems",
+            "150% increased effect of the buff granted by your lightning golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of the buff granted by your stone golems": {
+        "gen": "#% increased effect of the buff granted by your stone golems",
+        "org": [
+            "100% increased effect of the buff granted by your stone golems",
+            "150% increased effect of the buff granted by your stone golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental hit attack speed": {
+        "gen": "#% increased elemental hit attack speed",
+        "org": [
+            "10% increased elemental hit attack speed",
+            "15% increased elemental hit attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental weakness curse effect": {
+        "gen": "#% increased elemental weakness curse effect",
+        "org": [
+            "20% increased elemental weakness curse effect",
+            "30% increased elemental weakness curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental weakness duration": {
+        "gen": "#% increased elemental weakness duration",
+        "org": [
+            "30% increased elemental weakness duration",
+            "45% increased elemental weakness duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased enduring cry buff effect": {
+        "gen": "#% increased enduring cry buff effect",
+        "org": [
+            "24% increased enduring cry buff effect",
+            "36% increased enduring cry buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased enduring cry cooldown recovery speed": {
+        "gen": "#% increased enduring cry cooldown recovery speed",
+        "org": [
+            "20% increased enduring cry cooldown recovery speed",
+            "30% increased enduring cry cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased enfeeble curse effect": {
+        "gen": "#% increased enfeeble curse effect",
+        "org": [
+            "20% increased enfeeble curse effect",
+            "30% increased enfeeble curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased enfeeble duration": {
+        "gen": "#% increased enfeeble duration",
+        "org": [
+            "30% increased enfeeble duration",
+            "45% increased enfeeble duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased essence drain damage": {
+        "gen": "#% increased essence drain damage",
+        "org": [
+            "25% increased essence drain damage",
+            "40% increased essence drain damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased essence drain duration": {
+        "gen": "#% increased essence drain duration",
+        "org": [
+            "20% increased essence drain duration",
+            "30% increased essence drain duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ethereal knives damage": {
+        "gen": "#% increased ethereal knives damage",
+        "org": [
+            "25% increased ethereal knives damage",
+            "40% increased ethereal knives damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ethereal knives projectile speed": {
+        "gen": "#% increased ethereal knives projectile speed",
+        "org": [
+            "20% increased ethereal knives projectile speed",
+            "30% increased ethereal knives projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased explosive arrow area of effect": {
+        "gen": "#% increased explosive arrow area of effect",
+        "org": [
+            "12% increased explosive arrow area of effect",
+            "8% increased explosive arrow area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased explosive arrow attack speed": {
+        "gen": "#% increased explosive arrow attack speed",
+        "org": [
+            "10% increased explosive arrow attack speed",
+            "15% increased explosive arrow attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased explosive arrow damage": {
+        "gen": "#% increased explosive arrow damage",
+        "org": [
+            "25% increased explosive arrow damage",
+            "40% increased explosive arrow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire nova cast speed": {
+        "gen": "#% increased fire nova cast speed",
+        "org": [
+            "20% increased fire nova cast speed",
+            "30% increased fire nova cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire nova mine damage": {
+        "gen": "#% increased fire nova mine damage",
+        "org": [
+            "25% increased fire nova mine damage",
+            "40% increased fire nova mine damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire trap burning damage": {
+        "gen": "#% increased fire trap burning damage",
+        "org": [
+            "40% increased fire trap burning damage",
+            "60% increased fire trap burning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire trap burning ground duration": {
+        "gen": "#% increased fire trap burning ground duration",
+        "org": [
+            "30% increased fire trap burning ground duration",
+            "45% increased fire trap burning ground duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire trap damage": {
+        "gen": "#% increased fire trap damage",
+        "org": [
+            "25% increased fire trap damage",
+            "40% increased fire trap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fireball cast speed": {
+        "gen": "#% increased fireball cast speed",
+        "org": [
+            "12% increased fireball cast speed",
+            "8% increased fireball cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fireball damage": {
+        "gen": "#% increased fireball damage",
+        "org": [
+            "25% increased fireball damage",
+            "40% increased fireball damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased firestorm damage": {
+        "gen": "#% increased firestorm damage",
+        "org": [
+            "25% increased firestorm damage",
+            "40% increased firestorm damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased firestorm duration": {
+        "gen": "#% increased firestorm duration",
+        "org": [
+            "20% increased firestorm duration",
+            "30% increased firestorm duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased firestorm explosion area of effect": {
+        "gen": "#% increased firestorm explosion area of effect",
+        "org": [
+            "12% increased firestorm explosion area of effect",
+            "8% increased firestorm explosion area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame dash cooldown recovery speed": {
+        "gen": "#% increased flame dash cooldown recovery speed",
+        "org": [
+            "20% increased flame dash cooldown recovery speed",
+            "30% increased flame dash cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame dash damage": {
+        "gen": "#% increased flame dash damage",
+        "org": [
+            "25% increased flame dash damage",
+            "40% increased flame dash damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame surge critical strike chance": {
+        "gen": "#% increased flame surge critical strike chance",
+        "org": [
+            "60% increased flame surge critical strike chance",
+            "90% increased flame surge critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame surge damage": {
+        "gen": "#% increased flame surge damage",
+        "org": [
+            "25% increased flame surge damage",
+            "40% increased flame surge damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame surge damage against burning enemies": {
+        "gen": "#% increased flame surge damage against burning enemies",
+        "org": [
+            "40% increased flame surge damage against burning enemies",
+            "60% increased flame surge damage against burning enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame totem damage": {
+        "gen": "#% increased flame totem damage",
+        "org": [
+            "25% increased flame totem damage",
+            "40% increased flame totem damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flame totem projectile speed": {
+        "gen": "#% increased flame totem projectile speed",
+        "org": [
+            "20% increased flame totem projectile speed",
+            "30% increased flame totem projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flameblast area of effect": {
+        "gen": "#% increased flameblast area of effect",
+        "org": [
+            "12% increased flameblast area of effect",
+            "8% increased flameblast area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flameblast critical strike chance": {
+        "gen": "#% increased flameblast critical strike chance",
+        "org": [
+            "60% increased flameblast critical strike chance",
+            "90% increased flameblast critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flameblast damage": {
+        "gen": "#% increased flameblast damage",
+        "org": [
+            "25% increased flameblast damage",
+            "40% increased flameblast damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flammability curse effect": {
+        "gen": "#% increased flammability curse effect",
+        "org": [
+            "20% increased flammability curse effect",
+            "30% increased flammability curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flammability duration": {
+        "gen": "#% increased flammability duration",
+        "org": [
+            "30% increased flammability duration",
+            "45% increased flammability duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flesh offering duration": {
+        "gen": "#% increased flesh offering duration",
+        "org": [
+            "30% increased flesh offering duration",
+            "45% increased flesh offering duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flicker strike cooldown recovery speed": {
+        "gen": "#% increased flicker strike cooldown recovery speed",
+        "org": [
+            "20% increased flicker strike cooldown recovery speed",
+            "30% increased flicker strike cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flicker strike damage": {
+        "gen": "#% increased flicker strike damage",
+        "org": [
+            "25% increased flicker strike damage",
+            "40% increased flicker strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased flicker strike damage per frenzy charge": {
+        "gen": "#% increased flicker strike damage per frenzy charge",
+        "org": [
+            "6% increased flicker strike damage per frenzy charge",
+            "9% increased flicker strike damage per frenzy charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased freeze mine area of effect": {
+        "gen": "#% increased freeze mine area of effect",
+        "org": [
+            "12% increased freeze mine area of effect",
+            "8% increased freeze mine area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased freezing pulse cast speed": {
+        "gen": "#% increased freezing pulse cast speed",
+        "org": [
+            "12% increased freezing pulse cast speed",
+            "8% increased freezing pulse cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased freezing pulse damage": {
+        "gen": "#% increased freezing pulse damage",
+        "org": [
+            "25% increased freezing pulse damage",
+            "40% increased freezing pulse damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased freezing pulse projectile speed": {
+        "gen": "#% increased freezing pulse projectile speed",
+        "org": [
+            "20% increased freezing pulse projectile speed",
+            "30% increased freezing pulse projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frenzy damage": {
+        "gen": "#% increased frenzy damage",
+        "org": [
+            "25% increased frenzy damage",
+            "40% increased frenzy damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frenzy damage per frenzy charge": {
+        "gen": "#% increased frenzy damage per frenzy charge",
+        "org": [
+            "6% increased frenzy damage per frenzy charge",
+            "9% increased frenzy damage per frenzy charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost blades damage": {
+        "gen": "#% increased frost blades damage",
+        "org": [
+            "25% increased frost blades damage",
+            "40% increased frost blades damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost blades projectile speed": {
+        "gen": "#% increased frost blades projectile speed",
+        "org": [
+            "20% increased frost blades projectile speed",
+            "30% increased frost blades projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost bomb area of effect": {
+        "gen": "#% increased frost bomb area of effect",
+        "org": [
+            "12% increased frost bomb area of effect",
+            "8% increased frost bomb area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost bomb cooldown recovery speed": {
+        "gen": "#% increased frost bomb cooldown recovery speed",
+        "org": [
+            "20% increased frost bomb cooldown recovery speed",
+            "30% increased frost bomb cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost bomb damage": {
+        "gen": "#% increased frost bomb damage",
+        "org": [
+            "25% increased frost bomb damage",
+            "40% increased frost bomb damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost wall cooldown recovery speed": {
+        "gen": "#% increased frost wall cooldown recovery speed",
+        "org": [
+            "20% increased frost wall cooldown recovery speed",
+            "30% increased frost wall cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frost wall duration": {
+        "gen": "#% increased frost wall duration",
+        "org": [
+            "24% increased frost wall duration",
+            "36% increased frost wall duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frostbite curse effect": {
+        "gen": "#% increased frostbite curse effect",
+        "org": [
+            "20% increased frostbite curse effect",
+            "30% increased frostbite curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frostbite duration": {
+        "gen": "#% increased frostbite duration",
+        "org": [
+            "30% increased frostbite duration",
+            "45% increased frostbite duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frostbolt cast speed": {
+        "gen": "#% increased frostbolt cast speed",
+        "org": [
+            "10% increased frostbolt cast speed",
+            "15% increased frostbolt cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased frostbolt damage": {
+        "gen": "#% increased frostbolt damage",
+        "org": [
+            "25% increased frostbolt damage",
+            "40% increased frostbolt damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased glacial cascade area of effect": {
+        "gen": "#% increased glacial cascade area of effect",
+        "org": [
+            "12% increased glacial cascade area of effect",
+            "8% increased glacial cascade area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased glacial cascade damage": {
+        "gen": "#% increased glacial cascade damage",
+        "org": [
+            "25% increased glacial cascade damage",
+            "40% increased glacial cascade damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased glacial hammer damage": {
+        "gen": "#% increased glacial hammer damage",
+        "org": [
+            "25% increased glacial hammer damage",
+            "40% increased glacial hammer damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ground slam area of effect": {
+        "gen": "#% increased ground slam area of effect",
+        "org": [
+            "12% increased ground slam area of effect",
+            "8% increased ground slam area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ground slam damage": {
+        "gen": "#% increased ground slam damage",
+        "org": [
+            "25% increased ground slam damage",
+            "40% increased ground slam damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased heavy strike attack speed": {
+        "gen": "#% increased heavy strike attack speed",
+        "org": [
+            "10% increased heavy strike attack speed",
+            "15% increased heavy strike attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased heavy strike damage": {
+        "gen": "#% increased heavy strike damage",
+        "org": [
+            "25% increased heavy strike damage",
+            "40% increased heavy strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased herald of ash damage": {
+        "gen": "#% increased herald of ash damage",
+        "org": [
+            "25% increased herald of ash damage",
+            "40% increased herald of ash damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased herald of ice damage": {
+        "gen": "#% increased herald of ice damage",
+        "org": [
+            "25% increased herald of ice damage",
+            "40% increased herald of ice damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased herald of thunder damage": {
+        "gen": "#% increased herald of thunder damage",
+        "org": [
+            "25% increased herald of thunder damage",
+            "40% increased herald of thunder damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice crash area of effect": {
+        "gen": "#% increased ice crash area of effect",
+        "org": [
+            "12% increased ice crash area of effect",
+            "8% increased ice crash area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice crash damage": {
+        "gen": "#% increased ice crash damage",
+        "org": [
+            "25% increased ice crash damage",
+            "40% increased ice crash damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice nova area of effect": {
+        "gen": "#% increased ice nova area of effect",
+        "org": [
+            "12% increased ice nova area of effect",
+            "8% increased ice nova area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice nova damage": {
+        "gen": "#% increased ice nova damage",
+        "org": [
+            "25% increased ice nova damage",
+            "40% increased ice nova damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice shot area of effect": {
+        "gen": "#% increased ice shot area of effect",
+        "org": [
+            "12% increased ice shot area of effect",
+            "8% increased ice shot area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice shot damage": {
+        "gen": "#% increased ice shot damage",
+        "org": [
+            "25% increased ice shot damage",
+            "40% increased ice shot damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice shot duration": {
+        "gen": "#% increased ice shot duration",
+        "org": [
+            "24% increased ice shot duration",
+            "36% increased ice shot duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice spear critical strike chance in second form": {
+        "gen": "#% increased ice spear critical strike chance in second form",
+        "org": [
+            "200% increased ice spear critical strike chance in second form",
+            "300% increased ice spear critical strike chance in second form"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice spear damage": {
+        "gen": "#% increased ice spear damage",
+        "org": [
+            "25% increased ice spear damage",
+            "40% increased ice spear damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice trap area of effect": {
+        "gen": "#% increased ice trap area of effect",
+        "org": [
+            "12% increased ice trap area of effect",
+            "8% increased ice trap area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased ice trap damage": {
+        "gen": "#% increased ice trap damage",
+        "org": [
+            "25% increased ice trap damage",
+            "40% increased ice trap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased immortal call duration": {
+        "gen": "#% increased immortal call duration",
+        "org": [
+            "34% increased immortal call duration",
+            "36% increased immortal call duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased incinerate damage": {
+        "gen": "#% increased incinerate damage",
+        "org": [
+            "25% increased incinerate damage",
+            "40% increased incinerate damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased incinerate damage for each stage": {
+        "gen": "#% increased incinerate damage for each stage",
+        "org": [
+            "10% increased incinerate damage for each stage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased infernal blow area of effect": {
+        "gen": "#% increased infernal blow area of effect",
+        "org": [
+            "12% increased infernal blow area of effect",
+            "8% increased infernal blow area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased infernal blow damage": {
+        "gen": "#% increased infernal blow damage",
+        "org": [
+            "25% increased infernal blow damage",
+            "40% increased infernal blow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased kinetic blast area of effect": {
+        "gen": "#% increased kinetic blast area of effect",
+        "org": [
+            "12% increased kinetic blast area of effect",
+            "8% increased kinetic blast area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased kinetic blast damage": {
+        "gen": "#% increased kinetic blast damage",
+        "org": [
+            "25% increased kinetic blast damage",
+            "40% increased kinetic blast damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lacerate area of effect": {
+        "gen": "#% increased lacerate area of effect",
+        "org": [
+            "12% increased lacerate area of effect",
+            "8% increased lacerate area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lacerate critical strike chance": {
+        "gen": "#% increased lacerate critical strike chance",
+        "org": [
+            "40% increased lacerate critical strike chance",
+            "60% increased lacerate critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lacerate damage": {
+        "gen": "#% increased lacerate damage",
+        "org": [
+            "25% increased lacerate damage",
+            "40% increased lacerate damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased leap slam area of effect": {
+        "gen": "#% increased leap slam area of effect",
+        "org": [
+            "12% increased leap slam area of effect",
+            "8% increased leap slam area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased leap slam attack speed": {
+        "gen": "#% increased leap slam attack speed",
+        "org": [
+            "10% increased leap slam attack speed",
+            "15% increased leap slam attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased leap slam damage": {
+        "gen": "#% increased leap slam damage",
+        "org": [
+            "25% increased leap slam damage",
+            "40% increased leap slam damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning arrow area of effect": {
+        "gen": "#% increased lightning arrow area of effect",
+        "org": [
+            "12% increased lightning arrow area of effect",
+            "8% increased lightning arrow area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning arrow damage": {
+        "gen": "#% increased lightning arrow damage",
+        "org": [
+            "25% increased lightning arrow damage",
+            "40% increased lightning arrow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning strike damage": {
+        "gen": "#% increased lightning strike damage",
+        "org": [
+            "25% increased lightning strike damage",
+            "40% increased lightning strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning tendrils area of effect": {
+        "gen": "#% increased lightning tendrils area of effect",
+        "org": [
+            "12% increased lightning tendrils area of effect",
+            "8% increased lightning tendrils area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning tendrils critical strike chance": {
+        "gen": "#% increased lightning tendrils critical strike chance",
+        "org": [
+            "40% increased lightning tendrils critical strike chance",
+            "60% increased lightning tendrils critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning tendrils damage": {
+        "gen": "#% increased lightning tendrils damage",
+        "org": [
+            "25% increased lightning tendrils damage",
+            "40% increased lightning tendrils damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning trap damage": {
+        "gen": "#% increased lightning trap damage",
+        "org": [
+            "25% increased lightning trap damage",
+            "40% increased lightning trap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning trap shock effect": {
+        "gen": "#% increased lightning trap shock effect",
+        "org": [
+            "25% increased lightning trap shock effect",
+            "40% increased lightning trap shock effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning warp cast speed": {
+        "gen": "#% increased lightning warp cast speed",
+        "org": [
+            "12% increased lightning warp cast speed",
+            "8% increased lightning warp cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning warp damage": {
+        "gen": "#% increased lightning warp damage",
+        "org": [
+            "25% increased lightning warp damage",
+            "40% increased lightning warp damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased magma orb area of effect": {
+        "gen": "#% increased magma orb area of effect",
+        "org": [
+            "12% increased magma orb area of effect",
+            "8% increased magma orb area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased magma orb damage": {
+        "gen": "#% increased magma orb damage",
+        "org": [
+            "25% increased magma orb damage",
+            "40% increased magma orb damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mirror arrow cooldown recovery speed": {
+        "gen": "#% increased mirror arrow cooldown recovery speed",
+        "org": [
+            "20% increased mirror arrow cooldown recovery speed",
+            "30% increased mirror arrow cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased molten shell buff effect": {
+        "gen": "#% increased molten shell buff effect",
+        "org": [
+            "100% increased molten shell buff effect",
+            "150% increased molten shell buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased molten shell damage": {
+        "gen": "#% increased molten shell damage",
+        "org": [
+            "25% increased molten shell damage",
+            "40% increased molten shell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased molten strike area of effect": {
+        "gen": "#% increased molten strike area of effect",
+        "org": [
+            "12% increased molten strike area of effect",
+            "8% increased molten strike area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased molten strike damage": {
+        "gen": "#% increased molten strike damage",
+        "org": [
+            "25% increased molten strike damage",
+            "40% increased molten strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased orb of storms area of effect": {
+        "gen": "#% increased orb of storms area of effect",
+        "org": [
+            "12% increased orb of storms area of effect",
+            "8% increased orb of storms area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased orb of storms critical strike chance": {
+        "gen": "#% increased orb of storms critical strike chance",
+        "org": [
+            "60% increased orb of storms critical strike chance",
+            "90% increased orb of storms critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased orb of storms damage": {
+        "gen": "#% increased orb of storms damage",
+        "org": [
+            "25% increased orb of storms damage",
+            "40% increased orb of storms damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased phase run duration": {
+        "gen": "#% increased phase run duration",
+        "org": [
+            "24% increased phase run duration",
+            "36% increased phase run duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased poacher's mark curse effect": {
+        "gen": "#% increased poacher's mark curse effect",
+        "org": [
+            "20% increased poacher's mark curse effect",
+            "30% increased poacher's mark curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased poacher's mark duration": {
+        "gen": "#% increased poacher's mark duration",
+        "org": [
+            "30% increased poacher's mark duration",
+            "45% increased poacher's mark duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased power siphon attack speed": {
+        "gen": "#% increased power siphon attack speed",
+        "org": [
+            "10% increased power siphon attack speed",
+            "15% increased power siphon attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased power siphon damage": {
+        "gen": "#% increased power siphon damage",
+        "org": [
+            "25% increased power siphon damage",
+            "40% increased power siphon damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile weakness curse effect": {
+        "gen": "#% increased projectile weakness curse effect",
+        "org": [
+            "20% increased projectile weakness curse effect",
+            "30% increased projectile weakness curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile weakness duration": {
+        "gen": "#% increased projectile weakness duration",
+        "org": [
+            "30% increased projectile weakness duration",
+            "45% increased projectile weakness duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased puncture damage": {
+        "gen": "#% increased puncture damage",
+        "org": [
+            "25% increased puncture damage",
+            "40% increased puncture damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased puncture duration": {
+        "gen": "#% increased puncture duration",
+        "org": [
+            "30% increased puncture duration",
+            "45% increased puncture duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased punishment curse effect": {
+        "gen": "#% increased punishment curse effect",
+        "org": [
+            "20% increased punishment curse effect",
+            "30% increased punishment curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased punishment duration": {
+        "gen": "#% increased punishment duration",
+        "org": [
+            "30% increased punishment duration",
+            "45% increased punishment duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rain of arrows area of effect": {
+        "gen": "#% increased rain of arrows area of effect",
+        "org": [
+            "12% increased rain of arrows area of effect",
+            "8% increased rain of arrows area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rain of arrows attack speed": {
+        "gen": "#% increased rain of arrows attack speed",
+        "org": [
+            "10% increased rain of arrows attack speed",
+            "15% increased rain of arrows attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rain of arrows damage": {
+        "gen": "#% increased rain of arrows damage",
+        "org": [
+            "25% increased rain of arrows damage",
+            "40% increased rain of arrows damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rallying cry buff effect": {
+        "gen": "#% increased rallying cry buff effect",
+        "org": [
+            "50% increased rallying cry buff effect",
+            "75% increased rallying cry buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rallying cry duration": {
+        "gen": "#% increased rallying cry duration",
+        "org": [
+            "30% increased rallying cry duration",
+            "45% increased rallying cry duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased reave damage": {
+        "gen": "#% increased reave damage",
+        "org": [
+            "25% increased reave damage",
+            "40% increased reave damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased reave radius": {
+        "gen": "#% increased reave radius",
+        "org": [
+            "12% increased reave radius",
+            "8% increased reave radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased reckoning cooldown recovery speed": {
+        "gen": "#% increased reckoning cooldown recovery speed",
+        "org": [
+            "20% increased reckoning cooldown recovery speed",
+            "30% increased reckoning cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased reckoning damage": {
+        "gen": "#% increased reckoning damage",
+        "org": [
+            "25% increased reckoning damage",
+            "40% increased reckoning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rejuvenation totem aura effect": {
+        "gen": "#% increased rejuvenation totem aura effect",
+        "org": [
+            "30% increased rejuvenation totem aura effect",
+            "45% increased rejuvenation totem aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased righteous fire area of effect": {
+        "gen": "#% increased righteous fire area of effect",
+        "org": [
+            "12% increased righteous fire area of effect",
+            "8% increased righteous fire area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased righteous fire damage": {
+        "gen": "#% increased righteous fire damage",
+        "org": [
+            "25% increased righteous fire damage",
+            "40% increased righteous fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased riposte cooldown recovery speed": {
+        "gen": "#% increased riposte cooldown recovery speed",
+        "org": [
+            "20% increased riposte cooldown recovery speed",
+            "30% increased riposte cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased riposte damage": {
+        "gen": "#% increased riposte damage",
+        "org": [
+            "25% increased riposte damage",
+            "40% increased riposte damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased scorching ray beam length": {
+        "gen": "#% increased scorching ray beam length",
+        "org": [
+            "10% increased scorching ray beam length",
+            "15% increased scorching ray beam length"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased scorching ray cast speed": {
+        "gen": "#% increased scorching ray cast speed",
+        "org": [
+            "12% increased scorching ray cast speed",
+            "8% increased scorching ray cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased scorching ray damage": {
+        "gen": "#% increased scorching ray damage",
+        "org": [
+            "25% increased scorching ray damage",
+            "40% increased scorching ray damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased searing bond damage": {
+        "gen": "#% increased searing bond damage",
+        "org": [
+            "25% increased searing bond damage",
+            "40% increased searing bond damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased searing bond totem elemental resistances": {
+        "gen": "#% increased searing bond totem elemental resistances",
+        "org": [
+            "24% increased searing bond totem elemental resistances",
+            "36% increased searing bond totem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased searing bond totem placement speed": {
+        "gen": "#% increased searing bond totem placement speed",
+        "org": [
+            "40% increased searing bond totem placement speed",
+            "60% increased searing bond totem placement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shield charge attack speed": {
+        "gen": "#% increased shield charge attack speed",
+        "org": [
+            "10% increased shield charge attack speed",
+            "15% increased shield charge attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shield charge damage": {
+        "gen": "#% increased shield charge damage",
+        "org": [
+            "25% increased shield charge damage",
+            "40% increased shield charge damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shock nova area of effect": {
+        "gen": "#% increased shock nova area of effect",
+        "org": [
+            "12% increased shock nova area of effect",
+            "8% increased shock nova area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shock nova damage": {
+        "gen": "#% increased shock nova damage",
+        "org": [
+            "25% increased shock nova damage",
+            "40% increased shock nova damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shockwave totem area of effect": {
+        "gen": "#% increased shockwave totem area of effect",
+        "org": [
+            "12% increased shockwave totem area of effect",
+            "8% increased shockwave totem area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shockwave totem cast speed": {
+        "gen": "#% increased shockwave totem cast speed",
+        "org": [
+            "10% increased shockwave totem cast speed",
+            "15% increased shockwave totem cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shockwave totem damage": {
+        "gen": "#% increased shockwave totem damage",
+        "org": [
+            "25% increased shockwave totem damage",
+            "40% increased shockwave totem damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shrapnel shot area of effect": {
+        "gen": "#% increased shrapnel shot area of effect",
+        "org": [
+            "12% increased shrapnel shot area of effect",
+            "8% increased shrapnel shot area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased shrapnel shot damage": {
+        "gen": "#% increased shrapnel shot damage",
+        "org": [
+            "25% increased shrapnel shot damage",
+            "40% increased shrapnel shot damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased siege ballista attack speed": {
+        "gen": "#% increased siege ballista attack speed",
+        "org": [
+            "10% increased siege ballista attack speed",
+            "15% increased siege ballista attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased siege ballista damage": {
+        "gen": "#% increased siege ballista damage",
+        "org": [
+            "25% increased siege ballista damage",
+            "40% increased siege ballista damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased siege ballista totem placement speed": {
+        "gen": "#% increased siege ballista totem placement speed",
+        "org": [
+            "30% increased siege ballista totem placement speed",
+            "45% increased siege ballista totem placement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased smoke mine duration": {
+        "gen": "#% increased smoke mine duration",
+        "org": [
+            "20% increased smoke mine duration",
+            "30% increased smoke mine duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spark damage": {
+        "gen": "#% increased spark damage",
+        "org": [
+            "25% increased spark damage",
+            "40% increased spark damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spark projectile speed": {
+        "gen": "#% increased spark projectile speed",
+        "org": [
+            "20% increased spark projectile speed",
+            "30% increased spark projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spectral shield throw damage": {
+        "gen": "#% increased spectral shield throw damage",
+        "org": [
+            "25% increased spectral shield throw damage",
+            "40% increased spectral shield throw damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spectral shield throw projectile speed": {
+        "gen": "#% increased spectral shield throw projectile speed",
+        "org": [
+            "20% increased spectral shield throw projectile speed",
+            "30% increased spectral shield throw projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spectral throw damage": {
+        "gen": "#% increased spectral throw damage",
+        "org": [
+            "25% increased spectral throw damage",
+            "40% increased spectral throw damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spectral throw projectile speed": {
+        "gen": "#% increased spectral throw projectile speed",
+        "org": [
+            "20% increased spectral throw projectile speed",
+            "30% increased spectral throw projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spirit offering duration": {
+        "gen": "#% increased spirit offering duration",
+        "org": [
+            "30% increased spirit offering duration",
+            "45% increased spirit offering duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased split arrow critical strike chance": {
+        "gen": "#% increased split arrow critical strike chance",
+        "org": [
+            "60% increased split arrow critical strike chance",
+            "90% increased split arrow critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased split arrow damage": {
+        "gen": "#% increased split arrow damage",
+        "org": [
+            "25% increased split arrow damage",
+            "40% increased split arrow damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased static strike area of effect": {
+        "gen": "#% increased static strike area of effect",
+        "org": [
+            "12% increased static strike area of effect",
+            "8% increased static strike area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased static strike damage": {
+        "gen": "#% increased static strike damage",
+        "org": [
+            "25% increased static strike damage",
+            "40% increased static strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased static strike duration": {
+        "gen": "#% increased static strike duration",
+        "org": [
+            "30% increased static strike duration",
+            "45% increased static strike duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased storm burst area of effect": {
+        "gen": "#% increased storm burst area of effect",
+        "org": [
+            "12% increased storm burst area of effect",
+            "8% increased storm burst area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased storm burst damage": {
+        "gen": "#% increased storm burst damage",
+        "org": [
+            "25% increased storm burst damage",
+            "40% increased storm burst damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased storm call area of effect": {
+        "gen": "#% increased storm call area of effect",
+        "org": [
+            "12% increased storm call area of effect",
+            "8% increased storm call area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased storm call damage": {
+        "gen": "#% increased storm call damage",
+        "org": [
+            "25% increased storm call damage",
+            "40% increased storm call damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased summon raging spirit duration": {
+        "gen": "#% increased summon raging spirit duration",
+        "org": [
+            "20% increased summon raging spirit duration",
+            "30% increased summon raging spirit duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased sunder area of effect": {
+        "gen": "#% increased sunder area of effect",
+        "org": [
+            "12% increased sunder area of effect",
+            "8% increased sunder area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased sunder attack speed": {
+        "gen": "#% increased sunder attack speed",
+        "org": [
+            "10% increased sunder attack speed",
+            "15% increased sunder attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased sunder damage": {
+        "gen": "#% increased sunder damage",
+        "org": [
+            "25% increased sunder damage",
+            "40% increased sunder damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased sweep area of effect": {
+        "gen": "#% increased sweep area of effect",
+        "org": [
+            "12% increased sweep area of effect",
+            "8% increased sweep area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased sweep damage": {
+        "gen": "#% increased sweep damage",
+        "org": [
+            "25% increased sweep damage",
+            "40% increased sweep damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased tectonic slam area of effect": {
+        "gen": "#% increased tectonic slam area of effect",
+        "org": [
+            "12% increased tectonic slam area of effect",
+            "8% increased tectonic slam area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased tectonic slam damage": {
+        "gen": "#% increased tectonic slam damage",
+        "org": [
+            "25% increased tectonic slam damage",
+            "40% increased tectonic slam damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased tempest shield damage": {
+        "gen": "#% increased tempest shield damage",
+        "org": [
+            "25% increased tempest shield damage",
+            "40% increased tempest shield damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased temporal chains curse effect": {
+        "gen": "#% increased temporal chains curse effect",
+        "org": [
+            "20% increased temporal chains curse effect",
+            "30% increased temporal chains curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased temporal chains duration": {
+        "gen": "#% increased temporal chains duration",
+        "org": [
+            "30% increased temporal chains duration",
+            "45% increased temporal chains duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased tornado shot critical strike chance": {
+        "gen": "#% increased tornado shot critical strike chance",
+        "org": [
+            "60% increased tornado shot critical strike chance",
+            "90% increased tornado shot critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased tornado shot damage": {
+        "gen": "#% increased tornado shot damage",
+        "org": [
+            "25% increased tornado shot damage",
+            "40% increased tornado shot damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased unearth cast speed": {
+        "gen": "#% increased unearth cast speed",
+        "org": [
+            "12% increased unearth cast speed",
+            "8% increased unearth cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased unearth damage": {
+        "gen": "#% increased unearth damage",
+        "org": [
+            "25% increased unearth damage",
+            "40% increased unearth damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vengeance cooldown recovery speed": {
+        "gen": "#% increased vengeance cooldown recovery speed",
+        "org": [
+            "20% increased vengeance cooldown recovery speed",
+            "30% increased vengeance cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vengeance damage": {
+        "gen": "#% increased vengeance damage",
+        "org": [
+            "25% increased vengeance damage",
+            "40% increased vengeance damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vigilant strike damage": {
+        "gen": "#% increased vigilant strike damage",
+        "org": [
+            "25% increased vigilant strike damage",
+            "40% increased vigilant strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vigilant strike fortify duration": {
+        "gen": "#% increased vigilant strike fortify duration",
+        "org": [
+            "30% increased vigilant strike fortify duration",
+            "45% increased vigilant strike fortify duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased viper strike critical strike chance": {
+        "gen": "#% increased viper strike critical strike chance",
+        "org": [
+            "60% increased viper strike critical strike chance",
+            "90% increased viper strike critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased viper strike damage": {
+        "gen": "#% increased viper strike damage",
+        "org": [
+            "25% increased viper strike damage",
+            "40% increased viper strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased viper strike duration": {
+        "gen": "#% increased viper strike duration",
+        "org": [
+            "20% increased viper strike duration",
+            "30% increased viper strike duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased volatile dead cast speed": {
+        "gen": "#% increased volatile dead cast speed",
+        "org": [
+            "12% increased volatile dead cast speed",
+            "8% increased volatile dead cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased volatile dead damage": {
+        "gen": "#% increased volatile dead damage",
+        "org": [
+            "25% increased volatile dead damage",
+            "40% increased volatile dead damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vortex area of effect": {
+        "gen": "#% increased vortex area of effect",
+        "org": [
+            "12% increased vortex area of effect",
+            "8% increased vortex area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vortex damage": {
+        "gen": "#% increased vortex damage",
+        "org": [
+            "25% increased vortex damage",
+            "40% increased vortex damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vortex duration": {
+        "gen": "#% increased vortex duration",
+        "org": [
+            "20% increased vortex duration",
+            "30% increased vortex duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vulnerability curse effect": {
+        "gen": "#% increased vulnerability curse effect",
+        "org": [
+            "20% increased vulnerability curse effect",
+            "30% increased vulnerability curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vulnerability duration": {
+        "gen": "#% increased vulnerability duration",
+        "org": [
+            "30% increased vulnerability duration",
+            "45% increased vulnerability duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased warlord's mark curse effect": {
+        "gen": "#% increased warlord's mark curse effect",
+        "org": [
+            "20% increased warlord's mark curse effect",
+            "30% increased warlord's mark curse effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased warlord's mark duration": {
+        "gen": "#% increased warlord's mark duration",
+        "org": [
+            "30% increased warlord's mark duration",
+            "45% increased warlord's mark duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased whirling blades attack speed": {
+        "gen": "#% increased whirling blades attack speed",
+        "org": [
+            "10% increased whirling blades attack speed",
+            "15% increased whirling blades attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased whirling blades damage": {
+        "gen": "#% increased whirling blades damage",
+        "org": [
+            "25% increased whirling blades damage",
+            "40% increased whirling blades damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased wild strike area of effect": {
+        "gen": "#% increased wild strike area of effect",
+        "org": [
+            "24% increased wild strike area of effect",
+            "36% increased wild strike area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased wild strike damage": {
+        "gen": "#% increased wild strike damage",
+        "org": [
+            "25% increased wild strike damage",
+            "40% increased wild strike damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of burning arrow physical damage gained as extra fire damage": {
+        "gen": "#% of burning arrow physical damage gained as extra fire damage",
+        "org": [
+            "10% of burning arrow physical damage gained as extra fire damage",
+            "15% of burning arrow physical damage gained as extra fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of glacial cascade physical damage converted to cold damage": {
+        "gen": "#% of glacial cascade physical damage converted to cold damage",
+        "org": [
+            "30% of glacial cascade physical damage converted to cold damage",
+            "40% of glacial cascade physical damage converted to cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of glacial hammer physical damage gained as extra cold damage": {
+        "gen": "#% of glacial hammer physical damage gained as extra cold damage",
+        "org": [
+            "10% of glacial hammer physical damage gained as extra cold damage",
+            "15% of glacial hammer physical damage gained as extra cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of ice crash physical damage gained as extra cold damage": {
+        "gen": "#% of ice crash physical damage gained as extra cold damage",
+        "org": [
+            "10% of ice crash physical damage gained as extra cold damage",
+            "15% of ice crash physical damage gained as extra cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of infernal blow physical damage gained as extra fire damage": {
+        "gen": "#% of infernal blow physical damage gained as extra fire damage",
+        "org": [
+            "10% of infernal blow physical damage gained as extra fire damage",
+            "15% of infernal blow physical damage gained as extra fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of shrapnel shot physical damage gained as extra lightning damage": {
+        "gen": "#% of shrapnel shot physical damage gained as extra lightning damage",
+        "org": [
+            "10% of shrapnel shot physical damage gained as extra lightning damage",
+            "15% of shrapnel shot physical damage gained as extra lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced anger mana reservation": {
+        "gen": "#% reduced anger mana reservation",
+        "org": [
+            "10% reduced anger mana reservation",
+            "15% reduced anger mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced arctic armour mana reservation": {
+        "gen": "#% reduced arctic armour mana reservation",
+        "org": [
+            "20% reduced arctic armour mana reservation",
+            "30% reduced arctic armour mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced clarity mana reservation": {
+        "gen": "#% reduced clarity mana reservation",
+        "org": [
+            "20% reduced clarity mana reservation",
+            "30% reduced clarity mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced determination mana reservation": {
+        "gen": "#% reduced determination mana reservation",
+        "org": [
+            "10% reduced determination mana reservation",
+            "15% reduced determination mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced discipline mana reservation": {
+        "gen": "#% reduced discipline mana reservation",
+        "org": [
+            "14% reduced discipline mana reservation",
+            "20% reduced discipline mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced earthquake duration": {
+        "gen": "#% reduced earthquake duration",
+        "org": [
+            "20% reduced earthquake duration",
+            "30% reduced earthquake duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced grace mana reservation": {
+        "gen": "#% reduced grace mana reservation",
+        "org": [
+            "10% reduced grace mana reservation",
+            "15% reduced grace mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced haste mana reservation": {
+        "gen": "#% reduced haste mana reservation",
+        "org": [
+            "10% reduced haste mana reservation",
+            "15% reduced haste mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced hatred mana reservation": {
+        "gen": "#% reduced hatred mana reservation",
+        "org": [
+            "10% reduced hatred mana reservation",
+            "15% reduced hatred mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced herald of ash mana reservation": {
+        "gen": "#% reduced herald of ash mana reservation",
+        "org": [
+            "20% reduced herald of ash mana reservation",
+            "30% reduced herald of ash mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced herald of ice mana reservation": {
+        "gen": "#% reduced herald of ice mana reservation",
+        "org": [
+            "20% reduced herald of ice mana reservation",
+            "30% reduced herald of ice mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced herald of thunder mana reservation": {
+        "gen": "#% reduced herald of thunder mana reservation",
+        "org": [
+            "20% reduced herald of thunder mana reservation",
+            "30% reduced herald of thunder mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced lightning warp duration": {
+        "gen": "#% reduced lightning warp duration",
+        "org": [
+            "20% reduced lightning warp duration",
+            "30% reduced lightning warp duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced purity of elements mana reservation": {
+        "gen": "#% reduced purity of elements mana reservation",
+        "org": [
+            "14% reduced purity of elements mana reservation",
+            "20% reduced purity of elements mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced purity of fire mana reservation": {
+        "gen": "#% reduced purity of fire mana reservation",
+        "org": [
+            "14% reduced purity of fire mana reservation",
+            "20% reduced purity of fire mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced purity of ice mana reservation": {
+        "gen": "#% reduced purity of ice mana reservation",
+        "org": [
+            "14% reduced purity of ice mana reservation",
+            "20% reduced purity of ice mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced purity of lightning mana reservation": {
+        "gen": "#% reduced purity of lightning mana reservation",
+        "org": [
+            "14% reduced purity of lightning mana reservation",
+            "20% reduced purity of lightning mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced spectral throw projectile deceleration": {
+        "gen": "#% reduced spectral throw projectile deceleration",
+        "org": [
+            "20% reduced spectral throw projectile deceleration",
+            "30% reduced spectral throw projectile deceleration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced storm call duration": {
+        "gen": "#% reduced storm call duration",
+        "org": [
+            "20% reduced storm call duration",
+            "30% reduced storm call duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced vitality mana reservation": {
+        "gen": "#% reduced vitality mana reservation",
+        "org": [
+            "14% reduced vitality mana reservation",
+            "20% reduced vitality mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced wrath mana reservation": {
+        "gen": "#% reduced wrath mana reservation",
+        "org": [
+            "10% reduced wrath mana reservation",
+            "15% reduced wrath mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% sweep knockback chance": {
+        "gen": "#% sweep knockback chance",
+        "org": [
+            "+20% sweep knockback chance",
+            "+30% sweep knockback chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to ancestral protector totem elemental resistances": {
+        "gen": "#% to ancestral protector totem elemental resistances",
+        "org": [
+            "+24% to ancestral protector totem elemental resistances",
+            "+36% to ancestral protector totem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to animated guardian elemental resistances": {
+        "gen": "#% to animated guardian elemental resistances",
+        "org": [
+            "+24% to animated guardian elemental resistances",
+            "+36% to animated guardian elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos golem elemental resistances": {
+        "gen": "#% to chaos golem elemental resistances",
+        "org": [
+            "+24% to chaos golem elemental resistances",
+            "+36% to chaos golem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to ice golem elemental resistances": {
+        "gen": "#% to ice golem elemental resistances",
+        "org": [
+            "+24% to ice golem elemental resistances",
+            "+36% to ice golem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to increased flame golem elemental resistances": {
+        "gen": "#% to increased flame golem elemental resistances",
+        "org": [
+            "+24% to increased flame golem elemental resistances",
+            "+36% to increased flame golem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to lightning golem elemental resistances": {
+        "gen": "#% to lightning golem elemental resistances",
+        "org": [
+            "+24% to lightning golem elemental resistances",
+            "+36% to lightning golem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to raised spectre elemental resistances": {
+        "gen": "#% to raised spectre elemental resistances",
+        "org": [
+            "+24% to raised spectre elemental resistances",
+            "+36% to raised spectre elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to raised zombie elemental resistances": {
+        "gen": "#% to raised zombie elemental resistances",
+        "org": [
+            "+24% to raised zombie elemental resistances",
+            "+36% to raised zombie elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to stone golem elemental resistances": {
+        "gen": "#% to stone golem elemental resistances",
+        "org": [
+            "+24% to stone golem elemental resistances",
+            "+36% to stone golem elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ancestral protector totem deals #% increased damage": {
+        "gen": "ancestral protector totem deals #% increased damage",
+        "org": [
+            "ancestral protector totem deals 25% increased damage",
+            "ancestral protector totem deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ancestral protector totem grants #% increased attack speed while active": {
+        "gen": "ancestral protector totem grants #% increased attack speed while active",
+        "org": [
+            "ancestral protector totem grants 12% increased attack speed while active",
+            "ancestral protector totem grants 18% increased attack speed while active"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ancestral warchief totem grants #% increased melee damage while active": {
+        "gen": "ancestral warchief totem grants #% increased melee damage while active",
+        "org": [
+            "ancestral warchief totem grants 20% increased melee damage while active",
+            "ancestral warchief totem grants 30% increased melee damage while active"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "animated guardians deal #% increased damage": {
+        "gen": "animated guardians deal #% increased damage",
+        "org": [
+            "animated guardians deal 25% increased damage",
+            "animated guardians deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "animated weapons deal #% increased damage": {
+        "gen": "animated weapons deal #% increased damage",
+        "org": [
+            "animated weapons deal 25% increased damage",
+            "animated weapons deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "arc chains an additional time": {
+        "gen": "",
+        "org": [
+            "arc chains an additional time"
+        ],
+        "params": []
+    },
+    "arc deals #% increased damage for each time it has chained": {
+        "gen": "arc deals #% increased damage for each time it has chained",
+        "org": [
+            "arc deals 12% increased damage for each time it has chained",
+            "arc deals 8% increased damage for each time it has chained"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "arc has #% chance to shock": {
+        "gen": "arc has #% chance to shock",
+        "org": [
+            "arc has +20% chance to shock",
+            "arc has +30% chance to shock"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ball lightning fires an additional projectile": {
+        "gen": "",
+        "org": [
+            "ball lightning fires an additional projectile"
+        ],
+        "params": []
+    },
+    "barrage fires an additional projectile": {
+        "gen": "",
+        "org": [
+            "barrage fires an additional projectile"
+        ],
+        "params": []
+    },
+    "blade vortex has #% to critical strike multiplier for each blade": {
+        "gen": "blade vortex has #% to critical strike multiplier for each blade",
+        "org": [
+            "blade vortex has +2% to critical strike multiplier for each blade",
+            "blade vortex has +3% to critical strike multiplier for each blade"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "bladefall has an additional volley": {
+        "gen": "",
+        "org": [
+            "bladefall has an additional volley"
+        ],
+        "params": []
+    },
+    "blast rain has a #% chance for an additional blast": {
+        "gen": "blast rain has a #% chance for an additional blast",
+        "org": [
+            "blast rain has a 50% chance for an additional blast",
+            "blast rain has a 75% chance for an additional blast"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "blight has #% increased hinder duration": {
+        "gen": "blight has #% increased hinder duration",
+        "org": [
+            "blight has 20% increased hinder duration",
+            "blight has 30% increased hinder duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "blink arrow and blink arrow clones have #% increased attack speed": {
+        "gen": "blink arrow and blink arrow clones have #% increased attack speed",
+        "org": [
+            "blink arrow and blink arrow clones have 10% increased attack speed",
+            "blink arrow and blink arrow clones have 15% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "blink arrow and blink arrow clones have #% increased damage": {
+        "gen": "blink arrow and blink arrow clones have #% increased damage",
+        "org": [
+            "blink arrow and blink arrow clones have 25% increased damage",
+            "blink arrow and blink arrow clones have 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "blood rage grants additional #% chance to gain a frenzy charge on kill": {
+        "gen": "blood rage grants additional #% chance to gain a frenzy charge on kill",
+        "org": [
+            "blood rage grants additional 20% chance to gain a frenzy charge on kill",
+            "blood rage grants additional 30% chance to gain a frenzy charge on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "blood rage grants additional #% increased attack speed": {
+        "gen": "blood rage grants additional #% increased attack speed",
+        "org": [
+            "blood rage grants additional 12% increased attack speed",
+            "blood rage grants additional 8% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "bone offering grants an additional #% chance to block attack damage": {
+        "gen": "bone offering grants an additional #% chance to block attack damage",
+        "org": [
+            "bone offering grants an additional +6% chance to block attack damage",
+            "bone offering grants an additional +9% chance to block attack damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "burning arrow has #% chance to ignite": {
+        "gen": "burning arrow has #% chance to ignite",
+        "org": [
+            "burning arrow has +20% chance to ignite",
+            "burning arrow has +30% chance to ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "caustic arrow has #% chance to inflict withered on hit for # seconds base duration": {
+        "gen": "caustic arrow has #% chance to inflict withered on hit for # seconds base duration",
+        "org": [
+            "caustic arrow has 14% chance to inflict withered on hit for 2 seconds base duration",
+            "caustic arrow has 20% chance to inflict withered on hit for 2 seconds base duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "chaos golems deal #% increased damage": {
+        "gen": "chaos golems deal #% increased damage",
+        "org": [
+            "chaos golems deal 25% increased damage",
+            "chaos golems deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "charged dash has # to radius of each wave's last damage area": {
+        "gen": "charged dash has # to radius of each wave's last damage area",
+        "org": [
+            "charged dash has +4 to radius of each wave's last damage area",
+            "charged dash has +6 to radius of each wave's last damage area"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "charged dash has #% more movement speed": {
+        "gen": "charged dash has #% more movement speed",
+        "org": [
+            "charged dash has 10% more movement speed",
+            "charged dash has 15% more movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "consecrated path deals #% increased damage": {
+        "gen": "consecrated path deals #% increased damage",
+        "org": [
+            "consecrated path deals 25% increased damage",
+            "consecrated path deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "consecrated path has #% increased area of effect": {
+        "gen": "consecrated path has #% increased area of effect",
+        "org": [
+            "consecrated path has 12% increased area of effect",
+            "consecrated path has 8% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "consecrated path has #% increased teleport range": {
+        "gen": "consecrated path has #% increased teleport range",
+        "org": [
+            "consecrated path has 10% increased teleport range",
+            "consecrated path has 15% increased teleport range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "converted enemies have #% increased damage": {
+        "gen": "converted enemies have #% increased damage",
+        "org": [
+            "converted enemies have 25% increased damage",
+            "converted enemies have 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "cremation can have up to # additional geyser at a time": {
+        "gen": "cremation can have up to # additional geyser at a time",
+        "org": [
+            "cremation can have up to 1 additional geyser at a time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "desecrate summons # additional corpses": {
+        "gen": "desecrate summons # additional corpses",
+        "org": [
+            "desecrate summons 2 additional corpses",
+            "desecrate summons 3 additional corpses"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "detonate dead has a #% chance to detonate an additional corpse": {
+        "gen": "detonate dead has a #% chance to detonate an additional corpse",
+        "org": [
+            "detonate dead has a 30% chance to detonate an additional corpse",
+            "detonate dead has a 45% chance to detonate an additional corpse"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "dominating blow can summon # additional magic sentinels of dominance": {
+        "gen": "dominating blow can summon # additional magic sentinels of dominance",
+        "org": [
+            "dominating blow can summon 2 additional magic sentinels of dominance",
+            "dominating blow can summon 3 additional magic sentinels of dominance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "dominating blow can summon an additional rare sentinel of dominance": {
+        "gen": "",
+        "org": [
+            "dominating blow can summon an additional rare sentinel of dominance"
+        ],
+        "params": []
+    },
+    "double strike has a #% chance to deal double damage to bleeding enemies": {
+        "gen": "double strike has a #% chance to deal double damage to bleeding enemies",
+        "org": [
+            "double strike has a 10% chance to deal double damage to bleeding enemies",
+            "double strike has a 15% chance to deal double damage to bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "elemental hit deals #% increased damage": {
+        "gen": "elemental hit deals #% increased damage",
+        "org": [
+            "elemental hit deals 25% increased damage",
+            "elemental hit deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "elemental hit has #% chance to freeze, shock and ignite": {
+        "gen": "elemental hit has #% chance to freeze, shock and ignite",
+        "org": [
+            "elemental hit has +20% chance to freeze, shock and ignite",
+            "elemental hit has +30% chance to freeze, shock and ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "enemies affected by bear trap take #% increased damage from trap or mine hits": {
+        "gen": "enemies affected by bear trap take #% increased damage from trap or mine hits",
+        "org": [
+            "enemies affected by bear trap take 10% increased damage from trap or mine hits",
+            "enemies affected by bear trap take 5% increased damage from trap or mine hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ethereal knives pierces an additional target": {
+        "gen": "",
+        "org": [
+            "ethereal knives pierces an additional target"
+        ],
+        "params": []
+    },
+    "explosive trap causes # additional smaller explosions": {
+        "gen": "explosive trap causes # additional smaller explosions",
+        "org": [
+            "explosive trap causes 2 additional smaller explosions"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "explosive trap causes an additional smaller explosion": {
+        "gen": "",
+        "org": [
+            "explosive trap causes an additional smaller explosion"
+        ],
+        "params": []
+    },
+    "explosive trap deals #% increased damage": {
+        "gen": "explosive trap deals #% increased damage",
+        "org": [
+            "explosive trap deals 25% increased damage",
+            "explosive trap deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "explosive trap has #% increased area of effect": {
+        "gen": "explosive trap has #% increased area of effect",
+        "org": [
+            "explosive trap has 12% increased area of effect",
+            "explosive trap has 8% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "fire nova mine repeats an additional # times": {
+        "gen": "fire nova mine repeats an additional # times",
+        "org": [
+            "fire nova mine repeats an additional 1 times",
+            "fire nova mine repeats an additional 2 times"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "fireball has #% chance to ignite": {
+        "gen": "fireball has #% chance to ignite",
+        "org": [
+            "fireball has +20% chance to ignite",
+            "fireball has +30% chance to ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flame golems have #% increased damage": {
+        "gen": "flame golems have #% increased damage",
+        "org": [
+            "flame golems have 25% increased damage",
+            "flame golems have 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flame totem fires # additional projectiles": {
+        "gen": "flame totem fires # additional projectiles",
+        "org": [
+            "flame totem fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "flame totem fires an additional projectile": {
+        "gen": "",
+        "org": [
+            "flame totem fires an additional projectile"
+        ],
+        "params": []
+    },
+    "flamethrower trap deals #% increased damage": {
+        "gen": "flamethrower trap deals #% increased damage",
+        "org": [
+            "flamethrower trap deals 25% increased damage",
+            "flamethrower trap deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flamethrower trap has # additional flames": {
+        "gen": "flamethrower trap has # additional flames",
+        "org": [
+            "flamethrower trap has 2 additional flames"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "flamethrower trap has #% increased cast speed": {
+        "gen": "flamethrower trap has #% increased cast speed",
+        "org": [
+            "flamethrower trap has 12% increased cast speed",
+            "flamethrower trap has 8% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flamethrower trap has #% increased cooldown recovery speed": {
+        "gen": "flamethrower trap has #% increased cooldown recovery speed",
+        "org": [
+            "flamethrower trap has 10% increased cooldown recovery speed",
+            "flamethrower trap has 15% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flamethrower trap has #% increased skill effect duration": {
+        "gen": "flamethrower trap has #% increased skill effect duration",
+        "org": [
+            "flamethrower trap has 20% increased skill effect duration",
+            "flamethrower trap has 30% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "flamethrower trap has an additional flame": {
+        "gen": "",
+        "org": [
+            "flamethrower trap has an additional flame"
+        ],
+        "params": []
+    },
+    "flesh offering grants an additional #% increased attack speed": {
+        "gen": "flesh offering grants an additional #% increased attack speed",
+        "org": [
+            "flesh offering grants an additional 14% increased attack speed",
+            "flesh offering grants an additional 21% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "freeze mine causes enemies to lose an additional #% cold resistance while frozen": {
+        "gen": "freeze mine causes enemies to lose an additional #% cold resistance while frozen",
+        "org": [
+            "freeze mine causes enemies to lose an additional 12% cold resistance while frozen",
+            "freeze mine causes enemies to lose an additional 8% cold resistance while frozen"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "frost bomb has #% increased debuff duration": {
+        "gen": "frost bomb has #% increased debuff duration",
+        "org": [
+            "frost bomb has 20% increased debuff duration",
+            "frost bomb has 30% increased debuff duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "frostbolt has #% chance to freeze": {
+        "gen": "frostbolt has #% chance to freeze",
+        "org": [
+            "frostbolt has +10% chance to freeze",
+            "frostbolt has +15% chance to freeze"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of rejuvenation totem life regeneration as extra mana regeneration": {
+        "gen": "gain #% of rejuvenation totem life regeneration as extra mana regeneration",
+        "org": [
+            "gain 10% of rejuvenation totem life regeneration as extra mana regeneration",
+            "gain 15% of rejuvenation totem life regeneration as extra mana regeneration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "glacial hammer has #% chance to freeze": {
+        "gen": "glacial hammer has #% chance to freeze",
+        "org": [
+            "glacial hammer has +20% chance to freeze",
+            "glacial hammer has +30% chance to freeze"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ground slam has a #% increased angle": {
+        "gen": "ground slam has a #% increased angle",
+        "org": [
+            "ground slam has a 16% increased angle",
+            "ground slam has a 24% increased angle"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "heavy strike has a #% chance to deal double damage": {
+        "gen": "heavy strike has a #% chance to deal double damage",
+        "org": [
+            "heavy strike has a 12% chance to deal double damage",
+            "heavy strike has a 8% chance to deal double damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "herald of agony has #% reduced mana reservation": {
+        "gen": "herald of agony has #% reduced mana reservation",
+        "org": [
+            "herald of agony has 20% reduced mana reservation",
+            "herald of agony has 30% reduced mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "herald of purity has #% reduced mana reservation": {
+        "gen": "herald of purity has #% reduced mana reservation",
+        "org": [
+            "herald of purity has 20% reduced mana reservation",
+            "herald of purity has 30% reduced mana reservation"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ice golems deal #% increased damage": {
+        "gen": "ice golems deal #% increased damage",
+        "org": [
+            "ice golems deal 25% increased damage",
+            "ice golems deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ice nova has #% chance to freeze": {
+        "gen": "ice nova has #% chance to freeze",
+        "org": [
+            "ice nova has +20% chance to freeze",
+            "ice nova has +30% chance to freeze"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "ice trap damage penetrates #% cold resistance": {
+        "gen": "ice trap damage penetrates #% cold resistance",
+        "org": [
+            "ice trap damage penetrates 10% cold resistance",
+            "ice trap damage penetrates 6% cold resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "incinerate has # to maximum stages": {
+        "gen": "incinerate has # to maximum stages",
+        "org": [
+            "incinerate has +1 to maximum stages",
+            "incinerate has +2 to maximum stages"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "incinerate has #% increased area of effect": {
+        "gen": "incinerate has #% increased area of effect",
+        "org": [
+            "incinerate has 12% increased area of effect",
+            "incinerate has 8% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "infernal blow debuff deals an additional #% of damage per charge": {
+        "gen": "infernal blow debuff deals an additional #% of damage per charge",
+        "org": [
+            "infernal blow debuff deals an additional 3% of damage per charge",
+            "infernal blow debuff deals an additional 5% of damage per charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "kinetic blast has a #% chance for an additional explosion": {
+        "gen": "kinetic blast has a #% chance for an additional explosion",
+        "org": [
+            "kinetic blast has a 50% chance for an additional explosion",
+            "kinetic blast has a 75% chance for an additional explosion"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lacerate deals # added physical damage against bleeding enemies": {
+        "gen": "lacerate deals # added physical damage against bleeding enemies",
+        "org": [
+            "lacerate deals (14-18) to (20-25) added physical damage against bleeding enemies",
+            "lacerate deals (4-8) to (10-15) added physical damage against bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning arrow hits # additional enemies": {
+        "gen": "lightning arrow hits # additional enemies",
+        "org": [
+            "lightning arrow hits 2 additional enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "lightning arrow hits an additional enemy": {
+        "gen": "",
+        "org": [
+            "lightning arrow hits an additional enemy"
+        ],
+        "params": []
+    },
+    "lightning golems deal #% increased damage": {
+        "gen": "lightning golems deal #% increased damage",
+        "org": [
+            "lightning golems deal 25% increased damage",
+            "lightning golems deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning spire trap deals #% increased damage": {
+        "gen": "lightning spire trap deals #% increased damage",
+        "org": [
+            "lightning spire trap deals 25% increased damage",
+            "lightning spire trap deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning spire trap has #% increased cast speed": {
+        "gen": "lightning spire trap has #% increased cast speed",
+        "org": [
+            "lightning spire trap has 12% increased cast speed",
+            "lightning spire trap has 8% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning spire trap has #% increased cooldown recovery speed": {
+        "gen": "lightning spire trap has #% increased cooldown recovery speed",
+        "org": [
+            "lightning spire trap has 10% increased cooldown recovery speed",
+            "lightning spire trap has 15% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning spire trap has #% increased skill effect duration": {
+        "gen": "lightning spire trap has #% increased skill effect duration",
+        "org": [
+            "lightning spire trap has 20% increased skill effect duration",
+            "lightning spire trap has 30% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning spire trap strikes an additional area": {
+        "gen": "",
+        "org": [
+            "lightning spire trap strikes an additional area"
+        ],
+        "params": []
+    },
+    "lightning strike fires # additional projectiles": {
+        "gen": "lightning strike fires # additional projectiles",
+        "org": [
+            "lightning strike fires 2 additional projectiles",
+            "lightning strike fires 3 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning strike pierces # additional targets": {
+        "gen": "lightning strike pierces # additional targets",
+        "org": [
+            "lightning strike pierces 2 additional targets",
+            "lightning strike pierces 3 additional targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning trap damage penetrates #% lightning resistance": {
+        "gen": "lightning trap damage penetrates #% lightning resistance",
+        "org": [
+            "lightning trap damage penetrates 10% lightning resistance",
+            "lightning trap damage penetrates 6% lightning resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "lightning trap pierces # additional targets": {
+        "gen": "lightning trap pierces # additional targets",
+        "org": [
+            "lightning trap pierces 2 additional targets",
+            "lightning trap pierces 3 additional targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "magma orb chains an additional # times": {
+        "gen": "magma orb chains an additional # times",
+        "org": [
+            "magma orb chains an additional 2 times"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "magma orb chains an additional time": {
+        "gen": "",
+        "org": [
+            "magma orb chains an additional time"
+        ],
+        "params": []
+    },
+    "mirror arrow and mirror arrow clones deal #% increased damage": {
+        "gen": "mirror arrow and mirror arrow clones deal #% increased damage",
+        "org": [
+            "mirror arrow and mirror arrow clones deal 25% increased damage",
+            "mirror arrow and mirror arrow clones deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "mirror arrow and mirror arrow clones have #% increased attack speed": {
+        "gen": "mirror arrow and mirror arrow clones have #% increased attack speed",
+        "org": [
+            "mirror arrow and mirror arrow clones have 10% increased attack speed",
+            "mirror arrow and mirror arrow clones have 15% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "molten strike fires # additional projectiles": {
+        "gen": "molten strike fires # additional projectiles",
+        "org": [
+            "molten strike fires 2 additional projectiles",
+            "molten strike fires 3 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "orb of storms has #% increased cast speed": {
+        "gen": "orb of storms has #% increased cast speed",
+        "org": [
+            "orb of storms has 20% increased cast speed",
+            "orb of storms has 30% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "power siphon fires # additional projectiles": {
+        "gen": "power siphon fires # additional projectiles",
+        "org": [
+            "power siphon fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "power siphon fires an additional projectile": {
+        "gen": "",
+        "org": [
+            "power siphon fires an additional projectile"
+        ],
+        "params": []
+    },
+    "raging spirits have #% increased damage": {
+        "gen": "raging spirits have #% increased damage",
+        "org": [
+            "raging spirits have 25% increased damage",
+            "raging spirits have 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "rain of arrows has #% chance to fire an additional sequence of arrows": {
+        "gen": "rain of arrows has #% chance to fire an additional sequence of arrows",
+        "org": [
+            "rain of arrows has 10% chance to fire an additional sequence of arrows",
+            "rain of arrows has 15% chance to fire an additional sequence of arrows"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "righteous fire grants #% increased spell damage": {
+        "gen": "righteous fire grants #% increased spell damage",
+        "org": [
+            "righteous fire grants 20% increased spell damage",
+            "righteous fire grants 30% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "scourge arrow creates an additional spore pod at maximum stages": {
+        "gen": "",
+        "org": [
+            "scourge arrow creates an additional spore pod at maximum stages"
+        ],
+        "params": []
+    },
+    "scourge arrow deals #% increased damage": {
+        "gen": "scourge arrow deals #% increased damage",
+        "org": [
+            "scourge arrow deals 25% increased damage",
+            "scourge arrow deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "scourge arrow has #% chance to poison per stage": {
+        "gen": "scourge arrow has #% chance to poison per stage",
+        "org": [
+            "scourge arrow has 6% chance to poison per stage",
+            "scourge arrow has 8% chance to poison per stage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "seismic trap deals #% increased damage": {
+        "gen": "seismic trap deals #% increased damage",
+        "org": [
+            "seismic trap deals 25% increased damage",
+            "seismic trap deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "seismic trap has #% increased cooldown recovery speed": {
+        "gen": "seismic trap has #% increased cooldown recovery speed",
+        "org": [
+            "seismic trap has 10% increased cooldown recovery speed",
+            "seismic trap has 15% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "seismic trap has #% increased skill effect duration": {
+        "gen": "seismic trap has #% increased skill effect duration",
+        "org": [
+            "seismic trap has 20% increased skill effect duration",
+            "seismic trap has 30% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "seismic trap releases an additional wave": {
+        "gen": "",
+        "org": [
+            "seismic trap releases an additional wave"
+        ],
+        "params": []
+    },
+    "shock nova ring deals #% increased damage": {
+        "gen": "shock nova ring deals #% increased damage",
+        "org": [
+            "shock nova ring deals 40% increased damage",
+            "shock nova ring deals 60% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "siphoning trap deals #% increased damage": {
+        "gen": "siphoning trap deals #% increased damage",
+        "org": [
+            "siphoning trap deals 25% increased damage",
+            "siphoning trap deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "siphoning trap has #% increased chill effect": {
+        "gen": "siphoning trap has #% increased chill effect",
+        "org": [
+            "siphoning trap has 25% increased chill effect",
+            "siphoning trap has 40% increased chill effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "siphoning trap has #% increased skill effect duration": {
+        "gen": "siphoning trap has #% increased skill effect duration",
+        "org": [
+            "siphoning trap has 30% increased skill effect duration",
+            "siphoning trap has 45% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "siphoning trap's beam to you grants #% reduced damage taken for each other beam": {
+        "gen": "siphoning trap's beam to you grants #% reduced damage taken for each other beam",
+        "org": [
+            "siphoning trap's beam to you grants 1% reduced damage taken for each other beam"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "skeletons deal #% increased damage": {
+        "gen": "skeletons deal #% increased damage",
+        "org": [
+            "skeletons deal 25% increased damage",
+            "skeletons deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "smite deals #% increased damage": {
+        "gen": "smite deals #% increased damage",
+        "org": [
+            "smite deals 25% increased damage",
+            "smite deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "smite has #% increased aura effect": {
+        "gen": "smite has #% increased aura effect",
+        "org": [
+            "smite has 20% increased aura effect",
+            "smite has 30% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "smite has a #% chance for lightning to strike another target": {
+        "gen": "smite has a #% chance for lightning to strike another target",
+        "org": [
+            "smite has a 10% chance for lightning to strike another target",
+            "smite has a 15% chance for lightning to strike another target"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "smoke mine grants additional #% increased movement speed": {
+        "gen": "smoke mine grants additional #% increased movement speed",
+        "org": [
+            "smoke mine grants additional 20% increased movement speed",
+            "smoke mine grants additional 30% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spark fires # additional projectiles": {
+        "gen": "spark fires # additional projectiles",
+        "org": [
+            "spark fires 2 additional projectiles",
+            "spark fires 3 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spectral shield throw fires # additional shard projectiles": {
+        "gen": "spectral shield throw fires # additional shard projectiles",
+        "org": [
+            "spectral shield throw fires 3 additional shard projectiles",
+            "spectral shield throw fires 5 additional shard projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spectres have #% increased attack and cast speed": {
+        "gen": "spectres have #% increased attack and cast speed",
+        "org": [
+            "spectres have 12% increased attack and cast speed",
+            "spectres have 8% increased attack and cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spectres have #% increased damage": {
+        "gen": "spectres have #% increased damage",
+        "org": [
+            "spectres have 25% increased damage",
+            "spectres have 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spirit offering grants #% of physical damage as extra chaos damage": {
+        "gen": "spirit offering grants #% of physical damage as extra chaos damage",
+        "org": [
+            "spirit offering grants +12% of physical damage as extra chaos damage",
+            "spirit offering grants +8% of physical damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "split arrow fires # additional projectiles": {
+        "gen": "split arrow fires # additional projectiles",
+        "org": [
+            "split arrow fires 2 additional projectiles",
+            "split arrow fires 3 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "static strike has # maximum beam targets": {
+        "gen": "static strike has # maximum beam targets",
+        "org": [
+            "static strike has +1 maximum beam targets",
+            "static strike has +2 maximum beam targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "stone golems deal #% increased damage": {
+        "gen": "stone golems deal #% increased damage",
+        "org": [
+            "stone golems deal 25% increased damage",
+            "stone golems deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "summon raging spirit has #% chance to summon an extra minion": {
+        "gen": "summon raging spirit has #% chance to summon an extra minion",
+        "org": [
+            "summon raging spirit has 12% chance to summon an extra minion",
+            "summon raging spirit has 18% chance to summon an extra minion"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "summoned agony crawler fires # additional projectiles": {
+        "gen": "summoned agony crawler fires # additional projectiles",
+        "org": [
+            "summoned agony crawler fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "summoned holy relics deal #% increased damage": {
+        "gen": "summoned holy relics deal #% increased damage",
+        "org": [
+            "summoned holy relics deal 25% increased damage",
+            "summoned holy relics deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "summoned holy relics have #% increased area of effect": {
+        "gen": "summoned holy relics have #% increased area of effect",
+        "org": [
+            "summoned holy relics have 15% increased area of effect",
+            "summoned holy relics have 20% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "summoned holy relics have #% increased buff effect": {
+        "gen": "summoned holy relics have #% increased buff effect",
+        "org": [
+            "summoned holy relics have 100% increased buff effect",
+            "summoned holy relics have 75% increased buff effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "tempest shield chains an additional # times": {
+        "gen": "tempest shield chains an additional # times",
+        "org": [
+            "tempest shield chains an additional 2 times",
+            "tempest shield chains an additional 3 times"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "tornado shot fires # additional secondary projectiles": {
+        "gen": "tornado shot fires # additional secondary projectiles",
+        "org": [
+            "tornado shot fires 2 additional secondary projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "tornado shot fires an additional secondary projectile": {
+        "gen": "",
+        "org": [
+            "tornado shot fires an additional secondary projectile"
+        ],
+        "params": []
+    },
+    "toxic rain deals #% increased damage": {
+        "gen": "toxic rain deals #% increased damage",
+        "org": [
+            "toxic rain deals 25% increased damage",
+            "toxic rain deals 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "toxic rain fires # additional arrow": {
+        "gen": "toxic rain fires # additional arrow",
+        "org": [
+            "toxic rain fires 1 additional arrow"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "toxic rain gains #% of physical damage as extra chaos damage": {
+        "gen": "toxic rain gains #% of physical damage as extra chaos damage",
+        "org": [
+            "toxic rain gains 10% of physical damage as extra chaos damage",
+            "toxic rain gains 6% of physical damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "unearth creates corpses with # level": {
+        "gen": "unearth creates corpses with # level",
+        "org": [
+            "unearth creates corpses with +3 level",
+            "unearth creates corpses with +5 level"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "volatile dead destroys up to # additional corpse": {
+        "gen": "volatile dead destroys up to # additional corpse",
+        "org": [
+            "volatile dead destroys up to 1 additional corpse"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "vortex has #% increased area of effect when cast on frostbolt": {
+        "gen": "vortex has #% increased area of effect when cast on frostbolt",
+        "org": [
+            "vortex has 30% increased area of effect when cast on frostbolt",
+            "vortex has 45% increased area of effect when cast on frostbolt"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "wild strike chains an additional # times": {
+        "gen": "wild strike chains an additional # times",
+        "org": [
+            "wild strike chains an additional 4 times",
+            "wild strike chains an additional 6 times"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "wither #% increased duration": {
+        "gen": "wither #% increased duration",
+        "org": [
+            "wither 24% increased duration",
+            "wither 36% increased duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "wither has #% increased area of effect": {
+        "gen": "wither has #% increased area of effect",
+        "org": [
+            "wither has 12% increased area of effect",
+            "wither has 8% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "zombies deal #% increased damage": {
+        "gen": "zombies deal #% increased damage",
+        "org": [
+            "zombies deal 25% increased damage",
+            "zombies deal 40% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "zombies have #% increased attack speed": {
+        "gen": "zombies have #% increased attack speed",
+        "org": [
+            "zombies have 10% increased attack speed",
+            "zombies have 15% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

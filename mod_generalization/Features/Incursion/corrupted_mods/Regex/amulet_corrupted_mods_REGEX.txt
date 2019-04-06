@@ -1,0 +1,84 @@
+enemies can have # additional curse
+#% increased attack speed
+#% chance to block
+grants level # clarity skill
+#% of cold damage leeched as life
+#% to all maximum resistances
+#% of lightning damage leeched as life
+#% increased movement speed
+#% of fire damage leeched as life
+#% of block chance applied to spells
+grants level # purity of fire skill
+grants level # purity of ice skill
+grants level # purity of lightning skill
+grants level # purity of elements skill
+#% increased fish bite sensitivity
+#% increased elemental damage with attack skills
+#% increased rarity of items found
+#% increased quantity of items found
+wrath has #% increased aura effect
+anger has #% increased aura effect
+hatred has #% increased aura effect
+determination has #% increased aura effect
+discipline has #% increased aura effect
+grace has #% increased aura effect
+#% increased intelligence
+#% increased dexterity
+#% increased dexterity
+#% increased strength
+#% increased strength
+#% increased intelligence
+#% to all elemental resistances
+# life regenerated per second
+#% increased mana regeneration rate
+# to dexterity
+# to intelligence
+#% increased rarity of items found
+#% increased rarity of items found
+#% increased mana regeneration rate
+# to strength and dexterity
+# to strength and intelligence
+# to dexterity and intelligence
+# to all attributes
+# to strength
+has # socket
+#% increased global defences
+#% to global critical strike multiplier
+#% to fire resistance
+#% increased mana regeneration rate
+# life regenerated per second
+#% increased damage
+#% of life regenerated per second
+#% increased mana regeneration rate
+#% increased attributes
+#% increased global defences
+#% increased chaos damage
+#% increased attack damage
+#% increased cold damage
+#% increased fire damage
+#% increased lightning damage
+#% increased spell damage
+#% increased global physical damage
+#% increased maximum mana
+#% increased damage
+#% additional physical damage reduction
+#% chance to freeze, shock and ignite
+#% increased global critical strike chance
+#% increased area of effect
+#% increased attack and cast speed
+#% increased quantity of items found
+#% increased maximum life
+#% to global critical strike multiplier
+# to maximum number of zombies
+#% chance to gain a frenzy charge on kill
+#% chance to gain a power charge on kill
+#% chance to gain an endurance charge on kill
+#% of life regenerated per second
+#% of cold damage from hits taken as fire damage
+#% of cold damage from hits taken as lightning damage
+#% of fire damage from hits taken as cold damage
+#% of fire damage from hits taken as lightning damage
+#% of lightning damage from hits taken as cold damage
+#% of lightning damage from hits taken as fire damage
+gain #% of physical damage as extra damage of a random element
+projectiles pierce # additional targets

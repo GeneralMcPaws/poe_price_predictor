@@ -1,0 +1,123 @@
+{
+    "#% chance to gain an endurance charge when you stun an enemy": {
+        "gen": "#% chance to gain an endurance charge when you stun an enemy",
+        "org": [
+            "(5-7)% chance to gain an endurance charge when you stun an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(25-30)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(5-7)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(10-15)% increased physical damage",
+            "(16-20)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun duration on enemies": {
+        "gen": "#% increased stun duration on enemies",
+        "org": [
+            "45% increased stun duration on enemies",
+            "30% increased stun duration on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds 1 to (2-3) physical damage",
+            "adds (4-5) to (6-8) physical damage",
+            "adds (8-9) to (11-13) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "socketed gems are supported by level # fortify": {
+        "gen": "socketed gems are supported by level # fortify",
+        "org": [
+            "socketed gems are supported by level 10 fortify"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # onslaught": {
+        "gen": "socketed gems are supported by level # onslaught",
+        "org": [
+            "socketed gems are supported by level 10 onslaught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # reduced mana": {
+        "gen": "socketed gems are supported by level # reduced mana",
+        "org": [
+            "socketed gems are supported by level 10 reduced mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

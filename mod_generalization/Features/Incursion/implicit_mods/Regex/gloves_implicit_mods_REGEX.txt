@@ -1,0 +1,13 @@
+#% to chaos resistance
+# to level of vaal gems in this item
+#% increased cast speed
+# to level of gems in this item
+gems in this item are supported by level # cast when stunned
+gems in this item are supported by level # cast on crit
+curse enemies with level # temporal chains on hit
+curse enemies with level # vulnerability on hit
+curse enemies with level # elemental weakness on hit
+grants level # assassin's mark skill
+#% increased spell damage
+#% increased projectile attack damage
+#% increased melee damage

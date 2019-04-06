@@ -1,0 +1,17 @@
+#% of fire damage leeched as life
+#% of cold damage leeched as life
+#% of lightning damage leeched as life
+#% chance to cause monsters to flee
+adds ## chaos damage
+adds ## chaos damage
+adds ## chaos damage
+# to weapon range
+gems in this item are supported by level # melee splash
+gems in this item are supported by level # added fire damage
+gems in this item are supported by level # stun
+#% of physical damage converted to fire damage
+#% of physical damage converted to cold damage
+#% of physical damage converted to lightning damage
+gems in this item are supported by level # weapon elemental damage
+gems in this item are supported by level # faster casting
+# maximum power charge

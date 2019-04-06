@@ -1,0 +1,21 @@
+(15-20)% increased Area of Effect
+(5-7)% increased Attack Speed
+(10-15)% increased Physical Damage
+(16-20)% increased Physical Damage
+(10-15)% chance to Fortify on Melee hit
+(10-15)% chance to gain Onslaught for 4 seconds on Kill
+Adds (3-4) to (5-7) Physical Damage
+Adds (5-7) to (10-12) Physical Damage
+Adds 1 to 2 Physical Damage
+Resolute Technique
+(14-18)% increased Critical Strike Chance
+Damage Penetrates (8-10)% Elemental Resistances
+Gain a Frenzy Charge after Spending a total of 200 Mana
+Skills fire an additional Projectile
+40% increased Global Accuracy Rating
++190 to Accuracy Rating
++240 to Accuracy Rating
++330 to Accuracy Rating
++25% to Global Critical Strike Multiplier
+(3-5)% chance to cause bleeding on hit
+(3-5)% chance to dodge attack hits

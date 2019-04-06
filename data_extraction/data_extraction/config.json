@@ -1,0 +1,37 @@
+{
+  "CONFIG": {
+
+    "OUTPUT_PATH": "D:\\reformed_stashes_data\\stash_repo_2018-07-10",
+    "MONGO_HOST": "mongodb://localhost:27017/",
+    "DATABASE_NAME": "poe_database",
+    "NAMES_WHITELISTED": ["Tabula Rasa Simple Robe","Loreweave Elegant Ringmail","Ventor's Gamble Gold Ring"],
+    "CATEGORIES_WHITELISTED": [ "amulet", "belt", "boots", "bow", "chest", "claw", "dagger", 
+                                "gloves", "helmet", "jewels", "oneaxe", "onemace", 
+                                "onesword","wand", "ring", "quiver"]
+  },
+
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "simple": {
+        "format": "%(levelname)s : %(asctime)s %(message)s"
+      }
+    },
+    "handlers": {
+      "file_handler": {
+        "level": "DEBUG",
+        "class": "logging.FileHandler",
+        "filename": "data_extraction_logger.log",
+        "formatter": "simple",
+        "mode": "a"
+      }
+    },
+    "loggers": {
+      "file_logger": {
+        "handlers": ["file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

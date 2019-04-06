@@ -1,0 +1,4347 @@
+{
+    "# dexterity per # dexterity on allocated passives in radius": {
+        "gen": "# dexterity per # dexterity on allocated passives in radius",
+        "org": [
+            "-1 dexterity per 1 dexterity on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "# energy shield gained for each enemy hit while affected by discipline": {
+        "gen": "# energy shield gained for each enemy hit while affected by discipline",
+        "org": [
+            "+(20-30) energy shield gained for each enemy hit while affected by discipline"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# intelligence for each unallocated passive in radius": {
+        "gen": "# intelligence for each unallocated passive in radius",
+        "org": [
+            "+4 intelligence for each unallocated passive in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+4"
+            }
+        ]
+    },
+    "# intelligence per # intelligence on allocated passives in radius": {
+        "gen": "# intelligence per # intelligence on allocated passives in radius",
+        "org": [
+            "-1 intelligence per 1 intelligence on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "# life gained for each elemental ailment on enemies hit by your attacks": {
+        "gen": "# life gained for each elemental ailment on enemies hit by your attacks",
+        "org": [
+            "+3 life gained for each elemental ailment on enemies hit by your attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+3"
+            }
+        ]
+    },
+    "# life gained for each elemental ailment on enemies hit by your spells": {
+        "gen": "# life gained for each elemental ailment on enemies hit by your spells",
+        "org": [
+            "+3 life gained for each elemental ailment on enemies hit by your spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+3"
+            }
+        ]
+    },
+    "# life gained for each enemy hit while affected by vitality": {
+        "gen": "# life gained for each enemy hit while affected by vitality",
+        "org": [
+            "+(20-30) life gained for each enemy hit while affected by vitality"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life regenerated per second while affected by vitality": {
+        "gen": "# life regenerated per second while affected by vitality",
+        "org": [
+            "(100-140) life regenerated per second while affected by vitality"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana regenerated per second": {
+        "gen": "# mana regenerated per second",
+        "org": [
+            "3 mana regenerated per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "# second to summon skeleton cooldown": {
+        "gen": "# second to summon skeleton cooldown",
+        "org": [
+            "+1 second to summon skeleton cooldown"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# strength per # strength on allocated passives in radius": {
+        "gen": "# strength per # strength on allocated passives in radius",
+        "org": [
+            "-1 strength per 1 strength on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "# to accuracy rating per # intelligence on unallocated passives in radius": {
+        "gen": "# to accuracy rating per # intelligence on unallocated passives in radius",
+        "org": [
+            "+100 to accuracy rating per 10 intelligence on unallocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+100"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "# to armour": {
+        "gen": "# to armour",
+        "org": [
+            "+50 to armour"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+50"
+            }
+        ]
+    },
+    "# to armour while affected by determination": {
+        "gen": "# to armour while affected by determination",
+        "org": [
+            "+(600-1000) to armour while affected by determination"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to dexterity": {
+        "gen": "# to dexterity",
+        "org": [
+            "+(16-24) to dexterity",
+            "+20 to dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [
+            "+(16-24) to intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum endurance charges": {
+        "gen": "# to maximum endurance charges",
+        "org": [
+            "-1 to maximum endurance charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            }
+        ]
+    },
+    "# to maximum frenzy charges": {
+        "gen": "# to maximum frenzy charges",
+        "org": [
+            "-1 to maximum frenzy charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            }
+        ]
+    },
+    "# to maximum mana per # dexterity on unallocated passives in radius": {
+        "gen": "# to maximum mana per # dexterity on unallocated passives in radius",
+        "org": [
+            "+15 to maximum mana per 10 dexterity on unallocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+15"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "# to maximum number of spectres": {
+        "gen": "# to maximum number of spectres",
+        "org": [
+            "+2 to maximum number of spectres"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to maximum power charges": {
+        "gen": "# to maximum power charges",
+        "org": [
+            "-1 to maximum power charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-1"
+            }
+        ]
+    },
+    "# to melee weapon and unarmed attack range": {
+        "gen": "# to melee weapon and unarmed attack range",
+        "org": [
+            "+1 to melee weapon and unarmed attack range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [
+            "+(16-24) to strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to total mana cost of skills while affected by clarity": {
+        "gen": "# to total mana cost of skills while affected by clarity",
+        "org": [
+            "-(10-5) to total mana cost of skills while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to unarmed range": {
+        "gen": "# to unarmed range",
+        "org": [
+            "+4 to unarmed range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+4"
+            }
+        ]
+    },
+    "#% additional block chance": {
+        "gen": "#% additional block chance",
+        "org": [
+            "(2-4)% additional block chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to receive a critical strike": {
+        "gen": "#% additional chance to receive a critical strike",
+        "org": [
+            "(7-10)% additional chance to receive a critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional physical damage reduction per # strength on allocated passives in radius": {
+        "gen": "#% additional physical damage reduction per # strength on allocated passives in radius",
+        "org": [
+            "1% additional physical damage reduction per 10 strength on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% additional physical damage reduction while affected by determination": {
+        "gen": "#% additional physical damage reduction while affected by determination",
+        "org": [
+            "(5-8)% additional physical damage reduction while affected by determination"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance for traps to trigger an additional time": {
+        "gen": "#% chance for traps to trigger an additional time",
+        "org": [
+            "(8-12)% chance for traps to trigger an additional time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to avoid elemental ailments": {
+        "gen": "#% chance to avoid elemental ailments",
+        "org": [
+            "3% chance to avoid elemental ailments"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% chance to blind enemies which hit you while affected by grace": {
+        "gen": "#% chance to blind enemies which hit you while affected by grace",
+        "org": [
+            "(30-50)% chance to blind enemies which hit you while affected by grace"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block spells while affected by discipline": {
+        "gen": "#% chance to block spells while affected by discipline",
+        "org": [
+            "(5-8)% chance to block spells while affected by discipline"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block while affected by determination": {
+        "gen": "#% chance to block while affected by determination",
+        "org": [
+            "(5-8)% chance to block while affected by determination"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits": {
+        "gen": "#% chance to dodge attack hits",
+        "org": [
+            "2% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% chance to dodge attack hits while affected by grace": {
+        "gen": "#% chance to dodge attack hits while affected by grace",
+        "org": [
+            "(6-10)% chance to dodge attack hits while affected by grace"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attacks": {
+        "gen": "#% chance to dodge attacks",
+        "org": [
+            "2% chance to dodge attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% chance to dodge spell damage while your energy shield is full": {
+        "gen": "#% chance to dodge spell damage while your energy shield is full",
+        "org": [
+            "5% chance to dodge spell damage while your energy shield is full"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% chance to dodge spell hits while affected by haste": {
+        "gen": "#% chance to dodge spell hits while affected by haste",
+        "org": [
+            "(5-8)% chance to dodge spell hits while affected by haste"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to evade attacks while affected by grace": {
+        "gen": "#% chance to evade attacks while affected by grace",
+        "org": [
+            "+(5-8)% chance to evade attacks while affected by grace"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to freeze": {
+        "gen": "#% chance to freeze",
+        "org": [
+            "2% chance to freeze"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% chance to gain an additional vaal soul on kill": {
+        "gen": "#% chance to gain an additional vaal soul on kill",
+        "org": [
+            "(20-30)% chance to gain an additional vaal soul on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain an additional vaal soul per enemy shattered": {
+        "gen": "#% chance to gain an additional vaal soul per enemy shattered",
+        "org": [
+            "50% chance to gain an additional vaal soul per enemy shattered"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to gain unholy might for # seconds on melee kill": {
+        "gen": "#% chance to gain unholy might for # seconds on melee kill",
+        "org": [
+            "5% chance to gain unholy might for 4 seconds on melee kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% chance to ignite": {
+        "gen": "#% chance to ignite",
+        "org": [
+            "2% chance to ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% chance to recover #% of maximum mana when you use a skill while affected by clarity": {
+        "gen": "#% chance to recover #% of maximum mana when you use a skill while affected by clarity",
+        "org": [
+            "(10-15)% chance to recover 10% of maximum mana when you use a skill while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% faster start of energy shield recharge": {
+        "gen": "#% faster start of energy shield recharge",
+        "org": [
+            "20% faster start of energy shield recharge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% faster start of energy shield recharge while affected by discipline": {
+        "gen": "#% faster start of energy shield recharge while affected by discipline",
+        "org": [
+            "(30-40)% faster start of energy shield recharge while affected by discipline"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased accuracy rating": {
+        "gen": "#% increased accuracy rating",
+        "org": [
+            "20% increased accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased area of effect while unarmed": {
+        "gen": "#% increased area of effect while unarmed",
+        "org": [
+            "(10-15)% increased area of effect while unarmed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased armour": {
+        "gen": "#% increased armour",
+        "org": [
+            "(15-20)% increased armour",
+            "(10-15)% increased armour"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased armour while bleeding": {
+        "gen": "#% increased armour while bleeding",
+        "org": [
+            "(30-40)% increased armour while bleeding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack and cast speed": {
+        "gen": "#% increased attack and cast speed",
+        "org": [
+            "4% increased attack and cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased attack damage": {
+        "gen": "#% increased attack damage",
+        "org": [
+            "8% increased attack damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% increased attributes": {
+        "gen": "#% increased attributes",
+        "org": [
+            "(5-7)% increased attributes"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attributes per allocated keystone": {
+        "gen": "#% increased attributes per allocated keystone",
+        "org": [
+            "4% increased attributes per allocated keystone"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased burning damage": {
+        "gen": "#% increased burning damage",
+        "org": [
+            "(20-30)% increased burning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage": {
+        "gen": "#% increased chaos damage",
+        "org": [
+            "(7-13)% increased chaos damage",
+            "(15-20)% increased chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage per # intelligence from allocated passives in radius": {
+        "gen": "#% increased chaos damage per # intelligence from allocated passives in radius",
+        "org": [
+            "5% increased chaos damage per 10 intelligence from allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased character size": {
+        "gen": "#% increased character size",
+        "org": [
+            "3% increased character size"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased claw physical damage per # dexterity allocated in radius": {
+        "gen": "#% increased claw physical damage per # dexterity allocated in radius",
+        "org": [
+            "1% increased claw physical damage per 3 dexterity allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased cold damage": {
+        "gen": "#% increased cold damage",
+        "org": [
+            "(10-15)% increased cold damage",
+            "(18-25)% increased cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold damage while affected by hatred": {
+        "gen": "#% increased cold damage while affected by hatred",
+        "org": [
+            "(40-60)% increased cold damage while affected by hatred"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cooldown recovery speed of movement skills used while affected by haste": {
+        "gen": "#% increased cooldown recovery speed of movement skills used while affected by haste",
+        "org": [
+            "(30-50)% increased cooldown recovery speed of movement skills used while affected by haste"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance while affected by wrath": {
+        "gen": "#% increased critical strike chance while affected by wrath",
+        "org": [
+            "(70-100)% increased critical strike chance while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage": {
+        "gen": "#% increased damage",
+        "org": [
+            "10% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased damage for each equipped magic item": {
+        "gen": "#% increased damage for each equipped magic item",
+        "org": [
+            "(20-25)% increased damage for each equipped magic item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage if you summoned a golem in the past # seconds": {
+        "gen": "#% increased damage if you summoned a golem in the past # seconds",
+        "org": [
+            "(25-30)% increased damage if you summoned a golem in the past 8 seconds"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% increased damage over time": {
+        "gen": "#% increased damage over time",
+        "org": [
+            "(8-12)% increased damage over time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage per curse on you": {
+        "gen": "#% increased damage per curse on you",
+        "org": [
+            "(10-20)% increased damage per curse on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage taken": {
+        "gen": "#% increased damage taken",
+        "org": [
+            "10% increased damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased damage taken while on full energy shield": {
+        "gen": "#% increased damage taken while on full energy shield",
+        "org": [
+            "10% increased damage taken while on full energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased damage while leeching": {
+        "gen": "#% increased damage while leeching",
+        "org": [
+            "(25-30)% increased damage while leeching"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with hits against chilled enemies": {
+        "gen": "#% increased damage with hits against chilled enemies",
+        "org": [
+            "(15-20)% increased damage with hits against chilled enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dexterity": {
+        "gen": "#% increased dexterity",
+        "org": [
+            "(4-6)% increased dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of buffs granted by your golems": {
+        "gen": "#% increased effect of buffs granted by your golems",
+        "org": [
+            "30% increased effect of buffs granted by your golems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% increased effect of flasks on you": {
+        "gen": "#% increased effect of flasks on you",
+        "org": [
+            "8% increased effect of flasks on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% increased effect of non-curse auras you cast": {
+        "gen": "#% increased effect of non-curse auras you cast",
+        "org": [
+            "3% increased effect of non-curse auras you cast"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased effect of non-keystone passive skills in radius": {
+        "gen": "#% increased effect of non-keystone passive skills in radius",
+        "org": [
+            "50% increased effect of non-keystone passive skills in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% increased effect of your curses": {
+        "gen": "#% increased effect of your curses",
+        "org": [
+            "4% increased effect of your curses"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased elemental damage": {
+        "gen": "#% increased elemental damage",
+        "org": [
+            "10% increased elemental damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased elemental damage per grand spectrum": {
+        "gen": "#% increased elemental damage per grand spectrum",
+        "org": [
+            "12% increased elemental damage per grand spectrum"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "#% increased energy shield recovery rate while affected by discipline": {
+        "gen": "#% increased energy shield recovery rate while affected by discipline",
+        "org": [
+            "(20-30)% increased energy shield recovery rate while affected by discipline"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased evasion rating per # dexterity allocated in radius": {
+        "gen": "#% increased evasion rating per # dexterity allocated in radius",
+        "org": [
+            "1% increased evasion rating per 3 dexterity allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased experience gain for corrupted gems": {
+        "gen": "#% increased experience gain for corrupted gems",
+        "org": [
+            "10% increased experience gain for corrupted gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased fire damage": {
+        "gen": "#% increased fire damage",
+        "org": [
+            "(10-15)% increased fire damage",
+            "(18-25)% increased fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire damage while affected by anger": {
+        "gen": "#% increased fire damage while affected by anger",
+        "org": [
+            "(40-60)% increased fire damage while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [
+            "20% increased global accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "30% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% increased global defences": {
+        "gen": "#% increased global defences",
+        "org": [
+            "5% increased global defences"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% increased global physical damage": {
+        "gen": "#% increased global physical damage",
+        "org": [
+            "(10-15)% increased global physical damage",
+            "(8-12)% increased global physical damage",
+            "10% increased global physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased golem damage for each type of golem you have summoned": {
+        "gen": "#% increased golem damage for each type of golem you have summoned",
+        "org": [
+            "(16-20)% increased golem damage for each type of golem you have summoned"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased intelligence": {
+        "gen": "#% increased intelligence",
+        "org": [
+            "(4-6)% increased intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life recovery from flasks": {
+        "gen": "#% increased life recovery from flasks",
+        "org": [
+            "8% increased life recovery from flasks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% increased life recovery from flasks while affected by vitality": {
+        "gen": "#% increased life recovery from flasks while affected by vitality",
+        "org": [
+            "(50-70)% increased life recovery from flasks while affected by vitality"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life recovery rate while affected by vitality": {
+        "gen": "#% increased life recovery rate while affected by vitality",
+        "org": [
+            "(20-30)% increased life recovery rate while affected by vitality"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life regeneration rate when on full energy shield": {
+        "gen": "#% increased life regeneration rate when on full energy shield",
+        "org": [
+            "(10-15)% increased life regeneration rate when on full energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning damage": {
+        "gen": "#% increased lightning damage",
+        "org": [
+            "(10-15)% increased lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning damage while affected by wrath": {
+        "gen": "#% increased lightning damage while affected by wrath",
+        "org": [
+            "(40-60)% increased lightning damage while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mana cost of skills": {
+        "gen": "#% increased mana cost of skills",
+        "org": [
+            "100% increased mana cost of skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased mana recovery rate while affected by clarity": {
+        "gen": "#% increased mana recovery rate while affected by clarity",
+        "org": [
+            "(20-30)% increased mana recovery rate while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mana regeneration rate": {
+        "gen": "#% increased mana regeneration rate",
+        "org": [
+            "10% increased mana regeneration rate",
+            "(20-30)% increased mana regeneration rate"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [
+            "(3-6)% increased maximum energy shield",
+            "(4-6)% increased maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [
+            "(6-8)% increased maximum life",
+            "4% increased maximum life",
+            "(4-6)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum mana": {
+        "gen": "#% increased maximum mana",
+        "org": [
+            "(15-20)% increased maximum mana",
+            "(7-10)% increased maximum mana",
+            "(4-6)% increased maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee physical damage with unarmed attacks per # dexterity allocated in radius": {
+        "gen": "#% increased melee physical damage with unarmed attacks per # dexterity allocated in radius",
+        "org": [
+            "1% increased melee physical damage with unarmed attacks per 3 dexterity allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "4% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased movement speed per # dexterity on allocated passives in radius": {
+        "gen": "#% increased movement speed per # dexterity on allocated passives in radius",
+        "org": [
+            "2% increased movement speed per 10 dexterity on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased movement speed while affected by grace": {
+        "gen": "#% increased movement speed while affected by grace",
+        "org": [
+            "(10-15)% increased movement speed while affected by grace"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased movement speed while ignited": {
+        "gen": "#% increased movement speed while ignited",
+        "org": [
+            "(10-15)% increased movement speed while ignited"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile damage": {
+        "gen": "#% increased projectile damage",
+        "org": [
+            "(7-10)% increased projectile damage",
+            "10% increased projectile damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased skeleton attack speed": {
+        "gen": "#% increased skeleton attack speed",
+        "org": [
+            "(7-10)% increased skeleton attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased skeleton cast speed": {
+        "gen": "#% increased skeleton cast speed",
+        "org": [
+            "(7-10)% increased skeleton cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased skeleton movement speed": {
+        "gen": "#% increased skeleton movement speed",
+        "org": [
+            "(3-5)% increased skeleton movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased skill effect duration": {
+        "gen": "#% increased skill effect duration",
+        "org": [
+            "4% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(20-30)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while no mana is reserved": {
+        "gen": "#% increased spell damage while no mana is reserved",
+        "org": [
+            "(40-60)% increased spell damage while no mana is reserved"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while not on low mana": {
+        "gen": "#% increased spell damage while not on low mana",
+        "org": [
+            "(15-25)% increased spell damage while not on low mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage while your energy shield is full": {
+        "gen": "#% increased spell damage while your energy shield is full",
+        "org": [
+            "(20-30)% increased spell damage while your energy shield is full"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased strength": {
+        "gen": "#% increased strength",
+        "org": [
+            "(4-6)% increased strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased totem life per # strength allocated in radius": {
+        "gen": "#% increased totem life per # strength allocated in radius",
+        "org": [
+            "3% increased totem life per 10 strength allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased trap damage": {
+        "gen": "#% increased trap damage",
+        "org": [
+            "(15-25)% increased trap damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased trap trigger area of effect": {
+        "gen": "#% increased trap trigger area of effect",
+        "org": [
+            "(40-60)% increased trap trigger area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vaal skill critical strike chance": {
+        "gen": "#% increased vaal skill critical strike chance",
+        "org": [
+            "(80-120)% increased vaal skill critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vaal skill effect duration": {
+        "gen": "#% increased vaal skill effect duration",
+        "org": [
+            "(15-20)% increased vaal skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of block chance applied to spells": {
+        "gen": "#% of block chance applied to spells",
+        "org": [
+            "20% of block chance applied to spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% of damage leeched as life while affected by vitality": {
+        "gen": "#% of damage leeched as life while affected by vitality",
+        "org": [
+            "(1-1.5)% of damage leeched as life while affected by vitality"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of damage taken from mana before life while affected by clarity": {
+        "gen": "#% of damage taken from mana before life while affected by clarity",
+        "org": [
+            "(6-10)% of damage taken from mana before life while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of damage taken gained as mana over # seconds when hit while affected by clarity": {
+        "gen": "#% of damage taken gained as mana over # seconds when hit while affected by clarity",
+        "org": [
+            "(15-20)% of damage taken gained as mana over 4 seconds when hit while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% of energy shield regenerated per second for every # intelligence on allocated passives in radius": {
+        "gen": "#% of energy shield regenerated per second for every # intelligence on allocated passives in radius",
+        "org": [
+            "0.4% of energy shield regenerated per second for every 10 intelligence on allocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.4"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% of fire damage leeched as life while affected by anger": {
+        "gen": "#% of fire damage leeched as life while affected by anger",
+        "org": [
+            "(1-1.5)% of fire damage leeched as life while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of life regenerated per second": {
+        "gen": "#% of life regenerated per second",
+        "org": [
+            "2% of life regenerated per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% of lightning damage is leeched as mana while affected by wrath": {
+        "gen": "#% of lightning damage is leeched as mana while affected by wrath",
+        "org": [
+            "(1-1.5)% of lightning damage is leeched as mana while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of maximum energy shield regenerated per second while affected by discipline": {
+        "gen": "#% of maximum energy shield regenerated per second while affected by discipline",
+        "org": [
+            "(1.5-2.5)% of maximum energy shield regenerated per second while affected by discipline"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of maximum mana gained on kill": {
+        "gen": "#% of maximum mana gained on kill",
+        "org": [
+            "1% of maximum mana gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% of physical damage converted to cold damage while affected by hatred": {
+        "gen": "#% of physical damage converted to cold damage while affected by hatred",
+        "org": [
+            "(25-40)% of physical damage converted to cold damage while affected by hatred"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage converted to fire damage while affected by anger": {
+        "gen": "#% of physical damage converted to fire damage while affected by anger",
+        "org": [
+            "(25-40)% of physical damage converted to fire damage while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage converted to lightning damage while affected by wrath": {
+        "gen": "#% of physical damage converted to lightning damage while affected by wrath",
+        "org": [
+            "(25-40)% of physical damage converted to lightning damage while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as cold damage while affected by purity of elements": {
+        "gen": "#% of physical damage from hits taken as cold damage while affected by purity of elements",
+        "org": [
+            "(8-12)% of physical damage from hits taken as cold damage while affected by purity of elements"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as cold damage while affected by purity of ice": {
+        "gen": "#% of physical damage from hits taken as cold damage while affected by purity of ice",
+        "org": [
+            "(6-10)% of physical damage from hits taken as cold damage while affected by purity of ice"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as fire damage while affected by purity of elements": {
+        "gen": "#% of physical damage from hits taken as fire damage while affected by purity of elements",
+        "org": [
+            "(8-12)% of physical damage from hits taken as fire damage while affected by purity of elements"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as fire damage while affected by purity of fire": {
+        "gen": "#% of physical damage from hits taken as fire damage while affected by purity of fire",
+        "org": [
+            "(6-10)% of physical damage from hits taken as fire damage while affected by purity of fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as lightning damage while affected by purity of elements": {
+        "gen": "#% of physical damage from hits taken as lightning damage while affected by purity of elements",
+        "org": [
+            "(8-12)% of physical damage from hits taken as lightning damage while affected by purity of elements"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as lightning damage while affected by purity of lightning": {
+        "gen": "#% of physical damage from hits taken as lightning damage while affected by purity of lightning",
+        "org": [
+            "(6-10)% of physical damage from hits taken as lightning damage while affected by purity of lightning"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced intelligence": {
+        "gen": "#% reduced intelligence",
+        "org": [
+            "(15-10)% reduced intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced life leeched per second": {
+        "gen": "#% reduced life leeched per second",
+        "org": [
+            "(20-10)% reduced life leeched per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced mana cost of raise spectre": {
+        "gen": "#% reduced mana cost of raise spectre",
+        "org": [
+            "(50-40)% reduced mana cost of raise spectre"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced mana cost of skills": {
+        "gen": "#% reduced mana cost of skills",
+        "org": [
+            "3% reduced mana cost of skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% reduced mana cost of totem skills that cast an aura": {
+        "gen": "#% reduced mana cost of totem skills that cast an aura",
+        "org": [
+            "60% reduced mana cost of totem skills that cast an aura"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "60"
+            }
+        ]
+    },
+    "#% reduced mana cost while not on low mana": {
+        "gen": "#% reduced mana cost while not on low mana",
+        "org": [
+            "10% reduced mana cost while not on low mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% reduced mana reserved": {
+        "gen": "#% reduced mana reserved",
+        "org": [
+            "2% reduced mana reserved"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% reduced movement speed": {
+        "gen": "#% reduced movement speed",
+        "org": [
+            "15% reduced movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% reduced quantity of items found": {
+        "gen": "#% reduced quantity of items found",
+        "org": [
+            "10% reduced quantity of items found"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% reduced reflected cold damage taken while affected by purity of ice": {
+        "gen": "#% reduced reflected cold damage taken while affected by purity of ice",
+        "org": [
+            "(50-40)% reduced reflected cold damage taken while affected by purity of ice"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected elemental damage taken while affected by purity of elements": {
+        "gen": "#% reduced reflected elemental damage taken while affected by purity of elements",
+        "org": [
+            "(50-40)% reduced reflected elemental damage taken while affected by purity of elements"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected fire damage taken while affected by purity of fire": {
+        "gen": "#% reduced reflected fire damage taken while affected by purity of fire",
+        "org": [
+            "(50-40)% reduced reflected fire damage taken while affected by purity of fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected lightning damage taken while affected by purity of lightning": {
+        "gen": "#% reduced reflected lightning damage taken while affected by purity of lightning",
+        "org": [
+            "(50-40)% reduced reflected lightning damage taken while affected by purity of lightning"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected physical damage taken while affected by determination": {
+        "gen": "#% reduced reflected physical damage taken while affected by determination",
+        "org": [
+            "(50-40)% reduced reflected physical damage taken while affected by determination"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced skeleton duration": {
+        "gen": "#% reduced skeleton duration",
+        "org": [
+            "(20-10)% reduced skeleton duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced spark duration": {
+        "gen": "#% reduced spark duration",
+        "org": [
+            "(20-15)% reduced spark duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced totem damage": {
+        "gen": "#% reduced totem damage",
+        "org": [
+            "(50-30)% reduced totem damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced trap duration": {
+        "gen": "#% reduced trap duration",
+        "org": [
+            "10% reduced trap duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+6% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+6"
+            }
+        ]
+    },
+    "#% to chaos resistance per poison on you": {
+        "gen": "#% to chaos resistance per poison on you",
+        "org": [
+            "+1% to chaos resistance per poison on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "#% to chaos resistance while affected by purity of elements": {
+        "gen": "#% to chaos resistance while affected by purity of elements",
+        "org": [
+            "+(30-50)% to chaos resistance while affected by purity of elements"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike chance while affected by hatred": {
+        "gen": "#% to critical strike chance while affected by hatred",
+        "org": [
+            "+(1.2-1.8)% to critical strike chance while affected by hatred"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier per # strength on unallocated passives in radius": {
+        "gen": "#% to critical strike multiplier per # strength on unallocated passives in radius",
+        "org": [
+            "+5% to critical strike multiplier per 10 strength on unallocated passives in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+5"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% to critical strike multiplier while affected by anger": {
+        "gen": "#% to critical strike multiplier while affected by anger",
+        "org": [
+            "+(30-50)% to critical strike multiplier while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "<two or three random aura modifiers>": {
+        "gen": "",
+        "org": [
+            "<two or three random aura modifiers>"
+        ],
+        "params": []
+    },
+    "adds # cold damage while affected by hatred": {
+        "gen": "adds # cold damage while affected by hatred",
+        "org": [
+            "adds (58-70) to (88-104) cold damage while affected by hatred"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire attack damage per buff on you": {
+        "gen": "adds # fire attack damage per buff on you",
+        "org": [
+            "adds (3-5) to (8-12) fire attack damage per buff on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire spell damage per buff on you": {
+        "gen": "adds # fire spell damage per buff on you",
+        "org": [
+            "adds (2-3) to (5-8) fire spell damage per buff on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to attacks": {
+        "gen": "adds # lightning damage to attacks",
+        "org": [
+            "adds 1 to 2 lightning damage to attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1 to 2"
+            }
+        ]
+    },
+    "adds # maximum lightning damage to attacks per # dexterity allocated in radius": {
+        "gen": "adds # maximum lightning damage to attacks per # dexterity allocated in radius",
+        "org": [
+            "adds 1 maximum lightning damage to attacks per 1 dexterity allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "adds # physical damage per buff on you": {
+        "gen": "adds # physical damage per buff on you",
+        "org": [
+            "adds (3-5) to (8-12) physical damage per buff on you"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # to maximum life per # intelligence allocated in radius": {
+        "gen": "adds # to maximum life per # intelligence allocated in radius",
+        "org": [
+            "adds 1 to maximum life per 3 intelligence allocated in radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "bleeding you inflict is reflected to you": {
+        "gen": "",
+        "org": [
+            "bleeding you inflict is reflected to you"
+        ],
+        "params": []
+    },
+    "can have up to # additional trap placed at a time": {
+        "gen": "can have up to # additional trap placed at a time",
+        "org": [
+            "can have up to 1 additional trap placed at a time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "can summon up to # additional golem at a time": {
+        "gen": "can summon up to # additional golem at a time",
+        "org": [
+            "can summon up to 1 additional golem at a time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "corrupted": {
+        "gen": "",
+        "org": [
+            "corrupted"
+        ],
+        "params": []
+    },
+    "damage penetrates #% cold resistance while affected by hatred": {
+        "gen": "damage penetrates #% cold resistance while affected by hatred",
+        "org": [
+            "damage penetrates (10-15)% cold resistance while affected by hatred"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "damage penetrates #% fire resistance while affected by anger": {
+        "gen": "damage penetrates #% fire resistance while affected by anger",
+        "org": [
+            "damage penetrates (10-15)% fire resistance while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "damage penetrates #% lightning resistance while affected by wrath": {
+        "gen": "damage penetrates #% lightning resistance while affected by wrath",
+        "org": [
+            "damage penetrates (10-15)% lightning resistance while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "debuffs on you expire #% faster while affected by haste": {
+        "gen": "debuffs on you expire #% faster while affected by haste",
+        "org": [
+            "debuffs on you expire (20-15)% faster while affected by haste"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "dexterity and intelligence from passives in radius count towards strength melee damage bonus": {
+        "gen": "",
+        "org": [
+            "dexterity and intelligence from passives in radius count towards strength melee damage bonus"
+        ],
+        "params": []
+    },
+    "dexterity from passives in radius is transformed to intelligence": {
+        "gen": "",
+        "org": [
+            "dexterity from passives in radius is transformed to intelligence"
+        ],
+        "params": []
+    },
+    "dexterity from passives in radius is transformed to strength": {
+        "gen": "",
+        "org": [
+            "dexterity from passives in radius is transformed to strength"
+        ],
+        "params": []
+    },
+    "elemental hit deals #% increased damage": {
+        "gen": "elemental hit deals #% increased damage",
+        "org": [
+            "elemental hit deals (10-15)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain # armour per grand spectrum": {
+        "gen": "gain # armour per grand spectrum",
+        "org": [
+            "gain 200 armour per grand spectrum"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "gain # mana per grand spectrum": {
+        "gen": "gain # mana per grand spectrum",
+        "org": [
+            "gain 30 mana per grand spectrum"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "gain #% of cold damage as extra chaos damage": {
+        "gen": "gain #% of cold damage as extra chaos damage",
+        "org": [
+            "gain 5% of cold damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "gain #% of fire damage as extra chaos damage": {
+        "gen": "gain #% of fire damage as extra chaos damage",
+        "org": [
+            "gain 5% of fire damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "gain #% of lightning damage as extra chaos damage": {
+        "gen": "gain #% of lightning damage as extra chaos damage",
+        "org": [
+            "gain 5% of lightning damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "gain #% of maximum mana as extra maximum energy shield while affected by clarity": {
+        "gen": "gain #% of maximum mana as extra maximum energy shield while affected by clarity",
+        "org": [
+            "gain (12-18)% of maximum mana as extra maximum energy shield while affected by clarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra fire damage while affected by anger": {
+        "gen": "gain #% of physical damage as extra fire damage while affected by anger",
+        "org": [
+            "gain (15-25)% of physical damage as extra fire damage while affected by anger"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra lightning damage while affected by wrath": {
+        "gen": "gain #% of physical damage as extra lightning damage while affected by wrath",
+        "org": [
+            "gain (15-25)% of physical damage as extra lightning damage while affected by wrath"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golem skills have #% increased cooldown recovery speed": {
+        "gen": "golem skills have #% increased cooldown recovery speed",
+        "org": [
+            "golem skills have (20-30)% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golems have # to armour": {
+        "gen": "golems have # to armour",
+        "org": [
+            "golems have +(800-1000) to armour"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golems have #% increased attack and cast speed": {
+        "gen": "golems have #% increased attack and cast speed",
+        "org": [
+            "golems have (16-20)% increased attack and cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golems have #% increased cooldown recovery speed": {
+        "gen": "golems have #% increased cooldown recovery speed",
+        "org": [
+            "golems have (10-15)% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golems have #% increased maximum life": {
+        "gen": "golems have #% increased maximum life",
+        "org": [
+            "golems have (18-22)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "golems regenerate #% of their maximum life per second": {
+        "gen": "golems regenerate #% of their maximum life per second",
+        "org": [
+            "golems regenerate 2% of their maximum life per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "golems summoned in the past # seconds deal #% increased damage": {
+        "gen": "golems summoned in the past # seconds deal #% increased damage",
+        "org": [
+            "golems summoned in the past 8 seconds deal (35-45)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            },
+            {
+                "pos": 1,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "if 4 notables are allocated in radius, when you kill a rare monster, you gain 1 of its mods for 20 seconds": {
+        "gen": "",
+        "org": [
+            "if 4 notables are allocated in radius, when you kill a rare monster, you gain 1 of its mods for 20 seconds"
+        ],
+        "params": []
+    },
+    "if at least # dexterity is allocated in radius, gain #% of physical damage as extra chaos damage": {
+        "gen": "if at least # dexterity is allocated in radius, gain #% of physical damage as extra chaos damage",
+        "org": [
+            "if at least 70 dexterity is allocated in radius, gain 5% of physical damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "70"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "if at least # intelligence is allocated within the radius, enemies can have an additional curse": {
+        "gen": "if at least # intelligence is allocated within the radius, enemies can have an additional curse",
+        "org": [
+            "if at least 70 intelligence is allocated within the radius, enemies can have an additional curse"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "70"
+            }
+        ]
+    },
+    "if at least # strength is allocated in radius, #% increased life recovery rate": {
+        "gen": "if at least # strength is allocated in radius, #% increased life recovery rate",
+        "org": [
+            "if at least 70 strength is allocated in radius, 15% increased life recovery rate"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "70"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "if you have # primordial jewels, can summon up to # additional golem at a time": {
+        "gen": "if you have # primordial jewels, can summon up to # additional golem at a time",
+        "org": [
+            "if you have 3 primordial jewels, can summon up to 1 additional golem at a time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "immune to freeze while affected by purity of ice": {
+        "gen": "",
+        "org": [
+            "immune to freeze while affected by purity of ice"
+        ],
+        "params": []
+    },
+    "immune to ignite while affected by purity of fire": {
+        "gen": "",
+        "org": [
+            "immune to ignite while affected by purity of fire"
+        ],
+        "params": []
+    },
+    "immune to shock while affected by purity of lightning": {
+        "gen": "",
+        "org": [
+            "immune to shock while affected by purity of lightning"
+        ],
+        "params": []
+    },
+    "increases and reductions to cold damage in radius are transformed to apply to physical damage": {
+        "gen": "",
+        "org": [
+            "increases and reductions to cold damage in radius are transformed to apply to physical damage"
+        ],
+        "params": []
+    },
+    "increases and reductions to energy shield in radius are transformed to apply to armour at #% of their value": {
+        "gen": "increases and reductions to energy shield in radius are transformed to apply to armour at #% of their value",
+        "org": [
+            "increases and reductions to energy shield in radius are transformed to apply to armour at 200% of their value"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "increases and reductions to life in radius are transformed to apply to energy shield": {
+        "gen": "",
+        "org": [
+            "increases and reductions to life in radius are transformed to apply to energy shield"
+        ],
+        "params": []
+    },
+    "increases and reductions to life in radius are transformed to apply to mana at #% of their value": {
+        "gen": "increases and reductions to life in radius are transformed to apply to mana at #% of their value",
+        "org": [
+            "increases and reductions to life in radius are transformed to apply to mana at 200% of their value"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "increases and reductions to other damage types in radius are transformed to apply to fire damage": {
+        "gen": "",
+        "org": [
+            "increases and reductions to other damage types in radius are transformed to apply to fire damage"
+        ],
+        "params": []
+    },
+    "increases and reductions to physical damage in radius are transformed to apply to cold damage": {
+        "gen": "",
+        "org": [
+            "increases and reductions to physical damage in radius are transformed to apply to cold damage"
+        ],
+        "params": []
+    },
+    "intelligence from passives in radius is transformed to dexterity": {
+        "gen": "",
+        "org": [
+            "intelligence from passives in radius is transformed to dexterity"
+        ],
+        "params": []
+    },
+    "intelligence from passives in radius is transformed to strength": {
+        "gen": "",
+        "org": [
+            "intelligence from passives in radius is transformed to strength"
+        ],
+        "params": []
+    },
+    "melee and melee weapon type modifiers in radius are transformed to bow modifiers": {
+        "gen": "",
+        "org": [
+            "melee and melee weapon type modifiers in radius are transformed to bow modifiers"
+        ],
+        "params": []
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (8-12)% increased damage",
+            "minions deal (10-15)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% chance to dodge attack hits": {
+        "gen": "minions have #% chance to dodge attack hits",
+        "org": [
+            "minions have (2-5)% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased area of effect": {
+        "gen": "minions have #% increased area of effect",
+        "org": [
+            "minions have (6-8)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased maximum life": {
+        "gen": "minions have #% increased maximum life",
+        "org": [
+            "minions have (5-15)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased movement speed": {
+        "gen": "minions have #% increased movement speed",
+        "org": [
+            "minions have (5-10)% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% to all elemental resistances": {
+        "gen": "minions have #% to all elemental resistances",
+        "org": [
+            "minions have +(7-10)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions recover #% of their maximum life when they block": {
+        "gen": "minions recover #% of their maximum life when they block",
+        "org": [
+            "minions recover 2% of their maximum life when they block"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "notable passive skills in radius grant nothing": {
+        "gen": "",
+        "org": [
+            "notable passive skills in radius grant nothing"
+        ],
+        "params": []
+    },
+    "passives granting cold resistance or all elemental resistances in radius also grant an equal chance to gain a frenzy charge on kill": {
+        "gen": "",
+        "org": [
+            "passives granting cold resistance or all elemental resistances in radius also grant an equal chance to gain a frenzy charge on kill"
+        ],
+        "params": []
+    },
+    "passives granting cold resistance or all elemental resistances in radius also grant chance to dodge attack hits at #% of its value": {
+        "gen": "passives granting cold resistance or all elemental resistances in radius also grant chance to dodge attack hits at #% of its value",
+        "org": [
+            "passives granting cold resistance or all elemental resistances in radius also grant chance to dodge attack hits at 35% of its value"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "35"
+            }
+        ]
+    },
+    "passives granting fire resistance or all elemental resistances in radius also grant an equal chance to gain an endurance charge on kill": {
+        "gen": "",
+        "org": [
+            "passives granting fire resistance or all elemental resistances in radius also grant an equal chance to gain an endurance charge on kill"
+        ],
+        "params": []
+    },
+    "passives granting fire resistance or all elemental resistances in radius also grant chance to block at #% of its value": {
+        "gen": "passives granting fire resistance or all elemental resistances in radius also grant chance to block at #% of its value",
+        "org": [
+            "passives granting fire resistance or all elemental resistances in radius also grant chance to block at 35% of its value"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "35"
+            }
+        ]
+    },
+    "passives granting lightning resistance or all elemental resistances in radius also grant an equal chance to gain a power charge on kill": {
+        "gen": "",
+        "org": [
+            "passives granting lightning resistance or all elemental resistances in radius also grant an equal chance to gain a power charge on kill"
+        ],
+        "params": []
+    },
+    "passives granting lightning resistance or all elemental resistances in radius also grant chance to block spells at #% of its value": {
+        "gen": "passives granting lightning resistance or all elemental resistances in radius also grant chance to block spells at #% of its value",
+        "org": [
+            "passives granting lightning resistance or all elemental resistances in radius also grant chance to block spells at 35% of its value"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "35"
+            }
+        ]
+    },
+    "passives in radius apply to minions instead of you": {
+        "gen": "",
+        "org": [
+            "passives in radius apply to minions instead of you"
+        ],
+        "params": []
+    },
+    "passives in radius can be allocated without being connected to your tree": {
+        "gen": "",
+        "org": [
+            "passives in radius can be allocated without being connected to your tree"
+        ],
+        "params": []
+    },
+    "poison you inflict is reflected to you": {
+        "gen": "",
+        "org": [
+            "poison you inflict is reflected to you"
+        ],
+        "params": []
+    },
+    "primordial": {
+        "gen": "",
+        "org": [
+            "primordial"
+        ],
+        "params": []
+    },
+    "projectiles pierce an additional target": {
+        "gen": "",
+        "org": [
+            "projectiles pierce an additional target"
+        ],
+        "params": []
+    },
+    "recover #% of your maximum life when you consume or destroy a corpse": {
+        "gen": "recover #% of your maximum life when you consume or destroy a corpse",
+        "org": [
+            "recover 2% of your maximum life when you consume or destroy a corpse"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "removes #% of maximum energy shield on kill": {
+        "gen": "removes #% of maximum energy shield on kill",
+        "org": [
+            "removes 1% of maximum energy shield on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "removes #% of maximum life on kill": {
+        "gen": "removes #% of maximum life on kill",
+        "org": [
+            "removes 1% of maximum life on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "spectres have #% increased critical strike chance": {
+        "gen": "spectres have #% increased critical strike chance",
+        "org": [
+            "spectres have (800-1000)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "spectres have a base duration of # seconds spectres do not travel between areas": {
+        "gen": "spectres have a base duration of # seconds spectres do not travel between areas",
+        "org": [
+            "spectres have a base duration of 20 seconds spectres do not travel between areas"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "strength from passives in radius is transformed to dexterity": {
+        "gen": "",
+        "org": [
+            "strength from passives in radius is transformed to dexterity"
+        ],
+        "params": []
+    },
+    "strength from passives in radius is transformed to intelligence": {
+        "gen": "",
+        "org": [
+            "strength from passives in radius is transformed to intelligence"
+        ],
+        "params": []
+    },
+    "summon # additional skeleton warriors with summon skeleton": {
+        "gen": "summon # additional skeleton warriors with summon skeleton",
+        "org": [
+            "summon 2 additional skeleton warriors with summon skeleton"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "totems cannot be stunned": {
+        "gen": "",
+        "org": [
+            "totems cannot be stunned"
+        ],
+        "params": []
+    },
+    "totems fire # additional projectiles": {
+        "gen": "totems fire # additional projectiles",
+        "org": [
+            "totems fire 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "traps and mines deal # additional physical damage": {
+        "gen": "traps and mines deal # additional physical damage",
+        "org": [
+            "traps and mines deal (3-5) to (10-15) additional physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "traps and mines have a #% chance to poison on hit": {
+        "gen": "traps and mines have a #% chance to poison on hit",
+        "org": [
+            "traps and mines have a 25% chance to poison on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "unaffected by burning ground while affected by purity of fire": {
+        "gen": "",
+        "org": [
+            "unaffected by burning ground while affected by purity of fire"
+        ],
+        "params": []
+    },
+    "unaffected by chilled ground while affected by purity of ice": {
+        "gen": "",
+        "org": [
+            "unaffected by chilled ground while affected by purity of ice"
+        ],
+        "params": []
+    },
+    "unaffected by conductivity while affected by purity of lightning": {
+        "gen": "",
+        "org": [
+            "unaffected by conductivity while affected by purity of lightning"
+        ],
+        "params": []
+    },
+    "unaffected by elemental weakness while affected by purity of elements": {
+        "gen": "",
+        "org": [
+            "unaffected by elemental weakness while affected by purity of elements"
+        ],
+        "params": []
+    },
+    "unaffected by enfeeble while affected by grace": {
+        "gen": "",
+        "org": [
+            "unaffected by enfeeble while affected by grace"
+        ],
+        "params": []
+    },
+    "unaffected by flammability while affected by purity of fire": {
+        "gen": "",
+        "org": [
+            "unaffected by flammability while affected by purity of fire"
+        ],
+        "params": []
+    },
+    "unaffected by frostbite while affected by purity of ice": {
+        "gen": "",
+        "org": [
+            "unaffected by frostbite while affected by purity of ice"
+        ],
+        "params": []
+    },
+    "unaffected by shocked ground while affected by purity of lightning": {
+        "gen": "",
+        "org": [
+            "unaffected by shocked ground while affected by purity of lightning"
+        ],
+        "params": []
+    },
+    "unaffected by temporal chains while affected by haste": {
+        "gen": "",
+        "org": [
+            "unaffected by temporal chains while affected by haste"
+        ],
+        "params": []
+    },
+    "unaffected by vulnerability while affected by determination": {
+        "gen": "",
+        "org": [
+            "unaffected by vulnerability while affected by determination"
+        ],
+        "params": []
+    },
+    "while your passive skill tree connects to a class' starting location, you gain: marauder: melee skills have #% increased area of effect duelist: #% of attack damage leeched as life ranger: #% increased movement speed shadow: #% to critical strike chance witch: #% of maximum mana regenerated per second templar: damage penetrates #% elemental resistances scion: # to all attributes": {
+        "gen": "while your passive skill tree connects to a class' starting location, you gain: marauder: melee skills have #% increased area of effect duelist: #% of attack damage leeched as life ranger: #% increased movement speed shadow: #% to critical strike chance witch: #% of maximum mana regenerated per second templar: damage penetrates #% elemental resistances scion: # to all attributes",
+        "org": [
+            "while your passive skill tree connects to a class' starting location, you gain: marauder: melee skills have 15% increased area of effect duelist: 1% of attack damage leeched as life ranger: 7% increased movement speed shadow: +0.5% to critical strike chance witch: 0.5% of maximum mana regenerated per second templar: damage penetrates 5% elemental resistances scion: +25 to all attributes"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the duelist's starting location, you gain: #% of attack damage leeched as life": {
+        "gen": "while your passive skill tree connects to the duelist's starting location, you gain: #% of attack damage leeched as life",
+        "org": [
+            "while your passive skill tree connects to the duelist's starting location, you gain: 1% of attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the marauder's starting location, you gain: melee skills have #% increased area of effect": {
+        "gen": "while your passive skill tree connects to the marauder's starting location, you gain: melee skills have #% increased area of effect",
+        "org": [
+            "while your passive skill tree connects to the marauder's starting location, you gain: melee skills have 15% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the ranger's starting location, you gain: #% increased movement speed": {
+        "gen": "while your passive skill tree connects to the ranger's starting location, you gain: #% increased movement speed",
+        "org": [
+            "while your passive skill tree connects to the ranger's starting location, you gain: 7% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "7"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the scion's starting location, you gain: # to all attributes": {
+        "gen": "while your passive skill tree connects to the scion's starting location, you gain: # to all attributes",
+        "org": [
+            "while your passive skill tree connects to the scion's starting location, you gain: +25 to all attributes"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+25"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the shadow's starting location, you gain: #% to critical strike chance": {
+        "gen": "while your passive skill tree connects to the shadow's starting location, you gain: #% to critical strike chance",
+        "org": [
+            "while your passive skill tree connects to the shadow's starting location, you gain: +0.5% to critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+0.5"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the templar's starting location, you gain: damage penetrates #% elemental resistances": {
+        "gen": "while your passive skill tree connects to the templar's starting location, you gain: damage penetrates #% elemental resistances",
+        "org": [
+            "while your passive skill tree connects to the templar's starting location, you gain: damage penetrates 5% elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "while your passive skill tree connects to the witch's starting location, you gain: #% of maximum mana regenerated per second": {
+        "gen": "while your passive skill tree connects to the witch's starting location, you gain: #% of maximum mana regenerated per second",
+        "org": [
+            "while your passive skill tree connects to the witch's starting location, you gain: 0.5% of maximum mana regenerated per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "with # corrupted items equipped: #% of chaos damage does not bypass energy shield, and ": {
+        "gen": "with # corrupted items equipped: #% of chaos damage does not bypass energy shield, and ",
+        "org": [
+            "with 5 corrupted items equipped: 50% of chaos damage does not bypass energy shield, and 50% of physical damage bypasses energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with # corrupted items equipped: gain soul eater for # seconds on vaal skill use": {
+        "gen": "with # corrupted items equipped: gain soul eater for # seconds on vaal skill use",
+        "org": [
+            "with 5 corrupted items equipped: gain soul eater for 10 seconds on vaal skill use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with # corrupted items equipped: life leech recovers based on your chaos damage instead": {
+        "gen": "with # corrupted items equipped: life leech recovers based on your chaos damage instead",
+        "org": [
+            "with 5 corrupted items equipped: life leech recovers based on your chaos damage instead"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with # intelligence in radius, #% of glacial cascade physical damage converted to cold damage": {
+        "gen": "with # intelligence in radius, #% of glacial cascade physical damage converted to cold damage",
+        "org": [
+            "with 40 intelligence in radius, 20% of glacial cascade physical damage converted to cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "with # intelligence in radius, glacial cascade has an additional burst": {
+        "gen": "with # intelligence in radius, glacial cascade has an additional burst",
+        "org": [
+            "with 40 intelligence in radius, glacial cascade has an additional burst"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with # total dexterity and strength in radius, elemental hit cannot choose lightning": {
+        "gen": "with # total dexterity and strength in radius, elemental hit cannot choose lightning",
+        "org": [
+            "with 40 total dexterity and strength in radius, elemental hit cannot choose lightning"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with # total intelligence and dexterity in radius, elemental hit cannot choose fire": {
+        "gen": "with # total intelligence and dexterity in radius, elemental hit cannot choose fire",
+        "org": [
+            "with 40 total intelligence and dexterity in radius, elemental hit cannot choose fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with # total strength and intelligence in radius, elemental hit cannot choose cold": {
+        "gen": "with # total strength and intelligence in radius, elemental hit cannot choose cold",
+        "org": [
+            "with 40 total strength and intelligence in radius, elemental hit cannot choose cold"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, animate weapon can animate up to # ranged weapons": {
+        "gen": "with at least # dexterity in radius, animate weapon can animate up to # ranged weapons",
+        "org": [
+            "with at least 40 dexterity in radius, animate weapon can animate up to 8 ranged weapons"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, barrage fires an additional # projectiles simultaneously on the first and final attacks": {
+        "gen": "with at least # dexterity in radius, barrage fires an additional # projectiles simultaneously on the first and final attacks",
+        "org": [
+            "with at least 40 dexterity in radius, barrage fires an additional 2 projectiles simultaneously on the first and final attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, burning arrow can inflict an additional ignite on an enemy": {
+        "gen": "with at least # dexterity in radius, burning arrow can inflict an additional ignite on an enemy",
+        "org": [
+            "with at least 40 dexterity in radius, burning arrow can inflict an additional ignite on an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, burning arrow has a #% chance to spread burning ground if it ignites an enemy": {
+        "gen": "with at least # dexterity in radius, burning arrow has a #% chance to spread burning ground if it ignites an enemy",
+        "org": [
+            "with at least 40 dexterity in radius, burning arrow has a 10% chance to spread burning ground if it ignites an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, burning arrow has a #% chance to spread tar if it does not ignite an enemy": {
+        "gen": "with at least # dexterity in radius, burning arrow has a #% chance to spread tar if it does not ignite an enemy",
+        "org": [
+            "with at least 40 dexterity in radius, burning arrow has a 10% chance to spread tar if it does not ignite an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, dual strike deals off-hand splash damage to surrounding targets": {
+        "gen": "with at least # dexterity in radius, dual strike deals off-hand splash damage to surrounding targets",
+        "org": [
+            "with at least 40 dexterity in radius, dual strike deals off-hand splash damage to surrounding targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, dual strike has a #% chance to deal double damage with the main-hand weapon": {
+        "gen": "with at least # dexterity in radius, dual strike has a #% chance to deal double damage with the main-hand weapon",
+        "org": [
+            "with at least 40 dexterity in radius, dual strike has a 20% chance to deal double damage with the main-hand weapon"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, each spectral throw projectile gains #% increased damage each time it hits": {
+        "gen": "with at least # dexterity in radius, each spectral throw projectile gains #% increased damage each time it hits",
+        "org": [
+            "with at least 40 dexterity in radius, each spectral throw projectile gains 5% increased damage each time it hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, ethereal knives fires # additional projectiles": {
+        "gen": "with at least # dexterity in radius, ethereal knives fires # additional projectiles",
+        "org": [
+            "with at least 40 dexterity in radius, ethereal knives fires 5 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, ethereal knives fires projectiles in a nova": {
+        "gen": "with at least # dexterity in radius, ethereal knives fires projectiles in a nova",
+        "org": [
+            "with at least 40 dexterity in radius, ethereal knives fires projectiles in a nova"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, frost blades has #% increased projectile speed": {
+        "gen": "with at least # dexterity in radius, frost blades has #% increased projectile speed",
+        "org": [
+            "with at least 40 dexterity in radius, frost blades has 25% increased projectile speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, ice shot has #% increased area of effect": {
+        "gen": "with at least # dexterity in radius, ice shot has #% increased area of effect",
+        "org": [
+            "with at least 40 dexterity in radius, ice shot has 25% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, ice shot pierces # additional targets": {
+        "gen": "with at least # dexterity in radius, ice shot pierces # additional targets",
+        "org": [
+            "with at least 40 dexterity in radius, ice shot pierces 5 additional targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, melee damage dealt by frost blades penetrates #% cold resistance": {
+        "gen": "with at least # dexterity in radius, melee damage dealt by frost blades penetrates #% cold resistance",
+        "org": [
+            "with at least 40 dexterity in radius, melee damage dealt by frost blades penetrates 15% cold resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, shrapnel shot has #% increased area of effect": {
+        "gen": "with at least # dexterity in radius, shrapnel shot has #% increased area of effect",
+        "org": [
+            "with at least 40 dexterity in radius, shrapnel shot has 25% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, shrapnel shot's cone has a #% chance to deal double damage": {
+        "gen": "with at least # dexterity in radius, shrapnel shot's cone has a #% chance to deal double damage",
+        "org": [
+            "with at least 40 dexterity in radius, shrapnel shot's cone has a 50% chance to deal double damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "with at least # dexterity in radius, viper strike deals #% increased damage with hits and poison for each poison on the enemy": {
+        "gen": "with at least # dexterity in radius, viper strike deals #% increased damage with hits and poison for each poison on the enemy",
+        "org": [
+            "with at least 40 dexterity in radius, viper strike deals 2% increased damage with hits and poison for each poison on the enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, #% increased freezing pulse damage if you've shattered an enemy recently": {
+        "gen": "with at least # intelligence in radius, #% increased freezing pulse damage if you've shattered an enemy recently",
+        "org": [
+            "with at least 40 intelligence in radius, 25% increased freezing pulse damage if you've shattered an enemy recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, blight has #% increased hinder duration": {
+        "gen": "with at least # intelligence in radius, blight has #% increased hinder duration",
+        "org": [
+            "with at least 40 intelligence in radius, blight has 50% increased hinder duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, cold snap grants power charges instead of frenzy charges when enemies die in it's area with at least # intelligence in radius, cold snap cooldown can be bypassed by power charges instead of frenzy charges": {
+        "gen": "with at least # intelligence in radius, cold snap grants power charges instead of frenzy charges when enemies die in it's area with at least # intelligence in radius, cold snap cooldown can be bypassed by power charges instead of frenzy charges",
+        "org": [
+            "with at least 40 intelligence in radius, cold snap grants power charges instead of frenzy charges when enemies die in it's area with at least 40 intelligence in radius, cold snap cooldown can be bypassed by power charges instead of frenzy charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, cold snap has a #% chance to grant a power charge on kill": {
+        "gen": "with at least # intelligence in radius, cold snap has a #% chance to grant a power charge on kill",
+        "org": [
+            "with at least 40 intelligence in radius, cold snap has a 50% chance to grant a power charge on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, enemies hindered by blight take #% increased chaos damage": {
+        "gen": "with at least # intelligence in radius, enemies hindered by blight take #% increased chaos damage",
+        "org": [
+            "with at least 40 intelligence in radius, enemies hindered by blight take 25% increased chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, fireball projectiles gain area as they travel farther, up to #% increased area of effect": {
+        "gen": "with at least # intelligence in radius, fireball projectiles gain area as they travel farther, up to #% increased area of effect",
+        "org": [
+            "with at least 40 intelligence in radius, fireball projectiles gain area as they travel farther, up to 50% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, fireball projectiles gain radius as they travel farther, up to # radius": {
+        "gen": "with at least # intelligence in radius, fireball projectiles gain radius as they travel farther, up to # radius",
+        "org": [
+            "with at least 40 intelligence in radius, fireball projectiles gain radius as they travel farther, up to +4 radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, freezing pulse fires # additional projectiles": {
+        "gen": "with at least # intelligence in radius, freezing pulse fires # additional projectiles",
+        "org": [
+            "with at least 40 intelligence in radius, freezing pulse fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, frostbolt fires # additional projectiles": {
+        "gen": "with at least # intelligence in radius, frostbolt fires # additional projectiles",
+        "org": [
+            "with at least 40 intelligence in radius, frostbolt fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, frostbolt projectiles gain #% increased projectile speed per second": {
+        "gen": "with at least # intelligence in radius, frostbolt projectiles gain #% increased projectile speed per second",
+        "org": [
+            "with at least 40 intelligence in radius, frostbolt projectiles gain 40% increased projectile speed per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, magma orb fires an additional projectile": {
+        "gen": "with at least # intelligence in radius, magma orb fires an additional projectile",
+        "org": [
+            "with at least 40 intelligence in radius, magma orb fires an additional projectile"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, magma orb has #% increased area of effect per chain": {
+        "gen": "with at least # intelligence in radius, magma orb has #% increased area of effect per chain",
+        "org": [
+            "with at least 40 intelligence in radius, magma orb has 10% increased area of effect per chain"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, raised zombies' slam attack deals #% increased damage": {
+        "gen": "with at least # intelligence in radius, raised zombies' slam attack deals #% increased damage",
+        "org": [
+            "with at least 40 intelligence in radius, raised zombies' slam attack deals 30% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, raised zombies' slam attack has #% increased cooldown recovery speed": {
+        "gen": "with at least # intelligence in radius, raised zombies' slam attack has #% increased cooldown recovery speed",
+        "org": [
+            "with at least 40 intelligence in radius, raised zombies' slam attack has 100% increased cooldown recovery speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, spark fires # additional projectiles": {
+        "gen": "with at least # intelligence in radius, spark fires # additional projectiles",
+        "org": [
+            "with at least 40 intelligence in radius, spark fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, spark fires projectiles in a nova": {
+        "gen": "with at least # intelligence in radius, spark fires projectiles in a nova",
+        "org": [
+            "with at least 40 intelligence in radius, spark fires projectiles in a nova"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # intelligence in radius, summon skeleton can summon up to # skeleton mages": {
+        "gen": "with at least # intelligence in radius, summon skeleton can summon up to # skeleton mages",
+        "org": [
+            "with at least 40 intelligence in radius, summon skeleton can summon up to 5 skeleton mages"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "with at least # strength in radius, #% increased rarity of items dropped by enemies shattered by glacial hammer": {
+        "gen": "with at least # strength in radius, #% increased rarity of items dropped by enemies shattered by glacial hammer",
+        "org": [
+            "with at least 40 strength in radius, 20% increased rarity of items dropped by enemies shattered by glacial hammer"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "with at least # strength in radius, #% of glacial hammer physical damage converted to cold damage": {
+        "gen": "with at least # strength in radius, #% of glacial hammer physical damage converted to cold damage",
+        "org": [
+            "with at least 40 strength in radius, 25% of glacial hammer physical damage converted to cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # strength in radius, cleave grants fortify on hit": {
+        "gen": "with at least # strength in radius, cleave grants fortify on hit",
+        "org": [
+            "with at least 40 strength in radius, cleave grants fortify on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # strength in radius, cleave has #% increased area of effect per nearby enemy": {
+        "gen": "with at least # strength in radius, cleave has #% increased area of effect per nearby enemy",
+        "org": [
+            "with at least 40 strength in radius, cleave has 3% increased area of effect per nearby enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "with at least # strength in radius, glacial hammer deals cold-only splash damage to surrounding targets": {
+        "gen": "with at least # strength in radius, glacial hammer deals cold-only splash damage to surrounding targets",
+        "org": [
+            "with at least 40 strength in radius, glacial hammer deals cold-only splash damage to surrounding targets"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "with at least # strength in radius, ground slam has a #% chance to grant an endurance charge when you stun an enemy": {
+        "gen": "with at least # strength in radius, ground slam has a #% chance to grant an endurance charge when you stun an enemy",
+        "org": [
+            "with at least 40 strength in radius, ground slam has a 25% chance to grant an endurance charge when you stun an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # strength in radius, ground slam has a #% increased angle": {
+        "gen": "with at least # strength in radius, ground slam has a #% increased angle",
+        "org": [
+            "with at least 40 strength in radius, ground slam has a 50% increased angle"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "with at least # strength in radius, heavy strike has a  #% chance to deal double damage": {
+        "gen": "with at least # strength in radius, heavy strike has a  #% chance to deal double damage",
+        "org": [
+            "with at least 40 strength in radius, heavy strike has a  20% chance to deal double damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "with at least # strength in radius, molten strike fires # additional projectiles": {
+        "gen": "with at least # strength in radius, molten strike fires # additional projectiles",
+        "org": [
+            "with at least 40 strength in radius, molten strike fires 2 additional projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "with at least # strength in radius, molten strike has #% increased area of effect": {
+        "gen": "with at least # strength in radius, molten strike has #% increased area of effect",
+        "org": [
+            "with at least 40 strength in radius, molten strike has 25% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "with at least # strength in radius, vigilant strike fortifies you and nearby allies for # seconds": {
+        "gen": "with at least # strength in radius, vigilant strike fortifies you and nearby allies for # seconds",
+        "org": [
+            "with at least 40 strength in radius, vigilant strike fortifies you and nearby allies for 12 seconds"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "with at least 40 dexterity in radius, viper strike has a 10% chance per poison on enemy to grant unholy might for 4 seconds on hit": {
+        "gen": "",
+        "org": [
+            "with at least 40 dexterity in radius, viper strike has a 10% chance per poison on enemy to grant unholy might for 4 seconds on hit"
+        ],
+        "params": []
+    },
+    "with at least 40 intelligence in radius, 10% of damage taken gained as mana over 4 seconds when hit during rallying cry for you and allies": {
+        "gen": "",
+        "org": [
+            "with at least 40 intelligence in radius, 10% of damage taken gained as mana over 4 seconds when hit during rallying cry for you and allies"
+        ],
+        "params": []
+    },
+    "with at least 40 intelligence in radius, raised spectres have a 50% chance to gain soul eater for 30 seconds on kill": {
+        "gen": "",
+        "org": [
+            "with at least 40 intelligence in radius, raised spectres have a 50% chance to gain soul eater for 30 seconds on kill"
+        ],
+        "params": []
+    },
+    "you can have one additional curse": {
+        "gen": "",
+        "org": [
+            "you can have one additional curse"
+        ],
+        "params": []
+    },
+    "you gain onslaught for # seconds on kill while affected by haste": {
+        "gen": "you gain onslaught for # seconds on kill while affected by haste",
+        "org": [
+            "you gain onslaught for 4 seconds on kill while affected by haste"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "you have phasing while affected by haste": {
+        "gen": "",
+        "org": [
+            "you have phasing while affected by haste"
+        ],
+        "params": []
+    },
+    "you take #% reduced extra damage from critical strikes while affected by determination": {
+        "gen": "you take #% reduced extra damage from critical strikes while affected by determination",
+        "org": [
+            "you take (60-40)% reduced extra damage from critical strikes while affected by determination"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "your golems are aggressive": {
+        "gen": "",
+        "org": [
+            "your golems are aggressive"
+        ],
+        "params": []
+    }
+}

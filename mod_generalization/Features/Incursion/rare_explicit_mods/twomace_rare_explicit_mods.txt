@@ -1,0 +1,120 @@
+Adds # Physical Damage
+#% increased Physical Damage
+#% increased Physical Damage
+# to Accuracy Rating
+# to Level of Socketed Gems
+# to Level of Socketed Melee Gems
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+#% increased Elemental Damage with Attack Skills
+Adds # Cold Damage
+Adds # Fire Damage
+Adds # Lightning Damage
+Adds # Chaos Damage
+#% reduced Enemy Block Chance 
+#% increased Damage over Time
+Suffixes Cannot Be Changed
+Gems in this item are Supported by Lvl # Blood Magic
+#% increased Spell Damage
+Adds # Cold Damage to Spells
+your hits inflict decay, dealing # chaos damage per second for # seconds
+Adds # Fire Damage to Spells
+# life gained for each enemy hit by attacks
+#% increased bleeding duration
+gain #% of physical damage as extra chaos damage
+#% increased global accuracy rating
+Adds # Lightning Damage to Spells
+# to Level of Socketed Cold Gems
+# to Level of Socketed Fire Gems
+# to Level of Socketed Lightning Gems
+#% to Quality of Socketed Support Gems
+Hits can't be Evaded
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+Socketed Gems are supported by Level # Cast On Melee Kill
+Gain #% of Physical Damage as Extra Fire Damage
+Adds # Fire Damage to Attacks with this Weapon per # Strength
+#% chance to gain an Endurance Charge on Kill
+Minions deal #% increased Damage
+Socketed Attacks deal #% more Damage
+Socketed Spells deal #% more Damage
+#% increased Elemental Damage
+Attacks with this Weapon Penetrate #% Elemental Resistances
+#% chance for Poisons inflicted with this Weapon to deal #% more Damage
+#% chance for Bleeding inflicted with this Weapon to deal #% more Damage
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+# to Accuracy Rating
+#% increased Light Radius
+# to Accuracy Rating 
+#% to Accuracy Rating
+#% increased Attack Speed
+# to Strength
+#% increased Critical Strike Chance
+#% to Global Critical Strike Multiplier
+# Life gained on Kill
+# Life gained for each Enemy hit by your Attacks
+# Mana gained on Kill
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun Duration on Enemies
+#% reduced Enemy Stun Threshold
+#% increased Damage with Bleeding
+#% chance to cause Bleeding on Hit
+#% increased Bleed Duration
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+# to weapon range
+Cannot roll Caster Mods
+#% reduced Damage taken from Damage Over Time
+Minions deal #% increased Damage
+# to weapon range
+#% chance to Cast Level # Fire Burst on Hit
+Casts level # Spectral Spirits when equipped
+#% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Hits inflict Decay, dealing # Chaos Damage per second for # seconds
+#% increased Cast Speed
+#% increased Critical Strike Chance for Spells
+Socketed Gems are Supported by Level # Maim
+#% chance to Maim on Hit
+#% increased Critical Strike Chance if you have Killed Recently
+#% increased Critical Strike Chance
+#% increased Attack Speed
+#% chance to deal Double Damage
+Damage Penetrates #% Elemental Resistances
+#% increased Movement Speed
+# to Maximum Endurance Charges
+#% reduced Enemy Stun Threshold
+#% increased Stun Duration on Enemies
+Enemies killed explode dealing #% of their Life as Fire Damage
+#% increased Attack Speed if you've Killed Recently
+#% increased Attack Speed
+#% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
+#% increased Critical Strike Chance
+#% of Physical Damage Converted to Chaos Damage
+Culling Strike
+# to Weapon range
+#% increased Area of Effect
+#% increased Area of Effect if you have Stunned an Enemy Recently
+#% increased Area of Effect per Endurance Charge
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% reduced Soul Cost of Vaal Skills
+# to Level of Socketed Strength Gems
+# to Level of Socketed Dexterity Gems
+# to Level of Socketed Intelligence Gems
+Auras from your Skills grant #% increased Damage to you and Allies
+#% chance to gain Onslaught for # seconds on Kill
+#% of Mana Regenerated per second if you've Hit an Enemy Recently
+#% chance to Intimidate Enemies for # seconds on Hit
+Curse Enemies with Level # Despair on Hit
+#% increased Damage when on Full Life
+# to Armour if you've Hit an Enemy Recently

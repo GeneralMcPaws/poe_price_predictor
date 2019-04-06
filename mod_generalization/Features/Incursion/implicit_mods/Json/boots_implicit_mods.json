@@ -1,0 +1,54 @@
+{
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(8-16)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold and lightning resistances": {
+        "gen": "#% to cold and lightning resistances",
+        "org": [
+            "(3-5)% to cold and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and cold resistances": {
+        "gen": "#% to fire and cold resistances",
+        "org": [
+            "(3-5)% to fire and cold resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and lightning resistances": {
+        "gen": "#% to fire and lightning resistances",
+        "org": [
+            "(3-5)% to fire and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

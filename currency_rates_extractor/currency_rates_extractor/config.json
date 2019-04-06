@@ -1,0 +1,32 @@
+{
+  "CONFIG": {
+
+    "OUTPUT_PATH": "C:/Users/Digi/Desktop/poe_price_predictor/feed_preprocessor/feed_preprocessor/currency_rates",
+    "INPUT_PATH": "C:/Users/Digi/Desktop/poe_price_predictor/currency_rates_extractor/currency_rates_extractor/data_dumps"
+  },
+
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "simple": {
+        "format": "%(levelname)s : %(asctime)s %(message)s"
+      }
+    },
+    "handlers": {
+      "file_handler": {
+        "level": "DEBUG",
+        "class": "logging.FileHandler",
+        "filename": "currency_rates_extractor.log",
+        "formatter": "simple",
+        "mode": "w"
+      }
+    },
+    "loggers": {
+      "file_logger": {
+        "handlers": [ "file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

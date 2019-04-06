@@ -1,0 +1,1308 @@
+{
+    "# cold damage per frenzy charge": {
+        "gen": "# cold damage per frenzy charge",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life gained for each enemy hit by your attacks": {
+        "gen": "# life gained for each enemy hit by your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life gained for each enemy hit by your spells": {
+        "gen": "# life gained for each enemy hit by your spells",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life gained on kill": {
+        "gen": "# life gained on kill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life regenerated per second": {
+        "gen": "# life regenerated per second",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana gained for each enemy hit by your attacks": {
+        "gen": "# mana gained for each enemy hit by your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana gained for each enemy hit by your spells": {
+        "gen": "# mana gained for each enemy hit by your spells",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana gained on kill": {
+        "gen": "# mana gained on kill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana regenerated per second": {
+        "gen": "# mana regenerated per second",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to all attributes": {
+        "gen": "# to all attributes",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to armour": {
+        "gen": "# to armour",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to dexterity": {
+        "gen": "# to dexterity",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to evasion rating": {
+        "gen": "# to evasion rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed gems": {
+        "gen": "# to level of socketed gems",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum energy shield": {
+        "gen": "# to maximum energy shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to total mana cost of skills": {
+        "gen": "# to total mana cost of skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to evade attacks": {
+        "gen": "#% chance to evade attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to freeze": {
+        "gen": "#% chance to freeze",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to ignite": {
+        "gen": "#% chance to ignite",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to shock": {
+        "gen": "#% chance to shock",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance when hit for double armour effect": {
+        "gen": "#% chance when hit for double armour effect",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% faster start of energy shield recharge": {
+        "gen": "#% faster start of energy shield recharge",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased accuracy rating": {
+        "gen": "#% increased accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased area of effect of curse skills": {
+        "gen": "#% increased area of effect of curse skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased armour": {
+        "gen": "#% increased armour",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased chaos damage": {
+        "gen": "#% increased chaos damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold damage": {
+        "gen": "#% increased cold damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased curse duration": {
+        "gen": "#% increased curse duration",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage": {
+        "gen": "#% increased damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with ailments": {
+        "gen": "#% increased damage with ailments",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with poison": {
+        "gen": "#% increased damage with poison",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage": {
+        "gen": "#% increased elemental damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage with attack skills": {
+        "gen": "#% increased elemental damage with attack skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased energy shield from body armour": {
+        "gen": "#% increased energy shield from body armour",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased evasion rating": {
+        "gen": "#% increased evasion rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased experience gain": {
+        "gen": "#% increased experience gain",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire damage": {
+        "gen": "#% increased fire damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life recovery from flasks": {
+        "gen": "#% increased life recovery from flasks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased light radius": {
+        "gen": "#% increased light radius",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased lightning damage": {
+        "gen": "#% increased lightning damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mana regeneration rate": {
+        "gen": "#% increased mana regeneration rate",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum mana": {
+        "gen": "#% increased maximum mana",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee damage": {
+        "gen": "#% increased melee damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile attack damage": {
+        "gen": "#% increased projectile attack damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of items found": {
+        "gen": "#% increased rarity of items found",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased vaal skill damage": {
+        "gen": "#% increased vaal skill damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of chaos damage leeched as life": {
+        "gen": "#% of chaos damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of cold damage leeched as life": {
+        "gen": "#% of cold damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of energy shield regenerated per second": {
+        "gen": "#% of energy shield regenerated per second",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of life regenerated per second": {
+        "gen": "#% of life regenerated per second",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life": {
+        "gen": "#% of lightning damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as mana": {
+        "gen": "#% of physical attack damage leeched as mana",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage as extra fire damage": {
+        "gen": "#% of physical damage as extra fire damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage leeched as life": {
+        "gen": "#% of physical damage leeched as life",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced effect of curses on you": {
+        "gen": "#% reduced effect of curses on you",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced mana cost of skills": {
+        "gen": "#% reduced mana cost of skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected damage taken": {
+        "gen": "#% reduced reflected damage taken",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected elemental damage taken": {
+        "gen": "#% reduced reflected elemental damage taken",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced reflected physical damage taken": {
+        "gen": "#% reduced reflected physical damage taken",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to accuracy rating": {
+        "gen": "#% to accuracy rating",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold and lightning resistances": {
+        "gen": "#% to cold and lightning resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold resistance": {
+        "gen": "#% to cold resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and cold resistances": {
+        "gen": "#% to fire and cold resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and lightning resistances": {
+        "gen": "#% to fire and lightning resistances",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire resistance": {
+        "gen": "#% to fire resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to lightning resistance": {
+        "gen": "#% to lightning resistance",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # chaos damage to your attacks": {
+        "gen": "adds # chaos damage to your attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage against chilled or frozen enemies": {
+        "gen": "adds # cold damage against chilled or frozen enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage per frenzy charge": {
+        "gen": "adds # cold damage per frenzy charge",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage to attacks": {
+        "gen": "adds # cold damage to attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage to spells and attacks": {
+        "gen": "adds # cold damage to spells and attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage against ignited enemies": {
+        "gen": "adds # fire damage against ignited enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage to attacks": {
+        "gen": "adds # fire damage to attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage to spells and attacks": {
+        "gen": "adds # fire damage to spells and attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage against shocked enemies": {
+        "gen": "adds # lightning damage against shocked enemies",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to attacks": {
+        "gen": "adds # lightning damage to attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to spells and attacks": {
+        "gen": "adds # lightning damage to spells and attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage to attacks": {
+        "gen": "adds # physical damage to attacks",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "can have multiple crafted mods": {
+        "gen": "can have multiple crafted mods",
+        "org": "can have multiple crafted mods",
+        "params": []
+    },
+    "cannot be shocked or ignited while moving": {
+        "gen": "cannot be shocked or ignited while moving",
+        "org": "cannot be shocked or ignited while moving",
+        "params": []
+    },
+    "cannot roll attack mods": {
+        "gen": "cannot roll attack mods",
+        "org": "cannot roll attack mods",
+        "params": []
+    },
+    "cannot roll caster mods": {
+        "gen": "cannot roll caster mods",
+        "org": "cannot roll caster mods",
+        "params": []
+    },
+    "cannot roll mods with required lvl above lvl #": {
+        "gen": "cannot roll mods with required lvl above lvl #",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # assassin's mark on hit": {
+        "gen": "curse enemies with level # assassin's mark on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # conductivity on hit": {
+        "gen": "curse enemies with level # conductivity on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # despair on hit": {
+        "gen": "curse enemies with level # despair on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # flammability on hit": {
+        "gen": "curse enemies with level # flammability on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # frostbite on hit": {
+        "gen": "curse enemies with level # frostbite on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # poacher's mark on hit": {
+        "gen": "curse enemies with level # poacher's mark on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # vulnerability on hit": {
+        "gen": "curse enemies with level # vulnerability on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # warlord's mark on hit": {
+        "gen": "curse enemies with level # warlord's mark on hit",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra fire damage": {
+        "gen": "gain #% of physical damage as extra fire damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # aspect of the avian skill": {
+        "gen": "grants level # aspect of the avian skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # aspect of the cat skill": {
+        "gen": "grants level # aspect of the cat skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # aspect of the crab skill": {
+        "gen": "grants level # aspect of the crab skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # aspect of the spider skill": {
+        "gen": "grants level # aspect of the spider skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # herald of ash skill": {
+        "gen": "grants level # herald of ash skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # herald of ice skill": {
+        "gen": "grants level # herald of ice skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # herald of thunder skill": {
+        "gen": "grants level # herald of thunder skill",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased movement speed": {
+        "gen": "minions have #% increased movement speed",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "prefixes cannot be changed": {
+        "gen": "prefixes cannot be changed",
+        "org": "prefixes cannot be changed",
+        "params": []
+    },
+    "suffixes cannot be changed": {
+        "gen": "suffixes cannot be changed",
+        "org": "suffixes cannot be changed",
+        "params": []
+    },
+    "\u00e2\u02c6\u2019# to mana cost of skills": {
+        "gen": "\u00e2\u02c6\u2019# to mana cost of skills",
+        "org": [],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

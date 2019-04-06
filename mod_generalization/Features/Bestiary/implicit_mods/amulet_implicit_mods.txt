@@ -1,0 +1,21 @@
+(2-4) Life Regenerated per second
+(20-30)% increased Mana Regeneration Rate
++(20-30) to Dexterity
++(20-30) to Intelligence
+(12-20)% increased Rarity of Items found
+(12-20)% increased Rarity of Items found
+(20-30)% increased Mana Regeneration Rate
++(16-24) to Strength and Dexterity
++(16-24) to Strength and Intelligence
++(16-24) to Dexterity and Intelligence
++(10-16) to all Attributes
++(20-30) to Strength
+Has 1 Socket
+(15-25)% increased Global Defences
++(24-36)% to Global Critical Strike Multiplier
++(20-30)% to Fire Resistance
+(20-30)% increased Mana Regeneration Rate
+(2-4) Life Regenerated per second
+(25-35)% increased Damage
+(1.2-1.6)% of Life Regenerated per second
+(48-56)% increased Mana Regeneration Rate

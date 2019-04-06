@@ -1,0 +1,8 @@
+#% increased cast speed
+thaumaturgical lure
+#% increased quantity of fish caught
+glows while in an area containing a unique fish
+siren worm bait
+#% reduced quantity of fish caught
+#% increased rarity of fish caught
+you can catch exotic fish

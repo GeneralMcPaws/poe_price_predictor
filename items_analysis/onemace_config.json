@@ -1,0 +1,73 @@
+{
+    "data": {
+        "filename": "C:/Users/Digi/Desktop/poe_price_predictor/record_creator/record_creator/csv/rare/onemace_values.csv",
+        "outliers":{
+            "method":"IQR",
+            "threshold":1,
+            "high_quantile":0.97
+        },
+        "no_of_features":45,
+        "corr_threshold":0.1,
+        "train_test_split": 0.8,
+        "fs_method":"rfe",
+        "max_cum_step":100,
+        "min_percent":4,
+        "feature_selection":false,
+        "high_percentage_missing_values":false
+    },
+    "training": {
+        "epochs": 40,
+        "batch_size": 10000
+    },
+    "model": {
+        "loss": "categorical_crossentropy",
+        "optimizer": "adam",
+        "layers": [
+            {
+                "type": "dense",
+                "neurons": 400,
+                "activation": "relu",
+                "input_dim":true
+            },
+            {
+                "type": "dropout",
+                "rate": 0.2
+            },
+            {
+                "type": "dense",
+                "neurons": 400,
+                "activation": "relu"
+            },
+            {
+                "type": "dense",
+                "neurons": 400,
+                "activation": "relu"
+            },
+            {
+                "type": "dense",
+                "neurons": 400,
+                "activation": "relu"
+            },
+            {
+                "type": "dense",
+                "neurons": 400,
+                "activation": "relu"
+            },
+            {
+                "type": "dropout",
+                "rate": 0.2
+            },
+            {
+                "type": "dense",
+                "neurons": 1,
+                "activation":"softmax",
+                "output_dim":true
+            }
+        ]
+    },
+    "gridsearch_model": {
+        "mlp__epochs" :[20,30],
+        "mlp__batch_size":[10000],
+        "mlp__optimizer":["adam"]
+    }
+}

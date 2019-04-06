@@ -1,0 +1,39 @@
+{
+  "CONFIG": {
+    "NEXT_CHANGE_IDS_URL": "https://www.pathofexile.com/api/trade/data/change-ids/",
+    "URL_HEADERS": { "content-type": "application/json" },
+    "NEXT_STASH_BASE_URL": "http://api.pathofexile.com/public-stash-tabs/",
+    "OUTPUT_PATH": "D:\\data_repo",
+    "RETRY_WAIT_TIME": 5
+  },
+  
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "verbose": {
+        "format": "%(levelname)s : %(asctime)s %(message)s"
+      }      
+    },
+    "handlers": {
+      "verbose_file_handler": {
+        "level": "DEBUG",
+        "class": "logging.FileHandler",
+        "filename": "stashes_logger.log",
+        "formatter": "verbose",
+        "mode": "a"
+      },
+      "verbose_console_handler": {
+        "level": "WARNING",
+        "class": "logging.StreamHandler",
+        "formatter": "verbose"
+      }
+    },
+    "loggers": {
+      "file_console_logger": {
+        "handlers": [ "verbose_console_handler", "verbose_file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

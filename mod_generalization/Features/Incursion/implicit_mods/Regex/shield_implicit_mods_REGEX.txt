@@ -1,0 +1,12 @@
+#% reduced movement speed
+# to maximum life
+#% increased movement speed
+#% increased movement speed
+#% increased spell damage
+#% increased block recovery
+#% increased block recovery
+#% to all elemental resistances
+#% to all elemental resistances
+#% chance to dodge attack hits
+#% chance to dodge spell hits
+#% chance to dodge spell hits

@@ -1,0 +1,60 @@
+(20-30)% increased Rarity of Items found
+(3-5)% increased Quantity of Items found
+Wrath has (15-20)% increased Aura Effect
+Anger has (15-20)% increased Aura Effect
+Hatred has (15-20)% increased Aura Effect
+Determination has (15-20)% increased Aura Effect
+Discipline has (15-20)% increased Aura Effect
+Grace has (15-20)% increased Aura Effect
+(4-6)% increased Intelligence
+(4-6)% increased Dexterity
+(4-6)% increased Dexterity
+(4-6)% increased Strength
+properties are doubled while in a breach
+(4-6)% increased Strength
+(4-6)% increased Intelligence
++(14-16)% to all Elemental Resistances
+Adds (3-4) to (7-8) Cold Damage to Spells and Attacks
+Adds (6-9) to (13-16) Cold Damage to Spells and Attacks
+Adds (12-16) to (24-28) Cold Damage to Spells and Attacks
+Adds (3-5) to (7-8) Fire Damage to Spells and Attacks
+Adds (7-10) to (15-18) Fire Damage to Spells and Attacks
+Adds (13-18) to (28-33) Fire Damage to Spells and Attacks
+Adds 1 to (14-15) Lightning Damage to Spells and Attacks
+Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks
+Adds (1-5) to (50-52) Lightning Damage to Spells and Attacks
+Grants Level 21 Anger Skill
+Bleeding cannot be inflicted on you
+Cannot be Ignited
+Cannot be Poisoned
+Grants Level 23 Conductivity Skill
+Grants Level 23 Despair Skill
+0.5% of Fire Damage Leeched as Life
+Grants Level 23 Flammability Skill
+Grants Level 23 Frostbite Skill
+Grants Level 21 Hatred Skill
+(8-10)% increased Attack Speed
+(8-10)% increased Cast Speed
+(15-25)% increased Global Physical Damage
++(4-6) Mana gained for each Enemy hit by your Attacks
+Grants Level 21 Wrath Skill
+Adds 1 to 4 Physical Damage to Attacks
++(20-25) to maximum Mana
++(20-30) to maximum Life
+Has 1 Socket
++(20-30)% to Cold Resistance
++(20-30)% to Fire Resistance
+(6-15)% increased Rarity of Items found
++(12-16)% to Cold and Lightning Resistances
++(12-16)% to Fire and Cold Resistances
++(12-16)% to Fire and Lightning Resistances
++(12-16)% to Cold and Lightning Resistances
++(15-25) to maximum Energy Shield
++(20-30)% to Lightning Resistance
++(20-30)% to Cold Resistance
+(20-30)% increased Global Critical Strike Chance
++(8-10)% to all Elemental Resistances
+You can catch Corrupted Fish
++(9-13)% to Chaos Resistance
+Adds (3-4) to (10-14) Physical Damage to Attacks
+(15-25)% increased Elemental Damage

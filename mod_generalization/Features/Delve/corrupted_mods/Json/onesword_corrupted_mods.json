@@ -1,0 +1,208 @@
+{
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+190 to accuracy rating",
+            "+240 to accuracy rating",
+            "+330 to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "(10-20)% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits": {
+        "gen": "#% chance to dodge attack hits",
+        "org": [
+            "(10-20)% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to fortify on melee hit": {
+        "gen": "#% chance to fortify on melee hit",
+        "org": [
+            "(10-15)% chance to fortify on melee hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain onslaught for # seconds on kill": {
+        "gen": "#% chance to gain onslaught for # seconds on kill",
+        "org": [
+            "(10-15)% chance to gain onslaught for 4 seconds on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(15-20)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(5-7)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(14-18)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [
+            "40% increased global accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(10-15)% increased physical damage",
+            "(16-20)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+25% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+25"
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (3-4) to (5-7) physical damage",
+            "adds (5-7) to (10-12) physical damage",
+            "adds 1 to 2 physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "damage penetrates #% elemental resistances": {
+        "gen": "damage penetrates #% elemental resistances",
+        "org": [
+            "damage penetrates (8-10)% elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain a frenzy charge after spending a total of # mana": {
+        "gen": "gain a frenzy charge after spending a total of # mana",
+        "org": [
+            "gain a frenzy charge after spending a total of 200 mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "resolute technique": {
+        "gen": "",
+        "org": [
+            "resolute technique"
+        ],
+        "params": []
+    },
+    "skills fire an additional projectile": {
+        "gen": "",
+        "org": [
+            "skills fire an additional projectile"
+        ],
+        "params": []
+    }
+}

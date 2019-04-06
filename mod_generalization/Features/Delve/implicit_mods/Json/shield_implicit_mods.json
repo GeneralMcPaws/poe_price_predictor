@@ -1,0 +1,110 @@
+{
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(10-20) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to dodge attack hits": {
+        "gen": "#% chance to dodge attack hits",
+        "org": [
+            "4% chance to dodge attack hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "#% chance to dodge spell hits": {
+        "gen": "#% chance to dodge spell hits",
+        "org": [
+            "2% chance to dodge spell hits",
+            "4% chance to dodge spell hits"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased block recovery": {
+        "gen": "#% increased block recovery",
+        "org": [
+            "60% increased block recovery",
+            "120% increased block recovery"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "3% increased movement speed",
+            "6% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(5-10)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced movement speed": {
+        "gen": "#% reduced movement speed",
+        "org": [
+            "3% reduced movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+4% to all elemental resistances",
+            "+8% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

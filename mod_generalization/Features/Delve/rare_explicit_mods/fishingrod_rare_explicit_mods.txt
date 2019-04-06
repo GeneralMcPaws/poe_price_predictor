@@ -1,0 +1,6 @@
+#% increased Fishing Line Strength
+#% reduced Fishing Pool Consumption
+#% increased Cast Speed
+#% increased Fishing Range
+#% increased Quantity of Fish found
+#% increased Rarity of Fish found

@@ -1,0 +1,29 @@
+Bow Attacks fire an additional Arrow
+0.5% of Cold Damage Leeched as Life
+0.5% of Lightning Damage Leeched as Life
+Adds (14-18) to (27-32) Cold Damage to Bow Attacks
+Adds (1-2) to (27-28) Lightning Damage to Bow Attacks
+Adds (21-25) to (39-44) Cold Damage to Bow Attacks
+Adds (2-5) to (58-61) Lightning Damage to Bow Attack
+Adds (2-6) to (72-76) Lightning Damage to Bow Attacks
+Adds (6-8) to (13-15) Cold Damage to Bow Attacks
+Adds (8-10) to (15-18) Fire Damage to Bow Attacks
+Adds Adds (17-22) to (33-39) Fire Damage to Bow Attack
+Adds Adds (21-28) to (42-49) Fire Damage to Bow Attacks
+Gain (8-12)% of Physical Damage as Extra Cold Damage
+Gain (8-12)% of Physical Damage as Extra Fire Damage
+Gain (8-12)% of Physical Damage as Extra Lightning Damage
+Point Blank
+Projectiles deal (20-25)% increased Damage for each time they have Chained
+Projectiles deal (8-10)% increased Damage for each Enemy Pierced
+Skills Chain +1 times
+Adds 1 to 4 Physical Damage to Bow Attacks
+(20-30)% increased Global Accuracy Rating
++(3-4) Life gained for each Enemy hit by your Attacks
+Adds 4 to 8 Fire Damage to Bow Attacks
+Adds 6 to 12 Physical Damage to Bow Attacks
+Arrows Pierce an additional Target
++(3-4) Life gained for each Enemy hit by your Attacks
+(20-30)% increased Global Critical Strike Chance
+(25-35)% increased Stun Duration on Enemies
+0.5% of Fire Damage Leeched as Life

@@ -1,0 +1,21 @@
+(4-6)% increased maximum Energy Shield
+(4-6)% increased maximum Life
++2 to Level of Socketed AoE Gems
++2 to Level of Socketed Aura Gems
++2 to Level of Socketed Curse Gems
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed Projectile Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
++1 to Level of Socketed Gems
+(8-10)% increased Cast Speed
++1 to Maximum Frenzy Charges
+Attacks have +(0.5-0.8)% to Critical Strike Chance
+Curse Enemies with Level (10-12) Despair on Hit
+Curse Enemies with Level (10-12) Elemental Weakness on Hit
+Curse Enemies with Level (10-12) Enfeeble on Hit
+Curse Enemies with Level (10-12) Temporal Chains on Hit
+Curse Enemies with Level (10-12) Vulnerability on Hit
+Spells have +(0.5-0.8)% to Critical Strike Chance
+10% increased Attack Speed
+8% increased Attack Speed

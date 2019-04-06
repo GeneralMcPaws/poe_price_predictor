@@ -1,0 +1,144 @@
+Adds # Physical Damage
+#% increased Physical Damage
+#% increased Physical Damage
+# to Accuracy Rating
+# to Level of Socketed Gems
+# to Level of Socketed Melee Gems
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+#% increased Elemental Damage with Attack Skills
+Adds # Cold Damage
+Adds # Fire Damage
+Adds # Lightning Damage
+Adds # Chaos Damage
+# to maximum Mana
+#% reduced Enemy Block Chance 
+#% increased Damage over Time
+Suffixes Cannot Be Changed
+#% additional Chance to Block while Dual Wielding
+Causes bleeding on hit
+#% Increased Chance to Shock
+your hits inflict decay, dealing # chaos damage per second for # seconds
+#% Increased Chance to Freeze
+#% Increased Chance to Ignite
+#% of Fire Damage Leeched as Life
+#% of Cold Damage Leeched as Life
+#% of Lightning Damage Leeched as Life
+#% increased Curse duration
+#% increased Spell Damage
+Adds # Cold Damage to Spells
+Adds # Fire Damage to Spells
+Adds # Lightning Damage to Spells
+# to Level of Socketed Cold Gems
+# to Level of Socketed Fire Gems
+# to Level of Socketed Lightning Gems
+#% to Quality of Socketed Support Gems
+Hits can't be Evaded
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+Socketed Gems are Supported by Level # Added Fire Damage
+#% increased Physical Damage
+Socketed Gems are supported by Level # Elemental Damage with Attacks
+#% increased Elemental Damage with Attack Skills
+Gain #% of Physical Damage as Extra Lightning Damage
+Gain #% of Physical Damage as Extra Cold Damage
+Adds # Lightning Damage to Attacks with this Weapon per # Intelligence
+Adds # Cold Damage to Attacks with this Weapon per # Dexterity
+Socketed Gems are Supported by Level # Melee Physical Damage
+#% increased Physical Damage
+Socketed Gems are Supported by Level # Brutality
+#% increased Physical Damage
+Socketed Gems are Supported by Level # Ruthless
+#% increased Physical Damage
+Minions deal #% increased Damage
+Socketed Attacks deal #% more Damage
+Socketed Spells deal #% more Damage
+#% increased Elemental Damage
+Attacks with this Weapon Penetrate #% Elemental Resistances
+#% chance for Poisons inflicted with this Weapon to deal #% more Damage
+#% chance for Bleeding inflicted with this Weapon to deal #% more Damage
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+# to Accuracy Rating
+#% increased Light Radius
+# to Accuracy Rating
+#% to Accuracy Rating
+#% increased Attack Speed
+# to Dexterity
+# to Intelligence
+#% increased Critical Strike Chance
+#% to Global Critical Strike Multiplier
+# Life gained on Kill
+# Life gained for each Enemy hit by Attacks
+# Mana gained on Kill
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun Duration on Enemies
+#% increased Mana Regeneration Rate
+#% increased Damage with Poison
+#% chance to Poison on Hit
+#% increased Poison Duration
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+# to weapon range
+Cannot roll Caster Mods
+% reduced Enemy Stun Threshold with this Weapon
+Minions deal #% increased Damage
+# to weapon range
+#% chance to Cast Level # Fire Burst on Hit
+Casts level # Spectral Spirits when equipped
+#% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Hits inflict Decay, dealing # Chaos Damage per second for # seconds
+#% increased Cast Speed
+#% increased Critical Strike Chance for Spells
+Socketed Gems are supported by Level # Melee Splash
+#% increased Area Damage
+Socketed Gems are Supported by Level # Maim
+#% chance to Maim on Hit
+Socketed Gems are Supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are Supported by Level # Increased Critical Strikes
+#% increased Critical Strike Chance
+#% chance to gain Onslaught for # seconds on Kill
+#% additional Block Chance while Dual Wielding
+Damage Penetrates #% Elemental Resistances
+Enemies have #% reduced Evasion if you have Hit them Recently
+#% increased Critical Strike Chance against Blinded Enemies
+Socketed Gems are Supported by Level # Ancestral Call
+#% increased Area of Effect
+Socketed Gems are Supported by Level # Multistrike
+#% increased Attack Speed
+Socketed Gems are Supported by Level # Increased Critical Damage
+#% to Global Critical Strike Multiplier
+Socketed Gems are Supported by Level # Poison
+#% chance to Poison on Hit
+Socketed Gems are Supported by Level # Chance To Bleed
+#% chance to cause Bleeding on Hit
+#% chance to gain Unholy Might for # seconds on Kill
+#% chance to Blind Enemies on Hit with Attacks
+#% increased Physical Weapon Damage while Dual Wielding
+#% of Physical Damage Converted to Chaos Damage
+When you Kill a Rare Monster, #% chance to gain one of its mods for # seconds
+# Life gained for each Blinded Enemy Hit by this Weapon
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% reduced Soul Cost of Vaal Skills
+# to Level of Socketed Strength Gems
+# to Level of Socketed Dexterity Gems
+# to Level of Socketed Intelligence Gems
+Auras from your Skills grant #% increased Damage to you and Allies
+#% chance to gain Onslaught for # seconds on Kill
+#% of Mana Regenerated per second if you've Hit an Enemy Recently
+#% chance to Intimidate Enemies for # seconds on Hit
+Curse Enemies with Level # Despair on Hit
+#% increased Damage when on Full Life
+# to Evasion if you've Hit an Enemy Recently
+#% of Energy Shield Regenerated per second if you've Hit an Enemy Recently

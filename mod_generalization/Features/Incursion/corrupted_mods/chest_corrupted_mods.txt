@@ -1,0 +1,24 @@
+(3-5)% additional Physical Damage Reduction while stationary
+(40-50)% increased Damage
+(4-6)% increased maximum Energy Shield
+(4-6)% increased maximum Life
+(4-6)% reduced Chaos Damage taken
+(4-6)% reduced Cold Damage taken
+(4-6)% reduced Fire Damage taken
+(4-6)% reduced Lightning Damage taken
++1 to Level of Socketed Gems
++1% to all maximum Resistances
++2 to Level of Socketed AoE Gems
++2 to Level of Socketed Aura Gems
++2 to Level of Socketed Curse Gems
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed Projectile Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
+You take 50% reduced Extra Damage from Critical Strikes
+3% reduced Movement Speed
+5% reduced Movement Speed
++(8-12)% to all Elemental Resistances
+(3-10)% increased Spell Damage
++(20-25) to maximum Mana
+3% increased Movement Speed

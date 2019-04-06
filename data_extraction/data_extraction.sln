@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "data_extraction", "data_extraction\data_extraction.pyproj", "{0A963DE2-89DA-4E9B-B391-08197B7F96AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A963DE2-89DA-4E9B-B391-08197B7F96AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A963DE2-89DA-4E9B-B391-08197B7F96AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5995B42A-E38F-4FC9-A6B1-4684EAE30D3B}
+	EndGlobalSection
+EndGlobal

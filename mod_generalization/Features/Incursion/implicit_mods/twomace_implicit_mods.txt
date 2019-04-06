@@ -1,0 +1,3 @@
+45% increased Stun Duration on Enemies
+30% increased Stun Duration on Enemies
+(3-5)% increased area of effect

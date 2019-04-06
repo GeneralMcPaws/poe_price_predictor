@@ -1,0 +1,86 @@
+#% increased physical damage
+adds # cold damage
+#% of physical attack damage leeched as mana
+cannot be frozen
+# to level of socketed active skill gems
+#% increased physical damage
+adds # chaos damage
+#% increased chaos damage per level
+adds # physical damage to attacks per level
+minions have #% increased maximum life
+#% increased skeleton duration
+minions deal #% increased damage
+# to maximum number of zombies
+# to maximum number of skeletons
+# to maximum number of spectres
+#% increased strength requirement
+minions have #% increased maximum life
+minions have #% increased movement speed
+#% increased skeleton duration
+minions deal #% increased damage
+# to maximum number of zombies
+# to maximum number of skeletons
+# to maximum number of spectres
+#% increased strength requirement
+#% increased physical damage
+#% increased attack speed
+# to accuracy rating
+#% increased movement speed
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+# mana gained on kill
+#% increased movement speed
+gain a frenzy charge on critical strike
+socketed gems are supported by level # blood magic
+adds # physical damage
+#% increased critical strike chance
+enemies you attack reflect # physical damage to you
+# to weapon range
+#% increased physical damage
+#% increased attack speed
+#% increased movement speed
+rampage
+triggers level # manifest dancing dervish on rampage
+manifested dancing dervish disables both weapon slots
+manifested dancing dervish dies when rampage ends
+#% increased physical damage
+#% of physical attack damage leeched as life
+#% increased melee damage against bleeding enemies
+cannot leech life from critical strikes
+#% chance to blind enemies on critical strike
+#% chance to cause bleeding on critical strike
+socketed melee gems have #% increased area of effect
+socketed red gems get #% physical damage as extra fire damage
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% increased physical damage
+#% increased attack speed
+#% increased movement speed
+rampage
+triggers level # manifest dancing dervish on rampage
+manifested dancing dervish disables both weapon slots
+manifested dancing dervish dies when rampage ends
+manifest dancing dervish also manifests a copy of dancing dervish
+no physical damage
+adds # fire damage
+#% increased attack speed
+#% chance to ignite
+#% increased physical damage taken
+#% increased fire damage taken
+culling strike against burning enemies
+gain a frenzy charge if an attack ignites an enemy
+#% increased physical damage
+#% increased attack speed
+# to maximum life
+#% increased area of effect for attacks
+deal no elemental damage
+your physical damage can shock
+#% increased physical damage
+#% increased attack speed
+# to maximum life
+your elemental damage can shock
+gain #% of weapon physical damage as extra damage of an element
+#% increased area of effect for attacks
+deal no non-elemental damage

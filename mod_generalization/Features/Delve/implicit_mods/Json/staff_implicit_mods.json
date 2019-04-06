@@ -1,0 +1,42 @@
+{
+    "#% chance to block attack damage while wielding a staff": {
+        "gen": "#% chance to block attack damage while wielding a staff",
+        "org": [
+            "+18% chance to block attack damage while wielding a staff",
+            "+20% chance to block attack damage while wielding a staff"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "100% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#%#% increased global critical strike chance": {
+        "gen": "#%#% increased global critical strike chance",
+        "org": [
+            "80%-100% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "80"
+            }
+        ]
+    }
+}

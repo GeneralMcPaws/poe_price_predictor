@@ -1,0 +1,302 @@
+{
+    "# to level of socketed aoe gems": {
+        "gen": "# to level of socketed aoe gems",
+        "org": [
+            "+2 to level of socketed aoe gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed aura gems": {
+        "gen": "# to level of socketed aura gems",
+        "org": [
+            "+2 to level of socketed aura gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed curse gems": {
+        "gen": "# to level of socketed curse gems",
+        "org": [
+            "+2 to level of socketed curse gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed duration gems": {
+        "gen": "# to level of socketed duration gems",
+        "org": [
+            "+2 to level of socketed duration gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed gems": {
+        "gen": "# to level of socketed gems",
+        "org": [
+            "+1 to level of socketed gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of socketed projectile gems": {
+        "gen": "# to level of socketed projectile gems",
+        "org": [
+            "+2 to level of socketed projectile gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed trap or mine gems": {
+        "gen": "# to level of socketed trap or mine gems",
+        "org": [
+            "+2 to level of socketed trap or mine gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed warcry gems": {
+        "gen": "# to level of socketed warcry gems",
+        "org": [
+            "+2 to level of socketed warcry gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [
+            "+(20-25) to maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional physical damage reduction while stationary": {
+        "gen": "#% additional physical damage reduction while stationary",
+        "org": [
+            "(3-5)% additional physical damage reduction while stationary"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage": {
+        "gen": "#% increased damage",
+        "org": [
+            "(40-50)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [
+            "(4-6)% increased maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [
+            "(4-6)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "3% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(3-10)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced chaos damage taken": {
+        "gen": "#% reduced chaos damage taken",
+        "org": [
+            "(4-6)% reduced chaos damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced cold damage taken": {
+        "gen": "#% reduced cold damage taken",
+        "org": [
+            "(4-6)% reduced cold damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced fire damage taken": {
+        "gen": "#% reduced fire damage taken",
+        "org": [
+            "(4-6)% reduced fire damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced lightning damage taken": {
+        "gen": "#% reduced lightning damage taken",
+        "org": [
+            "(4-6)% reduced lightning damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced movement speed": {
+        "gen": "#% reduced movement speed",
+        "org": [
+            "3% reduced movement speed",
+            "5% reduced movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(8-12)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to all maximum resistances": {
+        "gen": "#% to all maximum resistances",
+        "org": [
+            "+1% to all maximum resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "you take #% reduced extra damage from critical strikes": {
+        "gen": "you take #% reduced extra damage from critical strikes",
+        "org": [
+            "you take 50% reduced extra damage from critical strikes"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    }
+}

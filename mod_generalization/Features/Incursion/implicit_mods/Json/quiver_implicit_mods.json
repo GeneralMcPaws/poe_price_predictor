@@ -1,0 +1,88 @@
+{
+    "# life gained for each enemy hit by your attacks": {
+        "gen": "# life gained for each enemy hit by your attacks",
+        "org": [
+            "+(3-4) life gained for each enemy hit by your attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global accuracy rating": {
+        "gen": "#% increased global accuracy rating",
+        "org": [
+            "(20-30)% increased global accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "(20-30)% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun duration on enemies": {
+        "gen": "#% increased stun duration on enemies",
+        "org": [
+            "(25-35)% increased stun duration on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage to bow attacks": {
+        "gen": "adds # fire damage to bow attacks",
+        "org": [
+            "adds 4 to 8 fire damage to bow attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4 to 8"
+            }
+        ]
+    },
+    "adds # physical damage to bow attacks": {
+        "gen": "adds # physical damage to bow attacks",
+        "org": [
+            "adds 1 to 4 physical damage to bow attacks",
+            "adds 6 to 12 physical damage to bow attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "arrows pierce an additional target": {
+        "gen": "",
+        "org": [
+            "arrows pierce an additional target"
+        ],
+        "params": []
+    }
+}

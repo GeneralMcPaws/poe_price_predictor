@@ -1,0 +1,115 @@
+# life gained for each enemy hit by attacks
+#% increased attack speed when on low life
+#% increased physical damage
+adds # physical damage
+#% increased claw physical damage when on low life
+#% increased accuracy rating when on low life
+# life gained for each enemy hit by attacks
+# to strength
+# to dexterity
+#% reduced global accuracy rating
+adds # physical damage
+#% increased attack speed
+#% increased damage with movement skills
+#% increased attack speed with movement skills
+# life gained for each enemy hit by attacks
+#% increased elemental damage with attack skills
+adds # lightning damage
+#% increased attack speed
+adds # lightning damage to attacks with this weapon per # intelligence
+# life gained for each enemy hit by attacks
+#% increased physical damage
+#% of physical attack damage leeched as life
+#% reduced enemy stun threshold with this weapon
+socketed gems have #% chance to cause enemies to flee on hit
+trigger level # abyssal cry on hit
+# life gained for each enemy hit by attacks
+#% increased physical damage
+#% increased attack speed
+attacks with this weapon deal # added chaos damage against enemies affected by at least # poisons
+#% increased critical strike chance
+#% to global critical strike multiplier
+#% of physical damage converted to chaos damage
+#% chance to poison on hit
+#% reduced enemy stun threshold with this weapon
+# life gained for each enemy hit by attacks
+#% increased cast speed
+# to maximum mana
+# life gained for each enemy hit by your spells
+#% increased spell damage per #% block chance
+# life gained for each enemy hit by attacks
+socketed gems are supported by level # fortify
+#% increased physical damage
+# to evasion rating
+# to maximum life
+# to maximum energy shield
+reflects # physical damage to melee attackers
+#% chance to block
+# life gained for each enemy hit by attacks
+#% increased physical damage
+socketed gems are supported by level # faster attacks
+#% increased attack speed
+#% increased stun and block recovery
+# to level of socketed dexterity gems
+hits can't be evaded
+# life gained for each enemy hit by attacks
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+# to accuracy rating
+#% chance to poison on hit
+attacks with this weapon deal # added chaos damage against enemies affected by at least # poisons
+#% of physical attack damage leeched as life
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% of physical attack damage leeched as life
+#% increased movement speed
+gain life from leech instantly from hits with this weapon
+#% of physical attack damage leeched as life
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% increased movement speed while phasing
+you gain phasing for # seconds on using a vaal skill
+#% of physical attack damage leeched as life
+#% additional block chance while dual wielding claws
+#% increased physical damage
+adds # lightning damage
+#% increased attack speed
+# to maximum energy shield
+life leech is applied to energy shield instead
+# life gained for each enemy hit by attacks
+#% increased elemental damage with attack skills
+#% increased dexterity
+#% increased intelligence
+adds # lightning damage to attacks with this weapon per # intelligence
+#% increased attack speed per # dexterity
+# life gained for each enemy hit by attacks
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+# to accuracy rating
+#% increased global physical damage while frozen
+# life gained for each enemy hit by attacks
+adds # physical damage
+#% increased cold damage
+#% increased critical strike chance
+#% chance to gain a frenzy charge on killing a frozen enemy
+skills chain an additional time while at maximum frenzy charges
+#% chance to freeze
+critical strikes do not always freeze
+#% of physical attack damage leeched as life
+#% increased physical damage
+adds # physical damage
+#% chance to cause bleeding on hit
+#% increased physical damage over time per # dexterity
+#% increased bleeding duration per # intelligence
+#% chance to cause bleeding enemies to flee on hit
+#% of physical attack damage leeched as life
+adds # physical damage
+#% increased attack speed
+minions have #% increased attack speed
+#% chance to trigger level # summon spectral wolf on kill
+increases and reductions to minion damage also affect you
+#% increased minion damage if you have hit recently

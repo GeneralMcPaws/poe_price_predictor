@@ -1,0 +1,620 @@
+{
+    "# life gained on kill": {
+        "gen": "# life gained on kill",
+        "org": [
+            "+10 life gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "-100 to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "-100"
+            }
+        ]
+    },
+    "# to all attributes": {
+        "gen": "# to all attributes",
+        "org": [
+            "+(25-50) to all attributes"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [
+            "+40 to intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+40"
+            }
+        ]
+    },
+    "# to level of socketed melee gems": {
+        "gen": "# to level of socketed melee gems",
+        "org": [
+            "+1 to level of socketed melee gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of socketed minion gems": {
+        "gen": "# to level of socketed minion gems",
+        "org": [
+            "+1 to level of socketed minion gems",
+            "+2 to level of socketed minion gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [
+            "+10 to strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "#% chance to cause monsters to flee": {
+        "gen": "#% chance to cause monsters to flee",
+        "org": [
+            "10% chance to cause monsters to flee"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% chance to shock": {
+        "gen": "#% chance to shock",
+        "org": [
+            "15% chance to shock"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% chance to trigger level # animate weapon on kill": {
+        "gen": "#% chance to trigger level # animate weapon on kill",
+        "org": [
+            "25% chance to trigger level 20 animate weapon on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(8-12)% increased attack speed",
+            "50% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(8-12)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(30-40)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum mana": {
+        "gen": "#% increased maximum mana",
+        "org": [
+            "25% increased maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(140-200)% increased physical damage",
+            "(80-100)% increased physical damage",
+            "200% increased physical damage",
+            "(200-220)% increased physical damage",
+            "(150-200)% increased physical damage",
+            "150% increased physical damage",
+            "(220-250)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage per endurance charge": {
+        "gen": "#% increased physical damage per endurance charge",
+        "org": [
+            "10% increased physical damage per endurance charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased skill effect duration": {
+        "gen": "#% increased skill effect duration",
+        "org": [
+            "15% increased skill effect duration",
+            "30% increased skill effect duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun duration on enemies": {
+        "gen": "#% increased stun duration on enemies",
+        "org": [
+            "(40-50)% increased stun duration on enemies",
+            "(10-20)% increased stun duration on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% less animate weapon duration": {
+        "gen": "#% less animate weapon duration",
+        "org": [
+            "30% less animate weapon duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "1% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as mana": {
+        "gen": "#% of physical attack damage leeched as mana",
+        "org": [
+            "0.4% of physical attack damage leeched as mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.4"
+            }
+        ]
+    },
+    "#% of physical damage converted to lightning damage": {
+        "gen": "#% of physical damage converted to lightning damage",
+        "org": [
+            "50% of physical damage converted to lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% reduced attack speed": {
+        "gen": "#% reduced attack speed",
+        "org": [
+            "50% reduced attack speed",
+            "10% reduced attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced enemy stun threshold": {
+        "gen": "#% reduced enemy stun threshold",
+        "org": [
+            "15% reduced enemy stun threshold"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% reduced enemy stun threshold with this weapon": {
+        "gen": "#% reduced enemy stun threshold with this weapon",
+        "org": [
+            "(20-30)% reduced enemy stun threshold with this weapon"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced experience gain": {
+        "gen": "#% reduced experience gain",
+        "org": [
+            "(50-30)% reduced experience gain"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced movement speed": {
+        "gen": "#% reduced movement speed",
+        "org": [
+            "10% reduced movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% reduced rarity of items found": {
+        "gen": "#% reduced rarity of items found",
+        "org": [
+            "(50-30)% reduced rarity of items found"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced strength requirement": {
+        "gen": "#% reduced strength requirement",
+        "org": [
+            "20% reduced strength requirement"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(15-20)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds 11 to 23 cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "11 to 23"
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds 5 to 25 physical damage",
+            "adds (10-20) to (30-40) physical damage",
+            "adds 10 to 20 physical damage",
+            "adds (50-56) to (73-78) physical damage",
+            "adds (94-98) to (115-121) physical damage",
+            "adds (80-100) to (320-370) physical damage",
+            "adds (60-70) to (300-350) physical damage",
+            "adds (43-56) to (330-400) physical damage",
+            "adds (25-35) to (45-55) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "all attacks with this weapon are critical strikes": {
+        "gen": "",
+        "org": [
+            "all attacks with this weapon are critical strikes"
+        ],
+        "params": []
+    },
+    "damage penetrates #% lightning resistance": {
+        "gen": "damage penetrates #% lightning resistance",
+        "org": [
+            "damage penetrates 20% lightning resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "enemies killed explode dealing #% of their life as fire damage": {
+        "gen": "enemies killed explode dealing #% of their life as fire damage",
+        "org": [
+            "enemies killed explode dealing 10% of their life as fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "enemies you shock have #% reduced cast speed": {
+        "gen": "enemies you shock have #% reduced cast speed",
+        "org": [
+            "enemies you shock have 30% reduced cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "enemies you shock have #% reduced movement speed": {
+        "gen": "enemies you shock have #% reduced movement speed",
+        "org": [
+            "enemies you shock have 20% reduced movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "gain #% of physical damage as extra cold damage": {
+        "gen": "gain #% of physical damage as extra cold damage",
+        "org": [
+            "gain 50% of physical damage as extra cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "hits can't be evaded": {
+        "gen": "",
+        "org": [
+            "hits can't be evaded"
+        ],
+        "params": []
+    },
+    "minions have #% increased maximum life": {
+        "gen": "minions have #% increased maximum life",
+        "org": [
+            "minions have (20-40)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "never deal critical strikes": {
+        "gen": "",
+        "org": [
+            "never deal critical strikes"
+        ],
+        "params": []
+    },
+    "recover #% of maximum life on kill": {
+        "gen": "recover #% of maximum life on kill",
+        "org": [
+            "recover 5% of maximum life on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "socketed gems are supported by level # endurance charge on melee stun": {
+        "gen": "socketed gems are supported by level # endurance charge on melee stun",
+        "org": [
+            "socketed gems are supported by level 20 endurance charge on melee stun"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "socketed gems are supported by level # increased area of effect": {
+        "gen": "socketed gems are supported by level # increased area of effect",
+        "org": [
+            "socketed gems are supported by level 15 increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "trigger level # elemental warding when you hit an enemy while cursed": {
+        "gen": "trigger level # elemental warding when you hit an enemy while cursed",
+        "org": [
+            "trigger level 20 elemental warding when you hit an enemy while cursed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "weapons you animate create an additional copy": {
+        "gen": "",
+        "org": [
+            "weapons you animate create an additional copy"
+        ],
+        "params": []
+    },
+    "you gain onslaught for # seconds on critical strike": {
+        "gen": "you gain onslaught for # seconds on critical strike",
+        "org": [
+            "you gain onslaught for 4 seconds on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "your critical strikes do not deal extra damage": {
+        "gen": "",
+        "org": [
+            "your critical strikes do not deal extra damage"
+        ],
+        "params": []
+    }
+}

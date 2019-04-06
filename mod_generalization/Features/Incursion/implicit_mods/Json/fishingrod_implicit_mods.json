@@ -1,0 +1,141 @@
+{
+    "# maximum power charge": {
+        "gen": "# maximum power charge",
+        "org": [
+            "+1 maximum power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+(1 to 2) to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause monsters to flee": {
+        "gen": "#% chance to cause monsters to flee",
+        "org": [
+            "5% chance to cause monsters to flee"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(10 to 20)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of fish caught": {
+        "gen": "#% increased quantity of fish caught",
+        "org": [
+            "(5 to 10)% increased quantity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of fish caught": {
+        "gen": "#% increased rarity of fish caught",
+        "org": [
+            "(5 to 10)% increased rarity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of cold damage leeched as life": {
+        "gen": "#% of cold damage leeched as life",
+        "org": [
+            "0.2% of cold damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [
+            "0.2% of fire damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life": {
+        "gen": "#% of lightning damage leeched as life",
+        "org": [
+            "0.2% of lightning damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "adds ## chaos damage": {
+        "gen": "adds ## chaos damage",
+        "org": [
+            "adds (1 to 2)-(3 to 5) chaos damage",
+            "adds (6 to 8)-(11 to 13) chaos damage",
+            "adds (8 to 11)-(19 to 23) chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "you can catch corrupted fish": {
+        "gen": "",
+        "org": [
+            "you can catch corrupted fish"
+        ],
+        "params": []
+    }
+}

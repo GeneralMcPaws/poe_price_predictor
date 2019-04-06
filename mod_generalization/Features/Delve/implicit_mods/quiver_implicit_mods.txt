@@ -1,0 +1,9 @@
+Adds 1 to 4 Physical Damage to Bow Attacks
+(20-30)% increased Global Accuracy Rating
++(3-4) Life gained for each Enemy hit by your Attacks
+Adds 4 to 8 Fire Damage to Bow Attacks
+Adds 6 to 12 Physical Damage to Bow Attacks
+Arrows Pierce an additional Target
++(3-4) Life gained for each Enemy hit by your Attacks
+(20-30)% increased Global Critical Strike Chance
+(25-35)% increased Stun Duration on Enemies

@@ -1,0 +1,145 @@
+# to level of socketed bow gems
+#% increased physical damage
+#% increased attack speed
+# to accuracy rating
+# mana gained on kill
+#% increased physical damage
+# to dexterity
+#% increased attack speed
+# to accuracy rating
+# mana gained for each enemy hit by attacks
+#% increased projectile speed
+#% less weapon damage
+no physical damage
+adds # lightning damage
+#% increased attack speed
+#% increased physical damage
+#% increased elemental damage with attack skills
+#% increased attack speed
+skills chain # times
+#% increased projectile speed
+#% increased physical damage
+# life gained on killing ignited enemies
+gain #% of physical damage as extra fire damage
+#% chance to ignite
+#% increased elemental damage with attack skills
+adds # physical damage
+#% increased attack speed
+#% increased mana regeneration rate
+gain #% of weapon physical damage as extra damage of an element
+#% increased critical strike chance
+#% increased physical damage
+#% increased attack speed
+#% to global critical strike multiplier
+bow attacks fire an additional arrow
+#% increased critical strike chance
+adds # physical damage
+#% increased attack speed
+#% increased totem life
+#% increased totem placement speed
+can have # additional siege ballista totem per # dexterity
+adds # physical damage to attacks per # dexterity
+no physical damage
+#% increased lightning damage
+adds # lightning damage
+#% increased attack speed
+# to level of socketed gems
+# to level of socketed bow gems
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+# to accuracy rating
+# mana gained on kill
+#% increased elemental damage with attack skills
+adds # physical damage
+#% increased attack speed
+#% increased mana regeneration rate
+gain #% of weapon physical damage as extra damage of each element
+#% increased critical strike chance
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% to global critical strike multiplier
+# additional arrows
+#% increased critical strike chance
+#% increased physical damage
+adds # physical damage
+# to dexterity
+# to accuracy rating
+arrows pierce all targets
+#% increased movement speed
+cannot leech life
+adds # cold damage
+#% increased movement speed per frenzy charge
+# to accuracy rating
+# cold damage per frenzy charge
+#% chance to avoid elemental damage when hit per frenzy charge
+#% of attack damage leeched as life per frenzy charge
+# cold damage taken per second per frenzy charge while moving
+adds # chaos damage
+#% increased attack speed
+#% to chaos resistance
+minions deal #% increased damage per # dexterity
+# intelligence requirement
+trigger socketed minion spells on kill with this weapon
+adds # physical damage
+#% increased evasion rating
+bow attacks fire # additional arrows
+every # seconds you gain iron reflexes for # seconds
+#% more damage with arrow hits at close range while you have iron reflexes
+#% increased attack, cast and movement speed while you do not have iron reflexes
+you have far shot while you do not have iron reflexes
+#% increased physical damage
+# to dexterity
+adds # fire damage
+#% increased attack speed
+#% more damage with arrow hits at close range
+bow knockback at close range
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% of physical damage converted to chaos damage
+#% increased global accuracy rating
+#% of physical damage from hits taken as chaos damage
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+bow attacks fire # additional arrows
+#% reduced projectile speed
+adds # lightning damage
+#% increased attack speed
+#% of lightning damage converted to chaos damage
+#% chance to shock
+your chaos damage can shock
+#% increased physical damage
+#% of physical damage converted to fire damage
+#% chance to ignite
+ignites your skills cause spread to other enemies within a radius of #
+recover # life when you ignite an enemy
+#% increased elemental damage with attack skills
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+# to maximum mana
+hits can't be evaded
+far shot
+#% increased elemental damage with attack skills
+adds # cold damage
+adds # lightning damage
+#% increased attack speed
+#% increased critical strike chance
+#% increased quantity of items dropped by slain frozen enemies
+#% increased rarity of items dropped by slain shocked enemies
+#% increased critical strike chance
+no physical damage
+adds # cold damage
+#% increased attack speed
+#% increased light radius
+#% chance to create chilled ground when you freeze an enemy
+create consecrated ground when you shatter an enemy
+#% increased effect of chilled ground
+#% increased critical strike chance
+adds # physical damage
+#% increased critical strike chance with arrows that fork
+arrows that pierce have #% chance to inflict bleeding
+arrows pierce all targets after chaining

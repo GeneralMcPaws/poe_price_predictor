@@ -1,0 +1,174 @@
+{
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+(1-2) to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "20% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(25-30)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack damage against bleeding enemies": {
+        "gen": "#% increased attack damage against bleeding enemies",
+        "org": [
+            "(30-40)% increased attack damage against bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(5-7)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(14-18)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(10-15)% increased physical damage",
+            "(16-20)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (4-5) to (6-8) physical damage",
+            "adds (8-9) to (11-13) physical damage",
+            "adds 1 to (2-3) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "socketed gems are supported by level # blood magic": {
+        "gen": "socketed gems are supported by level # blood magic",
+        "org": [
+            "socketed gems are supported by level 1 blood magic"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "socketed gems are supported by level # fortify": {
+        "gen": "socketed gems are supported by level # fortify",
+        "org": [
+            "socketed gems are supported by level 10 fortify"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # life gain on hit": {
+        "gen": "socketed gems are supported by level # life gain on hit",
+        "org": [
+            "socketed gems are supported by level 10 life gain on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # onslaught": {
+        "gen": "socketed gems are supported by level # onslaught",
+        "org": [
+            "socketed gems are supported by level 10 onslaught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # reduced mana": {
+        "gen": "socketed gems are supported by level # reduced mana",
+        "org": [
+            "socketed gems are supported by level 10 reduced mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

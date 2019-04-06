@@ -1,0 +1,394 @@
+#% increased global physical damage
+# to armour
+# to maximum life
+cannot evade enemy attacks
+cannot be stunned
+#% increased global physical damage
+# to armour
+# to maximum life
+cannot evade enemy attacks
+# to strength
+# to level of socketed minion gems
+minions have #% increased maximum life
+half of your strength is added to your minions
+# to maximum number of zombies per # strength
+with at least # strength, #% of damage dealt by your zombies is leeched to you as life
+# to armour
+# to maximum life
+# fire damage taken when hit
+armour is increased by uncapped fire resistance
+#% increased fire damage
+#% increased armour
+# to maximum life
+#% to cold resistance
+cannot be chilled or frozen if you have used a fire skill recently
+adds # physical damage to attacks
+# to all attributes
+#% to melee critical strike multiplier
+# to intelligence
+#% increased armour and energy shield
+# to maximum life
+your energy shield starts at zero
+cannot gain energy shield
+# life regenerated per second if you have at least # maximum energy shield
+# life regenerated per second if you have at least # maximum energy shield
+# life regenerated per second if you have at least # maximum energy shield
+# to maximum energy shield
+strength provides no bonus to maximum life
+intelligence provides no bonus to maximum mana
+# to maximum life per # intelligence
+your energy shield starts at zero
+cannot gain energy shield
+#% of life regenerated per second per # maximum energy shield
+#% increased armour
+#% increased physical damage taken
+#% increased armour
+# to maximum life
+#% to fire resistance
+#% of physical damage from hits taken as fire damage
+armour is increased by uncapped fire resistance
+# to evasion rating
+#% increased rarity of items found
+#% to all elemental resistances
+reflects # physical damage to melee attackers
+level requirement reduced by # (hidden)
+adds # cold damage to attacks
+#% increased evasion rating
+#% increased stun and block recovery
+# to maximum mana
+#% to lightning resistance
+cannot be shocked
+#% increased cold damage if you have used a fire skill recently
+#% increased fire damage if you have used a cold skill recently
+#% increased evasion rating
+#% increased mana regeneration rate
+#% to fire resistance
+#% to cold resistance
+#% increased attack speed
+#% increased global critical strike chance
+#% increased evasion rating
+#% increased rarity of items found
+#% increased movement speed
+#% reduced character size
+# to level of socketed fire gems
+# to level of socketed cold gems
+socketed gems are supported by level # cold to fire
+#% increased evasion rating
+#% increased mana regeneration rate
+#% to fire and cold resistances
+#% chance to trigger level # tornado when you gain avian's might or avian's flight
+#% increased evasion rating
+# to maximum life
+#% to lightning resistance
+#% increased movement speed
+#% reduced damage when on low life
+# to dexterity
+#% increased attack speed
+#% increased global critical strike chance
+#% increased evasion rating
+# to maximum life
+#% increased global evasion rating when on low life
+# to level of socketed aura gems
+#% increased evasion rating
+#% to cold resistance
+#% chance to avoid being chilled
+cannot be frozen
+#% reduced mana reserved
+# to accuracy rating
+#% increased evasion rating
+# to maximum life
+#% increased projectile attack damage per # accuracy rating
+# to maximum energy shield
+reflects # physical damage to melee attackers
+take # physical damage when hit by attacks
+pain attunement
+#% increased attack speed
+#% increased cast speed
+#% increased mana regeneration rate
+# to maximum energy shield
+#% increased stun and block recovery
+#% increased movement speed
+# to maximum energy shield
+minions have #% increased movement speed
+raging spirits have #% increased damage
+#% reduced maximum number of summoned raging spirits
+raging spirits' hits always ignite
+raging spirits refresh their duration when they kill an ignited enemy
+# to level of socketed minion gems
+#% increased energy shield
+minions regenerate #% life per second
+# to spectre maximum life
+# to level of socketed curse gems
+# to intelligence
+# to maximum energy shield
+#% increased curse duration
+#% increased elemental damage
+#% increased damage with hits and ailments per curse on enemy
+#% chance to trigger a socketed spell when you attack with a bow
+#% increased attack speed
+#% increased cast speed
+# to maximum energy shield
+#% increased stun and block recovery
+#% increased mana regeneration rate
+#% increased movement speed
+# to maximum energy shield
+# to maximum energy shield
+reflects # physical damage to melee attackers
+take # physical damage when hit by attacks
+pain attunement
+# to strength
+# to maximum mana
+#% to all elemental resistances
+#% increased experience gain
+#% increased elemental damage
+adds # chaos damage to spells
+#% increased energy shield
+#% chance to gain a power charge on hitting an enemy affected by a spider's web
+#% chance to poison per power charge
+#% increased damage with poison per power charge
+aspect of the spider inflicts spider's webs and hinder every # seconds instead
+socketed gems are supported by level # concentrated effect
+#% increased cold damage
+# to maximum mana
+#% increased energy shield
+#% reduced energy shield recharge rate
+#% increased spell damage
+#% reduced cast speed
+# to maximum mana
+your skills deal you #% of mana spent as physical damage
+# to accuracy rating
+#% increased energy shield
+#% to fire resistance
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as mana
+increases and reductions to spell damage also apply to attacks
+trigger level # void gaze when you use a skill
+# to maximum mana
+#% increased energy shield
+#% increased stun and block recovery
+gain #% of elemental damage as extra chaos damage
+#% increased energy shield
+#% increased maximum mana
+recover #% of maximum life when you use a mana flask
+non-instant mana recovery from flasks is also recovered as life
+#% increased mana cost of skills for each # total mana you have spent recently
+#% increased spell damage for each # total mana you have spent recently
+trigger level # shock ground when hit
+adds # lightning damage to spells and attacks
+#% increased energy shield
+#% to lightning resistance
+#% chance to curse non-cursed enemies with a random curse on hit
+# to accuracy rating
+#% increased armour and evasion
+#% increased rarity of items found
+#% to lightning resistance
+#% of attack damage leeched as mana
+#% increased movement speed
+adds # physical damage to attacks
+# to strength
+# to dexterity
+# to armour
+#% increased melee damage
+cannot leech when on low life
+adds # physical damage to attacks
+# to strength
+# to dexterity
+# to armour
+#% increased melee damage
+cannot leech when on low life
+you and nearby allies have #% increased attack, cast and movement speed if you've warcried recently
+#% increased armour and evasion
+# to maximum life
+# to maximum mana
+#% to all elemental resistances
+minions have #% chance to block
+minions have # to armour
+minions regenerate #% life per second
+# to level of socketed gems
+#% increased armour
+#% reduced light radius
+#% increased dexterity
+#% increased strength
+#% increased intelligence
+#% reduced global physical damage
+# to dexterity
+#% increased attack speed
+#% increased armour and evasion
+#% to chaos resistance
+#% increased movement speed
+mercury footprints
+socketed gems are supported by level # melee physical damage
+socketed gems are supported by level # faster attacks
+socketed gems are supported by level # blind
+adds # physical damage to attacks
+#% increased armour and evasion
+# to maximum life
+#% chance to gain an endurance charge when you block
+extra gore
+can't use chest armour
+#% chance to block
+adds # lightning damage to attacks
+#% increased armour and energy shield
+#% to all elemental resistances
+#% to all elemental resistances while on low life
+#% reduced mana cost of skills when on low life
+#% increased stun and block recovery
+#% reduced light radius
+reflects # lightning damage to attackers on block
+#% increased global defences
+elemental resistances are zero
+#% increased cold damage
+#% increased lightning damage
+# to maximum mana
+gain #% of maximum mana as extra maximum energy shield
+enemies cannot leech mana from you
+#% of damage taken gained as mana over # seconds when hit
+cannot leech mana
+#% reduced cast speed
+#% increased armour and energy shield
+# to maximum mana
+#% chance to trigger socketed spells when you spend at least # mana to use a skill
+# to level of socketed gems
+#% increased armour and energy shield
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% to chaos resistance
+has # abyssal socket
+trigger level # spirit burst when you use a skill while you have a spirit charge
+#% to all elemental resistances
+recover #% of life when a spirit charge expires or is consumed
+#% chance to gain a spirit charge on kill
+# to maximum spirit charges per abyss jewel affecting you
+has # abyssal sockets
+trigger level # spirit burst when you use a skill while you have a spirit charge
+#% to all elemental resistances
+recover #% of life when a spirit charge expires or is consumed
+#% chance to gain a spirit charge on kill
+# to maximum spirit charges per abyss jewel affecting you
+#% of block chance applied to spells
+#% increased armour and energy shield
+#% increased maximum life
+cannot lose crab barriers if you have lost crab barriers recently
+#% additional chance to block while you have at least # crab barriers
+#% additional chance to block while you have at least # crab barriers
+# to dexterity
+#% increased skill effect duration
+#% increased minion attack speed per # dexterity
+#% increased minion movement speed per # dexterity
+minions' hits can only kill ignited enemies
+#% increased armour and energy shield
+# to maximum life
+#% to cold resistance
+cannot be frozen
+# armour while stationary
+#% increased mana regeneration rate while stationary
+#% chance to create chilled ground when hit with an attack
+socketed gems are supported by level # cast on death
+#% increased damage when on low life
+# to all attributes
+#% increased armour and energy shield
+#% reduced mana regeneration rate
+# to maximum energy shield
+#% to chaos resistance
+# to all attributes
+#% increased armour and energy shield
+# to maximum life
+# to maximum power charges
+gain #% of physical damage as extra chaos damage while at maximum power charges
+you take #% reduced extra damage from critical strikes while you have no power charges
+adds # chaos damage
+# to maximum energy shield
+#% to cold resistance
+#% to lightning resistance
+regenerate # energy shield per second if all equipped items are corrupted
+regenerate # mana per second if all equipped items are corrupted
+corrupted
+# to maximum energy shield
+# to maximum mana
+#% increased mana regeneration rate
+#% to fire resistance
+#% increased mana reserved
+gain armour equal to your reserved mana
+# to armour
+#% to fire resistance
+#% to chaos resistance
+#% increased light radius
+#% increased maximum life if no equipped items are corrupted
+regenerate # life per second if no equipped items are corrupted
+#% increased spell damage
+# to strength
+#% increased lightning damage
+#% to lightning resistance
+blood magic
+#% reduced damage
+# to dexterity
+# to maximum life
+# to maximum mana
+you and nearby allies gain #% increased damage
+#% to all elemental resistances
+your fire damage can shock but not ignite
+your cold damage can ignite but not freeze or chill
+your lightning damage can freeze but not shock
+trigger level # create lesser shrine when you kill an enemy
+#% increased evasion and energy shield
+# to maximum life
+# to maximum energy shield
+#% to cold resistance
+#% increased effect of shrine buffs on you
+#% increased duration of shrine effects on you
+#% increased evasion and energy shield
+# to maximum life
+#% of physical attack damage leeched as life
+reflects # physical damage to melee attackers
+#% of damage you reflect to enemies is gained as life
+grants level # petrification statue skill
+#% increased energy shield
+# to maximum life
+#% increased attack and cast speed
+#% additional physical damage reduction while moving
+#% reduced elemental damage taken while stationary
+grants level # aspect of the cat skill
+#% increased evasion and energy shield
+#% to cold resistance
+#% to critical strike chance while affected by aspect of the cat
+critical strikes have #% chance to blind enemies while you have cat's stealth
+#% increased damage with hits and ailments against blinded enemies
+#% increased evasion and energy shield
+#% increased maximum mana
+#% chance to shock
+#% chance to be shocked
+#% of lightning damage is taken from mana before life when hit
+recover #% of maximum mana when you shock an enemy
+#% increased spell damage
+# to strength
+#% to all elemental resistances
+adds # cold damage to spells while no life is reserved
+adds # fire damage to spells while no life is reserved
+adds # lightning damage to spells while no life is reserved
+blood magic
+socketed gems are supported by level # ice bite
+socketed gems are supported by level # innervate
+grants summon harbinger of storms skill
+# to evasion rating
+# to maximum life
+# to maximum energy shield
+#% to all elemental resistances
+# to level of socketed gems
+#% increased evasion and energy shield
+# to maximum energy shield
+#% to chaos resistance
+enemies cannot leech mana from you
+socketed gems have #% reduced mana cost
+# to maximum energy shield
+#% increased evasion and energy shield
+# to level of socketed curse gems
+socketed curse gems are supported by level # blasphemy
+socketed curse gems have #% reduced mana reservation
+#% increased armour and energy shield
+# to maximum life
+your energy shield starts at zero
+cannot gain energy shield
+# life regenerated per second if you have at least # maximum energy shield
+# life regenerated per second if you have at least # maximum energy shield
+# life regenerated per second if you have at least # maximum energy shield

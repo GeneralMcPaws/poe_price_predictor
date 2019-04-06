@@ -1,0 +1,36 @@
+3% reduced Movement Speed
++(10-20) to maximum Life
+3% increased Movement Speed
+6% increased Movement Speed
+(5-10)% increased Spell Damage
+60% increased Block Recovery
+120% increased Block Recovery
++4% to all Elemental Resistances
++8% to all Elemental Resistances
+4% chance to Dodge Attack Hits
+2% chance to Dodge Spell Hits
+4% chance to Dodge Spell Hits
+Grants Level 23 Determination Skill
+Grants Level 23 Discipline Skill
+0.5% of Fire Damage Leeched as Life
++1 to Level of Socketed Gems
+Grants Level 23 Grace Skill
++(4-5)% Chance to Block
++1% to maximum Block Chance
+(20-25)% of Block Chance applied to Spells
+(6-8)% of Physical Damage from Hits taken as Cold Damage
+(6-8)% of Physical Damage from Hits taken as Fire Damage
+(6-8)% of Physical Damage from Hits taken as Lightning Damage
+(6-8)% of Physical Damage from Hits taken as Chaos Damage
+(4-6)% reduced Area Damage taken from Hits
+(4-6)% reduced Damage taken from Projectiles
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed AoE Gems
++2 to Level of Socketed Aura Gems
++2 to Level of Socketed Curse Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
++2 to Level of Socketed Projectile Gems
+(4-6)% increased maximum Life
+(4-6)% increased maximum Energy Shield
+You take (25-30)% reduced Extra Damage from Critical Strikes

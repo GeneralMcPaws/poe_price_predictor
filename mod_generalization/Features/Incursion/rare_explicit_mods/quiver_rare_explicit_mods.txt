@@ -1,0 +1,75 @@
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+#% increased Elemental Damage with Attack Skills
+# to maximum Life
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Suffixes Cannot Be Changed
+Projectiles Pierce # additional Targets
+#% increased Damage with Poison
+Adds # Cold Damage per Frenzy Charge
+#% of Physical Damage as Extra Fire Damage
+bow attacks fire an additional arrow
+# Mana gained for each Enemy hit by your Attacks
+Adds an additional Arrow
+Gain #% of Physical Damage as Extra Cold Damage
+#% increased Movement Speed
+#% chance to gain a Frenzy Charge on Kill
+#% increased Area of Effect
+Projectiles Pierce an additional Target
+Damage Penetrates #% Elemental Resistances
+gain #% of physical damage as extra fire damage
+#% to Fire Resistance
+#% to Cold Resistance
+attacks have #% chance to cause bleeding
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% additional Physical Damage Reduction
+# to Accuracy Rating
+#% increased Projectile Speed
+#% increased Attack Speed
+# to Dexterity
+#% increased global critical strike chance
+#% to Global Critical Strike Multiplier
+# Life gained on Kill
+# Mana gained on Kill
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun Duration on Enemies
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% increased Trap Damage
+#% increased Mine Damage
+#% increased Trap Throwing Speed
+#% increased Mine Laying Speed
+Minions have #% increased Movement Speed
+# to Strength
+# to Intelligence
+#% reduced Reflected Damage taken
+Attacks have #% chance to Maim on Hit
+#% chance to gain Onslaught for # seconds on Kill
+#% chance to Blind Enemies on Hit with Attacks
+#% increased Damage with Poison
+#% chance to Poison on Hit
+#% increased Damage with Bleeding
+#% chance to Poison on Hit
+#% chance to gain Phasing for # seconds on Kill
+# Cold Damage per Frenzy Charge
+#% chance to Avoid being Stunned
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+Minions have #% increased Movement Speed
+#% chance to gain a Frenzy Charge when you Hit a Rare or Unique Enemy
+#% increased maximum Mana
+#% increased Damage with Ailments
+#% chance to Evade Attacks
+#% of Life Regenerated per second

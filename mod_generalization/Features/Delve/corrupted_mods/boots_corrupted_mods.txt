@@ -1,0 +1,29 @@
+(4-6)% increased maximum Energy Shield
+(4-6)% increased maximum Life
++2 to Level of Socketed AoE Gems
++2 to Level of Socketed Aura Gems
++2 to Level of Socketed Curse Gems
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed Projectile Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
++1 to Level of Socketed Gems
+(4-6)% chance to Dodge Attack Hits
+(4-6)% chance to Dodge Spell Hits
+(6-10)% chance to Dodge Attack Hits while moving
+(6-10)% chance to Dodge Spell Hits while moving
+(8-10)% increased Attack Speed
+(8-10)% increased Movement Speed
++(139-322) Armour while stationary
++(139-322) to Global Evasion Rating while moving
++(35-60) Armour while stationary
++(35-60) to Global Evasion Rating while moving
++(61-138) Armour while stationary
++(61-138) to Global Evasion Rating while moving
++1 to Maximum Endurance Charges
+100 Life Regenerated per second while moving
+Grants Level 21 Haste Skill
++(8-16)% to all Elemental Resistances
++(18-20)% to Fire and Lightning Resistances
++(15-20)% to Fire and Cold Resistances
++(15-20)% to Cold and Lightning Resistances

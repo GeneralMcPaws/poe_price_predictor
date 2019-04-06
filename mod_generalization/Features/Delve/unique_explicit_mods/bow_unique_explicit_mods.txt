@@ -1,0 +1,145 @@
++1 to Level of Socketed Bow Gems
+(80-100)% increased Physical Damage
+10% increased Attack Speed
++30 to Accuracy Rating
++10 Mana gained on Kill
+100% increased Physical Damage
++(10-20) to Dexterity
+100% increased Attack Speed
++(25-50) to Accuracy Rating
++2 Mana gained for each Enemy hit by Attacks
+(50-100)% increased Projectile Speed
+40% less Weapon Damage
+No Physical Damage
+Adds 1 to 85 Lightning Damage
+(36-50)% increased Attack Speed
+(60-80)% increased Physical Damage
+(20-40)% increased Elemental Damage with Attack Skills
+(4-8)% increased Attack Speed
+Skills Chain +1 times
+30% increased Projectile Speed
+(70-90)% increased Physical Damage
++(20-30) Life gained on Killing Ignited Enemies
+Gain 20% of Physical Damage as Extra Fire Damage
+10% chance to Ignite
+(20-24)% increased Elemental Damage with Attack Skills
+Adds (12-16) to (20-24) Physical Damage
+(10-14)% increased Attack Speed
+60% increased Mana Regeneration Rate
+Gain 100% of Weapon Physical Damage as Extra Damage of an Element
+(30-50)% increased Critical Strike Chance
+(100-125)% increased Physical Damage
+10% increased Attack Speed
++100% to Global Critical Strike Multiplier
+Bow Attacks fire an additional Arrow
+(30-50)% increased Critical Strike Chance
+Adds (8-12) to (16-24) Physical Damage
+(14-20)% increased Attack Speed
+(14-20)% increased Totem Life
+(14-20)% increased Totem Placement speed
+Can have 1 additional Siege Ballista Totem per 200 Dexterity
+Adds 1 to 3 Physical Damage to Attacks per 25 Dexterity
+No Physical Damage
+100% increased Lightning Damage
+Adds 1 to 85 Lightning Damage
+(36-50)% increased Attack Speed
++1 to Level of Socketed Gems
++1 to Level of Socketed Bow Gems
+(80-100)% increased Physical Damage
+Adds (15-25) to (50-60) Physical Damage
+10% increased Attack Speed
++30 to Accuracy Rating
++10 Mana gained on Kill
+(20-24)% increased Elemental Damage with Attack Skills
+Adds (12-16) to (20-24) Physical Damage
+(10-14)% increased Attack Speed
+60% increased Mana Regeneration Rate
+Gain 100% of Weapon Physical Damage as Extra Damage of each Element
+(30-50)% increased Critical Strike Chance
+(100-125)% increased Physical Damage
+Adds (10-20) to (30-35) Physical Damage
+10% increased Attack Speed
++100% to Global Critical Strike Multiplier
+2 additional Arrows
+(30-50)% increased Critical Strike Chance
+(110-125)% increased Physical Damage
+Adds (25-35) to (36-45) Physical Damage
++(20-30) to Dexterity
++(200-250) to Accuracy Rating
+Arrows Pierce all Targets
+10% increased Movement Speed
+Cannot Leech Life
+Adds (130-150) to (270-300) Cold Damage
+4% increased Movement Speed per Frenzy Charge
++(400-500) to Accuracy Rating
+12 to 14 Cold Damage per Frenzy Charge
+2% chance to Avoid Elemental Damage when Hit per Frenzy Charge
+0.5% of Attack Damage Leeched as Life per Frenzy Charge
+400 Cold Damage taken per second per Frenzy Charge while moving
+Adds (50-80) to (130-180) Chaos Damage
+(7-12)% increased Attack Speed
++(7-11)% to Chaos Resistance
+Minions deal 1% increased Damage per 10 Dexterity
++212 Intelligence Requirement
+Trigger Socketed Minion Spells on Kill with this Weapon
+Adds (60-70) to (180-210) Physical Damage
+(60-100)% increased Evasion Rating
+Bow Attacks fire 2 additional Arrows
+Every 16 seconds you gain Iron Reflexes for 8 seconds
+30% more Damage with Arrow Hits at Close Range while you have Iron Reflexes
+30% increased Attack, Cast and Movement Speed while you do not have Iron Reflexes
+You have Far Shot while you do not have Iron Reflexes
+(150-180)% increased Physical Damage
++(10-20) to Dexterity
+Adds 25 to 50 Fire Damage
+(10-14)% increased Attack Speed
+100% More Damage with Arrow Hits at Close Range
+Bow Knockback at Close Range
+(130-150)% increased Physical Damage
+Adds (10-15) to (15-20) Physical Damage
+10% increased Attack Speed
+25% of Physical Damage Converted to Chaos Damage
+(15-30)% increased Global Accuracy Rating
+25% of Physical Damage from Hits taken as Chaos Damage
+(40-50)% increased Physical Damage
+Adds (15-30) to (70-95) Physical Damage
+(8-12)% increased Attack Speed
+Bow Attacks fire 2 additional Arrows
+20% reduced Projectile Speed
+Adds 1 to (275-325) Lightning Damage
+(10-15)% increased Attack Speed
+60% of Lightning Damage Converted to Chaos Damage
+10% chance to Shock
+Your Chaos Damage can Shock
+(250-300)% increased Physical Damage
+50% of Physical Damage Converted to Fire Damage
+10% chance to Ignite
+Ignites your Skills cause spread to other Enemies within a Radius of 12
+Recover (40-60) Life when you Ignite an Enemy
+(20-24)% increased Elemental Damage with Attack Skills
+(150-175)% increased Physical Damage
+Adds (6-12) to (20-32) Physical Damage
+(10-20)% increased Attack Speed
++(80-100) to maximum Mana
+Hits can't be Evaded
+Far Shot
+(20-24)% increased Elemental Damage with Attack Skills
+Adds (32-40) to (48-60) Cold Damage
+Adds 1 to (80-100) Lightning Damage
+(10-15)% increased Attack Speed
+(60-80)% increased Critical Strike Chance
+15% increased Quantity of Items Dropped by Slain Frozen Enemies
+30% increased Rarity of Items Dropped by Slain Shocked Enemies
+(30-50)% increased Critical Strike Chance
+No Physical Damage
+Adds (120-140) to (180-210) Cold Damage
+(10-15)% increased Attack Speed
+(10-30)% increased Light Radius
+15% chance to create Chilled Ground when you Freeze an Enemy
+Create Consecrated Ground when you Shatter an Enemy
+40% increased Effect of Chilled Ground
+(30-50)% increased Critical Strike Chance
+Adds (60-75) to (170-220) Physical Damage
+100% increased Critical Strike Chance with arrows that Fork
+Arrows that Pierce have 50% chance to inflict Bleeding
+Arrows Pierce all Targets after Chaining

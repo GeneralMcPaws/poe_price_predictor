@@ -1,0 +1,116 @@
++3 Life gained for each Enemy hit by Attacks
+25% increased Attack Speed when on Low Life
+(80-100)% increased Physical Damage
+Adds 2 to 10 Physical Damage
+100% increased Claw Physical Damage when on Low Life
+100% increased Accuracy Rating when on Low Life
++7 Life gained for each Enemy hit by Attacks
++(10-15) to Strength
++(10-15) to Dexterity
+15% reduced Global Accuracy Rating
+Adds (2-6) to (16-22) Physical Damage
+(10-15)% increased Attack Speed
+20% increased Damage with Movement Skills
+15% increased Attack Speed with Movement Skills
++12 Life gained for each Enemy hit by Attacks
+(20-25)% increased Elemental Damage with Attack Skills
+Adds 1 to (50-60) Lightning Damage
+(10-15)% increased Attack Speed
+Adds 1 to 5 Lightning Damage to Attacks with this Weapon per 10 Intelligence
++19 Life gained for each Enemy hit by Attacks
+(100-120)% increased Physical Damage
+3% of Physical Attack Damage Leeched as Life
+10% reduced Enemy Stun Threshold with this Weapon
+Socketed Gems have 10% chance to cause Enemies to Flee on Hit
+Trigger Level 1 Abyssal Cry on Hit
++20 Life gained for each Enemy hit by Attacks
+(75-100)% increased Physical Damage
+20% increased Attack Speed
+Attacks with this Weapon deal 80-120 added Chaos Damage against Enemies affected by at least 5 Poisons
+25% increased Critical Strike Chance
++40% to Global Critical Strike Multiplier
+(10-20)% of Physical Damage Converted to Chaos Damage
+60% chance to Poison on Hit
+25% reduced Enemy Stun Threshold with this Weapon
++25 Life gained for each Enemy hit by Attacks
+(8-12)% increased Cast Speed
++(30-40) to maximum Mana
++(5-8) Life gained for each Enemy hit by your Spells
+8% increased Spell Damage per 5% Chance to Block Attack Damage
++44 Life gained for each Enemy hit by Attacks
+Socketed Gems are Supported by Level 12 Fortify
+(100-120)% increased Physical Damage
++110 to Evasion Rating
++(30-50) to maximum Life
++35 to maximum Energy Shield
+Reflects (71-90) Physical Damage to Melee Attackers
+15% Chance to Block Attack Damage
++44 Life gained for each Enemy hit by Attacks
+(160-180)% increased Physical Damage
+Socketed Gems are Supported by Level 10 Faster Attacks
+(10-15)% increased Attack Speed
+25% increased Stun and Block Recovery
++1 to Level of Socketed Dexterity Gems
+Hits can't be Evaded
++40 Life gained for each Enemy hit by Attacks
+(150-170)% increased Physical Damage
+(20-25)% increased Attack Speed
+(20-25)% increased Critical Strike Chance
++(180-200) to Accuracy Rating
+20% chance to Poison on Hit
+Attacks with this Weapon deal 80-120 added Chaos Damage against Enemies affected by at least 5 Poisons
+1.6% of Physical Attack Damage Leeched as Life
+(150-170)% increased Physical Damage
+Adds 10 to 12 Physical Damage
+5% increased Attack Speed
+1.2% of Physical Attack Damage Leeched as Life
+5% increased Movement Speed
+Gain Life from Leech instantly from Hits with this Weapon
+2% of Physical Attack Damage Leeched as Life
+(110-130)% increased Physical Damage
+15% Chance to Block Attack Damage
+Adds (15-20) to (30-40) Physical Damage
+(8-12)% increased Attack Speed
+15% increased Movement Speed while Phasing
+You gain Phasing for 10 seconds on using a Vaal Skill
+2% of Physical Attack Damage Leeched as Life
++8% Chance to Block Attack Damage while Dual Wielding Claws
+(140-180)% increased Physical Damage
+Adds 1 to 200 Lightning Damage
+(20-30)% increased Attack Speed
++(30-40) to maximum Energy Shield
+Life Leech is applied to Energy Shield instead
++46 Life gained for each Enemy hit by Attacks
+(25-30)% increased Elemental Damage with Attack Skills
+(8-12)% increased Dexterity
+(8-12)% increased Intelligence
+Adds 1 to 10 Lightning Damage to Attacks with this Weapon per 10 Intelligence
+1% increased Attack Speed per 25 Dexterity
++46 Life gained for each Enemy hit by Attacks
+(40-60)% increased Physical Damage
+Adds 20 to 50 Physical Damage
+(10-15)% increased Attack Speed
++(250-350) to Accuracy Rating
+100% increased Global Physical Damage while Frozen
++46 Life gained for each Enemy hit by Attacks
+Adds (40-50) to (130-150) Physical Damage
+30% increased Cold Damage
+(30-40)% increased Critical Strike Chance
+20% chance to gain a Frenzy Charge on Killing a Frozen Enemy
+Skills Chain an additional time while at maximum Frenzy Charges
+10% chance to Freeze
+Critical Strikes do not always Freeze
+2% of Physical Attack Damage Leeched as Life
+(60-80)% increased Physical Damage
+Adds (25-35) to (50-65) Physical Damage
+25% chance to cause Bleeding on Hit
+2% increased Physical Damage over time per 10 Dexterity
+1% increased Bleeding Duration per 12 Intelligence
+30% Chance to cause Bleeding Enemies to Flee on hit
+2% of Physical Attack Damage Leeched as Life
+Adds (35-50) to (100-125) Physical Damage
+(10-15)% increased Attack Speed
+Minions have (10-15)% increased Attack Speed
+10% Chance to Trigger Level 18 Summon Spectral Wolf on Kill
+Increases and Reductions to Minion Damage also affect you
+70% increased Minion Damage if you have Hit Recently

@@ -1,0 +1,154 @@
+{
+    "# maximum power charge": {
+        "gen": "# maximum power charge",
+        "org": [
+            "+1 maximum power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+(1 to 2) to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional chance to block while dual wielding": {
+        "gen": "#% additional chance to block while dual wielding",
+        "org": [
+            "(3 to 6)% additional chance to block while dual wielding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause monsters to flee": {
+        "gen": "#% chance to cause monsters to flee",
+        "org": [
+            "5% chance to cause monsters to flee"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% of cold damage leeched as life": {
+        "gen": "#% of cold damage leeched as life",
+        "org": [
+            "0.2% of cold damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [
+            "0.2% of fire damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life": {
+        "gen": "#% of lightning damage leeched as life",
+        "org": [
+            "0.2% of lightning damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "adds ## chaos damage": {
+        "gen": "adds ## chaos damage",
+        "org": [
+            "adds (1 to 2)-(3 to 5) chaos damage",
+            "adds (6 to 8)-(11 to 13) chaos damage",
+            "adds (8 to 11)-(19 to 23) chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "culling strike": {
+        "gen": "",
+        "org": [
+            "culling strike"
+        ],
+        "params": []
+    },
+    "gems in this item are supported by level # additional accuracy": {
+        "gen": "gems in this item are supported by level # additional accuracy",
+        "org": [
+            "gems in this item are supported by level 12 additional accuracy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "gems in this item are supported by level # melee splash": {
+        "gen": "gems in this item are supported by level # melee splash",
+        "org": [
+            "gems in this item are supported by level 10 melee splash"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "gems in this item are supported by level # multistrike": {
+        "gen": "gems in this item are supported by level # multistrike",
+        "org": [
+            "gems in this item are supported by level 1 multistrike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    }
+}

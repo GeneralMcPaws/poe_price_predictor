@@ -1,0 +1,174 @@
+{
+    "#% chance to gain a frenzy charge on kill": {
+        "gen": "#% chance to gain a frenzy charge on kill",
+        "org": [
+            "(9-11)% chance to gain a frenzy charge on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(3-5)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(30-50)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage with attack skills": {
+        "gen": "#% increased elemental damage with attack skills",
+        "org": [
+            "(20-24)% increased elemental damage with attack skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(10-15)% increased physical damage",
+            "(16-20)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds (19-23) to (31-38) cold damage",
+            "adds (22-28) to (39-47) cold damage",
+            "adds (8-11) to (17-20) cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (10-15) to (20-23) fire damage",
+            "adds (23-27) to (34-43) fire damage",
+            "adds (27-34) to (45-53) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds (2-3) to (30-34) lightning damage",
+            "adds (3-6) to (63-72) lightning damage",
+            "adds (4-8) to (89-92) lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (4-5) to (6-8) physical damage",
+            "adds (8-9) to (11-13) physical damage",
+            "adds 1 to (2-3) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "bow attacks fire an additional arrow": {
+        "gen": "",
+        "org": [
+            "bow attacks fire an additional arrow"
+        ],
+        "params": []
+    },
+    "socketed gems are supported by level # blind": {
+        "gen": "socketed gems are supported by level # blind",
+        "org": [
+            "socketed gems are supported by level 10 blind"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # faster projectiles": {
+        "gen": "socketed gems are supported by level # faster projectiles",
+        "org": [
+            "socketed gems are supported by level 10 faster projectiles"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # onslaught": {
+        "gen": "socketed gems are supported by level # onslaught",
+        "org": [
+            "socketed gems are supported by level 10 onslaught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

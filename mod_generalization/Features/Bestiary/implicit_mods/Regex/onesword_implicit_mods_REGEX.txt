@@ -1,0 +1,10 @@
+#% increased global accuracy rating
+# to accuracy rating
+# to accuracy rating
+# to accuracy rating
+#% to global critical strike multiplier
+#% increased global critical strike multiplier
+#% chance to dodge attack hits
+#% chance to dodge attack hits
+#% chance to cause bleeding on hit
+#% chance to cause bleeding on hit

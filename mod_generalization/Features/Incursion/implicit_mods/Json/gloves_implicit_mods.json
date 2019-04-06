@@ -1,0 +1,171 @@
+{
+    "# to level of gems in this item": {
+        "gen": "# to level of gems in this item",
+        "org": [
+            "+1 to level of gems in this item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of vaal gems in this item": {
+        "gen": "# to level of vaal gems in this item",
+        "org": [
+            "+(1 to 2) to level of vaal gems in this item"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(4 to 6)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased melee damage": {
+        "gen": "#% increased melee damage",
+        "org": [
+            "(3-5)% increased melee damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased projectile attack damage": {
+        "gen": "#% increased projectile attack damage",
+        "org": [
+            "(3-5)% increased projectile attack damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(3-5)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(2 to 4)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # elemental weakness on hit": {
+        "gen": "curse enemies with level # elemental weakness on hit",
+        "org": [
+            "curse enemies with level (10 to 12) elemental weakness on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # temporal chains on hit": {
+        "gen": "curse enemies with level # temporal chains on hit",
+        "org": [
+            "curse enemies with level (10 to 12) temporal chains on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "curse enemies with level # vulnerability on hit": {
+        "gen": "curse enemies with level # vulnerability on hit",
+        "org": [
+            "curse enemies with level (10 to 12) vulnerability on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gems in this item are supported by level # cast on crit": {
+        "gen": "gems in this item are supported by level # cast on crit",
+        "org": [
+            "gems in this item are supported by level 12 cast on crit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "gems in this item are supported by level # cast when stunned": {
+        "gen": "gems in this item are supported by level # cast when stunned",
+        "org": [
+            "gems in this item are supported by level 12 cast when stunned"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "grants level # assassin's mark skill": {
+        "gen": "grants level # assassin's mark skill",
+        "org": [
+            "grants level 10 assassin's mark skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

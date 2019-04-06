@@ -1,0 +1,4 @@
+30% increased Global Critical Strike Chance
+50% increased Global Critical Strike Chance
+6% chance to block attack damage
+4% Chance to Block Attack Damage

@@ -1,0 +1,18 @@
+#% increased global critical strike chance
+#% increased area of effect
+#% increased attack speed
+socketed gems are supported by level # fortify
+#% increased cast speed
+#% chance to gain a power charge on critical strike
+#% chance to gain an endurance charge when you stun an enemy
+adds # fire damage
+adds # cold damage
+adds # cold damage
+adds # fire damage
+adds # fire damage
+adds # lightning damage
+adds # lightning damage
+adds # lightning damage
+adds # cold damage
+#% chance to block
+#% chance to block attack damage while wielding a staff

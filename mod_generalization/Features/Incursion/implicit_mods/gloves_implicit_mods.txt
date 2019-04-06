@@ -1,0 +1,13 @@
++(2 to 4)% to Chaos Resistance															
++(1 to 2) to Level of Vaal Gems in this item																			
+(4 to 6)% increased Cast Speed																
++1 to Level of Gems in this item																			
+Gems in this item are supported by level 12 Cast when Stunned																				
+Gems in this item are supported by level 12 Cast On Crit																				
+Curse Enemies with level (10 to 12) Temporal Chains on Hit																						
+Curse Enemies with level (10 to 12) Vulnerability on Hit																						
+Curse Enemies with level (10 to 12) Elemental Weakness on Hit																						
+Grants level 10 Assassin's Mark Skill
+(3-5)% increased spell damage
+(3-5)% increased projectile attack damage
+(3-5)% increased melee damage

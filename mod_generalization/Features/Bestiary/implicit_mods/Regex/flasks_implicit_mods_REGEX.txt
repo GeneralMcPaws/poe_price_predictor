@@ -1,0 +1,3 @@
+creates a smoke cloud on use
+creates consecrated ground on use
+creates consecrated ground on use

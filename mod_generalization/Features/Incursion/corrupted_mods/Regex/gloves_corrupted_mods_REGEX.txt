@@ -1,0 +1,24 @@
+#% increased maximum energy shield
+#% increased maximum life
+# to level of socketed aoe gems
+# to level of socketed aura gems
+# to level of socketed curse gems
+# to level of socketed duration gems
+# to level of socketed projectile gems
+# to level of socketed trap or mine gems
+# to level of socketed warcry gems
+# to level of socketed gems
+#% increased cast speed
+# to maximum frenzy charges
+attacks have #% to critical strike chance
+curse enemies with level # despair on hit
+curse enemies with level # elemental weakness on hit
+curse enemies with level # enfeeble on hit
+curse enemies with level # temporal chains on hit
+curse enemies with level # vulnerability on hit
+spells have #% to critical strike chance
+#% increased attack speed
+#% increased attack speed
+#% increased spell damage
+#% increased melee damage
+#% increased projectile attack damage

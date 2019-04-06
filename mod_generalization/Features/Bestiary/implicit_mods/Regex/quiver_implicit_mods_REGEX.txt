@@ -1,0 +1,9 @@
+adds # physical damage to bow attacks
+#% increased global accuracy rating
+# life gained for each enemy hit by your attacks
+adds # fire damage to bow attacks
+adds # physical damage to bow attacks
+arrows pierce an additional target
+# life gained for each enemy hit by your attacks
+#% increased global critical strike chance
+#% increased stun duration on enemies

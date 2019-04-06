@@ -1,0 +1,198 @@
+{
+    "#% chance to block": {
+        "gen": "#% chance to block",
+        "org": [
+            "(3-5)% chance to block"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain a frenzy charge on kill": {
+        "gen": "#% chance to gain a frenzy charge on kill",
+        "org": [
+            "(9-11)% chance to gain a frenzy charge on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain a power charge on critical strike": {
+        "gen": "#% chance to gain a power charge on critical strike",
+        "org": [
+            "(5-7)% chance to gain a power charge on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain unholy might for # seconds on kill": {
+        "gen": "#% chance to gain unholy might for # seconds on kill",
+        "org": [
+            "(10-15)% chance to gain unholy might for 3 seconds on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(5-7)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(14-18)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage over time": {
+        "gen": "#% increased damage over time",
+        "org": [
+            "(50-60)% increased damage over time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "30% increased global critical strike chance",
+            "50% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(50-60)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+(25-30)% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # chaos damage": {
+        "gen": "adds # chaos damage",
+        "org": [
+            "adds (1-2) to (3-5) chaos damage",
+            "adds (6-8) to (11-13) chaos damage",
+            "adds (8-11) to (19-23) chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds (14-18) to (27-32) cold damage",
+            "adds (17-23) to (24-40) cold damage",
+            "adds (6-8) to (13-15) cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (17-22) to (33-39) fire damage",
+            "adds (21-28) to (40-48) fire damage",
+            "adds (8-10) to (15-18) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds (1-2) to (27-28) lightning damage",
+            "adds (2-5) to (58-61) lightning damage",
+            "adds (2-6) to (72-76) lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

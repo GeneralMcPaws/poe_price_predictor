@@ -1,0 +1,769 @@
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+#% increased Armour
+#% increased Armour
+#% increased Stun and Block Recovery
+# to Armour
+# to Armour
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+skills which throw traps throw up to # additional trap
+adds # lightning damage
+grants level # aspect of the crab skill
+# to melee weapon and unarmed attack range
+minions deal #% increased damage
+grants level # aspect of the cat skill
+#% of physical damage converted to lightning damage
+adds # cold damage
+#% increased damage during any flask effect
+grants level # aspect of the avian skill
+adds # chaos damage
+#% of physical damage converted to fire damage
+grants level # aspect of the spider skill
+#% increased critical strike chance against shocked enemies
+# to level of socketed strength gems
+#% of physical damage converted to cold damage
+#% increased damage with hits against chilled enemies
+# to level of socketed minion gems
+attacks have #% chance to cause bleeding
+#% increased maximum mana
+# to level of socketed intelligence gems
+# added fire damage against burning enemies
+#% of damage taken gained as mana over # seconds when hit
+#% increased mana regeneration rate
+# to level of socketed dexterity gems
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to maximum Mana
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Evasion Rating
+adds # fire damage
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+# to maximum Mana
+# to maximum Energy Shield
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Strength
+# to Dexterity
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+# to Intelligence
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+# to Intelligence
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased global accuracy rating
+#% increased Attack and Cast Speed
+# to Melee Weapon and Unarmed range
+Socketed Gems are Supported by Level # Advanced Traps
+#% Chance to Block Attack Damage
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+Socketed Skills have #% increased Cast Speed
+#% reduced Elemental Ailment Duration on you
+#% increased Armour
+#% of Life Regenerated per second
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+#% increased Evasion Rating
+#% increased Evasion Rating
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to Evasion Rating
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to maximum Mana
+# to maximum Energy Shield
+# to Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Mana
+# to maximum Energy Shield
+# to Armour
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Dexterity
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+# to Intelligence
+# to Strength
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+# to Intelligence
+# to Strength
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased Accuracy Rating
+#% increased Attack and Cast Speed
+# to Melee Weapon and Unarmed range
+#% Chance to Block
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+Socketed Skills have #% increased Cast Speed
+#% reduced Elemental Ailment Duration on you
+#% increased Evasion
+#% of Life Regenerated per second
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+# to maximum Mana
+#% increased Energy Shield
+#% increased Energy Shield
+#% increased Stun and Block Recovery
+# to maximum Energy Shield
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+# to Armour
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+Socketed Skills have #% increased Cast Speed
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Dexterity
+# to Intelligence
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+# to Strength
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+# to Strength
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased Accuracy Rating
+#% increased Attack and Cast Speed
++# to Melee Weapon and Unarmed range
+#% Chance to Block
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+#% reduced Elemental Ailment Duration on you
+#% increased Energy Shield
+#% of Life Regenerated per second
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+# to maximum Mana
+# to Armour 
+# to maximum Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Energy Shield
+#% increased Stun and Block Recovery
+# to Armour
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to Armour
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Strength
+# to Dexterity
+# to Intelligence
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased Accuracy Rating
+#% increased Attack and Cast Speed
++# to Melee Weapon and Unarmed range
+#% Chance to Block
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+Socketed Skills have #% increased Cast Speed
+#% reduced Elemental Ailment Duration on you
+#% increased Armour and Energy Shield
+#% of Life Regenerated per second
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+# to Armour 
+# to Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Stun and Block Recovery
+# to Armour or Evasion Rating
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to maximum Mana
+# to Evasion Rating
+# to Armour
+# to maximum Energy Shield
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Mana
+# to maximum Energy Shield
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Strength
+# to Dexterity
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+# to Intelligence
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+# to Intelligence
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased Accuracy Rating
+#% increased Attack and Cast Speed
++# to Melee Weapon and Unarmed range
+#% Chance to Block
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+Socketed Skills have #% increased Cast Speed
+#% reduced Elemental Ailment Duration on you
+#% increased Armour and Evasion
+#% of Life Regenerated per second
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+# to maximum Mana
+# to Evasion Rating 
+# to maximum Energy Shield
+#% increased Evasion Rating and Energy Shield
+#% increased Evasion Rating and Energy Shield
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+Minions have #% increased Damage
+Minions have #% increased maximum Life
+Suffixes Cannot Be Changed
+# to maximum Energy Shield
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+# to Armour
+#% increased Life Leeched per second
+#% increased Damage while using a Flask
+Socketed Gems are Supported by Level # Mana Leech
+Socketed Gems are Supported by Level # Slower Projectiles
+#% increased Projectile Damage
+Socketed Gems are supported by Level # Faster Projectiles
+#% increased Projectile Speed
+#% chance to gain a Frenzy Charge on Kill
+#% reduced Elemental Ailment Duration on you
+Adds # Physical Damage against Poisoned Enemies
+Adds # Physical Damage against Bleeding Enemies
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+Adds # Physical Damage
+# to maximum Life
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Attack Speed
+# to Dexterity
+# to Intelligence
+# Life gained for each Enemy hit by your Attacks
+# Life gained on Kill
+# Mana gained on Kill
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+# to Strength
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% increased Block chance
+#% chance to Avoid being Ignited
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being Shocked
+Minions have #% increased maximum Life
+#% increased Global Critical Strike Chance
+#% chance to Avoid being Stunned
+Socketed Gems deal #% more Damage over Time
+Socketed Gems have #% Critical Strike Chance
+Socketed Gems deal # additional Fire Damage
+Socketed Gems have #% more Attack and Cast Speed
+# to Strength
+Socketed Gems are Supported by Level # Faster Casting
+#% increased Cast Speed
+Socketed Gems are Supported by Level # Trap
+Skills which Throw Traps throw an additional Trap
+Socketed Gems are Supported by Level # Trap
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Trap Cooldown
+#% increased Trap Throwing Speed
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Trap Damage
+Socketed Gems are Supported by Level # Blind
+#% Global chance to Blind Enemies on hit
+#% chance to Avoid interruption from Stuns while Casting
+Socketed Spells have #% to Critical Strike Multiplier
+Socketed Gems are supported by Level # Faster Attacks
+#% increased Attack Speed
+Socketed Gems are supported by Level # Poison
+#% increased Damage with Poison
+Socketed Gems are supported by Level # Poison
+#% increased Poison Duration
+Socketed Gems are supported by Level # Chance To Bleed
+#% increased Damage with Bleeding
+Socketed Gems are supported by Level # Additional Accuracy
+#% increased Accuracy Rating
+#% increased Attack and Cast Speed
++# to Melee Weapon and Unarmed range
+#% Chance to Block
+Socketed Attacks have #% to Critical Strike Multiplier
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Critical Strike Chance
+#% increased Attack and Cast Speed if you've Hit an Enemy Recently
+# Mana gained for each Enemy hit by your Attacks
+Socketed Skills have #% increased Attack Speed
+Socketed Skills have #% increased Cast Speed
+#% increased Evasion and Energy Shield
+#% of Life Regenerated per second

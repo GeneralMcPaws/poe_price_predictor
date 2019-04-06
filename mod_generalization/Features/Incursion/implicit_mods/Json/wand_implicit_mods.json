@@ -1,0 +1,29 @@
+{
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(3-5)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(8-12)% increased spell damage",
+            "(10-14)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

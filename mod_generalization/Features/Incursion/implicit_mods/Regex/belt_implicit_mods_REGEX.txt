@@ -1,0 +1,9 @@
+# to maximum life
+#% increased stun and block recovery
+# to maximum life
+has # abyssal socket
+# to strength
+#% increased global physical damage
+#% increased stun duration on enemies
+# to maximum energy shield
+# to armour and evasion rating

@@ -1,0 +1,5 @@
++3 Life gained for each Enemy hit by Attacks
++7 Life gained for each Enemy hit by Attacks
+1.6% of Physical Attack Damage Leeched as Life
+2% of Physical Attack Damage Leeched as Life
+(3-5) mana gained for each enemy hit by attacks

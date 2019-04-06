@@ -1,0 +1,115 @@
+adds # physical damage to bow attacks
+#% reduced enemy stun threshold
+#% reduced projectile speed
+#% increased stun duration on enemies
+adds # physical damage to bow attacks
+#% chance to double stun duration
+adds # physical damage to bow attacks
+#% reduced enemy stun threshold
+#% reduced projectile speed
+#% increased stun duration on enemies
+adds # physical damage to bow attacks
+#% increased accuracy rating
+grants level # frostbite skill
+#% increased attack speed
+#% to cold resistance
+#% increased chill duration on enemies
+gain #% of physical damage as extra cold damage
+#% chance to freeze
+curses on slain enemies are transferred to a nearby enemy
+# life gained for each enemy hit by your attacks
+# to strength
+# to dexterity
+# to intelligence
+adds # cold damage to attacks
+#% increased attack speed
+#% reduced area of effect of curse skills
+# life gained for each enemy hit by your attacks
+#% increased area of effect
+#% increased accuracy rating
+# to intelligence
+# to maximum mana
+#% increased mana regeneration rate
+#% of physical attack damage leeched as mana
+attack skills can have # additional totem summoned at a time
+adds # fire damage to bow attacks
+#% increased attack speed
+# to evasion rating
+# to maximum mana
+#% of physical damage converted to fire damage
+adds # fire damage to bow attacks
+adds # fire damage to bow attacks
+#% increased attack speed
+# to evasion rating
+# to maximum mana
+gain #% of physical damage as extra fire damage
+#% of physical damage converted to fire damage
+adds # fire damage to bow attacks
+adds # physical damage to bow attacks
+# to armour
+#% increased projectile speed
+#% increased stun and block recovery
+#% increased projectile damage
+#% chance to block
+#% chance to block spells
+arrows pierce an additional target
+#% increased attack speed
+# to evasion rating
+# to maximum life
+adds # physical damage to bow attacks
+arrows deal #% increased damage with hits and ailments to targets they pierce
+# life gained for each enemy hit by your attacks
+# to all attributes
+#% increased attack speed
+# life gained for each enemy hit by your attacks
+#% increased area of effect
+adds # cold damage to attacks per # dexterity
+adds # fire damage to attacks per # strength
+adds # lightning damage to attacks per # intelligence
+#% increased global critical strike chance
+# to dexterity
+#% increased cast speed
+# to maximum life
+#% to lightning resistance
+#% chance to avoid being stunned
+#% increased lightning damage per # intelligence
+#% increased stun duration on enemies
+#% increased attack speed
+# to maximum life
+#% to chaos resistance
+adds # physical damage to bow attacks
+#% chance to create a smoke cloud when hit
+#% increased damage with hits and ailments against blinded enemies
+#% increased accuracy rating
+#% to fire resistance
+#% to lightning resistance
+# life gained for each enemy hit by your attacks
+#% reduced projectile speed
+#% increased projectile damage
+projectiles fork
+#% increased stun duration on enemies
+grants summon harbinger of directions skill
+adds # fire damage to spells and attacks
+adds # cold damage to spells and attacks
+# to strength and dexterity
+#% to fire and cold resistances
+#% increased global critical strike chance
+# to dexterity
+adds # chaos damage to attacks
+#% increased attack speed
+# to maximum energy shield
+#% reduced energy shield recharge rate
+#% faster start of energy shield recharge
+arrows pierce an additional target
+consumes a void charge to trigger level # void shot when you fire arrows
+adds # cold damage to attacks
+# to maximum energy shield
+#% to cold resistance
+# mana gained on kill
+#% increased projectile speed
+# maximum void charges
+gain a void charge every second
+adds # physical damage to attacks
+#% increased global physical damage
+#% reduced enemy stun threshold
+#% increased stun duration on enemies

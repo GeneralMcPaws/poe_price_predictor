@@ -1,0 +1,295 @@
+{
+    "# to level of socketed aoe gems": {
+        "gen": "# to level of socketed aoe gems",
+        "org": [
+            "+2 to level of socketed aoe gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed aura gems": {
+        "gen": "# to level of socketed aura gems",
+        "org": [
+            "+2 to level of socketed aura gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed cold gems": {
+        "gen": "# to level of socketed cold gems",
+        "org": [
+            "+2 to level of socketed cold gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed curse gems": {
+        "gen": "# to level of socketed curse gems",
+        "org": [
+            "+2 to level of socketed curse gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed duration gems": {
+        "gen": "# to level of socketed duration gems",
+        "org": [
+            "+2 to level of socketed duration gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed fire gems": {
+        "gen": "# to level of socketed fire gems",
+        "org": [
+            "+2 to level of socketed fire gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed lightning gems": {
+        "gen": "# to level of socketed lightning gems",
+        "org": [
+            "+2 to level of socketed lightning gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed projectile gems": {
+        "gen": "# to level of socketed projectile gems",
+        "org": [
+            "+2 to level of socketed projectile gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed trap or mine gems": {
+        "gen": "# to level of socketed trap or mine gems",
+        "org": [
+            "+2 to level of socketed trap or mine gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to level of socketed warcry gems": {
+        "gen": "# to level of socketed warcry gems",
+        "org": [
+            "+2 to level of socketed warcry gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to maximum power charges": {
+        "gen": "# to maximum power charges",
+        "org": [
+            "+1 to maximum power charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "#% increased burning damage": {
+        "gen": "#% increased burning damage",
+        "org": [
+            "(30-40)% increased burning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of chill": {
+        "gen": "#% increased effect of chill",
+        "org": [
+            "(25-30)% increased effect of chill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased effect of shock": {
+        "gen": "#% increased effect of shock",
+        "org": [
+            "(25-30)% increased effect of shock"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum energy shield": {
+        "gen": "#% increased maximum energy shield",
+        "org": [
+            "(4-6)% increased maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased maximum life": {
+        "gen": "#% increased maximum life",
+        "org": [
+            "(4-6)% increased maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of cold damage leeched as life": {
+        "gen": "#% of cold damage leeched as life",
+        "org": [
+            "0.5% of cold damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [
+            "0.5% of fire damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "#% of life regenerated per second": {
+        "gen": "#% of life regenerated per second",
+        "org": [
+            "(1.6-2)% of life regenerated per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life": {
+        "gen": "#% of lightning damage leeched as life",
+        "org": [
+            "0.5% of lightning damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "cannot be blinded": {
+        "gen": "",
+        "org": [
+            "cannot be blinded"
+        ],
+        "params": []
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (10-20)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "socketed skill gems get a #% mana multiplier": {
+        "gen": "socketed skill gems get a #% mana multiplier",
+        "org": [
+            "socketed skill gems get a 90% mana multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "90"
+            }
+        ]
+    }
+}

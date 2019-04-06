@@ -1,0 +1,14 @@
+0.2% of Fire Damage Leeched as Life	
+0.2% of Cold Damage Leeched as Life	
+0.2% of Lightning Damage Leeched as Life	
+5% Chance to Cause Monsters to Flee	
+Adds (1 to 2)-(3 to 5) Chaos Damage	
+Adds (6 to 8)-(11 to 13) Chaos Damage	
+Adds (8 to 11)-(19 to 23) Chaos Damage	
+Culling Strike	
++(1 to 2) to Weapon range	
+Gems in this item are supported by level 10 Melee Splash	
+(3 to 6)% additional Chance to Block while Dual Wielding				
+Gems in this item are supported by level 1 Multistrike
++1 Maximum Power Charge		
+Gems in this item are supported by level 12 Additional Accuracy

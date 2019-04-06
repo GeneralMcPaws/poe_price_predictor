@@ -1,0 +1,34 @@
+{
+  "CONFIG": {
+    "RARE_CONCATENATED_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\rare_concatenated_mods",
+    "UNIQUE_CONCATENATED_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\unique_concatenated_mods",
+    "MONGO_HOST": "mongodb://localhost:27020",
+    "DATABASE_NAME": "poe_database"
+
+  },
+
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "simple": {
+        "format": "%(levelname)s : %(message)s"
+      }
+    },
+    "handlers": {
+      "file_handler": {
+        "level": "DEBUG",
+        "class": "logging.FileHandler",
+        "filename": "record_creater_logger.log",
+        "formatter": "simple",
+        "mode": "w"
+      }
+    },
+    "loggers": {
+      "file_logger": {
+        "handlers": [ "file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

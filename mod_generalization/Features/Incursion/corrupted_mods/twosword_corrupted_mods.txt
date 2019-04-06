@@ -1,0 +1,16 @@
+(25-30)% increased Area of Effect
+Adds 1 to (2-3) Physical Damage
+Adds (4-5) to (6-8) Physical Damage
+Adds (8-9) to (11-13) Physical Damage
+(5-7)% increased Attack Speed
+(10-15)% increased Physical Damage
+(16-20)% increased Physical Damage
+Resolute Technique
+Socketed Gems are supported by Level 10 Additional Accuracy
+Socketed Gems are Supported by Level 10 Fortify
+Socketed Gems are Supported by Level 10 Onslaught
+30% increased Global Accuracy Rating
+40% increased Global Accuracy Rating
++185 to Accuracy Rating
++305 to Accuracy Rating
+(3-5)% to global critical strike multiplier

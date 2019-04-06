@@ -1,0 +1,892 @@
+{
+    "# enemy writhing worms escape the flask when used writhing worms are destroyed when hit": {
+        "gen": "# enemy writhing worms escape the flask when used writhing worms are destroyed when hit",
+        "org": [
+            "2 enemy writhing worms escape the flask when used writhing worms are destroyed when hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% chance to avoid being chilled during flask effect": {
+        "gen": "#% chance to avoid being chilled during flask effect",
+        "org": [
+            "30% chance to avoid being chilled during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% chance to avoid being frozen during flask effect": {
+        "gen": "#% chance to avoid being frozen during flask effect",
+        "org": [
+            "30% chance to avoid being frozen during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% chance to block attack damage during flask effect": {
+        "gen": "#% chance to block attack damage during flask effect",
+        "org": [
+            "+(14-20)% chance to block attack damage during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block spell damage during flask effect": {
+        "gen": "#% chance to block spell damage during flask effect",
+        "org": [
+            "+(6-10)% chance to block spell damage during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause enemies to flee on use": {
+        "gen": "#% chance to cause enemies to flee on use",
+        "org": [
+            "75% chance to cause enemies to flee on use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "75"
+            }
+        ]
+    },
+    "#% chance to gain a flask charge when you deal a critical strike": {
+        "gen": "#% chance to gain a flask charge when you deal a critical strike",
+        "org": [
+            "50% chance to gain a flask charge when you deal a critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to poison on hit during flask effect": {
+        "gen": "#% chance to poison on hit during flask effect",
+        "org": [
+            "25% chance to poison on hit during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased amount recovered": {
+        "gen": "#% increased amount recovered",
+        "org": [
+            "(30-50)% increased amount recovered"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased area of effect during flask effect": {
+        "gen": "#% increased area of effect during flask effect",
+        "org": [
+            "(15-25)% increased area of effect during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased charge recovery": {
+        "gen": "#% increased charge recovery",
+        "org": [
+            "100% increased charge recovery"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased charges gained by other flasks during flask effect": {
+        "gen": "#% increased charges gained by other flasks during flask effect",
+        "org": [
+            "100% increased charges gained by other flasks during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased charges used": {
+        "gen": "#% increased charges used",
+        "org": [
+            "(120-150)% increased charges used",
+            "50% increased charges used",
+            "100% increased charges used",
+            "(50-100)% increased charges used",
+            "(-10-10)% increased charges used",
+            "(80-100)% increased charges used"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage over time during flask effect": {
+        "gen": "#% increased damage over time during flask effect",
+        "org": [
+            "(25-40)% increased damage over time during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased duration": {
+        "gen": "#% increased duration",
+        "org": [
+            "100% increased duration",
+            "(10-20)% increased duration",
+            "(25-50)% increased duration",
+            "50% increased duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased duration of poisons you inflict during flask effect": {
+        "gen": "#% increased duration of poisons you inflict during flask effect",
+        "org": [
+            "(50-75)% increased duration of poisons you inflict during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased life recovered": {
+        "gen": "#% increased life recovered",
+        "org": [
+            "100% increased life recovered"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased light radius during flask effect": {
+        "gen": "#% increased light radius during flask effect",
+        "org": [
+            "25% increased light radius during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased movement speed during flask effect": {
+        "gen": "#% increased movement speed during flask effect",
+        "org": [
+            "(10-30)% increased movement speed during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of items found during flask effect": {
+        "gen": "#% increased quantity of items found during flask effect",
+        "org": [
+            "(12-18)% increased quantity of items found during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of items found during flask effect": {
+        "gen": "#% increased rarity of items found during flask effect",
+        "org": [
+            "(40-60)% increased rarity of items found during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased recovery rate": {
+        "gen": "#% increased recovery rate",
+        "org": [
+            "(5-20)% increased recovery rate",
+            "100% increased recovery rate"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% more melee physical damage during effect": {
+        "gen": "#% more melee physical damage during effect",
+        "org": [
+            "(20-25)% more melee physical damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of chaos damage leeched as life during flask effect": {
+        "gen": "#% of chaos damage leeched as life during flask effect",
+        "org": [
+            "2% of chaos damage leeched as life during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life during flask effect": {
+        "gen": "#% of lightning damage leeched as life during flask effect",
+        "org": [
+            "20% of lightning damage leeched as life during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% of maximum life taken as chaos damage per second": {
+        "gen": "#% of maximum life taken as chaos damage per second",
+        "org": [
+            "8% of maximum life taken as chaos damage per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% of physical damage converted to lightning during flask effect": {
+        "gen": "#% of physical damage converted to lightning during flask effect",
+        "org": [
+            "20% of physical damage converted to lightning during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% of physical damage from hits taken as cold damage during flask effect": {
+        "gen": "#% of physical damage from hits taken as cold damage during flask effect",
+        "org": [
+            "20% of physical damage from hits taken as cold damage during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% reduced amount recovered": {
+        "gen": "#% reduced amount recovered",
+        "org": [
+            "(75-65)% reduced amount recovered"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced charges used": {
+        "gen": "#% reduced charges used",
+        "org": [
+            "(20-10)% reduced charges used"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced duration": {
+        "gen": "#% reduced duration",
+        "org": [
+            "60% reduced duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "60"
+            }
+        ]
+    },
+    "#% to all maximum elemental resistances during flask effect": {
+        "gen": "#% to all maximum elemental resistances during flask effect",
+        "org": [
+            "+4% to all maximum elemental resistances during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+4"
+            }
+        ]
+    },
+    "adds # lightning damage to attacks during flask effect": {
+        "gen": "adds # lightning damage to attacks during flask effect",
+        "org": [
+            "adds (25-35) to (110-130) lightning damage to attacks during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to spells during flask effect": {
+        "gen": "adds # lightning damage to spells during flask effect",
+        "org": [
+            "adds (15-25) to (70-90) lightning damage to spells during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds knockback to melee attacks during flask effect": {
+        "gen": "",
+        "org": [
+            "adds knockback to melee attacks during flask effect"
+        ],
+        "params": []
+    },
+    "cannot gain mana during effect": {
+        "gen": "",
+        "org": [
+            "cannot gain mana during effect"
+        ],
+        "params": []
+    },
+    "chaos damage does not bypass energy shield during effect": {
+        "gen": "",
+        "org": [
+            "chaos damage does not bypass energy shield during effect"
+        ],
+        "params": []
+    },
+    "consumes frenzy charges on use": {
+        "gen": "",
+        "org": [
+            "consumes frenzy charges on use"
+        ],
+        "params": []
+    },
+    "creates a smoke cloud on use": {
+        "gen": "",
+        "org": [
+            "creates a smoke cloud on use"
+        ],
+        "params": []
+    },
+    "creates consecrated ground on use": {
+        "gen": "",
+        "org": [
+            "creates consecrated ground on use"
+        ],
+        "params": []
+    },
+    "damage penetrates #% lightning resistance during flask effect": {
+        "gen": "damage penetrates #% lightning resistance during flask effect",
+        "org": [
+            "damage penetrates 10% lightning resistance during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "during flask effect, #% reduced damage taken of each element for which your uncapped elemental resistance is lowest": {
+        "gen": "during flask effect, #% reduced damage taken of each element for which your uncapped elemental resistance is lowest",
+        "org": [
+            "during flask effect, 10% reduced damage taken of each element for which your uncapped elemental resistance is lowest"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "during flask effect, damage penetrates #% resistance of each element for which your uncapped elemental resistance is highest": {
+        "gen": "during flask effect, damage penetrates #% resistance of each element for which your uncapped elemental resistance is highest",
+        "org": [
+            "during flask effect, damage penetrates (10-15)% resistance of each element for which your uncapped elemental resistance is highest"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of elemental damage as extra chaos damage during effect": {
+        "gen": "gain #% of elemental damage as extra chaos damage during effect",
+        "org": [
+            "gain (10-15)% of elemental damage as extra chaos damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra chaos damage during effect": {
+        "gen": "gain #% of physical damage as extra chaos damage during effect",
+        "org": [
+            "gain (15-20)% of physical damage as extra chaos damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra cold damage during effect": {
+        "gen": "gain #% of physical damage as extra cold damage during effect",
+        "org": [
+            "gain (15-20)% of physical damage as extra cold damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain onslaught for # seconds per frenzy charge on use": {
+        "gen": "gain onslaught for # seconds per frenzy charge on use",
+        "org": [
+            "gain onslaught for 2 seconds per frenzy charge on use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "gain unholy might during flask effect": {
+        "gen": "",
+        "org": [
+            "gain unholy might during flask effect"
+        ],
+        "params": []
+    },
+    "gains no charges during effect of any overflowing chalice flask": {
+        "gen": "",
+        "org": [
+            "gains no charges during effect of any overflowing chalice flask"
+        ],
+        "params": []
+    },
+    "gains no charges during effect of any soul ripper flask": {
+        "gen": "",
+        "org": [
+            "gains no charges during effect of any soul ripper flask"
+        ],
+        "params": []
+    },
+    "grants level # despair curse aura during flask effect": {
+        "gen": "grants level # despair curse aura during flask effect",
+        "org": [
+            "grants level 21 despair curse aura during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "21"
+            }
+        ]
+    },
+    "grants perfect agony during flask effect": {
+        "gen": "",
+        "org": [
+            "grants perfect agony during flask effect"
+        ],
+        "params": []
+    },
+    "immune to freeze, chill, curses and stuns during flask effect": {
+        "gen": "",
+        "org": [
+            "immune to freeze, chill, curses and stuns during flask effect"
+        ],
+        "params": []
+    },
+    "immunity to ignite during flask effect": {
+        "gen": "",
+        "org": [
+            "immunity to ignite during flask effect"
+        ],
+        "params": []
+    },
+    "instant recovery": {
+        "gen": "",
+        "org": [
+            "instant recovery"
+        ],
+        "params": []
+    },
+    "knocks back enemies in an area when you use a flask": {
+        "gen": "",
+        "org": [
+            "knocks back enemies in an area when you use a flask"
+        ],
+        "params": []
+    },
+    "recover #% of your maximum life on use": {
+        "gen": "recover #% of your maximum life on use",
+        "org": [
+            "recover (75-100)% of your maximum life on use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "recover full life at the end of the flask effect": {
+        "gen": "",
+        "org": [
+            "recover full life at the end of the flask effect"
+        ],
+        "params": []
+    },
+    "removes #% of your maximum energy shield on use": {
+        "gen": "removes #% of your maximum energy shield on use",
+        "org": [
+            "removes 20% of your maximum energy shield on use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "removes all but one life on use removed life is regenerated as energy shield over # seconds": {
+        "gen": "removes all but one life on use removed life is regenerated as energy shield over # seconds",
+        "org": [
+            "removes all but one life on use removed life is regenerated as energy shield over 2 seconds"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "removes burning on use": {
+        "gen": "",
+        "org": [
+            "removes burning on use"
+        ],
+        "params": []
+    },
+    "shocks nearby enemies during flask effect, causing #% increased damage taken": {
+        "gen": "shocks nearby enemies during flask effect, causing #% increased damage taken",
+        "org": [
+            "shocks nearby enemies during flask effect, causing 10% increased damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "skills fire # additional projectiles during flask effect": {
+        "gen": "skills fire # additional projectiles during flask effect",
+        "org": [
+            "skills fire 2 additional projectiles during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "skills used during flask effect grant #% of mana cost as life over # seconds": {
+        "gen": "skills used during flask effect grant #% of mana cost as life over # seconds",
+        "org": [
+            "skills used during flask effect grant (450-600)% of mana cost as life over 4 seconds"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "take # chaos damage per second during flask effect": {
+        "gen": "take # chaos damage per second during flask effect",
+        "org": [
+            "take 30 chaos damage per second during flask effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "vaal skills deal #% increased damage during effect": {
+        "gen": "vaal skills deal #% increased damage during effect",
+        "org": [
+            "vaal skills deal (60-100)% increased damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "vaal skills deal #% more damage during effect": {
+        "gen": "vaal skills deal #% more damage during effect",
+        "org": [
+            "vaal skills deal (30-40)% more damage during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "vaal skills have #% reduced soul cost during effect": {
+        "gen": "vaal skills have #% reduced soul cost during effect",
+        "org": [
+            "vaal skills have 25% reduced soul cost during effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "vaal skills used during effect do not apply soul gain prevention": {
+        "gen": "",
+        "org": [
+            "vaal skills used during effect do not apply soul gain prevention"
+        ],
+        "params": []
+    },
+    "vaal skills used during effect have #% reduced soul gain prevention duration": {
+        "gen": "vaal skills used during effect have #% reduced soul gain prevention duration",
+        "org": [
+            "vaal skills used during effect have (40-20)% reduced soul gain prevention duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "you are shocked during flask effect, causing #% increased damage taken": {
+        "gen": "you are shocked during flask effect, causing #% increased damage taken",
+        "org": [
+            "you are shocked during flask effect, causing 50% increased damage taken"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "you gain a frenzy charge on use": {
+        "gen": "",
+        "org": [
+            "you gain a frenzy charge on use"
+        ],
+        "params": []
+    },
+    "you gain a power charge on use": {
+        "gen": "",
+        "org": [
+            "you gain a power charge on use"
+        ],
+        "params": []
+    },
+    "you gain an endurance charge on use": {
+        "gen": "",
+        "org": [
+            "you gain an endurance charge on use"
+        ],
+        "params": []
+    },
+    "you take #% of your maximum life as chaos damage on use": {
+        "gen": "you take #% of your maximum life as chaos damage on use",
+        "org": [
+            "you take 10% of your maximum life as chaos damage on use"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "your critical strikes do not deal extra damage during flask effect": {
+        "gen": "",
+        "org": [
+            "your critical strikes do not deal extra damage during flask effect"
+        ],
+        "params": []
+    },
+    "your skills have no mana cost during flask effect": {
+        "gen": "",
+        "org": [
+            "your skills have no mana cost during flask effect"
+        ],
+        "params": []
+    },
+    "zealot's oath during flask effect": {
+        "gen": "",
+        "org": [
+            "zealot's oath during flask effect"
+        ],
+        "params": []
+    }
+}

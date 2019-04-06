@@ -1,0 +1,167 @@
+#% increased physical damage
+#% reduced attack speed
+#% reduced enemy stun threshold
+#% increased stun duration on enemies
+extra gore
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+#% to fire resistance
+#% to lightning resistance
+# to maximum life
+# to maximum mana
+#% increased physical damage
+#% reduced movement speed
+#% increased area of effect
+#% increased area damage
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% of physical attack damage leeched as life
+#% chance to cause bleeding on hit
+#% of attack damage leeched as life against bleeding enemies
+adds # physical damage
+#% increased attack speed
+minions have #% increased maximum life
+minions' attacks deal # additional physical damage
+can summon up to # additional golem at a time
+grants level # summon stone golem
+adds # physical damage
+adds # cold damage
+#% increased attack speed
+#% to fire resistance
+# to all attributes
+minions deal #% increased damage
+summoned skeletons cover enemies in ash on hit
+summoned skeletons take #% of their maximum life per second as fire damage
+summoned skeletons have avatar of fire
+#% increased chill duration on enemies
+attacks with this weapon deal double damage to chilled enemies
+#% increased physical damage
+adds # physical damage
+#% increased critical strike chance
+#% increased rarity of items dropped by frozen enemies
+#% increased cold damage with attack skills
+trigger level # icicle burst when you kill a frozen enemy
+#% increased physical damage
+adds # cold damage
+#% increased critical strike chance
+#% increased cold damage with attack skills
+#% increased rarity of items dropped by frozen enemies
+#% increased physical damage
+skills chain # times
+#% increased lightning damage with attack skills
+# strength requirement
+# intelligence requirement
+trigger a socketed lightning spell on hit socketed lightning spells deal #% increased spell damage if triggered
+adds # physical damage
+#% increased physical damage
+#% reduced enemy stun threshold with this weapon
+cannot knock enemies back
+all attack damage chills when you stun
+adds # physical damage
+gain #% of physical attack damage as extra fire damage
+#% to chaos resistance per endurance charge
+#% reduced elemental damage taken when hit per endurance charge
+adds # physical damage per endurance charge
+# to armour per endurance charge
+# fire damage taken per second per endurance charge if you've been hit recently
+#% increased cast speed
+#% increased critical strike chance for spells
+adds # fire damage to spells
+adds # cold damage to spells
+adds # lightning damage to spells
+#% increased physical damage
+#% increased damage with hits against frozen enemies
+#% increased cold damage
+#% increased attack speed
+#% increased cast speed
+#% chance to freeze
+#% increased physical damage
+adds # physical damage
+#% increased fire damage
+#% increased attack speed
+#% increased critical strike chance
+adds # fire damage to attacks with this weapon per # strength
+socketed gems are supported by level # hypothermia
+socketed gems are supported by level # ice bite
+socketed gems are supported by level # cold penetration
+socketed gems are supported by level # mana leech
+socketed gems are supported by level # added cold damage
+socketed gems are supported by level # reduced mana
+#% increased damage
+#% global chance to blind enemies on hit
+# maximum energy shield per level
+# maximum mana per level
+cannot be blinded
+#% increased damage
+#% global chance to blind enemies on hit
+# maximum energy shield per level
+# maximum life per level
+cannot be blinded
+#% increased damage
+#% global chance to blind enemies on hit
+# maximum mana per level
+# maximum life per level
+cannot be blinded
+# to all attributes
+minions deal #% increased damage
+summoned skeletons cover enemies in ash on hit
+summoned skeletons take #% of their maximum life per second as fire damage
+summoned skeletons have avatar of fire
+# to level of socketed fire gems
+socketed gems are supported by level # fire penetration
+#% increased spell damage
+#% increased physical damage
+# life gained for each enemy hit by attacks
+#% increased light radius
+socketed gems deal # additional fire damage
+#% increased physical damage
+#% increased attack speed
+# to level of socketed gems
+#% increased experience gain
+#% increased elemental damage
+#% increased intelligence requirement
+adds # physical damage
+#% increased critical strike chance
+#% chance to gain a power charge when you stun
+gain unholy might for # seconds on critical strike
+grants level # scorching ray skill
+#% increased cast speed
+recover #% of maximum life on kill
+recover #% of maximum mana on kill
+#% increased scorching ray beam length
+adds # lightning damage to spells
+#% increased cast speed
+#% reduced mana cost of skills
+nearby enemies are hindered, with #% reduced movement speed
+#% increased damage with hits and ailments against hindered enemies
+# to strength
+#% increased cast speed
+# to maximum mana
+socketed gems are supported by level # iron will
+#% increased damage per # strength when in main hand
+#% increased armour per # strength when in off hand
+#% increased physical damage
+#% increased chaos damage
+#% increased area of effect
+#% increased chaos skill effect duration
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+#% of physical damage converted to lightning damage
+every # seconds you gain elemental overload for # seconds
+you have resolute technique while you do not have elemental overload
+#% reduced number of zombies allowed
+# to zombie maximum life
+#% increased zombie resistances
+#% increased zombie size
+zombies deal #% more physical damage
+enemies killed by zombies explode dealing fire damage
+socketed gems are supported by level # elemental proliferation
+adds # physical damage
+#% increased attack speed
+#% increased cast speed
+#% increased global critical strike chance
+#% of elemental damage leeched as life
+#% increased elemental damage

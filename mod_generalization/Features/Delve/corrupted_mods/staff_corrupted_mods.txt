@@ -1,0 +1,18 @@
+(14-18)% increased Global Critical Strike Chance
+(25-30)% increased Area of Effect
+(5-7)% increased Attack Speed
+Socketed Gems are Supported by Level 10 Fortify
+(12-15)% increased Cast Speed
+(5-7)% chance to gain a Power Charge on Critical Strike
+(5-7)% chance to gain an Endurance Charge when you Stun an Enemy
+Adds (10-15) to (20-23) Fire Damage
+Adds (19-23) to (31-38) Cold Damage
+Adds (22-28) to (39-47) Cold Damage
+Adds (23-27) to (34-43) Fire Damage
+Adds (27-34) to (45-53) Fire Damage
+Adds (2-3) to (30-34) Lightning Damage
+Adds (3-6) to (63-72) Lightning Damage
+Adds (4-8) to (89-92) Lightning Damage
+Adds (8-11) to (17-20) Cold Damage
+18% Chance to Block
++20% Chance to Block Attack Damage while wielding a Staff

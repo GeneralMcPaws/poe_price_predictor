@@ -1,0 +1,616 @@
+#% increased Armour
+#% increased Armour
+#% increased Stun and Block Recovery
+# to Armour
+# to Armour
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased movement speed if you haven't been hit recently
+#% chance to dodge attack hits
+#% increased maximum mana
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to maximum Energy Shield
+# to Evasion Rating
+# to maximum Mana
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Intelligence
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Intelligence
+# to Dexterity
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+#% chance to Dodge Spell Hits
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectiles
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Evasion Rating
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to maximum Energy Shield
+# to Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Dexterity
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Intelligence
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Strength
+# to Intelligence
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectile
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second
+# to maximum Mana
+# to maximum Energy Shield
+#% increased Energy Shield
+#% increased Energy Shield
+#% increased Stun and Block Recovery
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to Evasion Rating
+# to Armour
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Dexterity
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Dexterity
+# to Strength
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectile
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Energy Shield
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second
+# to maximum Mana
+# to Armour
+# to maximum Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Energy Shield
+#% increased Stun and Block Recovery
+# to Armour
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to Armour
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to Evasion Rating
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Dexterity
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectile
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour and Energy Shield
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second
+# to Armour
+# to Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Stun and Block Recovery
+# to Armour or Evasion Rating
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to Evasion Rating
+# to Armour
+# to maximum Energy Shield
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to maximum Energy Shield
+# to maximum Mana
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# to Dexterity
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Intelligence
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Intelligence
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectile
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% increased Armour and Evasion
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second
+# to Evasion Rating
+# to maximum Energy Shield
+# to maximum Mana
+#% increased Evasion Rating and Energy Shield
+#% increased Evasion Rating and Energy Shield
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+#% increased Movement Speed
+#% increased Rarity of Items found
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Energy Shield
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+Reflects # Physical Damage to Melee Attackers
+# to Armour
+# to Evasion Rating
+Cannot Be Frozen
+Socketed Gems are supported by Level # Life Leech
+Unaffected by Chilled Ground
+Unaffected by Burning Ground
+Socketed Gems are Supported by Level # Fortify
+Unaffected by Shocked Ground
+Unaffected by Desecrated Ground
+#% chance to gain an Endurance Charge on Kill
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+# to maximum Life
+#% increased maximum Life
+# to Intelligence
+# to Dexterity
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Knocked Back
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Strength
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+Cannot be Poisoned
+#% reduced elemental Damage Taken while not moving
+Drops Burning Ground while moving, dealing # Fire Damage per second
+#% increased Movement speed while on Burning, Chilled or Shocked ground
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Ranged Attack Totem
+#% increased Totem Placement speed
+#% increased Cooldown Recovery Speed
+#% chance to Dodge Attacks
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid Projectile
+Grants Level # Decoy Totem Skill
+Socketed Gems are Supported by Level # Increased Duration
+#% increased Skill Effect Duration
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Damage
+Socketed Gems are Supported by Level # Spell Totem
+#% increased Totem Placement speed
+#% chance to Dodge Spell Damage
+#% chance to Avoid being Stunned
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+# to maximum number of Spectres
+#% increased Movement Speed if you've Hit an Enemy Recently
+#% increased Mana Regeneration Rate while moving
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion and Energy Shield
+#% additional Physical Damage Reduction while moving
+#% of Life Regenerated per second

@@ -1,0 +1,60 @@
+trigger word of blades on hit
+trigger edict of blades on hit
+trigger decree of blades on hit
+trigger commandment of blades on hit
+trigger word of flames on hit
+trigger edict of flames on hit
+trigger decree of flames on hit
+trigger commandment of flames on hit
+trigger word of force on hit
+trigger edict of force on hit
+trigger decree of force on hit
+trigger commandment of force on hit
+trigger word of frost on kill
+trigger edict of frost on kill
+trigger decree of frost on kill
+trigger commandment of frost on kill
+trigger word of fury on hit
+trigger edict of fury on hit
+trigger decree of fury on hit
+trigger commandment of fury on hit
+trigger word of inferno on kill
+trigger edict of inferno on kill
+trigger decree of inferno on kill
+trigger commandment of inferno on kill
+trigger word of ire when hit
+trigger edict of ire when hit
+trigger decree of ire when hit
+trigger commandment of ire when hit
+trigger word of light when you take a critical strike
+trigger edict of light when you take a critical strike
+trigger decree of light when you take a critical strike
+trigger commandment of light when you take a critical strike
+trigger word of reflection when hit
+trigger edict of reflection when hit
+trigger decree of reflection when hit
+trigger commandment of reflection when hit
+trigger word of spite when hit
+trigger edict of spite when hit
+trigger decree of spite when hit
+trigger commandment of spite when hit
+trigger word of the tempest on hit
+trigger edict of the tempest on hit
+trigger decree of the tempest on hit
+trigger commandment of the tempest on hit
+trigger word of the grave when your skills or minions  kill
+trigger edict of the grave when your skills or minions  kill
+trigger decree of the grave when your skills or minions  kill
+trigger commandment of the grave when your skills or minions  kill
+trigger word of thunder on kill
+trigger edict of thunder on kill
+trigger decree of thunder on kill
+trigger commandment of thunder on kill
+trigger word of war on kill
+trigger edict of war on kill
+trigger decree of war on kill
+trigger commandment of war on kill
+trigger word of winter when hit
+trigger edict of winter when hit
+trigger decree of winter when hit
+trigger commandment of winter when hit

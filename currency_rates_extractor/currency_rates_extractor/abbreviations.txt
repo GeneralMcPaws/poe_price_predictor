@@ -1,0 +1,168 @@
+Orb of Alteration 	
+alt
+Orb of Fusing 	
+fuse
+Orb of Alchemy 	
+alch
+Chaos Orb 	
+chaos
+Gemcutter's Prism 	
+gcp
+Exalted Orb 	
+exa
+Chromatic Orb 	
+chrom
+Jeweller's Orb 	
+jew
+Engineer's Orb 	
+engineers-orb
+Orb of Chance 	
+chance
+Cartographer's Chisel 	
+chisel
+Orb of Scouring 	
+scour
+Blessed Orb 	
+blessed
+Orb of Regret 	
+regret
+Regal Orb 	
+regal
+Divine Orb 	
+divine
+Vaal Orb 	
+vaal
+Orb of Annulment 	
+orb-of-annulment
+Orb of Binding 	
+orb-of-binding
+Ancient Orb 	
+ancient-orb
+Orb of Horizons 	
+orb-of-horizons
+Harbinger's Orb 	
+harbingers-orb
+Scroll of Wisdom 	
+wis
+Portal Scroll 	
+port
+Armourer's Scrap 	
+scr
+Blacksmith's Whetstone 	
+whe
+Glassblower's Bauble 	
+ba
+Orb of Transmutation 	
+tra
+Orb of Augmentation 	
+aug
+Mirror of Kalandra 	
+mir
+Eternal Orb 	
+ete
+Perandus Coin 	
+p
+Silver Coin 	
+silver
+Annulment Shard 	
+annulment-shard
+Mirror Shard 	
+mirror-shard
+Exalted Shard 	
+exalted-shard
+Binding Shard 	
+binding-shard
+Horizon Shard 	
+horizon-shard
+Harbinger's Shard 	
+harbingers-shard
+Engineer's Shard 	
+engineers-shard
+Ancient Shard 	
+ancient-shard
+Chaos Shard 	
+chaos-shard
+Regal Shard 	
+regal-shard
+Apprentice Cartographer's Sextant 	
+apprentice-sextant
+Journeyman Cartographer's Sextant 	
+journeyman-sextant
+Master Cartographer's Sextant 	
+master-sextant
+Blessing of Xoph 	
+blessing-xoph
+Blessing of Tul 	
+blessing-tul
+Blessing of Esh 	
+blessing-esh
+Blessing of Uul-Netol 	
+blessing-uul-netol
+Blessing of Chayula 	
+blessing-chayula
+Splinter of Xoph 	
+splinter-xoph
+Splinter of Tul 	
+splinter-tul
+Splinter of Esh 	
+splinter-esh
+Splinter of Uul-Netol 	
+splinter-uul
+Splinter of Chayula 	
+splinter-chayula
+Sacrifice at Dusk 	
+dusk
+Sacrifice at Midnight 	
+mid
+Sacrifice at Dawn 	
+dawn
+Sacrifice at Noon 	
+noon
+Mortal Grief 	
+grie
+Mortal Rage 	
+rage
+Mortal Hope 	
+hope
+Mortal Ignorance 	
+ign
+Eber's Key 	
+eber
+Yriel's Key 	
+yriel
+Inya's Key 	
+inya
+Volkuur's Key 	
+volkuur
+Fragment of the Hydra 	
+hydra
+Fragment of the Phoenix 	
+phoenix
+Fragment of the Minotaur 	
+minot
+Fragment of the Chimera 	
+chimer
+Sacrifice Set 	
+sacrifice-set
+Mortal Set 	
+mortal-set
+Pale Court Set 	
+pale-court-set
+Shaper Set 	
+shaper-set
+Xoph's Breachstone 	
+xophs-breachstone
+Tul's Breachstone 	
+tuls-breachstone
+Esh's Breachstone 	
+eshs-breachstone
+Uul-Netol's Breachstone 	
+uul-breachstone
+Chayula's Breachstone 	
+chayulas-breachstone
+Offering to the Goddess 	
+offer
+Divine Vessel 	
+divine-vessel
+Ancient Reliquary Key 	
+ancient-reliquary-key

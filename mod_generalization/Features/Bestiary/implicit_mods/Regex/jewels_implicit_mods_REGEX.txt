@@ -1,0 +1,15 @@
+adds 1-(2 to 3) chaos damage to attacks
+#% additional chance to receive a critical strike
+#% increased chaos damage per equipped corrupted item
+#% to chaos resistance
+#% increased damage while dead
+#% increased endurance, frenzy and power charge duration
+#% increased life leeched per second per equipped corrupted item
+#% increased mana leeched per second per equipped corrupted item
+#% reduced character size
+#% reduced chill duration on you
+#% reduced freeze duration on you
+#% reduced ignite duration on you
+#% reduced shock duration on you
+you are immune to silence
+#% increased vaal skill damage

@@ -1,0 +1,376 @@
+# life regenerated per second
+# to evasion rating while on low life
+# to maximum life
+#% to fire resistance
+#% of life regenerated per second while on low life
+#% increased mana regeneration rate
+#% to cold resistance
+#% of physical attack damage leeched as mana
+minions have #% increased maximum life
+minions have #% increased movement speed
+#% reduced mana cost of minion skills
+minions deal #% increased damage
+# to dexterity
+# to strength
+# to accuracy rating
+#% increased projectile speed
+#% chance to block attack damage
+#% chance to block attack damage
+#% chance to block spell damage
+#% increased movement speed
+#% increased projectile damage
+# to intelligence
+#% to maximum chance to block attack damage
+#% of block chance applied to spells
+#% increased cast speed
+# to maximum mana
+#% increased rarity of items found
+#% increased rarity of items found with a normal item equipped
+#% increased quantity of items found with a magic item equipped
+adds # chaos damage
+items and gems have #% increased attribute requirements
+chaos damage can ignite, chill and shock
+gain soul eater for # seconds when you use a vaal skill
+#% increased rarity of items found
+# to dexterity
+adds # fire damage
+adds # cold damage
+adds # lightning damage
+gain a power charge when you use a vaal skill
+# life gained for each enemy hit if you have used a vaal skill recently
+#% increased movement speed if you have used a vaal skill recently
+adds # fire damage to attacks
+# to accuracy rating
+# to evasion rating
+#% to fire resistance
+#% increased mana regeneration rate
+# to maximum mana
+#% increased maximum mana
+#% increased mana regeneration rate
+items and gems have #% reduced attribute requirements
+# to strength and dexterity
+#% reduced maximum energy shield
+#% to fire resistance
+#% to cold resistance
+#% increased movement speed when on full life
+# to melee weapon and unarmed attack range
+#% increased melee damage when on full life
+# to strength and intelligence
+# to strength
+#% chance to grant unholy might to nearby enemies on kill
+#% chance to grant onslaught to nearby enemies on kill
+#% chance to gain unholy might for # seconds on kill
+#% chance to gain onslaught for # seconds on kill
+recover #% of maximum life on kill
+# to strength and intelligence
+#% increased mana regeneration rate
+#% of life regenerated per second
+nearby allies gain #% of life regenerated per second
+nearby allies gain #% increased mana regeneration rate
+# to dexterity and intelligence
+#% to lightning resistance
+#% to chaos resistance
+#% chance to gain a frenzy charge on kill
+#% chance to gain a power charge on kill
+#% increased projectile speed per frenzy charge
+#% increased projectile damage per power charge
+# to all attributes
+# to all attributes
+# physical damage taken from attacks
+# to strength
+grants level # gluttony of elements skill
+adds # chaos damage to attacks
+#% to all elemental resistances
+#% to chaos resistance
+corrupted
+# to all attributes
+# to all attributes
+#% to all elemental resistances
+#% of physical attack damage leeched as life
+#% increased life leeched per second
+#% increased damage while leeching
+extra gore
+# to all attributes
+#% reduced maximum life
+#% increased rarity of items found
+cannot be stunned
+# to all attributes
+# to accuracy rating
+#% chance to dodge attack hits
+#% chance to dodge spell hits
+cannot be blinded
+# to dexterity and intelligence
+#% increased maximum life
+#% chance to gain a frenzy charge on killing an enemy affected by at least # poisons
+#% chance to gain a power charge on killing an enemy affected by fewer than # poisons
+#% increased damage with poison per frenzy charge
+#% increased poison duration per power charge
+# to intelligence
+grants level # purity of elements skill
+# to all attributes
+# to maximum life
+#% chance to avoid elemental ailments
+# to dexterity and intelligence
+#% increased global critical strike chance
+#% to global critical strike multiplier
+# to maximum life
+# to maximum mana
+#% increased stun and block recovery
+# to dexterity
+# to strength
+#% increased attack speed
+# to accuracy rating
+#% increased projectile speed
+#% increased movement speed
+#% increased projectile damage
+#% increased global defences
+# to maximum energy shield
+#% to fire resistance
+#% to lightning resistance
+#% slower start of energy shield recharge during any flask effect
+#% increased energy shield recharge rate during any flask effect
+corrupted
+#% to global critical strike multiplier
+#% to unarmed attack critical strike chance
+modifiers to claw damage also apply to unarmed attack damage
+modifiers to claw attack speed also apply to unarmed attack speed
+modifiers to claw critical strike chance also apply to unarmed attack critical strike chance
+corrupted
+#% to fire resistance
+#% increased cold damage
+#% to all elemental resistances
+#% increased area of effect of curse skills
+you cannot be cursed with silence
+grants level # illusory warp skill
+corrupted
+#% increased armour
+#% increased rarity of items found
+#% increased rarity of items dropped by slain magic enemies
+#% increased quantity of items dropped by slain normal enemies
+# to strength and intelligence
+# to maximum life
+# to maximum mana
+# to maximum power charges
+#% increased mana regeneration rate per power charge
+#% increased power charge duration
+#% of damage is taken from mana before life per power charge
+#% reduced critical strike chance per power charge
+# to strength and intelligence
+# to maximum life
+# to maximum energy shield
+#% to all elemental resistances
+#% reduced endurance charge duration
+#% reduced power charge duration
+gain an endurance charge when a power charge expires or is consumed
+# to dexterity
+#% increased cold damage
+#% to cold resistance
+#% increased freeze duration on enemies
+#% chance to freeze
+#% increased damage if you've frozen an enemy recently
+# to strength
+# to strength
+#% increased fire damage
+# to maximum life
+#% to fire resistance
+cover enemies in ash when they hit you
+# life regenerated per second
+#% increased fire damage
+# to evasion rating while on low life
+# to maximum life
+#% to fire resistance
+#% of life regenerated per second while on low life
+# to intelligence
+# to accuracy rating
+#% to global critical strike multiplier
+# to evasion rating
+#% increased light radius
+#% less critical strike chance
+critical strikes have culling strike
+has # socket
+# to level of socketed gems
+socketed gems are supported by level # added chaos damage
+socketed gems are supported by level # blind
+socketed gems are supported by level # cast when stunned
+corrupted
+# to intelligence
+# to all attributes
+#% increased maximum mana
+critical strike chance is increased by lightning resistance
+trigger level # lightning bolt when you deal a critical strike
+#% increased rarity of items found
+# to dexterity
+# to maximum life
+#% to cold resistance
+cannot be chilled
+#% of life regenerated per second while frozen
+#% increased damage
+#% increased global physical damage
+#% increased fire damage
+#% increased cold damage
+#% increased lightning damage
+#% increased chaos damage
+corrupted
+# to strength
+#% reduced attack speed
+#% reduced cast speed
+# to armour
+# life gained when you block
+# mana gained when you block
+#% chance to block
+reflects # physical damage to attackers on block
+# to dexterity and intelligence
+#% increased attack speed
+#% increased cast speed
+#% increased movement speed
+#% reduced skill effect duration
+#% increased life leeched per second
+#% increased mana leeched per second
+#% increased rarity of items found
+# to dexterity
+adds # fire damage to attacks
+# to accuracy rating
+# to evasion rating
+#% to fire resistance
+your hits can't be evaded by blinded enemies
+damage penetrates #% fire resistance against blinded enemies
+implicit modifier magnitudes are doubled
+# to all attributes
+#% increased rarity of items found
+#% to chaos resistance
+cannot be stunned
+#% of maximum life converted to energy shield
+# to dexterity
+# to maximum life
+# to maximum mana
+#% increased duration of elemental ailments on enemies
+items and gems have #% reduced attribute requirements
+#% chance to freeze, shock and ignite
+cannot gain power charges
+# to all attributes
+#% increased damage over time
+adds # chaos damage
+# to maximum life
+#% to chaos resistance
+#% reduced despair mana reservation
+gain maddening presence for # seconds when you kill a rare or unique enemy
+# to all attributes
+adds # cold damage
+# to maximum life
+#% increased mana regeneration rate
+#% to cold resistance
+#% reduced frostbite mana reservation
+gain maddening presence for # seconds when you kill a rare or unique enemy
+# to all attributes
+adds # fire damage
+# to maximum life
+#% to fire resistance
+#% of life regenerated per second
+#% reduced flammability mana reservation
+gain maddening presence for # seconds when you kill a rare or unique enemy
+# to all attributes
+adds # lightning damage
+# to maximum life
+#% to lightning resistance
+#% of energy shield regenerated per second
+#% reduced conductivity mana reservation
+gain maddening presence for # seconds when you kill a rare or unique enemy
+# to all attribute
+adds # physical damage
+# to armour
+# to maximum life
+#% increased stun and block recovery
+#% reduced vulnerability mana reservation
+gain maddening presence for # seconds when you kill a rare or unique enemy
+# to dexterity
+#% increased cold damage
+#% to cold resistance
+chill enemy for # second when hit, slowing them by #%
+blind chilled enemies on hit
+damage penetrates #% cold resistance against chilled enemies
+# to strength
+#% increased maximum life
+#% to fire resistance
+#% increased strength
+damage penetrates #% fire resistance
+cover enemies in ash when they hit you
+avatar of fire
+# to strength and dexterity
+#% chance to ignite
+#% increased damage while ignited
+take # fire damage when you ignite an enemy
+#% of fire damage leeched as life while ignited
+# to intelligence
+#% increased maximum mana
+critical strike chance is increased by lightning resistance
+#% increased lightning damage
+trigger level # lightning bolt when you deal a critical strike
+# to all attributes
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% reduced duration of ailments on enemies
+#% chance to shock
+enemies take #% increased damage for each type of ailment you have inflicted on them
+your elemental damage can shock
+#% of life regenerated per second
+adds # physical damage to attacks
+# to maximum life
+# life regenerated per second
+#% increased life recovery from flasks
+moving while bleeding doesn't cause you to take extra damage
+#% increased mana regeneration rate
+#% of chaos damage leeched as life
+lose # life for each enemy hit by your spells
+lose # life for each enemy hit by your attacks
+skills chain # times
+projectiles gain #% of non-chaos damage as extra chaos damage per chain
+# to intelligence
+#% increased maximum energy shield
+# to maximum life
+#% additional chance to receive a critical strike
+nearby enemies have an additional #% chance to receive a critical strike
+nearby enemies have #% reduced stun and block recovery
+wrath reserves no mana
+can summon up to # additional golems at a time
+you cannot have non-golem minions
+#% reduced golem size
+golems deal #% less damage
+golems have #% less life
+golems have #% increased movement speed
+primordial
+# to all attributes
+# to strength
+#% increased armour
+# to maximum life
+#% reduced stun and block recovery
+nearby enemies have #% reduced stun and block recovery
+nearby enemies grant #% increased flask charges
+monster gives #% increased flask charges on death (hidden)
+#% additional chance to receive a critical strike
+nearby enemies have an additional #% chance to receive a critical strike
+grants level # envy skill
+#% increased global defences
+envy reserves no mana
+# to dexterity
+#% increased evasion rating
+# to maximum life
+# to strength
+#% increased armour
+# to maximum life
+# to intelligence
+#% increased maximum energy shield
+# to maximum life
+clarity reserves no mana
+discipline reserves no mana
+purity of lightning reserves no mana
+purity of elements reserves no mana
+wrath reserves no mana
+grace reserves no mana
+haste reserves no mana
+hatred reserves no mana
+purity of ice reserves no mana
+anger reserves no mana
+determination reserves no mana
+purity of fire reserves no mana
+vitality reserves no mana

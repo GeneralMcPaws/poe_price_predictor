@@ -1,0 +1,764 @@
+{
+    "# armour while you do not have avatar of fire": {
+        "gen": "# armour while you do not have avatar of fire",
+        "org": [
+            "+1000 armour while you do not have avatar of fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1000"
+            }
+        ]
+    },
+    "# life gained for each enemy hit by attacks": {
+        "gen": "# life gained for each enemy hit by attacks",
+        "org": [
+            "+10 life gained for each enemy hit by attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# life gained on kill": {
+        "gen": "# life gained on kill",
+        "org": [
+            "+10 life gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# mana gained on kill": {
+        "gen": "# mana gained on kill",
+        "org": [
+            "+5 mana gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+5"
+            }
+        ]
+    },
+    "# to dexterity": {
+        "gen": "# to dexterity",
+        "org": [
+            "+(10-15) to dexterity",
+            "+20 to dexterity",
+            "+(10-20) to dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to evasion rating": {
+        "gen": "# to evasion rating",
+        "org": [
+            "+(300-400) to evasion rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [
+            "+(20-40) to intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed fire gems": {
+        "gen": "# to level of socketed fire gems",
+        "org": [
+            "+1 to level of socketed fire gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum energy shield": {
+        "gen": "# to maximum energy shield",
+        "org": [
+            "+50 to maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+50"
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [
+            "+(40-50) to maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [
+            "+25 to strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+25"
+            }
+        ]
+    },
+    "#% additional block chance while dual wielding": {
+        "gen": "#% additional block chance while dual wielding",
+        "org": [
+            "12% additional block chance while dual wielding",
+            "5% additional block chance while dual wielding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to block attack damage while dual wielding": {
+        "gen": "#% chance to block attack damage while dual wielding",
+        "org": [
+            "+5% chance to block attack damage while dual wielding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+5"
+            }
+        ]
+    },
+    "#% chance to cause bleeding on critical strike": {
+        "gen": "#% chance to cause bleeding on critical strike",
+        "org": [
+            "50% chance to cause bleeding on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "30% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% chance to cause poison on critical strike": {
+        "gen": "#% chance to cause poison on critical strike",
+        "org": [
+            "50% chance to cause poison on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to dodge attack hits while your off hand is empty": {
+        "gen": "#% chance to dodge attack hits while your off hand is empty",
+        "org": [
+            "20% chance to dodge attack hits while your off hand is empty"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% chance to maim on hit": {
+        "gen": "#% chance to maim on hit",
+        "org": [
+            "(15-20)% chance to maim on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to poison on hit": {
+        "gen": "#% chance to poison on hit",
+        "org": [
+            "15% chance to poison on hit",
+            "20% chance to poison on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to trigger level # raise spiders on kill": {
+        "gen": "#% chance to trigger level # raise spiders on kill",
+        "org": [
+            "20% chance to trigger level 1 raise spiders on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% faster start of energy shield recharge": {
+        "gen": "#% faster start of energy shield recharge",
+        "org": [
+            "10% faster start of energy shield recharge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "10% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased attack damage against bleeding enemies": {
+        "gen": "#% increased attack damage against bleeding enemies",
+        "org": [
+            "40% increased attack damage against bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "10% increased attack speed",
+            "(10-15)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold damage while your off hand is empty": {
+        "gen": "#% increased cold damage while your off hand is empty",
+        "org": [
+            "100% increased cold damage while your off hand is empty"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "30% increased critical strike chance",
+            "(22-30)% increased critical strike chance",
+            "(40-50)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance against enemies on full life": {
+        "gen": "#% increased critical strike chance against enemies on full life",
+        "org": [
+            "100% increased critical strike chance against enemies on full life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased critical strike chance for spells": {
+        "gen": "#% increased critical strike chance for spells",
+        "org": [
+            "(80-100)% increased critical strike chance for spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance while you have avatar of fire": {
+        "gen": "#% increased critical strike chance while you have avatar of fire",
+        "org": [
+            "(80-120)% increased critical strike chance while you have avatar of fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage over time": {
+        "gen": "#% increased damage over time",
+        "org": [
+            "30% increased damage over time"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% increased fire damage": {
+        "gen": "#% increased fire damage",
+        "org": [
+            "(40-60)% increased fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "30% increased global critical strike chance",
+            "50% increased global critical strike chance",
+            "40% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(50-70)% increased physical damage",
+            "(20-40)% increased physical damage",
+            "(80-100)% increased physical damage",
+            "(170-200)% increased physical damage",
+            "(180-200)% increased physical damage",
+            "(250-270)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased poison duration": {
+        "gen": "#% increased poison duration",
+        "org": [
+            "(15-20)% increased poison duration"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(60-70)% increased spell damage",
+            "(50-70)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of attack damage leeched as life against maimed enemies": {
+        "gen": "#% of attack damage leeched as life against maimed enemies",
+        "org": [
+            "0.5% of attack damage leeched as life against maimed enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "#% of attack damage leeched as life on critical strike": {
+        "gen": "#% of attack damage leeched as life on critical strike",
+        "org": [
+            "1% of attack damage leeched as life on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% of attack damage leeched as mana against poisoned enemies": {
+        "gen": "#% of attack damage leeched as mana against poisoned enemies",
+        "org": [
+            "0.5% of attack damage leeched as mana against poisoned enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "#% of fire damage converted to chaos damage": {
+        "gen": "#% of fire damage converted to chaos damage",
+        "org": [
+            "30% of fire damage converted to chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% of physical damage converted to fire while you have avatar of fire": {
+        "gen": "#% of physical damage converted to fire while you have avatar of fire",
+        "org": [
+            "50% of physical damage converted to fire while you have avatar of fire"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% reduced attack speed": {
+        "gen": "#% reduced attack speed",
+        "org": [
+            "10% reduced attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(6-10)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(8-12)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+(30-40)% to global critical strike multiplier",
+            "+(15-25)% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # chaos damage": {
+        "gen": "adds # chaos damage",
+        "org": [
+            "adds 1 to 59 chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1 to 59"
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds (160-190) to (280-320) cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds 3 to 30 lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3 to 30"
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (1-2) to (3-5) physical damage",
+            "adds (3-6) to (9-13) physical damage",
+            "adds 12 to 24 physical damage",
+            "adds (35-40) to (55-60) physical damage",
+            "adds (8-13) to (20-30) physical damage",
+            "adds (70-85) to (110-118) physical damage",
+            "adds (50-60) to (120-140) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "and nearby allies regenerate # life per second": {
+        "gen": "and nearby allies regenerate # life per second",
+        "org": [
+            "and nearby allies regenerate 200 life per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "attacks with this weapon deal # added fire damage to bleeding enemies": {
+        "gen": "attacks with this weapon deal # added fire damage to bleeding enemies",
+        "org": [
+            "attacks with this weapon deal (80-100) to (160-200) added fire damage to bleeding enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "attacks with this weapon deal # added physical damage to ignited enemies": {
+        "gen": "attacks with this weapon deal # added physical damage to ignited enemies",
+        "org": [
+            "attacks with this weapon deal (80-100) to (160-200) added physical damage to ignited enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "attacks with this weapon have #% chance to inflict bleeding against ignited enemies": {
+        "gen": "attacks with this weapon have #% chance to inflict bleeding against ignited enemies",
+        "org": [
+            "attacks with this weapon have 25% chance to inflict bleeding against ignited enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "every # seconds, gain avatar of fire for # seconds": {
+        "gen": "every # seconds, gain avatar of fire for # seconds",
+        "org": [
+            "every 8 seconds, gain avatar of fire for 4 seconds"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "4"
+            }
+        ]
+    },
+    "extra gore": {
+        "gen": "",
+        "org": [
+            "extra gore"
+        ],
+        "params": []
+    },
+    "on killing a poisoned enemy, nearby enemies are poisoned": {
+        "gen": "",
+        "org": [
+            "on killing a poisoned enemy, nearby enemies are poisoned"
+        ],
+        "params": []
+    },
+    "you have crimson dance if you have dealt a critical strike recently": {
+        "gen": "",
+        "org": [
+            "you have crimson dance if you have dealt a critical strike recently"
+        ],
+        "params": []
+    },
+    "your chaos damage has #% chance to poison enemies": {
+        "gen": "your chaos damage has #% chance to poison enemies",
+        "org": [
+            "your chaos damage has 60% chance to poison enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "60"
+            }
+        ]
+    },
+    "your spells have culling strike": {
+        "gen": "",
+        "org": [
+            "your spells have culling strike"
+        ],
+        "params": []
+    }
+}

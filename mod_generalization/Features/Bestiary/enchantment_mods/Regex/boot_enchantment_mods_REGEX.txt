@@ -1,0 +1,16 @@
+adds # fire damage if you've killed recently
+regenerate #% of life and mana per second if you were hit recently
+#% reduced mana cost of skills if you've been hit recently
+#% chance to avoid being stunned if you've killed recently
+#% chance to dodge spell hits if you've
+damage recently
+#% increased attack and cast speed if you've killed recently
+adds # cold damage if you've been hit recently
+adds # lightning damage if you haven't killed recently
+#% of damage leeched as life and mana if you've killed recently
+#% chance to dodge attack hits if you've taken a critical strike recently
+#% chance to freeze, shock and ignite if you haven't crit recently
+#% increased movement speed if you haven't been hit recently
+#% increased critical strike chance if you haven't crit recently
+damage penetrates #% of enemy elemental resistances if you haven't killed recently
+adds # chaos damage if you've taken a critical strike recently

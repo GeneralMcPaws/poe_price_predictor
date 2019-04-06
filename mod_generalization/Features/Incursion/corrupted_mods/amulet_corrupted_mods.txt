@@ -1,0 +1,84 @@
+Enemies can have 1 additional Curse
+(8-10)% increased Attack Speed
+(4-5)% Chance to Block
+Grants Level 21 Clarity Skill
+0.5% of Cold Damage Leeched as Life
++1% to all maximum Resistances
+0.5% of Lightning Damage Leeched as Life
+(8-10)% increased Movement Speed
+0.5% of Fire Damage Leeched as Life
+(20-25)% of Block Chance applied to Spells
+Grants Level 23 Purity of Fire Skill
+Grants Level 23 Purity of Ice Skill
+Grants Level 23 Purity of Lightning Skill
+Grants Level 21 Purity of Elements Skill
+(3-5)% increased fish bite sensitivity
+(20-24)% increased Elemental Damage with Attack Skills
+(20-30)% increased Rarity of Items found
+(3-5)% increased Quantity of Items found
+Wrath has (15-20)% increased Aura Effect
+Anger has (15-20)% increased Aura Effect
+Hatred has (15-20)% increased Aura Effect
+Determination has (15-20)% increased Aura Effect
+Discipline has (15-20)% increased Aura Effect
+Grace has (15-20)% increased Aura Effect
+(4-6)% increased Intelligence
+(4-6)% increased Dexterity
+(4-6)% increased Dexterity
+(4-6)% increased Strength
+(4-6)% increased Strength
+(4-6)% increased Intelligence
++(14-16)% to all Elemental Resistances
+(2-4) Life Regenerated per second
+(20-30)% increased Mana Regeneration Rate
++(20-30) to Dexterity
++(20-30) to Intelligence
+(12-20)% increased Rarity of Items found
+(12-20)% increased Rarity of Items found
+(20-30)% increased Mana Regeneration Rate
++(16-24) to Strength and Dexterity
++(16-24) to Strength and Intelligence
++(16-24) to Dexterity and Intelligence
++(10-16) to all Attributes
++(20-30) to Strength
+Has 1 Socket
+(15-25)% increased Global Defences
++(24-36)% to Global Critical Strike Multiplier
++(20-30)% to Fire Resistance
+(20-30)% increased Mana Regeneration Rate
+(2-4) Life Regenerated per second
+(25-35)% increased Damage
+(1.2-1.6)% of Life Regenerated per second
+(48-56)% increased Mana Regeneration Rate
+(12-16)% increased Attributes
+(15-25)% increased Global Defences
+(19-31)% increased Chaos Damage
+(20-30)% increased Attack Damage
+(20-30)% increased Cold Damage
+(20-30)% increased Fire Damage
+(20-30)% increased Lightning Damage
+(20-30)% increased Spell Damage
+(20-30)% increased Global Physical Damage
+(20-30)% increased maximum Mana
+(25-35)% increased Damage
+(4-6)% additional Physical Damage Reduction
+(4-6)% chance to Freeze, Shock and Ignite
+(40-50)% increased Global Critical Strike Chance
+(5-8)% increased Area of Effect
+(6-10)% increased Attack and Cast Speed
+(6-10)% increased Quantity of Items found
+(8-12)% increased maximum Life
++(24-36)% to Global Critical Strike Multiplier
++1 to maximum number of Zombies
+10% chance to gain a Frenzy Charge on Kill
+10% chance to gain a Power Charge on Kill
+10% chance to gain an Endurance Charge on Kill
+2% of Life Regenerated per second
+50% of Cold Damage from Hits taken as Fire Damage
+50% of Cold Damage from Hits taken as Lightning Damage
+50% of Fire Damage from Hits taken as Cold Damage
+50% of Fire Damage from Hits taken as Lightning Damage
+50% of Lightning Damage from Hits taken as Cold Damage
+50% of Lightning Damage from Hits taken as Fire Damage
+Gain (6-12)% of Physical Damage as Extra Damage of a random Element
+Projectiles Pierce (2-3) additional Targets

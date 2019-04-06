@@ -1,0 +1,369 @@
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+# to Evasion Rating
+# Energy Shield Regenerated per second
+# Life Regenerated per second
+# Mana Regenerated per second
+#% increased Damage over Time while Dual Wielding
+#% increased Damage over Time while wielding a Two Handed Weapon
+#% increased Damage over Time while holding a Shield
+Adds # Physical Damage to Dagger Attacks
+Adds # Physical Damage to Claw Attacks
+Adds # Physical Damage to Sword Attacks
+Adds # Physical Damage to Axe Attacks
+Adds # Physical Damage to Mace Attacks
+Adds # Physical Damage to Staff Attacks
+Adds # Lightning Damage to Dagger Attacks
+Adds # Lightning Damage to Claw Attacks
+Adds # Lightning Damage to Sword Attacks
+Adds # Lightning Damage to Axe Attacks
+Adds # Lightning Damage to Mace Attacks
+Adds # Lightning Damage to Staff Attacks
+Adds # Fire Damage to Dagger Attacks
+Adds # Fire Damage to Claw Attacks
+Adds # Fire Damage to Sword Attacks
+Adds # Fire Damage to Axe Attacks
+Adds # Fire Damage to Mace Attacks
+Adds # Fire Damage to Staff Attacks
+Adds # Cold Damage to Dagger Attacks
+Adds # Cold Damage to Claw Attacks
+Adds # Cold Damage to Sword Attacks
+Adds # Cold Damage to Axe Attacks
+Adds # Cold Damage to Mace Attacks
+Adds # Cold Damage to Staff Attacks
+Damage Penetrates #% Elemental Resistances
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+#% reduced Physical Damage taken over time
+#% of Life Regenerated per second
+#% increased Global Defences
+# to Strength
+# to Dexterity
+# to Intelligence
+# to Strength and Dexterity
+# to Strength and Intelligence
+# to Dexterity and Intelligence
+# to all Attributes
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Fire and Cold Resistances
+#% to Fire and Lightning Resistances
+#% to Cold and Lightning Resistances
+#% to all Elemental Resistances
+#% to Chaos Resistance
+#% increased Effect of Chill
+#% increased Effect of Shock
+#% increased Attack Speed
+#% increased Global Critical Strike Chance
+#% to Global Critical Strike Multiplier
+Adds # Physical Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Lightning Damage to Attacks
+Adds # Chaos Damage to Attacks
+#% chance to Blind Enemies on Hit with Attacks
+#% chance to Taunt Enemies on Hit with Attacks
+#% increased Damage against Abyssal Monsters
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% chance to Avoid being Ignited
+#% chance to Avoid being Shocked
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being poisoned
+#% chance to Avoid being Stunned
+#% chance to dodge attack and spell hits if you've been hit recently
+#% chance to Avoid Bleeding
+# to Accuracy Rating
+#% chance to Block Spells if you were Damaged by a Hit Recently
+#% chance to block attack damage if you were damaged by a hit recently
+#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Damage if you've Killed Recently
+#% to Critical Strike Multiplier if you've Killed Recently
+#% increased Armour if you haven't Killed Recently
+#% increased Accuracy Rating if you haven't Killed Recently
+Damage Penetrates #% Elemental Resistance if you haven't Killed Recently
+#% increased Evasion Rating while moving
+#% increased Mana Regeneration Rate while moving
+#% of Life Regenerated per second while moving
+Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+#% increased Attack Speed if you've dealt a Critical Strike Recently
+#% increased Cast Speed if you've dealt a Critical Strike Recently
+#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+#% chance to Dodge Attacks and Spells if you've been Hit Recently
+#% increased Movement Speed if you've Killed Recently
+#% additional Block Chance if you were Damaged by a Hit Recently
+#% chance to gain Onslaught for # seconds on Kill
+#% chance to gain Unholy Might for # seconds on Melee Kill
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain Onslaught when you use a Flask
+#% of Damage taken gained as Mana over # seconds when Hit
+#% of Attack Damage Leeched as Life
+#% chance to Avoid interruption from Stuns while Casting
+#% increased Damage with Ailments
+#% increased Chaos Damage
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+# to Evasion Rating
+# Energy Shield Regenerated per second
+# Life Regenerated per second
+# Mana Regenerated per second
+#% increased Damage over Time while Dual Wielding
+#% increased Damage over Time while wielding a Two Handed Weapon
+#% increased Damage over Time while holding a Shield
+Adds # Physical Damage to Wand Attacks
+Adds # Physical Damage to Bow Attacks
+Adds # Lightning Damage to Wand Attacks
+Adds # Lightning Damage to Bow Attacks
+Adds # Fire Damage to Wand Attacks
+Adds # Fire Damage to Bow Attacks
+Adds # Cold Damage to Wand Attacks
+Adds # Cold Damage to Bow Attacks
+Damage Penetrates #% Elemental Resistances
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+#% reduced Physical Damage taken over time
+#% of Life Regenerated per second
+#% increased Global Defences
+# to Strength
+# to Dexterity
+# to Intelligence
+# to Strength and Dexterity
+# to Strength and Intelligence
+# to Dexterity and Intelligence
+# to all Attributes
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Fire and Cold Resistances
+#% to Fire and Lightning Resistances
+#% to Cold and Lightning Resistances
+#% to all Elemental Resistances
+#% to Chaos Resistance
+#% increased Effect of Chill
+#% increased Effect of Shock
+#% increased Attack Speed
+#% increased Global Critical Strike Chance
+#% to Global Critical Strike Multiplier
+Adds # Physical Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Lightning Damage to Attacks
+Adds # Chaos Damage to Attacks
+#% chance to Blind Enemies on Hit with Attacks
+#% increased Damage against Abyssal Monsters
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% chance to Avoid being Ignited
+#% chance to Avoid being Shocked
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being poisoned
+#% chance to Avoid being Stunned
+#% chance to Avoid Bleeding
+# to Accuracy Rating
+#% chance to Block Spells if you were Damaged by a Hit Recently
+#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Damage if you've Killed Recently
+#% to Critical Strike Multiplier if you've Killed Recently
+#% increased Armour if you haven't Killed Recently
+#% increased Accuracy Rating if you haven't Killed Recently
+Damage Penetrates #% Elemental Resistance if you haven't Killed Recently
+#% increased Evasion Rating while moving
+#% increased Mana Regeneration Rate while moving
+#% of Life Regenerated per second while moving
+Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+#% increased Attack Speed if you've dealt a Critical Strike Recently
+#% increased Cast Speed if you've dealt a Critical Strike Recently
+#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+#% chance to Dodge Attacks and Spells if you've been Hit Recently
+#% increased Movement Speed if you've Killed Recently
+#% additional Block Chance if you were Damaged by a Hit Recently
+#% chance to gain Onslaught for # seconds on Kill
+#% chance to gain Phasing for # seconds on Kill
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain Onslaught when you use a Flask
+#% of Damage taken gained as Mana over # seconds when Hit
+#% of Attack Damage Leeched as Life
+#% chance to Avoid interruption from Stuns while Casting
+#% increased Damage with Ailments
+#% increased Chaos Damage
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+# to Evasion Rating
+# Energy Shield Regenerated per second
+# Life Regenerated per second
+# Mana Regenerated per second
+#% increased Damage over Time while Dual Wielding
+#% increased Damage over Time while wielding a Two Handed Weapon
+#% increased Damage over Time while holding a Shield
+Adds # Physical Damage to Spells while Dual Wielding
+Adds # Physical Damage to Spells while wielding a Two Handed Weapon
+Adds # Physical Damage to Spells while holding a Shield
+Adds # Chaos Damage to Spells while Dual Wielding
+Adds # Chaos Damage to Spells while wielding a Two Handed Weapon
+Adds # Chaos Damage to Spells while holding a Shield
+Adds # Fire Damage to Spells while Dual Wielding
+Adds # Fire Damage to Spells while wielding a Two Handed Weapon
+Adds # Fire Damage to Spells while holding a Shield
+Adds # Cold Damage to Spells while Dual Wielding
+Adds # Cold Damage to Spells while wielding a Two Handed Weapon
+Adds # Cold Damage to Spells while holding a Shield
+Adds # Lightning Damage to Spells while Dual Wielding
+Adds # Lightning Damage to Spells while wielding a Two Handed Weapon
+Adds # Lightning Damage to Spells while holding a Shield
+Damage Penetrates #% Elemental Resistances
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+#% reduced Physical Damage taken over time
+#% of Life Regenerated per second
+#% increased Global Defences
+# to Strength
+# to Dexterity
+# to Intelligence
+# to Strength and Dexterity
+# to Strength and Intelligence
+# to Dexterity and Intelligence
+# to all Attributes
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Fire and Cold Resistances
+#% to Fire and Lightning Resistances
+#% to Cold and Lightning Resistances
+#% to all Elemental Resistances
+#% to Chaos Resistance
+#% increased Effect of Chill
+#% increased Effect of Shock
+#% increased Cast Speed
+#% increased Global Critical Strike Chance
+#% to Global Critical Strike Multiplier
+Adds # Physical Damage to Spells
+Adds # Fire Damage to Spells
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Adds # Chaos Damage to Spells
+#% chance to Hinder Enemies on Hit with Spells, with #% reduced Movement Speed
+#% increased Damage against Abyssal Monsters
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% chance to Avoid being Ignited
+#% chance to Avoid being Shocked
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being poisoned
+#% chance to Avoid being Stunned
+#% chance to Avoid Bleeding
+#% chance to Block Spells if you were Damaged by a Hit Recently
+#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Damage if you've Killed Recently
+#% to Critical Strike Multiplier if you've Killed Recently
+#% increased Armour if you haven't Killed Recently
+#% increased Accuracy Rating if you haven't Killed Recently
+Damage Penetrates #% Elemental Resistance if you haven't Killed Recently
+#% increased Evasion Rating while moving
+#% increased Mana Regeneration Rate while moving
+#% of Life Regenerated per second while moving
+Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently
+#% increased Attack Speed if you've dealt a Critical Strike Recently
+#% increased Cast Speed if you've dealt a Critical Strike Recently
+#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently
+#% chance to Dodge Attacks and Spells if you've been Hit Recently
+#% increased Movement Speed if you've Killed Recently
+#% additional Block Chance if you were Damaged by a Hit Recently
+#% chance to gain Phasing for # seconds on Kill
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain Onslaught when you use a Flask
+#% of Damage taken gained as Mana over # seconds when Hit
+#% of Attack Damage Leeched as Life
+#% chance to Avoid interruption from Stuns while Casting
+#% increased Damage with Ailments
+#% increased Chaos Damage
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+# to Evasion Rating
+# Energy Shield Regenerated per second
+# Life Regenerated per second
+# Mana Regenerated per second
+Minions deal # additional Physical Damage
+Minions deal # additional Fire Damage
+Minions deal # additional Cold Damage
+Minions deal # additional Lightning Damage
+Minions deal # additional Chaos Damage
+Minions Regenerate # Life per second
+Damage Penetrates #% Elemental Resistances
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+#% reduced Physical Damage taken over time
+#% of Life Regenerated per second
+#% increased Global Defences
+# to Strength
+# to Dexterity
+# to Intelligence
+# to Strength and Dexterity
+# to Strength and Intelligence
+# to Dexterity and Intelligence
+# to all Attributes
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% to Fire and Cold Resistances
+#% to Fire and Lightning Resistances
+#% to Cold and Lightning Resistances
+#% to all Elemental Resistances
+#% to Chaos Resistance
+#% increased Effect of Chill
+#% increased Effect of Shock
+#% increased Cast Speed
+Minions have #% chance to Blind on Hit with Attacks
+Minions have #% chance to Taunt on Hit with Attacks
+Minions have #% chance to Hinder Enemies on Hit with Spells, with #% reduced Movement Speed
+Minions deal #% increased Damage against Abyssal Monsters
+#% additional Physical Damage Reduction against Abyssal Monsters
+#% chance to Avoid being Ignited
+#% chance to Avoid being Shocked
+#% chance to Avoid being Chilled
+#% chance to Avoid being Frozen
+#% chance to Avoid being poisoned
+#% chance to Avoid being Stunned
+#% chance to Avoid Bleeding
+#% chance to Block Spells if you were Damaged by a Hit Recently
+#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently
+#% increased Movement Speed if you haven't taken Damage Recently
+#% increased Mana Regeneration Rate while moving
+#% increased Cast Speed if a Minion has been Killed Recently
+#% chance to Dodge Attacks and Spells if you've been Hit Recently
+#% increased Movement Speed if you've Killed Recently
+#% additional Block Chance if you were Damaged by a Hit Recently
+Minions have #% increased Attack Speed
+Minions have #% increased Cast Speed
+Minions Regenerate #% Life per second
+Minions Leech #% of Damage as Life
+Minions have #% increased Movement Speed
+Minions have #% increased maximum Life
+Minions have #% to all Elemental Resistances
+Minions have #% to Chaos Resistance
+Minions have #% increased Attack and Cast Speed if you or your Minions have Killed Recently
+#% increased Minion Damage if you've used a Minion Skill Recently
+#% increased Evasion Rating while moving
+#% of Life Regenerated per second while moving
+#% chance to gain an additional Vaal Soul on Kill
+#% chance to gain Onslaught when you use a Flask
+#% of Damage taken gained as Mana over # seconds when Hit
+#% of Attack Damage Leeched as Life
+#% chance to Avoid interruption from Stuns while Casting
+#% increased Damage with Ailments
+#% increased Chaos Damage

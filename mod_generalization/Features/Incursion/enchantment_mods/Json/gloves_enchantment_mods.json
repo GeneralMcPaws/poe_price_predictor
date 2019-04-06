@@ -1,0 +1,422 @@
+{
+    "trigger commandment of blades on hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of blades on hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of flames on hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of flames on hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of force on hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of force on hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of frost on kill": {
+        "gen": "",
+        "org": [
+            "trigger commandment of frost on kill"
+        ],
+        "params": []
+    },
+    "trigger commandment of fury on hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of fury on hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of inferno on kill": {
+        "gen": "",
+        "org": [
+            "trigger commandment of inferno on kill"
+        ],
+        "params": []
+    },
+    "trigger commandment of ire when hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of ire when hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of light when you take a critical strike": {
+        "gen": "",
+        "org": [
+            "trigger commandment of light when you take a critical strike"
+        ],
+        "params": []
+    },
+    "trigger commandment of reflection when hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of reflection when hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of spite when hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of spite when hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of the grave when your skills or minions kill": {
+        "gen": "",
+        "org": [
+            "trigger commandment of the grave when your skills or minions kill"
+        ],
+        "params": []
+    },
+    "trigger commandment of the tempest on hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of the tempest on hit"
+        ],
+        "params": []
+    },
+    "trigger commandment of thunder on kill": {
+        "gen": "",
+        "org": [
+            "trigger commandment of thunder on kill"
+        ],
+        "params": []
+    },
+    "trigger commandment of war on kill": {
+        "gen": "",
+        "org": [
+            "trigger commandment of war on kill"
+        ],
+        "params": []
+    },
+    "trigger commandment of winter when hit": {
+        "gen": "",
+        "org": [
+            "trigger commandment of winter when hit"
+        ],
+        "params": []
+    },
+    "trigger decree of blades on hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of blades on hit"
+        ],
+        "params": []
+    },
+    "trigger decree of flames on hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of flames on hit"
+        ],
+        "params": []
+    },
+    "trigger decree of force on hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of force on hit"
+        ],
+        "params": []
+    },
+    "trigger decree of frost on kill": {
+        "gen": "",
+        "org": [
+            "trigger decree of frost on kill"
+        ],
+        "params": []
+    },
+    "trigger decree of fury on hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of fury on hit"
+        ],
+        "params": []
+    },
+    "trigger decree of inferno on kill": {
+        "gen": "",
+        "org": [
+            "trigger decree of inferno on kill"
+        ],
+        "params": []
+    },
+    "trigger decree of ire when hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of ire when hit"
+        ],
+        "params": []
+    },
+    "trigger decree of light when you take a critical strike": {
+        "gen": "",
+        "org": [
+            "trigger decree of light when you take a critical strike"
+        ],
+        "params": []
+    },
+    "trigger decree of reflection when hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of reflection when hit"
+        ],
+        "params": []
+    },
+    "trigger decree of spite when hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of spite when hit"
+        ],
+        "params": []
+    },
+    "trigger decree of the grave when your skills or minions kill": {
+        "gen": "",
+        "org": [
+            "trigger decree of the grave when your skills or minions kill"
+        ],
+        "params": []
+    },
+    "trigger decree of the tempest on hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of the tempest on hit"
+        ],
+        "params": []
+    },
+    "trigger decree of thunder on kill": {
+        "gen": "",
+        "org": [
+            "trigger decree of thunder on kill"
+        ],
+        "params": []
+    },
+    "trigger decree of war on kill": {
+        "gen": "",
+        "org": [
+            "trigger decree of war on kill"
+        ],
+        "params": []
+    },
+    "trigger decree of winter when hit": {
+        "gen": "",
+        "org": [
+            "trigger decree of winter when hit"
+        ],
+        "params": []
+    },
+    "trigger edict of blades on hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of blades on hit"
+        ],
+        "params": []
+    },
+    "trigger edict of flames on hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of flames on hit"
+        ],
+        "params": []
+    },
+    "trigger edict of force on hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of force on hit"
+        ],
+        "params": []
+    },
+    "trigger edict of frost on kill": {
+        "gen": "",
+        "org": [
+            "trigger edict of frost on kill"
+        ],
+        "params": []
+    },
+    "trigger edict of fury on hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of fury on hit"
+        ],
+        "params": []
+    },
+    "trigger edict of inferno on kill": {
+        "gen": "",
+        "org": [
+            "trigger edict of inferno on kill"
+        ],
+        "params": []
+    },
+    "trigger edict of ire when hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of ire when hit"
+        ],
+        "params": []
+    },
+    "trigger edict of light when you take a critical strike": {
+        "gen": "",
+        "org": [
+            "trigger edict of light when you take a critical strike"
+        ],
+        "params": []
+    },
+    "trigger edict of reflection when hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of reflection when hit"
+        ],
+        "params": []
+    },
+    "trigger edict of spite when hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of spite when hit"
+        ],
+        "params": []
+    },
+    "trigger edict of the grave when your skills or minions kill": {
+        "gen": "",
+        "org": [
+            "trigger edict of the grave when your skills or minions kill"
+        ],
+        "params": []
+    },
+    "trigger edict of the tempest on hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of the tempest on hit"
+        ],
+        "params": []
+    },
+    "trigger edict of thunder on kill": {
+        "gen": "",
+        "org": [
+            "trigger edict of thunder on kill"
+        ],
+        "params": []
+    },
+    "trigger edict of war on kill": {
+        "gen": "",
+        "org": [
+            "trigger edict of war on kill"
+        ],
+        "params": []
+    },
+    "trigger edict of winter when hit": {
+        "gen": "",
+        "org": [
+            "trigger edict of winter when hit"
+        ],
+        "params": []
+    },
+    "trigger word of blades on hit": {
+        "gen": "",
+        "org": [
+            "trigger word of blades on hit"
+        ],
+        "params": []
+    },
+    "trigger word of flames on hit": {
+        "gen": "",
+        "org": [
+            "trigger word of flames on hit"
+        ],
+        "params": []
+    },
+    "trigger word of force on hit": {
+        "gen": "",
+        "org": [
+            "trigger word of force on hit"
+        ],
+        "params": []
+    },
+    "trigger word of frost on kill": {
+        "gen": "",
+        "org": [
+            "trigger word of frost on kill"
+        ],
+        "params": []
+    },
+    "trigger word of fury on hit": {
+        "gen": "",
+        "org": [
+            "trigger word of fury on hit"
+        ],
+        "params": []
+    },
+    "trigger word of inferno on kill": {
+        "gen": "",
+        "org": [
+            "trigger word of inferno on kill"
+        ],
+        "params": []
+    },
+    "trigger word of ire when hit": {
+        "gen": "",
+        "org": [
+            "trigger word of ire when hit"
+        ],
+        "params": []
+    },
+    "trigger word of light when you take a critical strike": {
+        "gen": "",
+        "org": [
+            "trigger word of light when you take a critical strike"
+        ],
+        "params": []
+    },
+    "trigger word of reflection when hit": {
+        "gen": "",
+        "org": [
+            "trigger word of reflection when hit"
+        ],
+        "params": []
+    },
+    "trigger word of spite when hit": {
+        "gen": "",
+        "org": [
+            "trigger word of spite when hit"
+        ],
+        "params": []
+    },
+    "trigger word of the grave when your skills or minions kill": {
+        "gen": "",
+        "org": [
+            "trigger word of the grave when your skills or minions kill"
+        ],
+        "params": []
+    },
+    "trigger word of the tempest on hit": {
+        "gen": "",
+        "org": [
+            "trigger word of the tempest on hit"
+        ],
+        "params": []
+    },
+    "trigger word of thunder on kill": {
+        "gen": "",
+        "org": [
+            "trigger word of thunder on kill"
+        ],
+        "params": []
+    },
+    "trigger word of war on kill": {
+        "gen": "",
+        "org": [
+            "trigger word of war on kill"
+        ],
+        "params": []
+    },
+    "trigger word of winter when hit": {
+        "gen": "",
+        "org": [
+            "trigger word of winter when hit"
+        ],
+        "params": []
+    }
+}

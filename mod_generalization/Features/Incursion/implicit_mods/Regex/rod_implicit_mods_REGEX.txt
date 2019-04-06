@@ -1,0 +1,13 @@
+#% of Fire Damage Leeched as Life
+#% of Cold Damage Leeched as Life
+#% of Lightning Damage Leeched as Life
+#% Chance to Cause Monsters to Flee
+Adds ## Chaos Damage
+Adds ## Chaos Damage
+Adds ## Chaos Damage
+# to Weapon range
+# Maximum Power Charge
+#% increased Quantity of Fish Caught
+#% increased Rarity of Fish Caught
+#% increased Cast Speed
+You can catch Corrupted Fish

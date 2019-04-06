@@ -1,0 +1,101 @@
+#% increased global critical strike chance
+#% increased physical damage
+adds # physical damage
+# to dexterity
+#% increased critical strike chance
+#% chance to cause bleeding on critical strike
+#% increased attack damage against bleeding enemies
+#% increased global critical strike chance
+#% increased physical damage
+adds # physical damage
+# to dexterity
+#% increased attack speed
+#% chance to cause bleeding on hit
+extra gore
+#% increased global critical strike chance
+#% additional block chance while dual wielding
+#% increased physical damage
+# to dexterity
+adds # lightning damage
+#% increased attack speed
+#% increased global critical strike chance
+#% increased global critical strike chance
+#% increased physical damage
+adds # physical damage
+# to strength
+# life gained for each enemy hit by attacks
+#% increased global critical strike chance
+adds # physical damage
+#% increased critical strike chance
+#% to global critical strike multiplier
+#% increased critical strike chance against enemies on full life
+#% of attack damage leeched as life on critical strike
+#% increased global critical strike chance
+#% increased spell damage
+# to maximum mana
+# to maximum energy shield
+#% faster start of energy shield recharge
+your spells have culling strike
+#% increased global critical strike chance
+#% increased physical damage
+adds # physical damage
+adds # chaos damage
+#% chance to trigger level # raise spiders on kill
+#% chance to poison on hit
+#% increased global critical strike chance
+# to level of socketed fire gems
+#% increased fire damage
+# to intelligence
+#% of fire damage converted to chaos damage
+your chaos damage has #% chance to poison enemies
+#% increased global critical strike chance
+#% increased physical damage
+adds # physical damage
+# to dexterity
+#% increased critical strike chance
+#% increased attack damage against bleeding enemies
+#% chance to cause bleeding on critical strike
+you have crimson dance if you have dealt a critical strike recently
+#% increased global critical strike chance
+#% increased physical damage
+#% increased attack speed
+#% increased poison duration
+#% of attack damage leeched as mana against poisoned enemies
+#% of attack damage leeched as life against maimed enemies
+#% chance to maim on hit
+#% chance to poison on hit
+#% increased global critical strike chance
+#% additional block chance while dual wielding
+#% increased physical damage
+#% reduced attack speed
+#% to all elemental resistances
+#% chance to cause bleeding on critical strike
+#% chance to cause poison on critical strike
+#% increased global critical strike chance
+#% increased damage over time
+adds # physical damage
+#% increased critical strike chance
+#% to global critical strike multiplier
+#% to chaos resistance
+on killing a poisoned enemy, nearby enemies are poisoned
+and nearby allies regenerate # life per second
+#% increased global critical strike chance
+#% increased spell damage
+#% increased critical strike chance for spells
+# life gained on kill
+# mana gained on kill
+#% increased area of effect
+#% increased global critical strike chance
+adds # cold damage
+#% increased attack speed
+# to evasion rating
+#% chance to dodge attack hits while your off hand is empty
+#% increased cold damage while your off hand is empty
+#% increased global critical strike chance
+attacks with this weapon deal # added fire damage to bleeding enemies
+attacks with this weapon deal # added physical damage to ignited enemies
+attacks with this weapon have #% chance to inflict bleeding against ignited enemies
+every # seconds, gain avatar of fire for # seconds
+#% increased critical strike chance while you have avatar of fire
+#% of physical damage converted to fire while you have avatar of fire
+# armour while you do not have avatar of fire

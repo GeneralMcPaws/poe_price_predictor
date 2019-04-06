@@ -1,0 +1,94 @@
+# to level of socketed strength gems
+#% increased physical damage
+adds # physical damage
+# to strength
+culling strike
+socketed gems are supported by level # increased area of effect
+#% increased physical damage
+# to strength
+# to accuracy rating
+# mana gained on kill
+# to weapon range
+#% increased physical damage
+# life gained on kill
+#% increased rarity of items found
+#% increased movement speed when on full life
+culling strike
+hits can't be evaded
+#% increased physical damage
+#% of damage leeched as life on critical strike
+#% increased global critical strike chance per level
+gain a flask charge when you deal a critical strike
+# to level of socketed strength gems
+#% increased physical damage
+adds # physical damage
+adds # physical damage
+# to strength
+gain #% of physical damage as extra fire damage
+culling strike
+#% increased physical damage
+# to maximum life
+# life regenerated per second
+#% increased physical damage
+#% increased attack speed
+rampage
+#% increased area of effect per # rampage kills
+gain a frenzy charge on every #th rampage kill
+#% of physical attack damage leeched as life
+#% increased mana cost of skills
+#% chance to cause bleeding on hit
+#% increased physical damage
+#% reduced attack speed
+#% chance to curse enemies with level # vulnerability on hit
+attacks have #% chance to inflict bleeding when hitting cursed enemies
+#% increased physical damage
+#% increased attack speed
+#% of physical damage converted to fire damage
+damage penetrates #% fire resistance
+#% chance to trigger level # molten burst on melee hit
+#% increased physical damage
+adds # fire damage
+# to accuracy rating
+#% chance to block spell damage
+# life gained on kill
+culling strike
+#% chance to block spell damage
+#% chance to block attack damage while dual wielding
+#% increased physical damage
+adds # fire damage in main hand
+adds # chaos damage in off hand
+counts as dual wielding
+#% increased physical damage
+#% increased attack speed
+rampage
+#% increased area of effect per # rampage kills
+gain a frenzy charge on every #th rampage kill
+#% increased physical damage
+adds # physical damage
+#% of physical attack damage leeched as life
+attacks have blood magic
+#% increased physical damage
+#% reduced attack speed
+attacks have #% chance to inflict bleeding when hitting cursed enemies
+trigger level # bone nova when you kill a bleeding enemy
+adds # cold damage
+#% increased movement speed if you've used a warcry recently
+#% increased elemental damage if you've used a warcry recently
+warcries knock enemies back in an area
+#% increased physical damage
+#% increased attack speed
+#% increased critical strike chance
+nearby allies have #% increased item rarity
+nearby allies have culling strike
+insufficient mana doesn't prevent your melee attacks
+socketed gems are supported by level # melee splash
+#% increased physical damage
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as mana
+recover #% of maximum life on kill
+enemies you hit are destroyed on kill
+# to level of socketed support gems
+adds # physical damage
+#% increased attack speed
+# to weapon range
+#% chance to cause bleeding on hit

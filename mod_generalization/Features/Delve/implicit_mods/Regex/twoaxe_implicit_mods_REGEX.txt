@@ -1,0 +1,16 @@
+#% chance to cause bleeding on hit
+#% increased attack damage against bleeding enemies
+#% increased area of effect
+adds # physical damage
+#% increased physical damage
+# to weapon range
+socketed gems are supported by level # blood magic
+socketed gems are supported by level # fortify
+socketed gems are supported by level # life gain on hit
+socketed gems are supported by level # onslaught
+socketed gems are supported by level # reduced mana
+adds # physical damage
+#% increased attack speed
+adds # physical damage
+#% increased physical damage
+#% increased critical strike chance

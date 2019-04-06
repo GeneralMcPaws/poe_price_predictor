@@ -1,0 +1,204 @@
+{
+    "#% chance to avoid being stunned if you've killed recently": {
+        "gen": "#% chance to avoid being stunned if you've killed recently",
+        "org": [
+            "80% chance to avoid being stunned if you've killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "80"
+            }
+        ]
+    },
+    "#% chance to dodge attack hits if you've taken a critical strike recently": {
+        "gen": "#% chance to dodge attack hits if you've taken a critical strike recently",
+        "org": [
+            "10% chance to dodge attack hits if you've taken a critical strike recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% chance to dodge spell hits if you've": {
+        "gen": "#% chance to dodge spell hits if you've",
+        "org": [
+            "8% chance to dodge spell hits if you've"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% chance to freeze, shock and ignite if you haven't crit recently": {
+        "gen": "#% chance to freeze, shock and ignite if you haven't crit recently",
+        "org": [
+            "10% chance to freeze, shock and ignite if you haven't crit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased attack and cast speed if you've killed recently": {
+        "gen": "#% increased attack and cast speed if you've killed recently",
+        "org": [
+            "16% increased attack and cast speed if you've killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "16"
+            }
+        ]
+    },
+    "#% increased critical strike chance if you haven't crit recently": {
+        "gen": "#% increased critical strike chance if you haven't crit recently",
+        "org": [
+            "120% increased critical strike chance if you haven't crit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "120"
+            }
+        ]
+    },
+    "#% increased movement speed if you haven't been hit recently": {
+        "gen": "#% increased movement speed if you haven't been hit recently",
+        "org": [
+            "10% increased movement speed if you haven't been hit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% of damage leeched as life and mana if you've killed recently": {
+        "gen": "#% of damage leeched as life and mana if you've killed recently",
+        "org": [
+            "0.6% of damage leeched as life and mana if you've killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.6"
+            }
+        ]
+    },
+    "#% reduced mana cost of skills if you've been hit recently": {
+        "gen": "#% reduced mana cost of skills if you've been hit recently",
+        "org": [
+            "18% reduced mana cost of skills if you've been hit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "18"
+            }
+        ]
+    },
+    "adds # chaos damage if you've taken a critical strike recently": {
+        "gen": "adds # chaos damage if you've taken a critical strike recently",
+        "org": [
+            "adds 120 to 180 chaos damage if you've taken a critical strike recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "120 to 180"
+            }
+        ]
+    },
+    "adds # cold damage if you've been hit recently": {
+        "gen": "adds # cold damage if you've been hit recently",
+        "org": [
+            "adds 45 to 68 cold damage if you've been hit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "45 to 68"
+            }
+        ]
+    },
+    "adds # fire damage if you've killed recently": {
+        "gen": "adds # fire damage if you've killed recently",
+        "org": [
+            "adds 45 to 68 fire damage if you've killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "45 to 68"
+            }
+        ]
+    },
+    "adds # lightning damage if you haven't killed recently": {
+        "gen": "adds # lightning damage if you haven't killed recently",
+        "org": [
+            "adds 1 to 160 lightning damage if you haven't killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1 to 160"
+            }
+        ]
+    },
+    "damage penetrates #% of enemy elemental resistances if you haven't killed recently": {
+        "gen": "damage penetrates #% of enemy elemental resistances if you haven't killed recently",
+        "org": [
+            "damage penetrates 10% of enemy elemental resistances if you haven't killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "damage recently": {
+        "gen": "",
+        "org": [
+            "damage recently"
+        ],
+        "params": []
+    },
+    "regenerate #% of life and mana per second if you were hit recently": {
+        "gen": "regenerate #% of life and mana per second if you were hit recently",
+        "org": [
+            "regenerate 2% of life and mana per second if you were hit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3 @@
+18% Chance to Block
+20% Chance to Block
+(3-5)% increased global critical strike chance

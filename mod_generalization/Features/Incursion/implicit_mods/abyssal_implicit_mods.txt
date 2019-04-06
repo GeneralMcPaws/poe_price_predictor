@@ -1,0 +1,11 @@
+(5-7)% increased Effect of non-Damaging Ailments on Enemies
+(4-5)% increased Area of Effect
+(8-10)% increased Global Critical Strike Chance
+(4-5)% increased Damage
+Minions deal (4-5)% increased Damage
+1% reduced Mana Reserved
+(5-10)% increased Vaal Skill Damage
+Corrupted Blood cannot be inflicted on you
+You cannot be Hindered
+You cannot be Maimed
+You cannot be Cursed with Silence

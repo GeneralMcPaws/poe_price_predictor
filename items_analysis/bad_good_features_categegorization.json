@@ -1,0 +1,386 @@
+{
+       "Armour":
+	{
+			"good_feature_value":520,
+			"bad_feature_value":500
+	},
+       "Evasion Rating":
+       {
+                     "good_feature_value":800,
+                     "bad_feature_value":760
+       },
+       "Quality":
+       {
+                     "good_feature_value":18,
+                     "bad_feature_value":16
+       },
+       "Energy Shield":
+	{
+			"good_feature_value":185,
+			"bad_feature_value":180
+	},
+       "co_# to level of socketed aoe gems":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0.5
+	},
+       "co_# to level of socketed aura gems":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0.5
+	},
+       "co_# to level of socketed curse gems":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0.5
+       },
+       "co_# to level of socketed gems":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0.5
+       },
+       "co_# to level of socketed projectile gems":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0.5
+       },
+       "co_# to level of socketed duration gems":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0.5
+       },
+       "co_# to level of socketed trap or mine gems":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0.5
+       },
+       "co_# to maximum mana":
+       {
+                     "good_feature_value":23,
+                     "bad_feature_value":0
+       },
+       "co_#% additional physical damage reduction while stationary":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "co_#% increased maximum life":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "co_#% increased movement speed":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "co_#% increased spell damage":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "co_#% reduced cold damage taken":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "co_#% reduced fire damage taken":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "co_#% reduced lightning damage taken":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "co_#% to all elemental resistances":
+       {
+                     "good_feature_value":11.5,
+                     "bad_feature_value":0
+       },
+       "co_#% to all maximum resistances":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "co_you take #% reduced extra damage from critical strikes":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "corrupted":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":5
+       },
+       "days_in_snapshot":
+       {
+                     "good_feature_value":1,
+                     "bad_feature_value":0.4
+       },
+       "ex_# life regenerated per second":
+	{
+			"good_feature_value":1000,
+			"bad_feature_value":100
+	},
+       "ex_# to armour":
+	{
+			"good_feature_value":20,
+			"bad_feature_value":0
+	},
+       "ex_# to dexterity":
+	{
+			"good_feature_value":100,
+			"bad_feature_value":100
+	},
+       "ex_# to evasion rating":
+       {
+                     "good_feature_value":50,
+                     "bad_feature_value":25
+       },
+       "ex_# to intelligence":
+	{
+			"good_feature_value":28,
+			"bad_feature_value":25
+	},
+       "ex_# to level of socketed active skill gems":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "ex_# to level of socketed support gems":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "ex_# to maximum energy shield":
+	{
+			"good_feature_value":40,
+			"bad_feature_value":0
+	},
+       "ex_# to maximum life":
+	{
+			"good_feature_value":90,
+			"bad_feature_value":85
+	},
+       "ex_# to maximum mana":
+	{
+			"good_feature_value":8,
+			"bad_feature_value":6
+	},
+       "ex_# to strength":
+	{
+			"good_feature_value":20,
+			"bad_feature_value":18
+	},
+       "ex_#% additional physical damage reduction":
+	{
+			"good_feature_value":2,
+			"bad_feature_value":0
+	},
+       "ex_#% chance to avoid fire damage when hit":
+       {
+                     "good_feature_value":1000,
+                     "bad_feature_value":1000
+       },
+       "ex_#% chance to avoid lightning damage when hit":
+       {
+                     "good_feature_value":6,
+                     "bad_feature_value":0
+       },
+       "ex_#% chance to dodge attack hits":
+       {
+                     "good_feature_value":100,
+                     "bad_feature_value":9
+       },
+       "ex_#% chance to dodge spell hits":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_#% increased area of effect":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_#% increased armour":
+       {
+                     "good_feature_value":25,
+                     "bad_feature_value":0
+       },
+       "ex_#% increased armour and energy shield":
+       {
+                     "good_feature_value":10,
+                     "bad_feature_value":0
+       },
+       "ex_#% increased armour and evasion":
+       {
+                     "good_feature_value":100,
+                     "bad_feature_value":100
+       },
+       "ex_#% increased dexterity":
+	{
+			"good_feature_value":8,
+			"bad_feature_value":0
+	},
+       "ex_#% increased energy shield":
+	{
+			"good_feature_value":30,
+			"bad_feature_value":0
+	},
+       "ex_#% increased evasion and energy shield":
+	{
+			"good_feature_value":21,
+			"bad_feature_value":0
+	},
+       "ex_#% increased maximum life":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "ex_#% increased intelligence":
+       {
+                     "good_feature_value":6,
+                     "bad_feature_value":0
+       },
+       "ex_#% increased strength":
+	{
+			"good_feature_value":8,
+			"bad_feature_value":0
+	},
+       "ex_#% increased stun and block recovery":
+	{
+			"good_feature_value":100,
+			"bad_feature_value":100
+	},
+       "ex_#% of damage is taken from mana before life":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_#% of energy shield regenerated per second":
+	{
+			"good_feature_value":0.7,
+			"bad_feature_value":0
+	},
+       "ex_#% reduced chaos damage taken over time":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_#% reduced attribute requirements":
+       {
+                     "good_feature_value":100,
+                     "bad_feature_value":100
+       },
+       "ex_#% to chaos resistance":
+       {
+                     "good_feature_value":10,
+                     "bad_feature_value":10
+       },
+       "ex_#% to cold resistance":
+	{
+			"good_feature_value":28,
+			"bad_feature_value":28
+	},
+       "ex_#% to fire resistance":
+	{
+			"good_feature_value":30,
+			"bad_feature_value":28
+	},
+       "ex_#% to lightning resistance":
+       {
+                     "good_feature_value":25,
+                     "bad_feature_value":16
+       },
+       "ex_gain onslaught for # seconds when hit":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_socketed gems are supported by level # item rarity":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_recover #% of maximum energy shield on kill":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "ex_recover #% of maximum life on kill":
+	{
+			"good_feature_value":3,
+			"bad_feature_value":0
+	},
+       "ex_recover #% of maximum mana on kill":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "ex_reflects # physical damage to melee attackers":
+       {
+                     "good_feature_value":100,
+                     "bad_feature_value":100
+       },
+       "im_# to maximum mana":
+       {
+                     "good_feature_value":20,
+                     "bad_feature_value":0
+       },
+       "im_#% increased spell damage":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "im_#% increased movement speed":
+       {
+                     "good_feature_value":0,
+                     "bad_feature_value":0
+       },
+       "im_#% to all elemental resistances":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "influence":
+	{
+			"good_feature_value":0,
+			"bad_feature_value":0
+	},
+       "item_level":
+	{
+			"good_feature_value":80,
+			"bad_feature_value":75
+	},
+       "linked_sockets":
+	{
+			"good_feature_value":6,
+			"bad_feature_value":6
+	},
+       "sockets_number":
+	{
+			"good_feature_value":5,
+			"bad_feature_value":5
+	},
+       "#_of_resistances":
+	{
+			"good_feature_value":3,
+			"bad_feature_value":2
+	},
+       "#_of_ele_resistances":
+	{
+			"good_feature_value":2,
+			"bad_feature_value":0
+	},
+       "total_resistance":
+	{
+			"good_feature_value":55,
+			"bad_feature_value":45
+	},"total_elemental_resistance":
+       {
+                     "good_feature_value":60,
+                     "bad_feature_value":0
+       }
+}

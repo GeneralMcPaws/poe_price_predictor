@@ -1,0 +1,402 @@
+{
+    "# life gained on kill": {
+        "gen": "# life gained on kill",
+        "org": [
+            "+(5-7) life gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(10-15) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "25% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% chance to ignite when in main hand": {
+        "gen": "#% chance to ignite when in main hand",
+        "org": [
+            "25% chance to ignite when in main hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(7-10)% increased attack speed",
+            "(20-25)% increased attack speed",
+            "(10-15)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed with swords": {
+        "gen": "#% increased attack speed with swords",
+        "org": [
+            "35% increased attack speed with swords"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "35"
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(30-50)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with ignite inflicted on chilled enemies": {
+        "gen": "#% increased damage with ignite inflicted on chilled enemies",
+        "org": [
+            "100% increased damage with ignite inflicted on chilled enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "10% increased movement speed",
+            "5% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased movement speed if you've killed recently": {
+        "gen": "#% increased movement speed if you've killed recently",
+        "org": [
+            "15% increased movement speed if you've killed recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(60-80)% increased physical damage",
+            "(170-190)% increased physical damage",
+            "(70-90)% increased physical damage",
+            "(100-140)% increased physical damage",
+            "(90-110)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical weapon damage while dual wielding": {
+        "gen": "#% increased physical weapon damage while dual wielding",
+        "org": [
+            "40% increased physical weapon damage while dual wielding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "2% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "#% of physical damage converted to cold damage": {
+        "gen": "#% of physical damage converted to cold damage",
+        "org": [
+            "25% of physical damage converted to cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% of physical damage converted to lightning damage": {
+        "gen": "#% of physical damage converted to lightning damage",
+        "org": [
+            "25% of physical damage converted to lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% reduced life leeched per second": {
+        "gen": "#% reduced life leeched per second",
+        "org": [
+            "50% reduced life leeched per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% to cold resistance": {
+        "gen": "#% to cold resistance",
+        "org": [
+            "+(20-25)% to cold resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire resistance": {
+        "gen": "#% to fire resistance",
+        "org": [
+            "+(15-25)% to fire resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage in off hand": {
+        "gen": "adds # cold damage in off hand",
+        "org": [
+            "adds (255-285) to (300-330) cold damage in off hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (5-15) to (20-25) fire damage",
+            "adds (223-250) to (264-280) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage in main hand": {
+        "gen": "adds # fire damage in main hand",
+        "org": [
+            "adds (255-285) to (300-330) fire damage in main hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (10-15) to (25-30) physical damage",
+            "adds (5-15) to (20-25) physical damage",
+            "adds (3-5) to (7-10) physical damage",
+            "adds (5-9) to (13-17) physical damage",
+            "adds 10 to 20 physical damage",
+            "adds (11-14) to (18-23) physical damage",
+            "adds (50-70) to (135-165) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "cannot be chilled while you have onslaught": {
+        "gen": "",
+        "org": [
+            "cannot be chilled while you have onslaught"
+        ],
+        "params": []
+    },
+    "chill enemies for # second on hit with this weapon when in off hand": {
+        "gen": "chill enemies for # second on hit with this weapon when in off hand",
+        "org": [
+            "chill enemies for 1 second on hit with this weapon when in off hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "culling strike": {
+        "gen": "",
+        "org": [
+            "culling strike"
+        ],
+        "params": []
+    },
+    "curse enemies with level # flammability on hit": {
+        "gen": "curse enemies with level # flammability on hit",
+        "org": [
+            "curse enemies with level 10 flammability on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "grants level # lightning warp skill": {
+        "gen": "grants level # lightning warp skill",
+        "org": [
+            "grants level 1 lightning warp skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "hits ignore enemy monster fire resistance while you are ignited": {
+        "gen": "",
+        "org": [
+            "hits ignore enemy monster fire resistance while you are ignited"
+        ],
+        "params": []
+    },
+    "insufficient mana doesn't prevent your melee attacks": {
+        "gen": "",
+        "org": [
+            "insufficient mana doesn't prevent your melee attacks"
+        ],
+        "params": []
+    },
+    "socketed gems are supported by level # chance to flee": {
+        "gen": "socketed gems are supported by level # chance to flee",
+        "org": [
+            "socketed gems are supported by level 2 chance to flee"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            }
+        ]
+    },
+    "you gain onslaught for # seconds on culling strike": {
+        "gen": "you gain onslaught for # seconds on culling strike",
+        "org": [
+            "you gain onslaught for 3 seconds on culling strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "your physical damage can chill": {
+        "gen": "",
+        "org": [
+            "your physical damage can chill"
+        ],
+        "params": []
+    }
+}

@@ -1,0 +1,128 @@
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+#% increased Elemental Damage with Attack Skills
+# to maximum Energy Shield
+#% increased maximum Energy Shield
+#% increased Evasion Rating
+#% increased Armour
+# to maximum Life
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+# to maximum Mana
+#% increased Spell Damage
+#% increased Rarity of Items found
+Adds # Chaos Damage to your Attacks
+#% increased Movement Speed
+#% to maximum chance to block attack damage
+Suffixes Cannot Be Changed
+#% increased Damage
+# to total mana cost of skills
+#% increased Life Leeched per second
+#% of Cold Damage Leeched as Life
+#% of Lightning Damage Leeched as Life
+#% increased Movement Speed
+Gain #% of Physical Damage as Extra Cold Damage
+Gain #% of Physical Damage as Extra Lightning Damage
+#% increased Damage per # Dexterity
+#% increased Damage per # Intelligence
+Damage Penetrates #% Elemental Resistances
+#% of Fire Damage Leeched as Life
+#% of Physical Damage Leeched as Life
+#% increased Area of Effect
+Projectiles Pierce an additional Target
+Gain #% of Physical Damage as Extra Fire Damage
+Gain #% of Non-Chaos Damage as extra Chaos Damage
+# to maximum number of Zombies
+# to maximum number of Skeletons
++% of maximum Life per second to maximum Life Leech rate
+#% increased Damage per # Strength
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+Damage Penetrates #% Elemental Resistances
+#% increased Fire Damage
+#% increased Cold Damage
+#% increased Lightning Damage
+#% increased Global Physical Damage
+#% increased Chaos Damage
+# to Accuracy Rating
+# to All Attributes
+# to Dexterity
+# to Strength
+# to Intelligence
+#% increased Cast Speed
+#% increased Critical Strike Chance
+#% to Global Critical Strike Multiplier
+#% increased Global Critical Strike Chance
+# Life gained on Kill
+# Life gained for each Enemy hit by your Attacks
+# Mana gained on Kill
+#% increased Cold Damage
+#% increased Fire Damage
+#% increased Lightning Damage
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% to all Elemental Resistances
+#% increased Mana Regeneration Rate
+# Life Regenerated per second
+#% increased Rarity of Items found
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+#% increased Life Leeched per second
+Minions have #% increased Movement Speed
+#% increased Attack Speed
+#% increased Chaos Damage
+#% of Chaos Damage Leeched as Life
+#% chance to Recover #% of Maximum Mana when you use a Skill
+#% increased effect of Fortify on You
+Grants Level # Determination Skill
+Grants Level # Grace Skill
+Grants Level # Discipline Skill
+Grants Level # Haste Skill
+Grants Level # Vitality Skill
+Grants Level # Clarity Skill
+Items and Gems have #% reduced Attribute Requirements
+#% of Block Chance applied to Spells
+#% increased Attributes
+#% reduced Mana Reserved
+#% increased Quantity of Items found
+#% chance to gain a Power, Frenzy or Endurance Charge on Kill
+#% to maximum Block Chance
+#% of Life Regenerated per second
+Grants Level # Wrath Skill
+Grants Level # Anger Skill
+Grants Level # Hatred Skill
+Grants Level # Envy Skill
+#% additional Physical Damage Reduction
+#% increased Attack Speed
+#% increased Vaal Skill Effect Duration
+Minions have #% increased Movement Speed
+Cannot be Chilled or Frozen while moving
+#% increased Mana Recovery rate
+#% increased Damage with Ailments
+#% chance to Evade Attacks
+#% chance when Hit for double Armour effect
+#% increased Energy Shield from Body Armour
+#% increased Life Recovery from Flasks
+#% to maximum chance to block attack damage
+#% chance to block spell damage
+#% of maximum life per second to maximum life leech rate
+grants level # aspect of the cat skill
+minions deal #% increased damage
+# mana regenerated per second
+grants level # aspect of the avian skill
+grants level # aspect of the spider skill
+#% increased maximum mana
+#% increased damage with hits and ailments per curse on enemy
+grants level # aspect of the crab skill
+#% increased maximum life
+#% of energy shield regenerated per second

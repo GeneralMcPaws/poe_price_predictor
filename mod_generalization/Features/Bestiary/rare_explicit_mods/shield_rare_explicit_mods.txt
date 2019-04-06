@@ -1,0 +1,627 @@
+# to Armour
+#% increased Armour
+#% increased Armour
+#% increased Stun and Block Recovery
+#% increased Armour
+#% Chance to Block
+# to Armour
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+#% increased Physical Damage
+#% increased Curse duration
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+# to Evasion Rating
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% chance to dodge attack hits if you have blocked recently
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+#% of Life Regenerated per second
+#% additional Block Chance against Projectiles
+#% chance to Avoid being Stunned
+# Life gained when you Block
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+#% increased Cast Speed
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+# to Dexterity
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+# to Intelligence
+#% increased Critical Strike Chance for Spells
+#% increased Mana Regeneration Rate
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour
+#% of Life Regenerated per second
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Evasion Rating
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+#% increased Curse duration
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to maximum Energy Shield
+# to Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+# to Armour
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Dexterity
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+# to Accuracy Rating
+#% increased Attack Speed
+#% chance to Dodge Attacks
+#% chance to Dodge Attack Hits
+#% chance to Dodge Spell Damage
+#% chance to Avoid Elemental Ailments
+# to Strength
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+#% increased Cast Speed
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+# to Intelligence
+# to Strength
+#% increased Critical Strike Chance for Spells
+#% increased Mana Regeneration Rate
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion
+#% of Life Regenerated per second
+# to maximum Energy Shield
+#% increased Energy Shield
+#% increased Energy Shield
+#% increased Stun and Block Recovery
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+# to maximum Mana
+#% increased Spell Damage
+#% increased Fire Damage
+#% increased Cold Damage
+#% increased Lightning Damage
+# to Level of Socketed Cold Gems
+# to Level of Socketed Fire Gems
+# to Level of Socketed Lightning Gems
+# to Level of Socketed Chaos Gems
+#% increased Curse duration
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+# to Armour
+# to Level of Socketed Support Gems
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+#% increased Critical Strike Chance for Spells
+#% increased Cast Speed
+# Mana gained when you Block
+#% Chance to Block Spell damage
+#% increased Mana Regeneration Rate
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+# to Dexterity
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+# to Dexterity
+# to Strength
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Energy Shield
+#% of Life Regenerated per second
+# to maximum Mana
+# to Armour
+# to maximum Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Energy Shield
+#% increased Stun and Block Recovery
+# to Armour
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+#% increased Elemental Damage
+#% increased Physical Damage
+#% increased Spell Damage
+#% increased Curse duration
+#% increased Global Physical Damage
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to Evasion Rating
+# to Armour
+# to maximum Energy Shield
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+#% increased Cast Speed
+#% of Life Regenerated per second
+#% additional Block Chance against Projectiles
+# Mana gained when you Block
+#% Chance to Block Spells
+#% chance to Avoid being Stunned
+#% increased Mana Regeneration Rate
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+# to Dexterity
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+#% increased Critical Strike Chance for Spells
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour and Energy Shield
+#% of Life Regenerated per second
+# to Armour
+# to Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Stun and Block Recovery
+# to Armour
+# to maximum Life
+# to Evasion Rating
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+#% increased Physical Damage
+#% increased Attack Damage
+#% increased Curse duration
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to Evasion Rating
+# to Armour
+# to maximum Energy Shield
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Strength
+# to Dexterity
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+#% increased Attack Speed
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+#% of Life Regenerated per second
+#% additional Block Chance against Projectiles
+#% chance to Avoid Elemental Ailments
+#% chance to Avoid being Stunned
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+#% increased Cast Speed
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+# to Intelligence
+#% increased Critical Strike Chance for Spells
+#% increased Mana Regeneration Rate
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour and Evasion
+#% of Life Regenerated per second
+# to maximum Mana
+# to Evasion Rating
+# to maximum Energy Shield
+#% increased Evasion and Energy Shield
+#% increased Evasion and Energy Shield
+#% increased Stun and Block Recovery
+# to Evasion Rating
+# to maximum Life
+# to maximum Energy Shield
+# to maximum Life
+# to maximum Life
+Reflects # Physical Damage to Melee Attackers
+# to Level of Socketed Melee Gems
+#% increased Spell Damage
+#% increased Curse duration
+#% increased Elemental Damage with Attack Skills
+Adds # Physical Damage to Attacks
+Reflects # Physical Damage to Attackers on Block
+Suffixes Cannot Be Changed
+# to maximum Energy Shield
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+# to Armour
+#% to maximum Cold Resistance
+#% to maximum Lightning Resistance
+#% to all maximum Resistances
+#% increased Area of Effect
+#% to maximum Fire Resistance
+#% increased maximum Life
+# Armour if you've Blocked Recently
+#% increased Damage per #% Block Chance
+#% to Fire Resistance
+#% to Cold Resistance
+#% to Lightning Resistance
+#% additional Physical Damage Reduction
+# to maximum Life
+#% increased maximum Life
+# to Dexterity
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun and Block Recovery
+#% to all Elemental Resistances
+#% Chance to Block
+#% increased Cast Speed
+#% increased Attack Speed
+# Mana gained when you Block
+#% chance to Dodge Attacks
+#% chance to Dodge Spell Damage
+#% Chance to Block Spells
+#% chance to Avoid Elemental Ailments
+#% increased Attack and Cast Speed
+#% increased Mana Regeneration Rate
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% reduced Damage taken from Damage Over Time
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid Lightning Damage when Hit
+# to Strength
+#% chance to Avoid Cold Damage when Hit
+#% chance to Avoid Fire Damage when Hit
+#% increased Critical Strike Chance for Spells
+Recover #% of your maximum Mana when you Block
+Chill nearby Enemies for # second on Block
+Adds # Fire Damage if you've Blocked Recently
+#% chance to gain a Power Charge on Block
+Socketed Gems have #% reduced Mana Reservation
+#% of Block Chance applied to Spells
+Gain an Endurance, Frenzy or Power charge when you Block
+#% chance to Dodge Attacks if you have Blocked Recently
+#% chance to Chill Attackers for # seconds on Block
+#% chance to Shock Attackers for # seconds on Block
+Recover #% of your Maximum Life when you Block
+Recover #% of your Mana when you Block
+Recover #% of Energy Shield when you Block
+Socketed Gems are Supported by Level # Cast when Damage Taken
+#% additional Physical Damage Reduction
+#% additional Block Chance if there are at least # nearby Enemies
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion and Energy Shield
+#% of Life Regenerated per second

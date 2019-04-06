@@ -1,0 +1,10 @@
+corrupted blood cannot be inflicted on you
+you cannot be hindered
+#% increased effect of non-damaging ailments on enemies
+#% increased area of effect
+#% increased global critical strike chance
+#% increased damage
+you cannot be maimed
+minions deal #% increased damage
+#% reduced mana reserved
+you cannot be cursed with silence

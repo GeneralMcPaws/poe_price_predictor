@@ -1,0 +1,13 @@
+#% of fire damage leeched as life
+#% of cold damage leeched as life
+#% of lightning damage leeched as life
+#% chance to cause monsters to flee
+adds ## chaos damage
+adds ## chaos damage
+adds ## chaos damage
+# to weapon range
+# maximum power charge
+#% increased quantity of fish caught
+#% increased rarity of fish caught
+#% increased cast speed
+you can catch corrupted fish

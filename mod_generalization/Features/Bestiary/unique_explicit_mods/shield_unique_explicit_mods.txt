@@ -1,0 +1,358 @@
++(10-20) to maximum Life
++(120-160) to Armour
++(30-40) to maximum Life
+20% increased Light Radius
+Your hits can't be Evaded
++(3-5)% Chance to Block
+Adds 250 to 300 Cold Damage to Counterattacks
++(20-30) to maximum Life
+(130-150)% increased Armour
++(40-60) to maximum Life
+0.5% of Life Regenerated per second
+15% increased Area of Effect for Skills used by Totems
+0.5% of Damage dealt by your Totems is Leeched to you as Life
++(10-20) to maximum Life
+(60-80)% increased Armour
++(30-50) to maximum Life
+-(80-50) Physical Damage taken from Projectile Attacks
+200% increased Armour against Projectiles
++25% additional Block Chance against Projectiles
++(20-30) to maximum Life
+(80-100)% increased Armour
++(50-60) to maximum Life
+Adds (50-55) to (72-80) Chaos Damage
+Adds 10 to 20 Fire Damage to Attacks
++(130-150) to maximum Energy Shield
+(30-50)% faster start of Energy Shield Recharge
+You take Chaos Damage instead of Physical Damage from Bleeding
++25% chance to be Poisoned
++3% to all maximum Resistances while Poisoned
+Poisons on you expire 50% slower
+20% increased Taunt Duration
++5% Chance to Block
+-10% to maximum Chance to Block Attack Damage
+50% increased Warcry Cooldown Recovery Speed
+Adds (20-22) to (30-37) Chaos Damage
++(80-100) to maximum Energy Shield
++25% chance to be Poisoned
++3% to all maximum Resistances while Poisoned
+50 Energy Shield Regenerated per Second per Poison on you, up to 250 per second
+Poisons on you expire 50% slower
+2% of Attack Damage Leeched as Life against Taunted Enemies
++(20-30) to maximum Life
+(120-150)% increased Armour
++(60-80) to maximum Life
++(35-50)% to Fire Resistance
+25% of Physical Damage Converted to Fire Damage
+25% chance to Curse non-Cursed Enemies with Enfeeble on Hit
+Adds (12-15) to (30-35) Fire Damage to Spells and Attacks
++(20-30) to maximum Life
+40% increased Totem Damage
++(80-100) to maximum Life
+Can have up to 1 additional Totem summoned at a time
++300 Armour per active Totem
+Blood Magic
++(30-40) to maximum Life
+(120-160)% increased Armour
++(50-70) to maximum Life
++6% Chance to Block
++1000 Armour if you've Blocked Recently
+Permanently Intimidate Enemies on Block
++(30-40) to maximum Life
+Grants Level 30 Reckoning Skill
+(130-170)% increased Armour
++(65-80) to maximum Life
+Recover 250 Life when you Block
++6% Chance to Block
++1500 Armour if you've Blocked Recently
++(10-20) to maximum Life
+(50-100)% increased Armour
++(60-80) to maximum Life
+-1 to Maximum Endurance Charges
+-10% to maximum Block Chance
++6% Chance to Block
++3% to all maximum Resistances while you have no Endurance Charges
+You have Onslaught while at maximum Endurance Charges
++(20-30) to maximum Life
+(200-250)% increased Armour
+20% increased Stun and Block Recovery
++(160-180) to maximum Life
+5% reduced Movement Speed
+-25 Physical Damage taken from Projectile Attacks
++5% Chance to Block
++(20-30) to maximum Life
++2 to Level of Socketed Gems
+Triggers Level 20 Elemental Aegis when Equipped
+(200-250)% increased Armour
++(60-80) to maximum Life
++(80-100) to Evasion Rating and Energy Shield
+3% increased Movement Speed
++(60-80) to maximum Life
+(5-7.5) Life Regenerated per second
++30% to Lightning Resistance
+0.6% of Physical Attack Damage Leeched as Life
++5% Chance to Block
+6% increased Movement Speed
+(60-100)% increased Evasion Rating
++5% to maximum Cold Resistance
++50% to Cold Resistance
+Gain (10-15)% of Physical Damage as Extra Cold Damage
+Reflects (25-50) Cold Damage to Melee Attackers
++5% Chance to Block
+6% increased Movement Speed
+(60-100)% increased Evasion Rating
++5% to maximum Cold Resistance
++50% to Cold Resistance
+Gain (10-15)% of Physical Damage as Extra Cold Damage
+Reflects (25-50) Cold Damage to Melee Attackers
++5% Chance to Block
+20% of Fire Damage from Hits taken as Cold Damage
+9% increased Movement Speed
++1 to Level of Socketed Curse Gems
+(30-50)% increased Evasion Rating
++(40-50) to maximum Life
++(50-70) to maximum Energy Shield
+100% increased Curse Duration
++5% Chance to Block
+10% Chance to Cause Monster to Flee on Block
+9% increased Movement Speed
++1 to Level of Socketed Curse Gems
+(30-50)% increased Evasion Rating
++(40-50) to maximum Life
++(50-70) to maximum Energy Shield
+100% increased Curse Duration
++5% Chance to Block
+10% Chance to Cause Monster to Flee on Block
+1% of Damage Leeched as Life against Cursed Enemies
+6% increased Movement Speed
+(80-100)% increased Evasion Rating
++(20-40)% to Cold Resistance
+10% increased Area of Effect
+Gain Onslaught for 4 seconds when you Warcry
+25% increased Warcry Buff Effect
+3% increased Movement Speed
+Adds (8-12) to (15-20) Physical Damage to Attacks
+(6-10)% increased Attack Speed
++(50-70) to maximum Life
+(8-12)% Chance to Block Spells
+6% increased Movement Speed
+15% Chance to Block Spell Damage
++(40-60) to Intelligence
+(180-200)% increased Evasion Rating
++(20-30)% to all Elemental Resistances
+50% reduced Duration of Curses on you
+Curse Reflection
+10% Chance to Block Attack Damage while not Cursed
+20% Chance to Block Spell Damage while Cursed
+3% increased Movement Speed
+(100-120)% increased Evasion Rating
++(70-90) to maximum Life
+0.4% of Physical Attack Damage Leeched as Life
++5% Chance to Block
+Reflects 1 to 1000 Physical Damage to Attackers on Block
+10% of Damage you Reflect to Enemies is gained as Life
+6% increased Movement Speed
++(40-60) to Intelligence
+(180-200)% increased Evasion Rating
++(180-200) to maximum Energy Shield
++(20-30)% to all Elemental Resistances
+Curse Reflection
+Unaffected by Curses
+(15-20)% increased Effect of your Curses
+(5-10)% increased Spell Damage
++3 to Level of Socketed Warcry Gems
+(8-12)% increased Cast Speed
+(20-40)% increased Mana Regeneration Rate
++(70-90) to maximum Energy Shield
+Gain 2 Power Charges when you Warcry
+(5-10)% increased Spell Damage
++2 to Level of Socketed Minion Gems
++(15-25) to maximum Mana
+(40-80)% increased Energy Shield
+10% increased Effect of Auras on you
+10% increased Effect of Auras on your Minions
+Spreads Tar when you take a Critical Strike
+Tar lasts 4.5 seconds (Hidden)
+When hit by a Critical Strike, creates patches of Tar reducing Movement Speed by 50% (Hidden)
+(10-15)% increased Spell Damage
+(60-80)% increased Critical Strike Chance for Spells
+Trigger Commandment of Inferno on Critical Strike
+(50-70)% increased Global Critical Strike Chance
++(50-70) to maximum Life
++(20-30)% to Fire Resistance
+(8-12)% increased Attack Speed if you've dealt a Critical Strike Recently
+(8-12)% increased Cast Speed if you've dealt a Critical Strike Recently
+(100-140)% increased Energy Shield
++(3-5)% Chance to Block
++1% to Critical Strike Multiplier per 1% Chance to Block Attack Damage
++25% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently
+25% of Block Chance applied to Spells
++(20-30) to Intelligence
+(4-8)% increased Quantity of Items found
++5% Chance to Block
+Applies Level 15 Punishment on Blocking a Melee Attack, ignoring Curse Limit
+Applies Level 15 Temporal Chains on Blocking a Projectile Attack, ignoring Curse Limit
+Applies Level 15 Elemental Weakness on Blocking a Spell, ignoring Curse Limit
+(15-20)% increased Spell Damage
+Trigger Level 20 Fog of War when your Trap is triggered
++(20-30) to Intelligence
+(80-120)% increased Energy Shield
+30% increased Fire Damage with Hits and Ailments against Blinded Enemies
+30% reduced Spell Damage taken from Blinded Enemies
+No Block Chance
++(20-30) to Intelligence
++(40-70) to maximum Life
+(80-100)% increased Energy Shield
++(35-40)% to Lightning Resistance
+Adds 1 to 10 Lightning Damage for each Shocked Enemy you've Killed Recently
+Shock Reflection
+(5-10)% increased Spell Damage
++(40-70) to maximum Life
+(240-260)% increased Energy Shield
++(30-40)% to Lightning Resistance
++(17-29)% to Chaos Resistance
+Chaos Damage does not bypass Energy Shield while not on Low Life or Low Mana
+Reflect Shocks applied to you to all Nearby Enemies
+(10-15)% increased Spell Damage
+(210-250)% increased Energy Shield
++2 to Maximum Power Charges
+20% chance to gain a Power Charge on Hit
+6% increased Spell Damage per Power Charge
+Lose all Power Charges on reaching Maximum Power Charges
+Shocks you when you reach Maximum Power Charges
+(40-60)% of Block Chance applied to Spells
+(40-60)% increased Spell Damage
+10% increased maximum Life
+(120-160)% increased Energy Shield
++25% to Lightning Resistance
+60% increased Block Recovery
++(5-10) to Armour
+(30-40)% increased Rarity of Items found
+25% increased Curse Duration
+100% increased Duration of Curses on you
++5% Chance to Block
+60% increased Block Recovery
+Adds 4 to 8 Physical Damage to Attacks
+Adds 12 to 15 Cold Damage to Attacks
+(90-130)% increased Armour and Evasion
++(30-50)% to Fire Resistance
+Curse Enemies with Level 5 Vulnerability on Block
+120% increased Block Recovery
+20% increased Global Physical Damage
+(100-120)% increased Armour and Evasion
++(10-20)% to all Elemental Resistances
+120% of Block Chance applied to Spells when on Low Life
++(3-6)% Chance to Block
+20% chance to Block Attacks if you have Blocked a Spell Recently
+20% chance to Block Spells if you have Blocked an Attack Recently
++2 to Level of Socketed Gems
+Triggers Level 20 Cold Aegis when Equipped
+(200-250)% increased Armour and Evasion
++(60-80) to maximum Life
+Cannot be Frozen
++4% to all Elemental Resistances
+(80-120)% increased Armour and Energy Shield
+50% reduced Freeze Duration on you
+3% of Life Regenerated per second
+3% of Life Regenerated per second while on Low Life
++4% to all Elemental Resistances
+(80-120)% increased Armour and Energy Shield
++(100-150) to maximum Life
+50% reduced Freeze Duration on you
++20% Chance to Block Attack Damage if you have Blocked Spell Damage Recently
+3% of Life Regenerated per second
++30% Chance to Block Spell Damage while on Low Life
+3% of Life Regenerated per second while on Low Life
+20% chance to Block Spell Damage if you have Blocked Attack Damage Recently
++8% to all Elemental Resistances
++(50-70) to maximum Life
++(20-30)% to Lightning Resistance
++11% to Chaos Resistance
+20% increased Area of Effect of Aura Skills
+9% Chance to Block Spell Damage
+10% chance to grant a Power Charge to nearby Allies on Kill
+5% chance to grant a Frenzy Charge to nearby Allies on Hit
++4% to all Elemental Resistances
+(70-80)% of Block Chance applied to Spells
+(40-50)% increased Spell Damage
++(60-80) to maximum Energy Shield
++(50-70) to maximum Life
+1% increased Area of Effect per Enemy killed recently, up to 50%
+You have Zealot's Oath if you haven't been hit recently
+(20-30)% increased Spell Damage
++10% to all Elemental Resistances
++4% to all maximum Resistances
+Cannot Block Attacks
+(10-20)% increased Elemental Damage with Attack Skills
+(80-100)% increased Armour and Energy Shield
++10% to all Elemental Resistances
++5% to maximum Cold Resistance
++6% Chance to Block
+Replenishes Energy Shield by 2% of Armour when you Block
++8% to all Elemental Resistances
+(80-100)% increased Armour and Energy Shield
++(40-60) to maximum Life
+(15-20) Life Regenerated per second
++5% to maximum Fire Resistance
++(20-25)% to Fire Resistance
++25% to Fire Resistance while on Low Life
+10% increased Movement Speed when on Low Life
+Cannot be Ignited while on Low Life
++12% to all Elemental Resistances
+0.4% of Chaos Damage Leeched as Life
+Gain (5-10)% of Physical Damage as Extra Chaos Damage
++5% Chance to Block
+Gain Unholy Might on block for 10 seconds
+100% increased Global Armour while you have no Energy Shield
++12% to all Elemental Resistances
++2 to Level of Socketed Gems
+Triggers Level 20 Fire Aegis when Equipped
+(200-250)% increased Armour and Energy Shield
++(60-80) to maximum Life
+Cannot be Ignited
++12% to all Elemental Resistances
++2 to Level of Socketed Aura Gems
+Socketed Gems have Blood Magic
+Socketed Gems have 25% reduced Mana Reservation
++(20-30) to Dexterity
++25% to all Elemental Resistances
++12% to all Elemental Resistances
+Grants Summon Harbinger of Focus Skill
++(60-80) to maximum Life
++(10-15)% to all Elemental Resistances
++(30-50) Mana gained when you Block
++5% Chance to Block
+(50-70)% increased Damage with Channelling Skills
+4% chance to Dodge Attacks
+(120-140)% increased Evasion and Energy Shield
++(30-50) to maximum Life
++(20-30) to maximum Energy Shield
+10% increased Rarity of Items found
+25% chance to Avoid Fire Damage when Hit
+You always Ignite while Burning
+2% chance to Dodge Spell Damage
+(10-15)% increased Attack Speed
+(10-20)% increased maximum Life
+-50% to all Elemental Resistances
+10% increased Area of Effect
+Nearby allies Recover 2% of your maximum Life when you Die
+4% chance to Dodge Attacks
+(130-150)% increased Evasion and Energy Shield
++(60-80) to maximum Life
+40% increased Duration of Ailments on Enemies
++(3-4)% Chance to Block
+Shared Suffering
+4% chance to Dodge Spell Damage
+(18-28)% increased Trap Damage
+(15-25)% increased Global Physical Damage
++(60-80) to maximum Life
+-(18-14) Physical Damage taken from Attacks
+25% chance to gain a Power Charge on Throwing a Trap
+Grants Level 20 Bear Trap Skill
+You lose all Endurance Charges at maximum Endurance Charges
+Trigger a Socketed Warcry Skill when you lose Endurance Charges
++(60-80) to maximum Life
++(17-23)% to Chaos Resistance
+50% increased Warcry Cooldown Recovery Speed
+Cannot Block
++25% Chance to Block Projectile Attack Damage

@@ -1,0 +1,14 @@
+#% of fire damage leeched as life
+#% of cold damage leeched as life
+#% of lightning damage leeched as life
+#% chance to cause monsters to flee
+adds ## chaos damage
+adds ## chaos damage
+adds ## chaos damage
+culling strike
+# to weapon range
+gems in this item are supported by level # melee splash
+#% additional chance to block while dual wielding
+gems in this item are supported by level # multistrike
+# maximum power charge
+gems in this item are supported by level # additional accuracy

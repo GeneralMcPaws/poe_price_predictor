@@ -1,0 +1,5 @@
+#% increased elemental damage with attack skills
+#% increased critical strike chance
+#% increased critical strike chance
+#% increased elemental damage with attack skills
+#% increased movement speed

@@ -1,0 +1,96 @@
+{
+    "Tabula Rasa Simple Robe":{
+        "frequency":"8H",
+        "fill_method":"pchip",
+        "default_flatten":"median",
+        "features":{
+            "Quality":"median",
+            "co_# to level of socketed aoe gems":"median",
+            "co_# to level of socketed aura gems":"median",
+            "co_# to level of socketed curse gems":"median",
+            "co_# to level of socketed duration gems":"median",
+            "co_# to level of socketed gems":"median",
+            "co_# to level of socketed projectile gems":"median",
+            "co_# to level of socketed trap or mine gems":"median",
+            "co_# to level of socketed warcry gems":"median",
+            "co_#% additional physical damage reduction while stationary":"median",
+            "co_#% increased damage":"median",
+            "co_#% increased maximum energy shield":"median",
+            "co_#% increased maximum life":"median",
+            "co_#% reduced chaos damage taken":"median",
+            "co_#% reduced cold damage taken":"median",
+            "co_#% reduced fire damage taken":"median",
+            "co_#% reduced lightning damage taken":"median",
+            "co_#% to all maximum resistances":"median",
+            "co_you take #% reduced extra damage from critical strikes":"median",
+            "corrupted":"median",
+            "days_in_snapshot":"median",
+            "ex_conv_rate":"mean",
+            "influence":"median",
+            "item_level":"median",
+            "linked_sockets":"mean",
+            "price_amount":"mean",
+            "sockets_number":"mean"
+        }
+    },
+    "Windripper Imperial Bow":{
+        "frequency":"8H",
+        "fill_method":"pchip",
+        "default_flatten":"median",
+        "features":{
+            "Quality":"median",
+            "corrupted":"median",
+            "days_in_snapshot":"mean",
+            "influence":"median",
+            "item_level":"mean",
+            "linked_sockets":"mean",
+            "price_amount":"median",
+            "sockets_number":"mean"
+        }
+    },
+    "Loreweave Elegant Ringmail":{
+        "frequency":"4H",
+        "fill_method":"pchip",
+        "default_flatten":"median",
+        "features":{
+            "Quality":"median",
+            "corrupted":"median",
+            "days_in_snapshot":"mean",
+            "influence":"median",
+            "item_level":"mean",
+            "linked_sockets":"mean",
+            "price_amount":"mean",
+            "sockets_number":"mean"
+        }
+    },
+    "Thief's Torment Prismatic Ring":{
+        "frequency":"4H",
+        "fill_method":"pchip",
+        "default_flatten":"median",
+        "features":{
+            "Quality":"median",
+            "corrupted":"median",
+            "days_in_snapshot":"mean",
+            "influence":"median",
+            "item_level":"mean",
+            "linked_sockets":"mean",
+            "price_amount":"mean",
+            "sockets_number":"mean"
+        }
+    },
+    "Ventor's Gamble Gold Ring":{
+        "frequency":"4H",
+        "fill_method":"pchip",
+        "default_flatten":"median",
+        "features":{
+            "Quality":"median",
+            "corrupted":"median",
+            "days_in_snapshot":"mean",
+            "influence":"median",
+            "item_level":"mean",
+            "linked_sockets":"mean",
+            "price_amount":"mean",
+            "sockets_number":"mean"
+        }
+    }    
+}

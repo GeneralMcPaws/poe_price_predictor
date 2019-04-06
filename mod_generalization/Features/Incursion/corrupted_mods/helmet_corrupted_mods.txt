@@ -1,0 +1,23 @@
+(4-6)% increased maximum Energy Shield
+(4-6)% increased maximum Life
++2 to Level of Socketed AoE Gems
++2 to Level of Socketed Aura Gems
++2 to Level of Socketed Curse Gems
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed Projectile Gems
++2 to Level of Socketed Trap or Mine Gems
++2 to Level of Socketed Warcry Gems
+(1.6-2)% of Life Regenerated per second
+(25-30)% increased Effect of Chill
+(25-30)% increased Effect of Shock
+(30-40)% increased Burning Damage
++1 to Maximum Power Charges
++2 to Level of Socketed Cold Gems
++2 to Level of Socketed Fire Gems
++2 to Level of Socketed Lightning Gems
+0.5% of Cold Damage Leeched as Life
+0.5% of Fire Damage Leeched as Life
+0.5% of Lightning Damage Leeched as Life
+Cannot be Blinded
+Socketed Skill Gems get a 90% Mana Multiplier
+minions deal (3-5)% increased damage

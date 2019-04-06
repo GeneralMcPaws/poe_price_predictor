@@ -1,0 +1,15 @@
+Adds 1-(2 to 3) Chaos Damage to Attacks																
+(3 to 5)% additional Chance to receive a Critical Strike																								
+1% increased Chaos Damage per equipped Corrupted Item																								
++(1 to 3)% to Chaos Resistance																								
+(20 to 30)% increased Damage while Dead																								
+(3 to 7)% increased Endurance, Frenzy and Power Charge Duration																								
+1% increased Life Leeched per second per equipped Corrupted Item																								
+1% increased Mana Leeched per second per equipped Corrupted Item																								
+1% reduced Character Size																								
+(3 to 5)% reduced Chill Duration on You																								
+(3 to 5)% reduced Freeze Duration on You																								
+(3 to 5)% reduced Ignite Duration on You																								
+(3 to 5)% reduced Shock Duration on You																								
+You are Immune to Silence																								
+(5 to 10)% increased Vaal Skill Damage

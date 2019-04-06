@@ -1,0 +1,425 @@
+#% increased maximum life
+adds # to maximum life per # intelligence allocated in radius
+minions have #% increased movement speed
+minions have #% chance to dodge attack hits
+#% increased mana regeneration rate
+#% increased movement speed
+#% increased attack and cast speed
+#% increased dexterity
+#% increased strength
+#% reduced intelligence
+# to intelligence
+strength from passives in radius is transformed to intelligence
+# to dexterity
+intelligence from passives in radius is transformed to dexterity
+#% reduced trap duration
+can have up to # additional trap placed at a time
+#% increased mana regeneration rate
+#% increased spell damage while no mana is reserved
+traps and mines deal # additional physical damage
+traps and mines have a #% chance to poison on hit
+increases and reductions to physical damage in radius are transformed to apply to cold damage
+increases and reductions to cold damage in radius are transformed to apply to physical damage
+#% increased global physical damage
+with at least # dexterity in radius, shrapnel shot's cone has a #% chance to deal double damage
+with at least # dexterity in radius, shrapnel shot has #% increased area of effect
+#% reduced mana reserved
+#% increased skill effect duration
+#% reduced mana cost of skills
+#% chance to avoid elemental ailments
+#% increased life recovery from flasks
+#% chance to dodge attacks
+#% chance to dodge attack hits
+#% increased effect of flasks on you
+#% increased effect of non-curse auras from your skills
+#% increased effect of your curses
+minions have #% to all elemental resistances
+with at least # intelligence in radius, summon skeleton can summon up to # skeleton mages
+# to strength
+intelligence from passives in radius is transformed to strength
+#% increased chaos damage per # intelligence from allocated passives in radius
+#% increased accuracy rating
+#% increased character size
+#% increased dexterity
+#% increased maximum life
+#% increased character size
+#% increased physical damage with swords
+#% increased global defences
+#% increased attributes
+#% increased damage
+#% increased character size
+#% increased strength
+#% increased global critical strike chance
+#% increased character size
+#% increased intelligence
+#% increased armour
+increases and reductions to energy shield in radius are transformed to apply to armour at #% of their value
+#% increased maximum energy shield
+increases and reductions to life in radius are transformed to apply to energy shield
+# to intelligence
+dexterity from passives in radius is transformed to intelligence
+#% increased cold damage
+with at least # dexterity in radius, melee damage dealt by frost blades penetrates #% cold resistance
+with at least # dexterity in radius, frost blades has #% increased projectile speed
+increases and reductions to other damage types in radius are transformed to apply to fire damage
+#% increased projectile damage
+with at least # intelligence in radius, freezing pulse fires # additional projectiles
+with at least # intelligence in radius, #% increased freezing pulse damage if you've shattered an enemy recently
+# to dexterity
+strength from passives in radius is transformed to dexterity
+minions have #% increased maximum life
+minions recover #% of their maximum life when they block
+#% of life regenerated per second
+#% increased damage taken
+summon # additional skeleton warriors with summon skeleton
+# second to summon skeleton cooldown
+#% increased projectile damage
+with at least # intelligence in radius, frostbolt projectiles gain #% increased projectile speed per second
+with at least # intelligence in radius, frostbolt fires # additional projectiles
+gain # mana per grand spectrum
+gain # armour per grand spectrum
+#% increased elemental damage per grand spectrum
+#% increased damage over time
+with at least # dexterity in radius, viper strike deals #% increased damage with hits and poison for each poison on the enemy
+with at least 40 dexterity in radius, viper strike has a 10% chance per poison on enemy to grant unholy might for 4 seconds on hit
+#% increased trap damage
+#% increased trap trigger area of effect
+#% increased lightning damage
+with at least # intelligence in radius, spark fires projectiles in a nova
+with at least # intelligence in radius, spark fires # additional projectiles
+#% reduced spark duration
+#% increased maximum mana
+increases and reductions to life in radius are transformed to apply to mana at #% of their value
+#% increased damage for each equipped magic item
+#% increased movement speed while ignited
+# to strength
+dexterity from passives in radius is transformed to strength
+#% increased fire damage
+with at least # intelligence in radius, magma orb has #% increased area of effect per chain
+with at least # intelligence in radius, magma orb fires an additional projectile
+if 4 notables are allocated in radius, when you kill a rare monster, you gain 1 of its mods for 20 seconds
+passives in radius can be allocated without being connected to your tree
+#% increased fire damage
+#% increased cold damage
+#% chance to freeze
+#% chance to ignite
+melee and melee weapon type modifiers in radius are transformed to bow modifiers
+#% chance to gain unholy might for # seconds on melee kill
+adds # fire attack damage per buff on you
+adds # fire spell damage per buff on you
+#% increased area of effect while unarmed
+#% increased global physical damage
+with at least # dexterity in radius, dual strike deals off-hand splash damage to surrounding targets
+with at least # dexterity in radius, dual strike has a #% chance to deal double damage with the main-hand weapon
+dexterity and intelligence from passives in radius count towards strength melee damage bonus
+#% increased effect of non-keystone passive skills in radius
+notable passive skills in radius grant nothing
+#% increased damage with hits against chilled enemies
+with at least # dexterity in radius, ice shot has #% increased area of effect
+with at least # dexterity in radius, ice shot pierces # additional targets
+#% increased global physical damage
+with at least # strength in radius, cleave grants fortify on hit
+with at least # strength in radius, cleave has #% increased area of effect per nearby enemy
+#% increased fire damage
+with at least # dexterity in radius, burning arrow has a #% chance to spread tar if it does not ignite an enemy
+with at least # dexterity in radius, burning arrow has a #% chance to spread burning ground if it ignites an enemy
+projectiles pierce an additional target
+#% increased projectile damage
+golems have #% increased attack and cast speed
+#% increased effect of buffs granted by your golems
+golems have # to armour
+primordial
+golem skills have #% increased cooldown recovery speed
+golems have #% increased cooldown recovery speed
+#% increased golem damage for each type of golem you have summoned
+golems regenerate #% of their maximum life per second
+primordial
+#% increased damage if you summoned a golem in the past # seconds
+golems summoned in the past # seconds deal #% increased damage
+golems have #% increased maximum life
+your golems are aggressive
+primordial
+#% increased evasion rating per # dexterity allocated in radius
+#% increased claw physical damage per # dexterity allocated in radius
+#% increased melee physical damage with unarmed attacks per # dexterity allocated in radius
+while your passive skill tree connects to the duelist's starting location, you gain: #% of attack damage leeched as life
+while your passive skill tree connects to the ranger's starting location, you gain: #% increased movement speed
+while your passive skill tree connects to the shadow's starting location, you gain: #% to critical strike chance
+while your passive skill tree connects to the witch's starting location, you gain: #% of maximum mana regenerated per second
+while your passive skill tree connects to the templar's starting location, you gain: damage penetrates #% elemental resistances
+while your passive skill tree connects to the scion's starting location, you gain: # to all attributes
+while your passive skill tree connects to the marauder's starting location, you gain: melee skills have #% increased area of effect
+while your passive skill tree connects to a class' starting location, you gain: marauder: melee skills have #% increased area of effect duelist: #% of attack damage leeched as life ranger: #% increased movement speed shadow: #% to critical strike chance witch: #% of maximum mana regenerated per second templar: damage penetrates #% elemental resistances scion: # to all attributes
+#% reduced totem damage
+totems fire # additional projectiles
+#% increased global physical damage
+with at least # strength in radius, ground slam has a #% chance to grant an endurance charge when you stun an enemy
+with at least # strength in radius, ground slam has a #% increased angle
+#% of block chance applied to spells
+#% additional block chance
+#% additional chance to receive a critical strike
+#% increased global physical damage
+with at least # dexterity in radius, ethereal knives fires projectiles in a nova
+with at least # dexterity in radius, ethereal knives fires # additional projectiles
+#% increased fire damage
+with at least # intelligence in radius, fireball projectiles gain radius as they travel farther, up to # radius
+with at least # intelligence in radius, fireball projectiles gain area as they travel farther, up to #% increased area of effect
+#% increased cold damage
+with at least # strength in radius, #% increased rarity of items dropped by enemies shattered by glacial hammer
+# to maximum number of spectres
+#% reduced mana cost of raise spectre
+spectres have #% increased critical strike chance
+spectres have a base duration of # seconds spectres do not travel between areas
+#% increased totem life per # strength allocated in radius
+totems cannot be stunned
+minions deal #% increased damage
+# to maximum number of summoned golems if you have # primordial items socketed or equipped
+with at least # dexterity in radius, animate weapon can animate up to # ranged weapons
+#% increased cold damage
+with at least # dexterity in radius, melee damage dealt by frost blades penetrates #% cold resistance
+with at least # dexterity in radius, frost blades has #% increased projectile speed
+#% increased maximum mana
+with at least 40 intelligence in radius, 10% of damage taken gained as mana over 4 seconds when hit during rallying cry for you and allies
+#% increased chaos damage
+with at least # intelligence in radius, enemies hindered by blight take #% increased chaos damage
+with at least # intelligence in radius, blight has #% increased hinder duration
+adds # maximum lightning damage to attacks per # dexterity allocated in radius
+# strength per # strength on allocated passives in radius
+#% additional physical damage reduction per # strength on allocated passives in radius
+#% to critical strike multiplier per # strength on unallocated passives in radius
+adds # lightning damage to attacks
+# strength per # strength on allocated passives in radius
+# intelligence per # intelligence on allocated passives in radius
+#% of energy shield regenerated per second for every # intelligence on allocated passives in radius
+# to accuracy rating per # intelligence on unallocated passives in radius
+# dexterity per # dexterity on allocated passives in radius
+#% increased movement speed per # dexterity on allocated passives in radius
+# to maximum mana per # dexterity on unallocated passives in radius
+#% additional physical damage reduction per # strength on allocated passives in radius
+#% to critical strike multiplier per # strength on unallocated passives in radius
+#% increased projectile damage
+with at least # dexterity in radius, each spectral throw projectile gains #% increased damage each time it hits
+#% increased fire damage
+with at least # dexterity in radius, burning arrow can inflict an additional ignite on an enemy
+# to dexterity
+#% to all elemental resistances
+# mana regenerated per second
+#% increased elemental damage
+#% increased global physical damage
+# to armour
+can summon up to # additional golem at a time
+if you have # primordial jewels, can summon up to # additional golem at a time
+gain #% of lightning damage as extra chaos damage
+passives granting lightning resistance or all elemental resistances in radius also grant an equal chance to gain a power charge on kill
+gain #% of lightning damage as extra chaos damage
+passives granting lightning resistance or all elemental resistances in radius also grant chance to block spell damage at #% of its value
+passives granting lightning resistance or all elemental resistances in radius also grant an equal chance to gain a power charge on kill
+#% increased armour while bleeding
+bleeding you inflict is reflected to you
+#% to chaos resistance per poison on you
+poison you inflict is reflected to you
+gain #% of cold damage as extra chaos damage
+passives granting cold resistance or all elemental resistances in radius also grant an equal chance to gain a frenzy charge on kill
+gain #% of cold damage as extra chaos damage
+passives granting cold resistance or all elemental resistances in radius also grant chance to dodge attack hits at #% of its value
+passives granting cold resistance or all elemental resistances in radius also grant an equal chance to gain a frenzy charge on kill
+#% increased cold damage
+with # intelligence in radius, glacial cascade has an additional burst
+with # intelligence in radius, #% of glacial cascade physical damage converted to cold damage
+gain #% of fire damage as extra chaos damage
+passives granting fire resistance or all elemental resistances in radius also grant an equal chance to gain an endurance charge on kill
+gain #% of fire damage as extra chaos damage
+passives granting fire resistance or all elemental resistances in radius also grant chance to block attack damage at #% of its value
+passives granting fire resistance or all elemental resistances in radius also grant an equal chance to gain an endurance charge on kill
+#% increased armour
+with at least # strength in radius, vigilant strike fortifies you and nearby allies for # seconds
+minions deal #% increased damage
+#% increased skeleton movement speed
+#% increased skeleton attack speed
+#% increased skeleton cast speed
+#% reduced skeleton duration
+minions have #% increased area of effect
+with at least 40 intelligence in radius, raised spectres have a 50% chance to gain soul eater for 30 seconds on kill
+#% chance for traps to trigger an additional time
+minions deal #% increased damage
+with at least # intelligence in radius, raised zombies' slam attack has #% increased cooldown recovery speed
+with at least # intelligence in radius, raised zombies' slam attack deals #% increased damage
+#% increased projectile damage
+with at least # dexterity in radius, barrage fires an additional # projectiles simultaneously on the first and final attacks
+#% increased attack damage
+# to melee weapon and unarmed attack range
+#% increased maximum energy shield
+#% increased maximum life
+#% increased maximum mana
+<two or three random aura modifiers>
+#% increased global physical damage
+with at least # strength in radius, heavy strike has a  #% chance to deal double damage
+#% increased fire damage
+with at least # strength in radius, molten strike fires # additional projectiles
+with at least # strength in radius, molten strike has #% increased area of effect
+#% increased cold damage
+with at least # strength in radius, glacial hammer deals cold-only splash damage to surrounding targets
+with at least # strength in radius, #% of glacial hammer physical damage converted to cold damage
+#% increased cold damage
+with at least # intelligence in radius, cold snap has a #% chance to grant a power charge on kill
+#% increased cold damage
+with at least # intelligence in radius, cold snap grants power charges instead of frenzy charges when enemies die in its area with at least # intelligence in radius, cold snap's cooldown can be bypassed by power charges instead of frenzy charges
+#% reduced mana cost of totem skills that cast an aura
+corrupted
+#% increased vaal skill effect duration
+corrupted
+#% of maximum mana gained on kill
+removes #% of maximum life on kill
+removes #% of maximum energy shield on kill
+corrupted
+#% faster start of energy shield recharge
+#% increased damage taken while on full energy shield
+corrupted
+#% chance to gain an additional vaal soul per enemy shattered
+corrupted
+#% reduced quantity of items found
+#% increased burning damage
+corrupted
+with # corrupted items equipped: #% of chaos damage does not bypass energy shield, and 
+corrupted
+#% increased spell damage
+#% increased mana cost of skills
+corrupted
+# to maximum endurance charges
+corrupted
+with # corrupted items equipped: life leech recovers based on your chaos damage instead
+corrupted
+#% increased experience gain for corrupted gems
+corrupted
+# to maximum frenzy charges
+corrupted
+# to maximum power charges
+corrupted
+#% chance to gain an additional vaal soul on kill
+corrupted
+#% increased damage per curse on you
+you can have one additional curse
+corrupted
+#% increased vaal skill critical strike chance
+corrupted
+#% increased chaos damage
+#% reduced movement speed
+corrupted
+#% increased global accuracy rating
+#% increased character size
+#% increased dexterity
+#% increased maximum life
+#% increased character size
+#% increased global defences
+#% increased attributes
+#% increased damage
+#% increased character size
+#% increased strength
+#% increased global critical strike chance
+#% increased character size
+#% increased intelligence
+if at least # intelligence is allocated within the radius, enemies can have an additional curse
+passives in radius apply to minions instead of you
+recover #% of your maximum life when you consume or destroy a corpse
+if at least # dexterity is allocated in radius, gain #% of physical damage as extra chaos damage
+#% increased spell damage while your energy shield is full
+#% chance to dodge spell damage while your energy shield is full
+adds # physical damage per buff on you
+# life gained for each elemental ailment on enemies hit by your attacks
+# life gained for each elemental ailment on enemies hit by your spells
+#% increased attributes per allocated keystone
+#% increased life regeneration rate when on full energy shield
+#% increased spell damage while not on low mana
+#% reduced mana cost while not on low mana
+# intelligence for each unallocated passive in radius
+if at least # strength is allocated in radius, #% increased life recovery rate
+#% reduced life leeched per second
+#% increased damage while leeching
+with # corrupted items equipped: gain soul eater for # seconds on vaal skill use
+corrupted
+# to unarmed range
+with # total intelligence and dexterity in radius, elemental hit deals #% less fire damage
+elemental hit deals #% increased damage
+with # total intelligence and dexterity in radius, elemental hit cannot choose fire
+elemental hit deals #% increased damage
+with # total strength and intelligence in radius, elemental hit cannot choose cold
+with # total strength and intelligence in radius, elemental hit deals #% less cold damage
+elemental hit deals #% increased damage
+with # total dexterity and strength in radius, elemental hit cannot choose lightning
+#% of fire damage leeched as life while affected by anger
+with # total dexterity and strength in radius, elemental hit deals #% less lightning damage
+damage penetrates #% fire resistance while affected by anger
+#% to critical strike multiplier while affected by anger
+#% increased fire damage while affected by anger
+gain #% of physical damage as extra fire damage while affected by anger
+#% of physical damage converted to fire damage while affected by anger
+#% of damage taken from mana before life while affected by clarity
+#% of damage taken gained as mana over # seconds when hit while affected by clarity
+gain #% of maximum mana as extra maximum energy shield while affected by clarity
+#% increased mana recovery rate while affected by clarity
+#% chance to recover #% of maximum mana when you use a skill while affected by clarity
+# to total mana cost of skills while affected by clarity
+# to armour while affected by determination
+#% chance to block attack damage while affected by determination
+#% additional physical damage reduction while affected by determination
+you take #% reduced extra damage from critical strikes while affected by determination
+#% reduced reflected physical damage taken while affected by determination
+#% chance to block spell damage
+#% chance to block attack damage
+#% additional chance to receive a critical strike
+unaffected by vulnerability while affected by determination
+#% chance to block spell damage while affected by discipline
+# energy shield gained for each enemy hit while affected by discipline
+#% increased energy shield recovery rate while affected by discipline
+#% of maximum energy shield regenerated per second while affected by discipline
+#% faster start of energy shield recharge while affected by discipline
+#% chance to evade attacks while affected by grace
+#% chance to blind enemies which hit you while affected by grace
+#% chance to dodge attack hits while affected by grace
+#% increased movement speed while affected by grace
+unaffected by enfeeble while affected by grace
+#% chance to dodge spell hits while affected by haste
+#% increased cooldown recovery speed of movement skills used while affected by haste
+debuffs on you expire #% faster while affected by haste
+you gain onslaught for # seconds on kill while affected by haste
+you have phasing while affected by haste
+unaffected by temporal chains while affected by haste
+adds # cold damage while affected by hatred
+#% to critical strike chance while affected by hatred
+damage penetrates #% cold resistance while affected by hatred
+#% increased cold damage while affected by hatred
+#% of physical damage converted to cold damage while affected by hatred
+#% to chaos resistance while affected by purity of elements
+#% reduced reflected elemental damage taken while affected by purity of elements
+#% of physical damage from hits taken as cold damage while affected by purity of elements
+#% of physical damage from hits taken as fire damage while affected by purity of elements
+#% of physical damage from hits taken as lightning damage while affected by purity of elements
+unaffected by elemental weakness while affected by purity of elements
+immune to ignite while affected by purity of fire
+#% reduced reflected fire damage taken while affected by purity of fire
+#% of physical damage from hits taken as fire damage while affected by purity of fire
+unaffected by burning ground while affected by purity of fire
+unaffected by flammability while affected by purity of fire
+immune to freeze while affected by purity of ice
+#% reduced reflected cold damage taken while affected by purity of ice
+#% of physical damage from hits taken as cold damage while affected by purity of ice
+unaffected by chilled ground while affected by purity of ice
+unaffected by frostbite while affected by purity of ice
+immune to shock while affected by purity of lightning
+#% reduced reflected lightning damage taken while affected by purity of lightning
+#% of physical damage from hits taken as lightning damage while affected by purity of lightning
+unaffected by conductivity while affected by purity of lightning
+unaffected by shocked ground while affected by purity of lightning
+#% of damage leeched as life while affected by vitality
+# life regenerated per second while affected by vitality
+# life gained for each enemy hit while affected by vitality
+#% increased life recovery from flasks while affected by vitality
+#% increased life recovery rate while affected by vitality
+#% increased critical strike chance while affected by wrath
+#% increased lightning damage while affected by wrath
+#% of lightning damage is leeched as mana while affected by wrath
+damage penetrates #% lightning resistance while affected by wrath
+gain #% of physical damage as extra lightning damage while affected by wrath
+#% of physical damage converted to lightning damage while affected by wrath
+allocated small passive skills in radius grant nothing
+grants all bonuses of unallocated small passive skills in radius

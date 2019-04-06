@@ -1,0 +1,847 @@
+{
+    "# life gained for each enemy hit by attacks": {
+        "gen": "# life gained for each enemy hit by attacks",
+        "org": [
+            "+3 life gained for each enemy hit by attacks",
+            "+7 life gained for each enemy hit by attacks",
+            "+12 life gained for each enemy hit by attacks",
+            "+19 life gained for each enemy hit by attacks",
+            "+20 life gained for each enemy hit by attacks",
+            "+25 life gained for each enemy hit by attacks",
+            "+44 life gained for each enemy hit by attacks",
+            "+40 life gained for each enemy hit by attacks",
+            "+46 life gained for each enemy hit by attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life gained for each enemy hit by your spells": {
+        "gen": "# life gained for each enemy hit by your spells",
+        "org": [
+            "+(5-8) life gained for each enemy hit by your spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+(180-200) to accuracy rating",
+            "+(250-350) to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to dexterity": {
+        "gen": "# to dexterity",
+        "org": [
+            "+(10-15) to dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to evasion rating": {
+        "gen": "# to evasion rating",
+        "org": [
+            "+110 to evasion rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+110"
+            }
+        ]
+    },
+    "# to level of socketed dexterity gems": {
+        "gen": "# to level of socketed dexterity gems",
+        "org": [
+            "+1 to level of socketed dexterity gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum energy shield": {
+        "gen": "# to maximum energy shield",
+        "org": [
+            "+35 to maximum energy shield",
+            "+(30-40) to maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(30-50) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [
+            "+(30-40) to maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [
+            "+(10-15) to strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% additional block chance while dual wielding claws": {
+        "gen": "#% additional block chance while dual wielding claws",
+        "org": [
+            "8% additional block chance while dual wielding claws"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% chance to block": {
+        "gen": "#% chance to block",
+        "org": [
+            "15% chance to block"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% chance to cause bleeding enemies to flee on hit": {
+        "gen": "#% chance to cause bleeding enemies to flee on hit",
+        "org": [
+            "30% chance to cause bleeding enemies to flee on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "25% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% chance to freeze": {
+        "gen": "#% chance to freeze",
+        "org": [
+            "10% chance to freeze"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% chance to gain a frenzy charge on killing a frozen enemy": {
+        "gen": "#% chance to gain a frenzy charge on killing a frozen enemy",
+        "org": [
+            "20% chance to gain a frenzy charge on killing a frozen enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% chance to poison on hit": {
+        "gen": "#% chance to poison on hit",
+        "org": [
+            "60% chance to poison on hit",
+            "20% chance to poison on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to trigger level # summon spectral wolf on kill": {
+        "gen": "#% chance to trigger level # summon spectral wolf on kill",
+        "org": [
+            "10% chance to trigger level 18 summon spectral wolf on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "18"
+            }
+        ]
+    },
+    "#% increased accuracy rating when on low life": {
+        "gen": "#% increased accuracy rating when on low life",
+        "org": [
+            "100% increased accuracy rating when on low life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(10-15)% increased attack speed",
+            "20% increased attack speed",
+            "(20-25)% increased attack speed",
+            "5% increased attack speed",
+            "(8-12)% increased attack speed",
+            "(20-30)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed per # dexterity": {
+        "gen": "#% increased attack speed per # dexterity",
+        "org": [
+            "1% increased attack speed per 25 dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased attack speed when on low life": {
+        "gen": "#% increased attack speed when on low life",
+        "org": [
+            "25% increased attack speed when on low life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased attack speed with movement skills": {
+        "gen": "#% increased attack speed with movement skills",
+        "org": [
+            "15% increased attack speed with movement skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% increased bleeding duration per # intelligence": {
+        "gen": "#% increased bleeding duration per # intelligence",
+        "org": [
+            "1% increased bleeding duration per 12 intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(8-12)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased claw physical damage when on low life": {
+        "gen": "#% increased claw physical damage when on low life",
+        "org": [
+            "100% increased claw physical damage when on low life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased cold damage": {
+        "gen": "#% increased cold damage",
+        "org": [
+            "30% increased cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "25% increased critical strike chance",
+            "(20-25)% increased critical strike chance",
+            "(30-40)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased damage with movement skills": {
+        "gen": "#% increased damage with movement skills",
+        "org": [
+            "20% increased damage with movement skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased dexterity": {
+        "gen": "#% increased dexterity",
+        "org": [
+            "(8-12)% increased dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage with attack skills": {
+        "gen": "#% increased elemental damage with attack skills",
+        "org": [
+            "(20-25)% increased elemental damage with attack skills",
+            "(25-30)% increased elemental damage with attack skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global physical damage while frozen": {
+        "gen": "#% increased global physical damage while frozen",
+        "org": [
+            "100% increased global physical damage while frozen"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "100"
+            }
+        ]
+    },
+    "#% increased intelligence": {
+        "gen": "#% increased intelligence",
+        "org": [
+            "(8-12)% increased intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased minion damage if you have hit recently": {
+        "gen": "#% increased minion damage if you have hit recently",
+        "org": [
+            "70% increased minion damage if you have hit recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "70"
+            }
+        ]
+    },
+    "#% increased movement speed": {
+        "gen": "#% increased movement speed",
+        "org": [
+            "5% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% increased movement speed while phasing": {
+        "gen": "#% increased movement speed while phasing",
+        "org": [
+            "15% increased movement speed while phasing"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(80-100)% increased physical damage",
+            "(100-120)% increased physical damage",
+            "(75-100)% increased physical damage",
+            "(160-180)% increased physical damage",
+            "(150-170)% increased physical damage",
+            "(110-130)% increased physical damage",
+            "(140-180)% increased physical damage",
+            "(40-60)% increased physical damage",
+            "(60-80)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage over time per # dexterity": {
+        "gen": "#% increased physical damage over time per # dexterity",
+        "org": [
+            "2% increased physical damage over time per 10 dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% increased spell damage per #% block chance": {
+        "gen": "#% increased spell damage per #% block chance",
+        "org": [
+            "8% increased spell damage per 5% block chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% increased stun and block recovery": {
+        "gen": "#% increased stun and block recovery",
+        "org": [
+            "25% increased stun and block recovery"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "3% of physical attack damage leeched as life",
+            "1.6% of physical attack damage leeched as life",
+            "1.2% of physical attack damage leeched as life",
+            "2% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage converted to chaos damage": {
+        "gen": "#% of physical damage converted to chaos damage",
+        "org": [
+            "(10-20)% of physical damage converted to chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced enemy stun threshold with this weapon": {
+        "gen": "#% reduced enemy stun threshold with this weapon",
+        "org": [
+            "10% reduced enemy stun threshold with this weapon",
+            "25% reduced enemy stun threshold with this weapon"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced global accuracy rating": {
+        "gen": "#% reduced global accuracy rating",
+        "org": [
+            "15% reduced global accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+40% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+40"
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds 1 to (50-60) lightning damage",
+            "adds 1 to 200 lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to attacks with this weapon per # intelligence": {
+        "gen": "adds # lightning damage to attacks with this weapon per # intelligence",
+        "org": [
+            "adds 1 to 5 lightning damage to attacks with this weapon per 10 intelligence",
+            "adds 1 to 10 lightning damage to attacks with this weapon per 10 intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds 2 to 10 physical damage",
+            "adds (2-6) to (16-22) physical damage",
+            "adds 10 to 12 physical damage",
+            "adds (15-20) to (30-40) physical damage",
+            "adds 20 to 50 physical damage",
+            "adds (40-50) to (130-150) physical damage",
+            "adds (25-35) to (50-65) physical damage",
+            "adds (35-50) to (100-125) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "attacks with this weapon deal # added chaos damage against enemies affected by at least # poisons": {
+        "gen": "attacks with this weapon deal # added chaos damage against enemies affected by at least # poisons",
+        "org": [
+            "attacks with this weapon deal 80-120 added chaos damage against enemies affected by at least 5 poisons"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "80-120"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "critical strikes do not always freeze": {
+        "gen": "",
+        "org": [
+            "critical strikes do not always freeze"
+        ],
+        "params": []
+    },
+    "gain life from leech instantly from hits with this weapon": {
+        "gen": "",
+        "org": [
+            "gain life from leech instantly from hits with this weapon"
+        ],
+        "params": []
+    },
+    "hits can't be evaded": {
+        "gen": "",
+        "org": [
+            "hits can't be evaded"
+        ],
+        "params": []
+    },
+    "increases and reductions to minion damage also affect you": {
+        "gen": "",
+        "org": [
+            "increases and reductions to minion damage also affect you"
+        ],
+        "params": []
+    },
+    "life leech is applied to energy shield instead": {
+        "gen": "",
+        "org": [
+            "life leech is applied to energy shield instead"
+        ],
+        "params": []
+    },
+    "minions have #% increased attack speed": {
+        "gen": "minions have #% increased attack speed",
+        "org": [
+            "minions have (10-15)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "reflects # physical damage to melee attackers": {
+        "gen": "reflects # physical damage to melee attackers",
+        "org": [
+            "reflects (71-90) physical damage to melee attackers"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "skills chain an additional time while at maximum frenzy charges": {
+        "gen": "",
+        "org": [
+            "skills chain an additional time while at maximum frenzy charges"
+        ],
+        "params": []
+    },
+    "socketed gems are supported by level # faster attacks": {
+        "gen": "socketed gems are supported by level # faster attacks",
+        "org": [
+            "socketed gems are supported by level 10 faster attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "socketed gems are supported by level # fortify": {
+        "gen": "socketed gems are supported by level # fortify",
+        "org": [
+            "socketed gems are supported by level 12 fortify"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "socketed gems have #% chance to cause enemies to flee on hit": {
+        "gen": "socketed gems have #% chance to cause enemies to flee on hit",
+        "org": [
+            "socketed gems have 10% chance to cause enemies to flee on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "trigger level # abyssal cry on hit": {
+        "gen": "trigger level # abyssal cry on hit",
+        "org": [
+            "trigger level 1 abyssal cry on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "you gain phasing for # seconds on using a vaal skill": {
+        "gen": "you gain phasing for # seconds on using a vaal skill",
+        "org": [
+            "you gain phasing for 10 seconds on using a vaal skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

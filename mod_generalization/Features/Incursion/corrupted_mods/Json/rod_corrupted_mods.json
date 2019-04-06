@@ -1,0 +1,48 @@
+{
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(10-20)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of fish caught": {
+        "gen": "#% increased quantity of fish caught",
+        "org": [
+            "(5-10)% increased quantity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of fish caught": {
+        "gen": "#% increased rarity of fish caught",
+        "org": [
+            "(5-10)% increased rarity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "you can catch corrupted fish": {
+        "gen": "",
+        "org": [
+            "you can catch corrupted fish"
+        ],
+        "params": []
+    }
+}

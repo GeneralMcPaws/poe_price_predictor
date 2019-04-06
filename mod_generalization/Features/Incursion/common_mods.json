@@ -1,0 +1,22 @@
+{	
+	"ex_conv_rate":0,
+	"_id":0,
+	"item_name":0,
+	"league":0,
+	"date":0,
+	"time":0,
+	"date_day":0,
+	"date_month":0,
+	"date_year":0,
+	"time_hours":0,
+	"time_minutes":0,
+	"price_amount":0,
+	"price_currency":0,
+	"price_raw":0,
+	"days_in_snapshot":0,
+	"socket_colors":0,
+	"rarity":0,
+	"item_category":0,
+	"stash_feed":0,
+	"stash_id":0
+}

@@ -1,0 +1,291 @@
+(10-15)% increased Attack Speed
+(10-15)% increased Cast Speed
++(20-30) to maximum Life
+(15-10)% reduced maximum Mana
+10% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Conduit
+Adds (3-6) to (10-12) Physical Damage to Attacks
++(30-40) to Strength
+(80-100)% increased Armour
+Iron Grip
+10% increased Global Physical Damage
++100 to Strength
+(40-60)% increased Armour
+2% of Life Regenerated per second with at least 400 Strength
++(30-60) to maximum Life
+30% increased Projectile Speed
+(10-5)% reduced Movement Speed
+10% chance to Knock Enemies Back on hit
+(30-50)% increased Projectile Damage
++(400-600) to Armour
+Knockback direction is reversed
+Socketed Gems are Supported by Level 10 Knockback
++(60-80) to Intelligence
++(60-75) to maximum Life
+(200-220)% increased Armour
+(25-35)% increased Global Critical Strike Chance
+You have Vaal Pact if you've dealt a Critical Strike Recently
+(100-125)% increased Evasion and Energy Shield
+(30-20)% reduced Trap Throwing Speed
+Skills used by Traps have (10-20)% increased Area of Effect
+Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed
+Grants Level 20 Doryani's Touch Skill
++30 to maximum Energy Shield
+10% chance to Shock
+Adds (225-335) to (785-900) Lightning Damage to Unarmed Attacks
+Adds (60-90) to (210-240) Lightning Damage to Spells while Unarmed
++30 Energy Shield gained on Killing a Shocked Enemy
+(150-200)% increased Armour
+(200-250)% increased Evasion and Energy Shield
+(30-20)% reduced Trap Throwing Speed
+Skills which throw Traps have Blood Magic
+Skills used by Traps have (10-20)% increased Area of Effect
+Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed
+10% chance to gain an Endurance, Frenzy or Power Charge when any of your Traps are Triggered by an Enemy
+(50-70) Life Regenerated per second
++(30-40)% to Fire Resistance
+3% increased Damage per Crab Barrier
+10% chance that if you would gain a Crab Barrier, you instead gain up to your maximum number of Crab Barriers
+(8-13)% increased Attack Speed
+(120-180)% increased Armour
+(3-5)% increased Movement Speed
+50% increased Stun Duration on you
+4% increased Melee Damage per Endurance Charge
+You cannot be Shocked while at maximum Endurance Charges
++(20-30) to Strength
+Adds (5-7) to (13-15) Cold Damage to Spells and Attacks
++(40-50) to Evasion Rating
++(20-30)% to Cold Resistance
+50% of Physical Damage Converted to Cold Damage
+Reflects 10 Cold Damage to Melee Attackers
++(20-30) to Dexterity
+5% increased Attack Speed
+50% increased Global Critical Strike Chance
++(20-30)% to Global Critical Strike Multiplier
+(60-80)% increased Evasion Rating
++(20-30) to Strength
+Adds (5-7) to (13-15) Cold Damage to Spells and Attacks
++(40-50) to Evasion Rating
++(20-30)% to Cold Resistance
+50% of Physical Damage Converted to Cold Damage
+Reflects 10 Cold Damage to Melee Attackers
+Your Cold Damage can Ignite
+(30-40)% increased Global Accuracy Rating
++(40-50) to maximum Life
+-(20-10)% to Chaos Resistance
+(7-8)% chance to Dodge Spell Hits
+Curse Enemies with Level 10 Assassin's Mark on Hit
+2% increased Attack Critical Strike Chance per 200 Accuracy Rating
+Adds 4 to 8 Fire Damage to Attacks
+Adds 1 to 13 Lightning Damage to Attacks
++18 to maximum Energy Shield
+(12-16)% increased Quantity of Items found
+(50-60)% increased Spell Damage
++20 to Intelligence
+15% reduced Cast Speed
++32 to maximum Energy Shield
++(20-30) to Intelligence
++(20-30) to maximum Life
++(20-30) to maximum Mana
+Curse Enemies with Level 10 Temporal Chains on Hit
+Socketed Gems are Supported by Level 18 Faster Casting
++(20-30) to Intelligence
++(50-80) to maximum Energy Shield
++(60-80) to maximum Life
+Gain +2% to Critical Strike Chance for 2 seconds when you Spend a total of 800 Mana
++1 to Level of Socketed Elemental Gems
+(125-150)% increased Critical Strike Chance for Spells
+(180-250)% increased Energy Shield
+(80-40)% increased Mana Cost of Skills
++(15-20) Energy Shield gained on Kill
++30 to Strength
++(30-50) to maximum Life
++(20-40)% to Cold Resistance
+Minions have 10% reduced Movement Speed
+Minions have +40% to Cold Resistance
+Minions gain 20% of Physical Damage as Extra Cold Damage
+(50-60)% increased Spell Damage
++20 to Intelligence
+Adds (48-56) to (73-84) Chaos Damage to Spells
+15% reduced Cast Speed
++(64-96) to maximum Energy Shield
++50 to Total Mana Cost of Skills
+Grants Level 22 Blight Skill
+(20-30)% increased Damage over Time
+(100-120)% increased Energy Shield
+10% increased Area of Effect
+Blight has (20-30)% increased Hinder Duration
+You cannot be Hindered
+(6-9)% increased Attack Speed
+(80-120)% increased Armour and Evasion
+(3-4) Life Regenerated per second
+Recover 20% of your Maximum Life on Rampage
+Gain 5 Souls for Vaal Skills on Rampage
+Rampage
++(40-50) to Dexterity
+(5-10)% increased Attack Speed
+(60-100)% increased Evasion Rating
+0.6% of Physical Attack Damage Leeched as Life
+0.4% of Physical Attack Damage Leeched as Mana
++2 to Level of Socketed Vaal Gems
+(120-140)% increased Armour and Evasion
++(50-70) to maximum Life
++40% to Cold Resistance
+You gain Onslaught for 5 seconds on using a Vaal Skill
+(40-60)% increased Armour and Evasion
++15% to all Elemental Resistances
+(40-50)% increased Rarity of Items found
+5% reduced Movement Speed
+Has 1 Abyssal Socket
+(6-10)% increased Attack Speed
+(4-6)% increased maximum Life
+With a Murderous Eye Jewel Socketed, Intimidate Enemies for 4 seconds on Hit with Attacks
+With a Searching Eye Jewel Socketed, Maim Enemies for 4 seconds on Hit with Attacks
+Has 2 Abyssal Sockets
+(6-10)% increased Attack Speed
+(4-6)% increased maximum Life
+With a Murderous Eye Jewel Socketed, Intimidate Enemies for 4 seconds on Hit with Attacks
+With a Searching Eye Jewel Socketed, Maim Enemies for 4 seconds on Hit with Attacks
+25% increased Damage over Time
++(20-30) to Strength
+Attacks have 25% chance to cause Bleeding
+(25-40)% increased Attack Damage against Bleeding Enemies
+Bleeding Enemies you Kill Explode, dealing 5% of their Maximum Life as Physical Damage
+25% reduced Bleeding Duration
+Socketed Gems are Supported by Level 5 Concentrated Effect
+(120-160)% increased Armour and Evasion
++(50-70) to maximum Life
+4% reduced Mana Cost per Endurance Charge
+Gain Rampage while at Maximum Endurance Charges
+Lose all Endurance Charges when Rampage ends
+(100-140)% increased Armour and Evasion
++(50-70) to maximum Life
++(400-500) to Accuracy against Bleeding Enemies
+Attacks always inflict Bleeding while you have Cat's Stealth
+(40-50)% increased Damage with Hits and Ailments against Bleeding Enemies
+You have Crimson Dance while you have Cat's Stealth
+(90-110)% increased Armour and Evasion
+(4-7)% increased Spell Damage per Power Charge
+(4-7)% increased Physical Damage per Endurance Charge
+(4-7)% increased Elemental Damage per Frenzy Charge
+10% chance to Steal Power, Frenzy, and Endurance Charges on Hit
+(40-60)% increased Stun and Block Recovery
+Curses in this item are reflected back to you
+You cannot be Chilled for 3 seconds after being Chilled
+You cannot be Frozen for 3 seconds after being Frozen
+You cannot be Ignited for 3 seconds after being Ignited
+You cannot be Shocked for 3 seconds after being Shocked
+You grant (4-6) Frenzy Charges to allies on Death
+Adds (16-20) to (25-30) Cold Damage to Spells and Attacks
++(50-70) to maximum Life
++(30-40)% to Cold Resistance
+50% less Poison Duration
+Your Cold Damage can Poison
+Cold Skills have 20% chance to Poison on Hit
+Adds (16-20) to (25-30) Fire Damage to Spells and Attacks
++(50-70) to maximum Life
++(30-40)% to Fire Resistance
+50% less Poison Duration
+Your Fire Damage can Poison
+Fire Skills have 20% chance to Poison on Hit
+Adds (1-3) to (42-47) Lightning Damage to Spells and Attacks
++(50-70) to maximum Life
++(30-40)% to Lightning Resistance
+50% less Poison Duration
+Your Lightning Damage can Poison
+Lightning Skills have 20% chance to Poison on Hit
+Adds (30-36) to (44-50) Cold Damage to Attacks
+(12-16)% increased maximum Life
++(40-50)% to Cold Resistance
+25% increased Freeze Duration on Enemies
+Your Hits can only Kill Frozen Enemies
+50% increased Herald of Ice Damage
++(20-30) to Strength
+(150-180)% increased Armour and Energy Shield
++(50-70) to maximum Life
+(20-40)% increased Mana Regeneration Rate
+Removes Elemental Ailments on Rampage
+Gain Immunity to Physical Damage for 1.5 seconds on Rampage
+Rampage
+(140-180)% increased Armour and Energy Shield
++(30-60) to maximum Life
++(20-25)% to Cold and Lightning Resistances
++(-2-2) seconds to Avian's Might Duration
+Adds (20-25) to (37-40) Cold Damage while you have Avian's Might
+Adds (1-3) to (55-62) Lightning Damage while you have Avian's Might
+(30-0)% reduced Spell Damage
+(120-180)% increased Armour and Energy Shield
++(8-16) to maximum Energy Shield
+500% increased Attribute Requirements
+Iron Will
+(80-120)% increased Armour and Energy Shield
++4 Accuracy Rating per 2 Intelligence
++1 Life per 4 Dexterity
++2 Mana per 4 Strength
+2% increased Energy Shield per 10 Strength
+2% increased Evasion Rating per 10 Intelligence
+2% increased Melee Physical Damage per 10 Dexterity
+30% increased Attack Speed when on Full Life
+Adds 1 to 13 Lightning Damage to Attacks
++(50-80) to Accuracy Rating
+20% increased Movement Speed when on Low Life
++30% to Global Critical Strike Multiplier
+10% reduced Enemy Stun Threshold
+(600-800)% more Physical Damage with Unarmed Attacks
+Extra gore
+(20-30)% increased Global Critical Strike Chance
++(20-30)% to Global Critical Strike Multiplier
+(100-130)% increased Evasion and Energy Shield
+0.2% of Physical Attack Damage Leeched as Mana
+Creates a Smoke Cloud on Rampage
+Gain Unholy Might for 3 seconds on Rampage
+Rampage
+Grants Level 20 Aspect of the Spider Skill
+(120-170)% increased Evasion and Energy Shield
++(40-50) to maximum Life
+(6-9)% increased Attack and Cast Speed
+(40-60)% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs
+Adds (8-10) to (13-15) Chaos Damage for each Spider's Web on the Enemy
+Socketed Gems are Supported by Level 20 Vile Toxins
+Adds (13-17) to (23-29) Chaos Damage
++(50-70) to maximum Life
++(17-29)% to Chaos Resistance
+(20-25)% increased Poison Duration
++(40-50) to Dexterity
+(150-200)% increased Evasion and Energy Shield
++(50-60) to maximum Life
+15% increased Damage with Ailments per Elder Item Equipped
++6 to Maximum Life per Elder Item Equipped
+8% increased Effect of non-Damaging Ailments per Elder Item Equipped
+Remove an Ailment when you use a Flask if all Equipped Items are Elder Items
+(150-180)% increased Evasion Rating
++(60-70) to maximum Life
+2% increased Attack Speed per Frenzy Charge
+6% increased Accuracy Rating per Frenzy Charge
+10% reduced Frenzy Charge Duration per Frenzy Charge
+Attacks have 60% chance to Poison while at maximum Frenzy Charges
+(80-100)% increased Evasion and Energy Shield
++(60-80) to maximum Life
++(15-25) Life gained on Kill
++(15-25) Energy Shield gained on Kill
+Grants Malachai's Endurance, Frenzy and Power for 6 seconds each, in sequence
+Socketed Gems are Supported by Level 18 Added Lightning Damage
+Adds 1 to 100 Lightning Damage to Attacks
+10% increased Attack Speed
++(25-30) to maximum Energy Shield
+100% increased Shock Duration on Enemies
+10% increased Stun Duration on Enemies
+Has 2 Abyssal Sockets
+(6-10)% increased Cast Speed
+(4-6)% increased maximum Life
+With a Ghastly Eye Jewel Socketed, Minions have +1000 to Accuracy Rating
+With a Hypnotic Eye Jewel Socketed, gain Arcane Surge on Hit with Spells
+Has 1 Abyssal Socket
+(6-10)% increased Cast Speed
+(4-6)% increased maximum Life
+With a Ghastly Eye Jewel Socketed, Minions have +1000 to Accuracy Rating
+With a Hypnotic Eye Jewel Socketed, gain Arcane Surge on Hit with Spells
+(15-20)% increased Cast Speed
++(50-70) to maximum Energy Shield
++(50-70) to maximum Life
+Sacrifice 5% of Life to gain that much Energy Shield when you Cast a Spell

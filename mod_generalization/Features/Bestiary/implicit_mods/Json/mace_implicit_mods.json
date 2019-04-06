@@ -1,0 +1,199 @@
+{
+    "# maximum power charge": {
+        "gen": "# maximum power charge",
+        "org": [
+            "+1 maximum power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+(1 to 2) to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to cause monsters to flee": {
+        "gen": "#% chance to cause monsters to flee",
+        "org": [
+            "5% chance to cause monsters to flee"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "#% of cold damage leeched as life": {
+        "gen": "#% of cold damage leeched as life",
+        "org": [
+            "0.2% of cold damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [
+            "0.2% of fire damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of lightning damage leeched as life": {
+        "gen": "#% of lightning damage leeched as life",
+        "org": [
+            "0.2% of lightning damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.2"
+            }
+        ]
+    },
+    "#% of physical damage converted to cold damage": {
+        "gen": "#% of physical damage converted to cold damage",
+        "org": [
+            "(10 to 20)% of physical damage converted to cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage converted to fire damage": {
+        "gen": "#% of physical damage converted to fire damage",
+        "org": [
+            "(10 to 20)% of physical damage converted to fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical damage converted to lightning damage": {
+        "gen": "#% of physical damage converted to lightning damage",
+        "org": [
+            "(10 to 20)% of physical damage converted to lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds ## chaos damage": {
+        "gen": "adds ## chaos damage",
+        "org": [
+            "adds (1 to 2)-(3 to 5) chaos damage",
+            "adds (6 to 8)-(11 to 13) chaos damage",
+            "adds (8 to 11)-(19 to 23) chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gems in this item are supported by level # added fire damage": {
+        "gen": "gems in this item are supported by level # added fire damage",
+        "org": [
+            "gems in this item are supported by level 12 added fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    },
+    "gems in this item are supported by level # faster casting": {
+        "gen": "gems in this item are supported by level # faster casting",
+        "org": [
+            "gems in this item are supported by level 10 faster casting"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "gems in this item are supported by level # melee splash": {
+        "gen": "gems in this item are supported by level # melee splash",
+        "org": [
+            "gems in this item are supported by level 10 melee splash"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "gems in this item are supported by level # stun": {
+        "gen": "gems in this item are supported by level # stun",
+        "org": [
+            "gems in this item are supported by level 6 stun"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "6"
+            }
+        ]
+    },
+    "gems in this item are supported by level # weapon elemental damage": {
+        "gen": "gems in this item are supported by level # weapon elemental damage",
+        "org": [
+            "gems in this item are supported by level 12 weapon elemental damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "12"
+            }
+        ]
+    }
+}

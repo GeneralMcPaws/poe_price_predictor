@@ -1,0 +1,4 @@
++(8-16)% to all Elemental Resistances
+(3-5)% to cold and lightning resistances
+(3-5)% to fire and cold resistances
+(3-5)% to fire and lightning resistances

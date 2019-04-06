@@ -1,0 +1,6 @@
+#% increased global accuracy rating
+#% increased global accuracy rating
+# to accuracy rating
+# to accuracy rating
+#% to global critical strike multiplier
+#% to global critical strike multiplier

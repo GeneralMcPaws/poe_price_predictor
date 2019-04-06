@@ -1,0 +1,428 @@
+20% increased Global Physical Damage
++(15-25) to Armour
++(25-50) to maximum Life
+Cannot Evade Enemy Attacks
+Cannot be Stunned
+20% increased Global Physical Damage
++(15-25) to Armour
++(25-50) to maximum Life
+Cannot Evade Enemy Attacks
++(20-40) to Strength
++2 to Level of Socketed Minion Gems
+Minions have 20% increased maximum Life
+Half of your Strength is added to your Minions
++1 to maximum number of Zombies per 300 Strength
+With at least 1000 Strength, 2% of Damage dealt by your Zombies is Leeched to you as Life
++(100-120) to Armour
++(40-50) to maximum Life
+-20 Fire Damage taken when Hit
+Armour is increased by Uncapped Fire Resistance
+(30-40)% increased Fire Damage
+(100-120)% increased Armour
+Minions have +10% Chance to Block Attack Damage
++(50-70) to maximum Life
++30% to Cold Resistance
+Cannot be Chilled or Frozen if you have used a Fire Skill Recently
+Adds 40 to 60 Physical Damage to Attacks
++(20-25) to all Attributes
++(100-125)% to Melee Critical Strike Multiplier
++(40-50) to Intelligence
+(60-80)% increased Armour and Energy Shield
++(30-50) to maximum Life
+Your Energy Shield starts at zero
+Cannot gain Energy Shield
+50 Life Regenerated per second if you have at least 500 Maximum Energy Shield
+100 Life Regenerated per second if you have at least 1000 Maximum Energy Shield
+150 Life Regenerated per second if you have at least 1500 Maximum Energy Shield
++(160-180) to maximum Energy Shield
+(4-6)% Chance to Block Spell Damage
+Strength provides no bonus to Maximum Life
+Intelligence provides no bonus to Maximum Mana
++1 to Maximum Life per 2 Intelligence
+Your Energy Shield starts at zero
+Cannot gain Energy Shield
+1% of Life Regenerated per second per 500 Maximum Energy Shield
+(100-120)% increased Armour
+(40-50)% increased Physical Damage taken
+(80-120)% increased Armour
++(40-50) to maximum Life
+-30% to Fire Resistance
+8% of Physical Damage from Hits taken as Fire Damage
+Armour is increased by Uncapped Fire Resistance
++(30-50) to Evasion Rating
+10% increased Rarity of Items found
++(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+Level Requirement reduced by 100 (Hidden)
+Adds 6 to 12 Cold Damage to Attacks
+70% increased Evasion Rating
+15% increased Stun and Block Recovery
++(15-30) to maximum Mana
++(20-30)% to Lightning Resistance
+Cannot be Shocked
+(20-30)% increased Cold Damage if you have used a Fire Skill Recently
+(20-30)% increased Fire Damage if you have used a Cold Skill Recently
+(80-100)% increased Evasion Rating
+60% increased Mana Regeneration Rate
++(20-30)% to Fire Resistance
++(20-30)% to Cold Resistance
+15% increased Attack Speed
+(60-75)% increased Global Critical Strike Chance
+150% increased Evasion Rating
+(20-25)% increased Rarity of Items found
+10% increased Movement Speed
+10% reduced Character Size
++2 to Level of Socketed Fire Gems
++2 to Level of Socketed Cold Gems
+Socketed Gems are Supported by Level 30 Cold to Fire
+(450-500)% increased Evasion Rating
+60% increased Mana Regeneration Rate
++(20-30)% to Fire and Cold Resistances
+25% chance to Trigger Level 20 Tornado when you gain Avian's Might or Avian's Flight
+(60-80)% increased Evasion Rating
++(40-60) to maximum Life
++(30-40)% to Lightning Resistance
+(10-15)% increased Movement Speed
+50% reduced Damage when on Low Life
++(50-70) to Dexterity
+10% increased Attack Speed
+25% increased Global Critical Strike Chance
+(100-130)% increased Evasion Rating
++(80-100) to maximum Life
+150% increased Global Evasion Rating when on Low Life
++2 to Level of Socketed Aura Gems
+(80-100)% increased Evasion Rating
++(20-30)% to Cold Resistance
+25% chance to Avoid being Chilled
+Cannot be Frozen
+8% reduced Mana Reserved
++(300-500) to Accuracy Rating
+(100-120)% increased Evasion Rating
++(50-80) to maximum Life
+1% increased Projectile Attack Damage per 200 Accuracy Rating
++(60-80) to maximum Energy Shield
+Reflects 5 Physical Damage to Melee Attackers
+Take 5 Physical Damage when Hit by Attacks
+Pain Attunement
+(10-15)% increased Attack Speed
+(10-15)% increased Cast Speed
+30% increased Mana Regeneration Rate
++(30-50) to maximum Energy Shield
+(10-15)% increased Stun and Block Recovery
+5% increased Movement Speed
++(30-50) to maximum Energy Shield
+Minions have (10-15)% increased Movement Speed
+Raging Spirits have (130-150)% increased Damage
+75% reduced Maximum number of Summoned Raging Spirits
+Raging Spirits' Hits always Ignite
+Raging Spirits refresh their Duration when they Kill an Ignited Enemy
++2 to Level of Socketed Minion Gems
+(120-150)% increased Energy Shield
+Minions Regenerate 1% Life per second
++1000 to Spectre maximum Life
++2 to Level of Socketed Curse Gems
++(20-30) to Intelligence
++(100-120) to maximum Energy Shield
+(30-50)% increased Curse Duration
+20% increased Elemental Damage
+(10-20)% increased Damage with Hits and Ailments per Curse on Enemy
+25% chance to Trigger a Socketed Spell when you Attack with a Bow
+(10-15)% increased Attack Speed
+(10-15)% increased Cast Speed
++(100-120) to maximum Energy Shield
+(30-40)% increased Stun and Block Recovery
+30% increased Mana Regeneration Rate
+5% increased Movement Speed
++(60-80) to maximum Energy Shield
++(110-130) to maximum Energy Shield
+Reflects 5 Physical Damage to Melee Attackers
+Take 5 Physical Damage when Hit by Attacks
+Pain Attunement
++(20-30) to Strength
++(20-30) to maximum Mana
++10% to all Elemental Resistances
+5% increased Experience gain
+(10-20)% increased Elemental Damage
+Adds (16-21) to (31-36) Chaos Damage to Spells
+(220-250)% increased Energy Shield
+10% chance to gain a Power Charge on hitting an Enemy affected by a Spider's Web
+(6-10)% chance to Poison per Power Charge
+(15-20)% increased Damage with Poison per Power Charge
+Aspect of the Spider inflicts Spider's Webs and Hinder every 0.5 Seconds instead
+Socketed Gems are Supported by Level 20 Concentrated Effect
+30% increased Cold Damage
++(40-60) to maximum Mana
+(180-200)% increased Energy Shield
+50% reduced Energy Shield Recharge Rate
+(80-100)% increased Spell Damage
+15% reduced Cast Speed
++(30-60) to maximum Mana
+Your Skills deal you 400% of Mana Spent as Physical Damage
++(200-250) to Accuracy Rating
+(120-150)% increased Energy Shield
+-30% to Fire Resistance
+(0.4-0.8)% of Physical Attack Damage Leeched as Life
+(0.2-0.4)% of Physical Attack Damage Leeched as Mana
+Increases and Reductions to Spell Damage also apply to Attacks
+Trigger Level 10 Void Gaze when you use a Skill
++(50-80) to maximum Mana
+(120-150)% increased Energy Shield
+50% increased Stun and Block Recovery
+Gain (5-8)% of Elemental Damage as Extra Chaos Damage
+(150-180)% increased Energy Shield
+(6-10)% increased maximum Mana
+Recover (8-10)% of maximum Life when you use a Mana Flask
+Non-instant Mana recovery from Flasks is also recovered as Life
+(50-60)% increased Mana Cost of Skills for each 200 total Mana you have Spent Recently
+(50-60)% increased Spell Damage for each 200 total Mana you have Spent Recently
+Trigger Level 10 Shock Ground when Hit
+Adds 1 to (60-80) Lightning Damage to Spells and Attacks
+(130-170)% increased Energy Shield
++(25-35)% to Lightning Resistance
+20% chance to Curse non-Cursed Enemies with a random Curse on Hit
++300 to Accuracy Rating
+(40-60)% increased Armour and Evasion
+(20-30)% increased Rarity of Items found
++30% to Lightning Resistance
+0.4% of Attack Damage Leeched as Mana
+10% increased Movement Speed
+Adds 10 to 20 Physical Damage to Attacks
++(20-30) to Strength
++(20-30) to Dexterity
++(200-300) to Armour
+20% increased Melee Damage
+Cannot Leech when on Low Life
+Adds 10 to 20 Physical Damage to Attacks
++(20-30) to Strength
++(20-30) to Dexterity
++(200-300) to Armour
+20% increased Melee Damage
+Cannot Leech when on Low Life
+You and nearby allies have 20% increased Attack, Cast and Movement Speed if you've Warcried Recently
+(60-80)% increased Armour and Evasion
++(50-70) to maximum Life
++(50-70) to maximum Mana
++(10-20)% to all Elemental Resistances
+Minions have +10% Chance to Block Attack Damage
+Minions have +(300-350) to Armour
+Minions Regenerate 2% Life per second
++1 to Level of Socketed Gems
+(100-150)% increased Armour
+40% reduced Light Radius
+(5-15)% increased Dexterity
+(5-15)% increased Strength
+(5-15)% increased Intelligence
+10% reduced Global Physical Damage
++(50-65) to Dexterity
+16% increased Attack Speed
+(150-200)% increased Armour and Evasion
++(15-25)% to Chaos Resistance
+20% increased Movement Speed
+Mercury Footprints
+Socketed Gems are Supported by Level 18 Melee Physical Damage
+Socketed Gems are Supported by Level 12 Faster Attacks
+Socketed Gems are supported by Level 6 Blind
+Adds 20 to 30 Physical Damage to Attacks
+(200-300)% increased Armour and Evasion
++(120-160) to maximum Life
+20% chance to gain an Endurance Charge when you Block
+Extra gore
+Can't use Chest armour
+6% Chance to Block Attack Damage
+Adds 1 to 13 Lightning Damage to Attacks
+(40-50)% increased Armour and Energy Shield
++(10-20)% to all Elemental Resistances
++20% to all Elemental Resistances while on Low Life
+20% reduced Mana Cost of Skills when on Low Life
+(20-22)% increased Stun and Block Recovery
+40% reduced Light Radius
+Reflects 1 to (180-220) Lightning Damage to Attackers on Block
+(18-22)% increased Global Defences
+Elemental Resistances are Zero
+(10-15)% increased Cold Damage
+(10-15)% increased Lightning Damage
++(100-120) to maximum Mana
+Gain (5-10)% of Maximum Mana as Extra Maximum Energy Shield
+Enemies Cannot Leech Mana From You
+(5-10)% of Damage taken gained as Mana over 4 seconds when Hit
+Cannot Leech Mana
+15% reduced Cast Speed
+(70-80)% increased Armour and Energy Shield
++(30-50) to maximum Mana
+30% chance to Trigger Socketed Spells when you Spend at least 100 Mana to Use a Skill
++1 to Level of Socketed Gems
+(60-80)% increased Armour and Energy Shield
++(15-20)% to Fire Resistance
++(15-20)% to Cold Resistance
++(15-20)% to Lightning Resistance
++(20-30)% to Chaos Resistance
+Has 1 Abyssal Socket
+Trigger Level 20 Spirit Burst when you Use a Skill while you have a Spirit Charge
++(10-15)% to all Elemental Resistances
+(15-20)% chance to gain a Spirit Charge on Kill
++1 to Maximum Spirit Charges per Abyss Jewel affecting you
+Has 2 Abyssal Sockets
+Trigger Level 20 Spirit Burst when you Use a Skill while you have a Spirit Charge
++(10-15)% to all Elemental Resistances
+Recover (4-5)% of Life when a Spirit Charge expires or is consumed
+(15-20)% chance to gain a Spirit Charge on Kill
++1 to Maximum Spirit Charges per Abyss Jewel affecting you
+(140-180)% increased Armour and Energy Shield
+(4-7)% increased maximum Life
+Cannot lose Crab Barriers if you have lost Crab Barriers Recently
+3% Chance to Block Attack Damage while you have at least 5 Crab Barriers
+5% Chance to Block Attack Damage while you have at least 10 Crab Barriers
++(20-40) to Dexterity
+(10-15)% increased Skill Effect Duration
+2% increased Minion Attack Speed per 50 Dexterity
+2% increased Minion Movement Speed per 50 Dexterity
+Minions' Hits can only Kill Ignited Enemies
+(100-120)% increased Armour and Energy Shield
++(50-70) to maximum Life
++(30-50)% to Cold Resistance
+Cannot be Frozen
++800 Armour while stationary
+60% increased Mana Regeneration Rate while stationary
+15% chance to create Chilled Ground when Hit with an Attack
+Socketed Gems are supported by Level 20 Cast on Death
+20% increased Damage when on Low Life
++(10-15) to all Attributes
+(60-100)% increased Armour and Energy Shield
+20% reduced Mana Regeneration Rate
++(50-70) to maximum Energy Shield
++(43-61)% to Chaos Resistance
++(15-20) to all Attributes
+(60-140)% increased Armour and Energy Shield
++(60-70) to maximum Life
+-1 to Maximum Power Charges
+Gain (8-12)% of Physical Damage as Extra Chaos Damage while at maximum Power Charges
+You take 50% reduced Extra Damage from Critical Strikes while you have no Power Charges
+Adds (13-17) to (29-37) Chaos Damage
++(150-200) to maximum Energy Shield
++(32-40)% to Cold Resistance
++(15-20)% to Lightning Resistance
+Regenerate 100 Energy Shield per second if all Equipped items are Corrupted
+Regenerate 35 Mana per second if all Equipped Items are Corrupted
+Corrupted
++(130-160) to maximum Energy Shield
++(150-200) to maximum Mana
+(30-40)% increased Mana Regeneration Rate
++(20-30)% to Fire Resistance
+10% increased Mana Reserved
+Gain Armour equal to your Reserved Mana
++(260-300) to Armour
++(26-32)% to Fire Resistance
++(8-16)% to Chaos Resistance
+20% increased Light Radius
+(8-12)% increased Maximum Life if no Equipped Items are Corrupted
+Regenerate 100 Life per second if no Equipped Items are Corrupted
+(15-30)% increased Spell Damage
++20 to Strength
+(20-30)% increased Lightning Damage
++10% to Lightning Resistance
+Blood Magic
+30% reduced Damage
++(20-30) to Dexterity
++(20-30) to maximum Life
++(20-30) to maximum Mana
+You and nearby allies gain 15% increased Damage
++(26-30)% to all Elemental Resistances
+Your Fire Damage can Shock but not Ignite
+Your Cold Damage can Ignite but not Freeze or Chill
+Your Lightning Damage can Freeze but not Shock
+Trigger Level 1 Create Lesser Shrine when you Kill an Enemy
+(120-150)% increased Evasion and Energy Shield
++(60-80) to maximum Life
++(30-45) to maximum Energy Shield
++(30-40)% to Cold Resistance
+75% increased Effect of Shrine Buffs on you
+50% increased Duration of Shrine Effects on you
+(150-200)% increased Evasion and Energy Shield
++(60-80) to maximum Life
+(0.4-0.8)% of Physical Attack Damage Leeched as Life
+Reflects 100 to 150 Physical Damage to Melee Attackers
+30% of Damage you Reflect to Enemies is gained as Life
+Grants Level 20 Petrification Statue Skill
+(200-250)% increased Energy Shield
++(60-80) to maximum Life
+(5-10)% increased Attack and Cast Speed
+5% additional Physical Damage Reduction while moving
+5% reduced Elemental Damage taken while stationary
+Grants Level 20 Aspect of the Cat Skill
+(180-220)% increased Evasion and Energy Shield
++(25-35)% to Cold Resistance
++1% to Critical Strike Chance while affected by Aspect of the Cat
+Critical Strikes have (10-20)% chance to Blind Enemies while you have Cat's Stealth
+(40-50)% increased Damage with Hits and Ailments against Blinded Enemies
+(230-260)% increased Evasion and Energy Shield
+(20-30)% increased maximum Mana
+10% chance to Shock
++20% chance to be Shocked
+30% of Lightning Damage is taken from Mana before Life when Hit
+Recover 3% of Maximum Mana when you Shock an Enemy
+(15-30)% increased Spell Damage
++20 to Strength
++10% to all Elemental Resistances
+Adds (42-54) to (78-88) Cold Damage to Spells while no Life is Reserved
+Adds (54-64) to (96-107) Fire Damage to Spells while no Life is Reserved
+Adds (5-14) to (160-173) Lightning Damage to Spells while no Life is Reserved
+Blood Magic
+Socketed Gems are Supported by Level 18 Ice Bite
+Socketed Gems are Supported by Level 18 Innervate
+Grants Summon Harbinger of Storms Skill
++(100-150) to Evasion Rating
++(60-80) to maximum Life
++(40-60) to maximum Energy Shield
++(10-15)% to all Elemental Resistances
++1 to Level of Socketed Gems
+(245-280)% increased Evasion and Energy Shield
++(30-40) to maximum Energy Shield
++(24-30)% to Chaos Resistance
+Enemies Cannot Leech Mana From You
+Socketed Gems have 50% reduced Mana Cost
++(40-50) to maximum Energy Shield
+(90-110)% increased Evasion and Energy Shield
++1 to Level of Socketed Curse Gems
+Socketed Curse Gems are Supported by Level 22 Blasphemy
+Socketed Curse Gems have 12% reduced Mana Reservation
+(60-80)% increased Armour and Energy Shield
++(30-50) to maximum Life
+Your Energy Shield starts at zero
+Cannot gain Energy Shield
+50 Life Regenerated per second if you have at least 500 Maximum Energy Shield
+100 Life Regenerated per second if you have at least 1000 Maximum Energy Shield
+150 Life Regenerated per second if you have at least 1500 Maximum Energy Shield
+Has 1 Socket
++(50-100) to maximum Life
+Nearby Enemies have -10% to all Resistances
+You and Nearby Allies have 64 to 96 added Fire Damage per Red Socket
+You and Nearby Allies have 56 to 88 added Cold Damage per Green Socket
+You and Nearby Allies have 16 to 144 added Lightning Damage per Blue Socket
+You and Nearby Allies have 47 to 61 added Chaos Damage per White Socket
++23 to maximum Life
+Skills which Place Mines place up to 1 additional Mine if you have at least 500 Intelligence
+Skills which Place Mines place up to 1 additional Mine if you have at least 500 Dexterity
+(10-15)% reduced Mine Laying Speed
+(40-50)% increased Mine Arming Speed
++1 to Level of Socketed Gems
+(60-80)% increased Armour and Energy Shield
++(15-20)% to Fire Resistance
++(15-20)% to Cold Resistance
++(15-20)% to Lightning Resistance
++(20-30)% to Chaos Resistance
++1 to maximum number of Summoned Holy Relics
+Summoned Holy Relics have (20-25)% reduced Cooldown Recovery Speed
+Has 1 Abyssal Socket
+(6-8)% increased maximum Life
+Recover (2-3)% of Energy Shield when you lose a Spirit Charge
+Recover (2-3)% of Life when you lose a Spirit Charge
+Gain a Spirit Charge every second
+You lose all Spirit Charges when taking a Savage Hit
++1 to Maximum Spirit Charges per Abyss Jewel affecting you
+Has 2 Abyssal Sockets
+(6-8)% increased maximum Life
+Recover (2-3)% of Energy Shield when you lose a Spirit Charge
+Recover (2-5)% of Life when you lose a Spirit Charge
+Gain a Spirit Charge every second
+You lose all Spirit Charges when taking a Savage Hit
++1 to Maximum Spirit Charges per Abyss Jewel affecting you

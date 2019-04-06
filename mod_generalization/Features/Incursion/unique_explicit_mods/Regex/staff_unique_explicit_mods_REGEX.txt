@@ -1,0 +1,184 @@
+#% chance to block
+#% chance to block
+#% increased physical damage
+#% increased attack speed
+reflects # physical damage to attackers on block
+curse enemies with level # vulnerability on block
+level requirement reduced by # (hidden)
+#% chance to block
+socketed gems are supported by level # trap
+#% increased damage
+#% increased maximum life
+#% increased maximum mana
+#% chance to block
+#% increased area of effect per # intelligence
+#% increased attack speed per # dexterity
+#% increased physical weapon damage per # strength
+#% chance to block
+#% increased cast speed
+#% increased maximum mana
+#% increased area of effect of aura skills
+#% increased area of effect of curse skills
+nearby enemies have #% increased effect of curses on them
+nearby allies gain #% increased damage
+#% increased effect of non-curse auras you cast
+#% chance to block
+# to level of socketed fire gems
+# to level of socketed cold gems
+socketed gems are supported by level # cold to fire
+adds # fire damage
+adds # cold damage
+#% increased elemental damage
+#% chance to block
+#% increased physical damage
+adds # cold damage
+adds # lightning damage
+#% increased critical strike chance
+cannot be shocked while chilled
+#% chance to shock chilled enemies
+#% chance to block
+# to level of socketed gems
+#% chance to block
+#% increased spell damage
+# to maximum energy shield
+reflects # lightning damage to melee attackers
+#% chance for energy shield recharge to start when you block
+#% chance to block
+socketed gems are supported by level # trap
+socketed gems are supported by level # cluster trap
+socketed gems are supported by level # trap and mine damage
+#% increased damage
+#% increased maximum life
+#% increased maximum mana
+#% chance to block
+# to level of socketed support gems
+grants level # icestorm skill
+plays whispering ice sound on killing a rare monster (hidden)
+#% increased cast speed
+#% increased spell damage per # intelligence
+#% increased intelligence
+#% chance to block
+# to level of socketed fire gems
+# to level of socketed cold gems
+# to level of socketed elemental gems
+socketed gems are supported by level # cold to fire
+adds # fire damage
+adds # cold damage
+#% increased elemental damage
+#% chance to block
+socketed gems are supported by level # remote mine
+#% less mine damage
+#% increased spell damage
+#% reduced enemy stun threshold
+#% increased mine laying speed
+mines can be detonated an additional time
+#% chance to block
+socketed gems fire # additional projectiles
+socketed gems fire projectiles in a nova
+# to all attributes
+#% to all elemental resistances
+#% increased projectile damage
+#% increased light radius
+#% chance to block
+grants level # vengeance skill
+#% chance to block
+adds # fire damage
+adds # fire damage to spells
+#% increased fire damage if you have been hit recently
+damage penetrates #% of fire resistance if you have blocked recently
+immune to freeze and chill while ignited
+#% chance to block
+# to level of socketed minion gems
+minions regenerate #% life per second
+#% increased minion attack and cast speed per skeleton you own
+#% increased minion duration per zombie you own
+#% increased minion damage per spectre you own
+#% chance to block
+# to level of socketed fire gems
+#% increased fire damage
+#% increased cast speed
+#% increased burning damage
+#% chance to block
+#% chance to block
+adds # physical damage
+#% increased critical strike chance
+#% of physical damage converted to cold damage
+#% of physical damage converted to lightning damage
+cannot be shocked while chilled
+#% chance to chill attackers for # seconds on block
+#% chance to shock attackers for # seconds on block
+#% chance to block
+# to level of socketed chaos gems
+#% increased chaos damage
+#% increased cast speed per power charge
+gain a power charge after spending a total of # mana
+# mana regenerated per second per power charge
+#% chance to block
+adds # physical damage
+adds # physical damage to spells
+# to maximum siphoning charges per elder or shaper item equipped
+#% chance to gain a siphoning charge when you use a skill
+adds # physical damage to attacks and spells per siphoning charge
+gain #% of non-chaos damage as extra chaos damage per siphoning charge
+#% additional physical damage reduction from hits per siphoning charge
+#% of damage leeched as life per siphoning charge
+take # physical damage per second per siphoning charge if you've used a skill recently
+#% chance to block
+#% chance to block
+#% increased critical strike chance for spells
+gain #% of elemental damage as extra chaos damage
+#% to critical strike multiplier per #% block chance
+#% to critical strike multiplier if you've dealt a non-critical strike recently
+#% increased spell damage if you've dealt a critical strike recently
+#% chance to block
+# to level of socketed cold gems
+#% increased spell damage
+#% increased cold damage
+#% increased cast speed
+#% chance to freeze
+enemies frozen by you take #% increased damage
+#% chance to block
+# to level of socketed lightning gems
+# to intelligence
+#% increased lightning damage
+#% increased shock duration on enemies
+#% increased strength requirement
+damage penetrates #% lightning resistance
+#% chance to block
+# to level of socketed lightning gems
+# to intelligence
+#% increased lightning damage
+#% chance to shock
+#% increased strength requirement
+damage penetrates #% lightning resistance
+#% chance to block
+# to level of socketed lightning gems
+# to intelligence
+#% increased lightning damage
+#% to maximum lightning resistance
+#% increased strength requirement
+damage penetrates #% lightning resistance
+#% chance to block
+# to level of socketed lightning gems
+# to intelligence
+#% increased lightning damage
+adds # lightning damage to spells
+#% increased strength requirement
+damage penetrates #% lightning resistance
+#% chance to block
+socketed gems are supported by level # life leech
+grants summon harbinger of brutality skill
+#% chance to block
+adds # physical damage
+#% increased critical strike chance
+#% chance to block
+#% chance to block
+adds # physical damage
+#% increased attack speed
+#% increased critical strike chance
+# to maximum power charges
+#% chance to gain a power charge if you knock an enemy back with melee damage
+#% chance to block
+socketed gems are supported by level # spell echo
+#% increased spell damage
+#% increased maximum mana

@@ -1,0 +1,3 @@
+#% chance to block
+#% chance to block
+#% increased global critical strike chance

@@ -1,0 +1,84 @@
+#% increased physical damage
+# to strength
+#% reduced enemy stun threshold
+#% of physical attack damage leeched as life
+#% increased stun duration on enemies
+#% increased physical damage
+adds # physical damage
+# to all attributes
+# life gained on kill
+enemies killed explode dealing #% of their life as fire damage
+#% increased physical damage
+adds # cold damage
+#% increased stun duration on enemies
+never deal critical strikes
+#% increased physical damage
+adds # physical damage
+# to strength
+#% reduced enemy stun threshold
+#% of physical attack damage leeched as life
+#% increased stun duration on enemies
+gain #% of physical damage as extra cold damage
+# to level of socketed melee gems
+# to level of socketed minion gems
+#% increased physical damage
+#% increased maximum mana
+minions have #% increased maximum life
+#% increased skill effect duration
+#% reduced strength requirement
+#% reduced attack speed
+all attacks with this weapon are critical strikes
+#% increased physical damage
+#% increased cast speed
+#% increased attack speed
+#% less animate weapon duration
+weapons you animate create an additional copy
+#% chance to trigger level # animate weapon on kill
+#% increased physical damage
+#% increased attack speed
+#% reduced rarity of items found
+#% reduced experience gain
+#% of physical attack damage leeched as mana
+socketed gems are supported by level # increased area of effect
+#% increased physical damage
+adds # physical damage
+#% reduced attack speed
+# to accuracy rating
+#% reduced movement speed
+#% increased stun duration on enemies
+trigger level # elemental warding when you hit an enemy while cursed
+#% increased physical damage
+adds # physical damage
+adds # cold damage
+#% increased stun duration on enemies
+never deal critical strikes
+#% increased physical damage
+adds # physical damage
+# to all attributes
+recover #% of maximum life on kill
+enemies killed explode dealing #% of their life as fire damage
+adds # physical damage
+#% of physical damage converted to lightning damage
+#% chance to shock
+#% chance to cause monsters to flee
+enemies you shock have #% reduced cast speed
+enemies you shock have #% reduced movement speed
+damage penetrates #% lightning resistance
+socketed gems are supported by level # endurance charge on melee stun
+adds # physical damage
+# to intelligence
+#% increased physical damage per endurance charge
+#% reduced enemy stun threshold with this weapon
+adds # physical damage
+#% increased critical strike chance
+#% to all elemental resistances
+hits can't be evaded
+your critical strikes do not deal extra damage
+you gain onslaught for # seconds on critical strike
+# to level of socketed melee gems
+# to level of socketed minion gems
+#% increased physical damage
+adds # physical damage
+#% increased maximum mana
+minions have #% increased maximum life
+#% increased skill effect duration

@@ -1,0 +1,45 @@
+adds # chaos damage if you've taken a critical strike recently
+adds # chaos damage if you've taken a critical strike recently
+adds # chaos damage if you've taken a critical strike recently
+adds # fire damage if you've killed recently
+adds # fire damage if you've killed recently
+adds # fire damage if you've killed recently
+#% increased attack and cast speed if you've killed recently
+#% increased attack and cast speed if you've killed recently
+#% increased attack and cast speed if you've killed recently
+#% chance to freeze, shock and ignite if you haven't crit recently
+#% chance to freeze, shock and ignite if you haven't crit recently
+#% chance to freeze, shock and ignite if you haven't crit recently
+adds # cold damage if you've been hit recently
+adds # cold damage if you've been hit recently
+adds # cold damage if you've been hit recently
+#% increased critical strike chance if you haven't crit recently
+#% increased critical strike chance if you haven't crit recently
+#% increased critical strike chance if you haven't crit recently
+#% chance to dodge attack hits if you've taken a critical strike recently
+#% chance to dodge attack hits if you've taken a critical strike recently
+#% chance to dodge attack hits if you've taken a critical strike recently
+damage penetrates #% of enemy elemental resistances if you haven't killed recently
+damage penetrates #% of enemy elemental resistances if you haven't killed recently
+damage penetrates #% of enemy elemental resistances if you haven't killed recently
+#% of damage leeched as life and mana if you've killed recently
+#% of damage leeched as life and mana if you've killed recently
+#% of damage leeched as life and mana if you've killed recently
+regenerate #% of life and mana per second if you were hit recently
+regenerate #% of life and mana per second if you were hit recently
+regenerate #% of life and mana per second if you were hit recently
+adds # lightning damage if you haven't killed recently
+adds # lightning damage if you haven't killed recently
+adds # lightning damage if you haven't killed recently
+#% reduced mana cost of skills if you've been hit recently
+#% reduced mana cost of skills if you've been hit recently
+#% reduced mana cost of skills if you've been hit recently
+#% increased movement speed if you haven't been hit recently
+#% increased movement speed if you haven't been hit recently
+#% increased movement speed if you haven't been hit recently
+#% chance to dodge spell hits if you've taken spell damage recently
+#% chance to dodge spell hits if you've taken spell damage recently
+#% chance to dodge spell hits if you've taken spell damage recently
+#% chance to avoid being stunned if you've killed recently
+#% chance to avoid being stunned if you've killed recently
+#% chance to avoid being stunned if you've killed recently

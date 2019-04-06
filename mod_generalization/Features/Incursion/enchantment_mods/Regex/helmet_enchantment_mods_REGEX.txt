@@ -1,0 +1,899 @@
+#% increased ball lightning damage
+#% increased ball lightning damage
+#% increased frost blades damage
+#% increased frost blades damage
+#% increased frost blades projectile speed
+#% increased frost blades projectile speed
+#% increased summon raging spirit duration
+#% increased summon raging spirit duration
+summon raging spirit has #% chance to summon an extra minion
+summon raging spirit has #% chance to summon an extra minion
+#% increased discharge radius
+#% increased discharge radius
+#% chance for discharge not to consume charges
+#% chance for discharge not to consume charges
+#% reduced anger mana reservation
+#% reduced anger mana reservation
+#% increased abyssal cry damage
+#% increased abyssal cry damage
+ancestral protector totem deals #% increased damage
+ancestral protector totem deals #% increased damage
+#% increased ancestral warchief totem damage
+#% increased ancestral warchief totem damage
+#% increased ancestral protector totem placement speed
+#% increased ancestral protector totem placement speed
+#% to ancestral protector totem elemental resistances
+#% to ancestral protector totem elemental resistances
+ancestral protector totem grants #% increased attack speed while active
+ancestral protector totem grants #% increased attack speed while active
+animated guardians deal #% increased damage
+animated guardians deal #% increased damage
+animated weapons deal #% increased damage
+animated weapons deal #% increased damage
+#% increased arc damage
+#% increased arc damage
+#% increased arctic breath damage
+#% increased arctic breath damage
+#% increased barrage damage
+#% increased barrage damage
+#% increased bear trap damage
+#% increased bear trap damage
+barrage fires # additional projectiles
+#% increased blade vortex spell damage
+#% increased blade vortex spell damage
+#% increased bladefall damage
+#% increased bladefall damage
+#% increased blast rain damage
+#% increased blast rain damage
+#% increased blight damage
+#% increased blight damage
+blink arrow and blink arrow clones have #% increased damage
+blink arrow and blink arrow clones have #% increased damage
+#% increased burning arrow damage
+#% increased burning arrow damage
+#% increased caustic arrow damage
+#% increased caustic arrow damage
+#% increased blade flurry damage
+#% increased blade flurry damage
+#% increased charged dash damage
+#% increased charged dash damage
+#% increased cleave damage
+#% increased cleave damage
+#% increased cold snap damage
+#% increased cold snap damage
+#% increased contagion damage
+#% increased contagion damage
+converted enemies have #% increased damage
+converted enemies have #% increased damage
+#% increased cyclone damage
+#% increased cyclone damage
+#% increased detonate dead damage
+#% increased detonate dead damage
+#% increased discharge damage
+#% increased discharge damage
+#% increased lacerate damage
+#% increased lacerate damage
+#% increased double strike damage
+#% increased double strike damage
+#% increased dual strike damage
+#% increased dual strike damage
+#% increased earthquake damage
+#% increased earthquake damage
+elemental hit deals #% increased damage
+elemental hit deals #% increased damage
+#% increased essence drain damage
+#% increased essence drain damage
+#% increased ethereal knives damage
+#% increased ethereal knives damage
+#% increased explosive arrow damage
+#% increased explosive arrow damage
+#% increased fire nova mine damage
+#% increased fire nova mine damage
+#% increased firestorm damage
+#% increased firestorm damage
+#% increased fire trap damage
+#% increased fire trap damage
+#% increased fireball damage
+#% increased fireball damage
+#% increased scorching ray damage
+#% increased scorching ray damage
+#% increased flame dash damage
+#% increased flame dash damage
+#% increased flame surge damage
+#% increased flame surge damage
+flamethrower trap deals #% increased damage
+flamethrower trap deals #% increased damage
+#% increased flame totem damage
+#% increased flame totem damage
+#% increased flameblast damage
+#% increased flameblast damage
+#% increased flicker strike damage
+#% increased flicker strike damage
+#% increased freezing pulse damage
+#% increased freezing pulse damage
+#% increased frenzy damage
+#% increased frenzy damage
+#% increased frostbolt damage
+#% increased frostbolt damage
+#% increased frost bomb damage
+#% increased frost bomb damage
+#% increased glacial cascade damage
+#% increased glacial cascade damage
+#% increased glacial hammer damage
+#% increased glacial hammer damage
+#% increased ground slam damage
+#% increased ground slam damage
+#% increased heavy strike damage
+#% increased heavy strike damage
+#% increased herald of ash damage
+#% increased herald of ash damage
+#% increased herald of ice damage
+#% increased herald of ice damage
+#% increased herald of thunder damage
+#% increased herald of thunder damage
+#% increased ice crash damage
+#% increased ice crash damage
+#% increased ice nova damage
+#% increased ice nova damage
+#% increased ice shot damage
+#% increased ice shot damage
+siphoning trap deals #% increased damage
+siphoning trap deals #% increased damage
+#% increased ice spear damage
+#% increased ice spear damage
+#% increased ice trap damage
+#% increased ice trap damage
+#% increased incinerate damage
+#% increased incinerate damage
+#% increased infernal blow damage
+#% increased infernal blow damage
+#% increased kinetic blast damage
+#% increased kinetic blast damage
+#% increased leap slam damage
+#% increased leap slam damage
+#% increased lightning arrow damage
+#% increased lightning arrow damage
+#% increased lightning strike damage
+#% increased lightning strike damage
+#% increased lightning tendrils damage
+#% increased lightning tendrils damage
+lightning spire trap deals #% increased damage
+lightning spire trap deals #% increased damage
+#% increased lightning trap damage
+#% increased lightning trap damage
+#% increased lightning warp damage
+#% increased lightning warp damage
+#% increased magma orb damage
+#% increased magma orb damage
+mirror arrow and mirror arrow clones deal #% increased damage
+mirror arrow and mirror arrow clones deal #% increased damage
+#% increased molten shell damage
+#% increased molten shell damage
+#% increased molten shell buff effect
+#% increased molten shell buff effect
+#% increased molten strike damage
+#% increased molten strike damage
+#% increased orb of storms damage
+#% increased orb of storms damage
+orb of storms has #% increased cast speed
+orb of storms has #% increased cast speed
+seismic trap deals #% increased damage
+seismic trap deals #% increased damage
+#% increased power siphon damage
+#% increased power siphon damage
+#% increased puncture damage
+#% increased puncture damage
+#% increased rain of arrows damage
+#% increased rain of arrows damage
+spectres have #% increased damage
+spectres have #% increased damage
+zombies deal #% increased damage
+zombies deal #% increased damage
+#% increased rallying cry buff effect
+#% increased rallying cry buff effect
+#% increased reave damage
+#% increased reave damage
+#% increased reckoning damage
+#% increased reckoning damage
+#% increased righteous fire damage
+#% increased righteous fire damage
+#% increased riposte damage
+#% increased riposte damage
+#% increased searing bond damage
+#% increased searing bond damage
+#% increased shield charge damage
+#% increased shield charge damage
+#% increased shock nova damage
+#% increased shock nova damage
+explosive trap deals #% increased damage
+explosive trap deals #% increased damage
+#% increased sunder damage
+#% increased sunder damage
+#% increased shockwave totem damage
+#% increased shockwave totem damage
+#% increased shrapnel shot damage
+#% increased shrapnel shot damage
+#% increased siege ballista damage
+#% increased siege ballista damage
+#% increased dark pact damage
+#% increased dark pact damage
+#% increased dark pact cast speed
+#% increased dark pact cast speed
+#% increased dark pact area of effect
+#% increased dark pact area of effect
+#% increased spark damage
+#% increased spark damage
+#% increased spectral shield throw damage
+#% increased spectral shield throw damage
+#% increased spectral throw damage
+#% increased spectral throw damage
+#% increased split arrow damage
+#% increased split arrow damage
+#% increased static strike damage
+#% increased static strike damage
+#% increased storm burst damage
+#% increased storm burst damage
+#% increased storm call damage
+#% increased storm call damage
+chaos golems deal #% increased damage
+chaos golems deal #% increased damage
+flame golems have #% increased damage
+flame golems have #% increased damage
+ice golems deal #% increased damage
+ice golems deal #% increased damage
+lightning golems deal #% increased damage
+lightning golems deal #% increased damage
+raging spirits have #% increased damage
+raging spirits have #% increased damage
+skeletons deal #% increased damage
+skeletons deal #% increased damage
+stone golems deal #% increased damage
+stone golems deal #% increased damage
+#% increased sweep damage
+#% increased sweep damage
+#% increased tectonic slam damage
+#% increased tectonic slam damage
+#% increased tempest shield damage
+#% increased tempest shield damage
+#% increased tornado shot damage
+#% increased tornado shot damage
+#% increased vengeance damage
+#% increased vengeance damage
+#% increased vigilant strike damage
+#% increased vigilant strike damage
+#% increased viper strike damage
+#% increased viper strike damage
+#% increased vortex damage
+#% increased vortex damage
+#% increased whirling blades damage
+#% increased whirling blades damage
+#% increased wild strike damage
+#% increased wild strike damage
+#% increased abyssal cry duration
+#% increased abyssal cry duration
+#% to animated guardian elemental resistances
+#% to animated guardian elemental resistances
+#% increased animate weapon duration
+#% increased animate weapon duration
+#% chance to create an additional animate weapon copy
+#% chance to create an additional animate weapon copy
+arc chains an additional time
+arc has #% chance to shock
+arc has #% chance to shock
+arc deals #% increased damage for each time it has chained
+arc deals #% increased damage for each time it has chained
+#% increased ancestral warchief totem area of effect
+#% increased ancestral warchief totem area of effect
+ancestral warchief totem grants #% increased melee damage while active
+ancestral warchief totem grants #% increased melee damage while active
+#% increased arctic armour buff effect
+#% increased arctic armour buff effect
+#% reduced arctic armour mana reservation
+#% reduced arctic armour mana reservation
+#% increased arctic breath duration
+#% increased arctic breath duration
+#% increased arctic breath area of effect
+#% increased arctic breath area of effect
+#% increased assassin's mark curse effect
+#% increased assassin's mark curse effect
+#% increased assassin's mark duration
+#% increased assassin's mark duration
+#% increased ball lightning area of effect
+#% increased ball lightning area of effect
+ball lightning fires an additional projectile
+#% increased barrage attack speed
+#% increased barrage attack speed
+barrage fires an additional projectile
+#% increased bear trap cooldown recovery speed
+#% increased bear trap cooldown recovery speed
+enemies affected by bear trap take #% increased damage from trap or mine hits
+enemies affected by bear trap take #% increased damage from trap or mine hits
+#% increased bladefall critical strike chance
+#% increased bladefall critical strike chance
+#% increased bladefall area of effect
+#% increased bladefall area of effect
+bladefall has an additional volley
+#% increased blade vortex duration
+#% increased blade vortex duration
+#% increased blade vortex area of effect
+#% increased blade vortex area of effect
+blade vortex has #% to critical strike multiplier for each blade
+blade vortex has #% to critical strike multiplier for each blade
+#% increased blast rain area of effect
+#% increased blast rain area of effect
+blast rain has a #% chance for an additional blast
+blast rain has a #% chance for an additional blast
+#% increased blight area of effect
+#% increased blight area of effect
+blight has #% increased hinder duration
+blight has #% increased hinder duration
+blink arrow and blink arrow clones have #% increased attack speed
+blink arrow and blink arrow clones have #% increased attack speed
+#% increased blink arrow cooldown recovery speed
+#% increased blink arrow cooldown recovery speed
+blood rage grants additional #% increased attack speed
+blood rage grants additional #% increased attack speed
+blood rage grants additional #% chance to gain a frenzy charge on kill
+blood rage grants additional #% chance to gain a frenzy charge on kill
+#% increased bone offering duration
+#% increased bone offering duration
+bone offering grants an additional #% block chance
+bone offering grants an additional #% block chance
+burning arrow has #% chance to ignite
+burning arrow has #% chance to ignite
+#% of burning arrow physical damage gained as extra fire damage
+#% of burning arrow physical damage gained as extra fire damage
+#% increased caustic arrow duration
+#% increased caustic arrow duration
+#% increased caustic arrow area of effect
+#% increased caustic arrow area of effect
+#% increased effect of the buff granted by your chaos golems
+#% increased effect of the buff granted by your chaos golems
+#% to chaos golem elemental resistances
+#% to chaos golem elemental resistances
+#% increased blade flurry area of effect
+#% increased blade flurry area of effect
+#% chance to dodge attack hits while at maximum blade flurry stages
+#% chance to dodge attack hits while at maximum blade flurry stages
+#% chance to dodge attack hits if you have finished channelling charged dash recently
+#% chance to dodge attack hits if you have finished channelling charged dash recently
+charged dash has # to radius of each wave's last damage area
+charged dash has # to radius of each wave's last damage area
+charged dash has #% more movement speed
+charged dash has #% more movement speed
+#% reduced clarity mana reservation
+#% reduced clarity mana reservation
+#% increased cleave attack speed
+#% increased cleave attack speed
+#% increased cleave area of effect
+#% increased cleave area of effect
+#% increased cold snap cooldown recovery speed
+#% increased cold snap cooldown recovery speed
+#% increased cold snap area of effect
+#% increased cold snap area of effect
+#% increased conductivity curse effect
+#% increased conductivity curse effect
+#% increased conductivity duration
+#% increased conductivity duration
+#% increased contagion duration
+#% increased contagion duration
+#% increased contagion area of effect
+#% increased contagion area of effect
+#% increased conversion trap cooldown recovery speed
+#% increased conversion trap cooldown recovery speed
+#% increased convocation cooldown recovery speed
+#% increased convocation cooldown recovery speed
+#% increased convocation buff effect
+#% increased convocation buff effect
+#% increased cyclone attack speed
+#% increased cyclone attack speed
+#% increased dark pact cast speed
+#% increased dark pact cast speed
+#% increased dark pact area of effect
+#% increased dark pact area of effect
+#% increased decoy totem life
+#% increased decoy totem life
+#% increased decoy totem area of effect
+#% increased decoy totem area of effect
+#% increased desecrate cooldown recovery speed
+#% increased desecrate cooldown recovery speed
+desecrate summons # additional corpses
+desecrate summons # additional corpses
+#% increased despair duration
+#% increased despair duration
+#% increased despair curse effect
+#% increased despair curse effect
+#% reduced determination mana reservation
+#% reduced determination mana reservation
+detonate dead has a #% chance to detonate an additional corpse
+detonate dead has a #% chance to detonate an additional corpse
+#% increased detonate dead area of effect
+#% increased detonate dead area of effect
+#% increased chance to consume an additional corpse with devouring totem
+#% increased chance to consume an additional corpse with devouring totem
+#% increased devouring totem leech per second
+#% increased devouring totem leech per second
+#% reduced discipline mana reservation
+#% reduced discipline mana reservation
+#% increased dominating blow duration
+#% increased dominating blow duration
+dominated minions deal #% increased damage
+dominated minions deal #% increased damage
+#% increased dominating blow damage
+#% increased dominating blow damage
+#% increased lacerate critical strike chance
+#% increased lacerate critical strike chance
+#% increased lacerate area of effect
+#% increased lacerate area of effect
+lacerate deals # added physical damage against bleeding enemies
+lacerate deals # added physical damage against bleeding enemies
+#% increased double strike attack speed
+#% increased double strike attack speed
+#% increased double strike critical strike chance
+#% increased double strike critical strike chance
+double strike has a #% chance to deal double damage to bleeding enemies
+double strike has a #% chance to deal double damage to bleeding enemies
+#% increased dual strike attack speed
+#% increased dual strike attack speed
+#% increased dual strike critical strike chance
+#% increased dual strike critical strike chance
+#% reduced earthquake duration
+#% reduced earthquake duration
+#% increased earthquake area of effect
+#% increased earthquake area of effect
+#% increased elemental hit attack speed
+#% increased elemental hit attack speed
+elemental hit has #% chance to freeze, shock and ignite
+elemental hit has #% chance to freeze, shock and ignite
+#% increased elemental weakness curse effect
+#% increased elemental weakness curse effect
+#% increased elemental weakness duration
+#% increased elemental weakness duration
+#% increased enduring cry cooldown recovery speed
+#% increased enduring cry cooldown recovery speed
+#% increased enduring cry buff effect
+#% increased enduring cry buff effect
+#% increased enfeeble curse effect
+#% increased enfeeble curse effect
+#% increased enfeeble duration
+#% increased enfeeble duration
+#% increased ethereal knives projectile speed
+#% increased ethereal knives projectile speed
+ethereal knives pierces an additional target
+#% increased explosive arrow area of effect
+#% increased explosive arrow area of effect
+#% increased explosive arrow attack speed
+#% increased explosive arrow attack speed
+#% increased fireball cast speed
+#% increased fireball cast speed
+fireball has #% chance to ignite
+fireball has #% chance to ignite
+#% increased scorching ray cast speed
+#% increased scorching ray cast speed
+#% increased scorching ray beam length
+#% increased scorching ray beam length
+#% increased fire nova cast speed
+#% increased fire nova cast speed
+fire nova mine repeats an additional # times
+fire nova mine repeats an additional # times
+#% increased firestorm duration
+#% increased firestorm duration
+#% increased firestorm explosion area of effect
+#% increased firestorm explosion area of effect
+#% increased fire trap burning damage
+#% increased fire trap burning damage
+#% increased fire trap burning ground duration
+#% increased fire trap burning ground duration
+#% increased flameblast critical strike chance
+#% increased flameblast critical strike chance
+#% increased flameblast area of effect
+#% increased flameblast area of effect
+#% increased flame dash cooldown recovery speed
+#% increased flame dash cooldown recovery speed
+#% to increased flame golem elemental resistances
+#% to increased flame golem elemental resistances
+#% increased effect of the buff granted by your flame golems
+#% increased effect of the buff granted by your flame golems
+#% increased flame surge critical strike chance
+#% increased flame surge critical strike chance
+#% increased flame surge damage against burning enemies
+#% increased flame surge damage against burning enemies
+flamethrower trap has #% increased cast speed
+flamethrower trap has #% increased cast speed
+flamethrower trap has #% increased cooldown recovery speed
+flamethrower trap has #% increased cooldown recovery speed
+flamethrower trap has #% increased skill effect duration
+flamethrower trap has #% increased skill effect duration
+flamethrower trap has an additional flame
+flamethrower trap has # additional flames
+flame totem fires an additional projectile
+flame totem fires # additional projectiles
+#% increased flame totem projectile speed
+#% increased flame totem projectile speed
+#% increased flammability curse effect
+#% increased flammability curse effect
+#% increased flammability duration
+#% increased flammability duration
+#% increased flesh offering duration
+#% increased flesh offering duration
+flesh offering grants an additional #% increased attack speed
+flesh offering grants an additional #% increased attack speed
+#% increased frostbolt cast speed
+#% increased frostbolt cast speed
+frostbolt has #% chance to freeze
+frostbolt has #% chance to freeze
+#% increased spirit offering duration
+#% increased spirit offering duration
+spirit offering grants #% of physical damage as extra chaos damage
+spirit offering grants #% of physical damage as extra chaos damage
+#% increased flicker strike cooldown recovery speed
+#% increased flicker strike cooldown recovery speed
+#% increased flicker strike damage per frenzy charge
+#% increased flicker strike damage per frenzy charge
+#% increased freeze mine area of effect
+#% increased freeze mine area of effect
+freeze mine causes enemies to lose an additional #% cold resistance while frozen
+freeze mine causes enemies to lose an additional #% cold resistance while frozen
+#% increased freezing pulse cast speed
+#% increased freezing pulse cast speed
+#% increased freezing pulse projectile speed
+#% increased freezing pulse projectile speed
+#% chance on frenzy to gain an additional frenzy charge
+#% chance on frenzy to gain an additional frenzy charge
+#% increased frenzy damage per frenzy charge
+#% increased frenzy damage per frenzy charge
+#% increased frostbite curse effect
+#% increased frostbite curse effect
+#% increased frostbite duration
+#% increased frostbite duration
+#% increased frost bomb cooldown recovery speed
+#% increased frost bomb cooldown recovery speed
+#% increased frost bomb area of effect
+#% increased frost bomb area of effect
+frost bomb has #% increased debuff duration
+frost bomb has #% increased debuff duration
+#% increased frost wall cooldown recovery speed
+#% increased frost wall cooldown recovery speed
+#% increased frost wall duration
+#% increased frost wall duration
+#% of glacial cascade physical damage converted to cold damage
+#% of glacial cascade physical damage converted to cold damage
+#% increased glacial cascade area of effect
+#% increased glacial cascade area of effect
+glacial hammer has #% chance to freeze
+glacial hammer has #% chance to freeze
+#% of glacial hammer physical damage gained as extra cold damage
+#% of glacial hammer physical damage gained as extra cold damage
+#% reduced grace mana reservation
+#% reduced grace mana reservation
+#% increased ground slam area of effect
+#% increased ground slam area of effect
+ground slam has a #% increased angle
+ground slam has a #% increased angle
+#% reduced haste mana reservation
+#% reduced haste mana reservation
+#% reduced hatred mana reservation
+#% reduced hatred mana reservation
+#% increased heavy strike attack speed
+#% increased heavy strike attack speed
+heavy strike has a #% chance to deal double damage
+heavy strike has a #% chance to deal double damage
+#% reduced herald of ash mana reservation
+#% reduced herald of ash mana reservation
+#% reduced herald of ice mana reservation
+#% reduced herald of ice mana reservation
+#% reduced herald of thunder mana reservation
+#% reduced herald of thunder mana reservation
+#% of ice crash physical damage gained as extra cold damage
+#% of ice crash physical damage gained as extra cold damage
+#% increased ice crash area of effect
+#% increased ice crash area of effect
+#% to ice golem elemental resistances
+#% to ice golem elemental resistances
+#% increased effect of the buff granted by your ice golems
+#% increased effect of the buff granted by your ice golems
+ice nova has #% chance to freeze
+ice nova has #% chance to freeze
+#% increased ice nova area of effect
+#% increased ice nova area of effect
+#% increased ice shot duration
+#% increased ice shot duration
+#% increased ice shot area of effect
+#% increased ice shot area of effect
+siphoning trap has #% increased skill effect duration
+siphoning trap has #% increased skill effect duration
+siphoning trap's beam to you grants #% reduced damage taken for each other beam
+siphoning trap has #% increased chill effect
+siphoning trap has #% increased chill effect
+#% chance to gain a power charge on critical strike with ice spear
+#% chance to gain a power charge on critical strike with ice spear
+#% increased ice spear critical strike chance in second form
+#% increased ice spear critical strike chance in second form
+#% increased ice trap area of effect
+#% increased ice trap area of effect
+ice trap damage penetrates #% cold resistance
+ice trap damage penetrates #% cold resistance
+#% chance for immortal call to not consume endurance charges
+#% chance for immortal call to not consume endurance charges
+#% increased immortal call duration
+#% increased immortal call duration
+incinerate has #% increased area of effect
+incinerate has #% increased area of effect
+incinerate has # to maximum stages
+incinerate has # to maximum stages
+#% increased incinerate damage for each stage
+#% of infernal blow physical damage gained as extra fire damage
+#% of infernal blow physical damage gained as extra fire damage
+#% increased infernal blow area of effect
+#% increased infernal blow area of effect
+infernal blow debuff deals an additional #% of damage per charge
+infernal blow debuff deals an additional #% of damage per charge
+#% increased kinetic blast area of effect
+#% increased kinetic blast area of effect
+kinetic blast has a #% chance for an additional explosion
+kinetic blast has a #% chance for an additional explosion
+#% increased leap slam attack speed
+#% increased leap slam attack speed
+#% increased leap slam area of effect
+#% increased leap slam area of effect
+#% increased lightning arrow area of effect
+#% increased lightning arrow area of effect
+lightning arrow hits an additional enemy
+lightning arrow hits # additional enemies
+#% increased effect of the buff granted by your lightning golems
+#% increased effect of the buff granted by your lightning golems
+#% to lightning golem elemental resistances
+#% to lightning golem elemental resistances
+lightning strike fires # additional projectiles
+lightning strike fires # additional projectiles
+lightning strike pierces # additional targets
+lightning strike pierces # additional targets
+#% increased lightning tendrils area of effect
+#% increased lightning tendrils area of effect
+#% increased lightning tendrils critical strike chance
+#% increased lightning tendrils critical strike chance
+lightning spire trap has #% increased cast speed
+lightning spire trap has #% increased cast speed
+lightning spire trap has #% increased skill effect duration
+lightning spire trap has #% increased skill effect duration
+lightning spire trap has #% increased cooldown recovery speed
+lightning spire trap has #% increased cooldown recovery speed
+lightning spire trap strikes an additional area
+lightning trap pierces # additional targets
+lightning trap pierces # additional targets
+lightning trap damage penetrates #% lightning resistance
+lightning trap damage penetrates #% lightning resistance
+#% increased lightning trap shock effect
+#% increased lightning trap shock effect
+#% increased lightning warp cast speed
+#% increased lightning warp cast speed
+#% reduced lightning warp duration
+#% reduced lightning warp duration
+magma orb chains an additional time
+magma orb chains an additional # times
+#% increased magma orb area of effect
+#% increased magma orb area of effect
+mirror arrow and mirror arrow clones have #% increased attack speed
+mirror arrow and mirror arrow clones have #% increased attack speed
+#% increased mirror arrow cooldown recovery speed
+#% increased mirror arrow cooldown recovery speed
+molten strike fires # additional projectiles
+molten strike fires # additional projectiles
+#% increased molten strike area of effect
+#% increased molten strike area of effect
+#% chance for phase run to not consume frenzy charges
+#% chance for phase run to not consume frenzy charges
+#% increased phase run duration
+#% increased phase run duration
+seismic trap has #% increased skill effect duration
+seismic trap has #% increased skill effect duration
+seismic trap has #% increased cooldown recovery speed
+seismic trap has #% increased cooldown recovery speed
+seismic trap releases an additional wave
+#% increased poacher's mark curse effect
+#% increased poacher's mark curse effect
+#% increased poacher's mark duration
+#% increased poacher's mark duration
+#% chance to gain an additional power charge on kill with power siphon
+#% chance to gain an additional power charge on kill with power siphon
+#% increased power siphon attack speed
+#% increased power siphon attack speed
+power siphon fires an additional projectile
+power siphon fires # additional projectiles
+#% increased projectile weakness curse effect
+#% increased projectile weakness curse effect
+#% increased projectile weakness duration
+#% increased projectile weakness duration
+#% increased puncture duration
+#% increased puncture duration
+#% chance for puncture to maim on hit
+#% chance for puncture to maim on hit
+#% increased punishment curse effect
+#% increased punishment curse effect
+#% increased punishment duration
+#% increased punishment duration
+#% reduced purity of elements mana reservation
+#% reduced purity of elements mana reservation
+#% reduced purity of fire mana reservation
+#% reduced purity of fire mana reservation
+#% reduced purity of ice mana reservation
+#% reduced purity of ice mana reservation
+#% reduced purity of lightning mana reservation
+#% reduced purity of lightning mana reservation
+#% increased rain of arrows attack speed
+#% increased rain of arrows attack speed
+#% increased rain of arrows area of effect
+#% increased rain of arrows area of effect
+rain of arrows has #% chance to fire an additional sequence of arrows
+rain of arrows has #% chance to fire an additional sequence of arrows
+#% increased rallying cry duration
+#% increased rallying cry duration
+#% increased reave radius
+#% increased reave radius
+#% increased reckoning cooldown recovery speed
+#% increased reckoning cooldown recovery speed
+gain #% of rejuvenation totem life regeneration as extra mana regeneration
+gain #% of rejuvenation totem life regeneration as extra mana regeneration
+#% increased rejuvenation totem aura effect
+#% increased rejuvenation totem aura effect
+#% increased righteous fire area of effect
+#% increased righteous fire area of effect
+righteous fire grants #% increased spell damage
+righteous fire grants #% increased spell damage
+#% increased riposte cooldown recovery speed
+#% increased riposte cooldown recovery speed
+#% increased searing bond totem placement speed
+#% increased searing bond totem placement speed
+#% increased searing bond totem elemental resistances
+#% increased searing bond totem elemental resistances
+#% increased shield charge attack speed
+#% increased shield charge attack speed
+shock nova ring deals #% increased damage
+shock nova ring deals #% increased damage
+#% increased shock nova area of effect
+#% increased shock nova area of effect
+#% increased storm burst area of effect
+#% increased storm burst area of effect
+storm burst fires an additional projectile
+#% increased sunder attack speed
+#% increased sunder attack speed
+#% increased sunder area of effect
+#% increased sunder area of effect
+#% increased shockwave totem cast speed
+#% increased shockwave totem cast speed
+#% increased shockwave totem area of effect
+#% increased shockwave totem area of effect
+explosive trap has #% increased area of effect
+explosive trap has #% increased area of effect
+explosive trap causes an additional smaller explosion
+explosive trap causes # additional smaller explosions
+#% of shrapnel shot physical damage gained as extra lightning damage
+#% of shrapnel shot physical damage gained as extra lightning damage
+#% increased shrapnel shot area of effect
+#% increased shrapnel shot area of effect
+#% increased siege ballista attack speed
+#% increased siege ballista attack speed
+#% increased siege ballista totem placement speed
+#% increased siege ballista totem placement speed
+#% increased essence drain duration
+#% increased essence drain duration
+#% increased smoke mine duration
+#% increased smoke mine duration
+smoke mine grants additional #% increased movement speed
+smoke mine grants additional #% increased movement speed
+spark fires # additional projectiles
+spark fires # additional projectiles
+#% increased spark projectile speed
+#% increased spark projectile speed
+#% increased spectral shield throw projectile speed
+#% increased spectral shield throw projectile speed
+spectral shield throw fires # additional shard projectiles
+spectral shield throw fires # additional shard projectiles
+#% reduced spectral throw projectile deceleration
+#% reduced spectral throw projectile deceleration
+#% increased spectral throw projectile speed
+#% increased spectral throw projectile speed
+spectres have #% increased attack and cast speed
+spectres have #% increased attack and cast speed
+#% to raised spectre elemental resistances
+#% to raised spectre elemental resistances
+#% increased split arrow critical strike chance
+#% increased split arrow critical strike chance
+split arrow fires # additional projectiles
+split arrow fires # additional projectiles
+#% reduced static strike duration
+#% reduced static strike duration
+#% increased static strike area of effect
+#% increased static strike area of effect
+#% to stone golem elemental resistances
+#% to stone golem elemental resistances
+#% increased effect of the buff granted by your stone golems
+#% increased effect of the buff granted by your stone golems
+#% reduced storm call duration
+#% reduced storm call duration
+#% increased storm call area of effect
+#% increased storm call area of effect
+#% increased orb of storms critical strike chance
+#% increased orb of storms critical strike chance
+#% increased orb of storms area of effect
+#% increased orb of storms area of effect
+#% chance to summon an additional skeleton warrior with summon skeleton
+#% chance to summon an additional skeleton warrior with summon skeleton
+#% sweep knockback chance
+#% sweep knockback chance
+#% increased sweep area of effect
+#% increased sweep area of effect
+#% increased tectonic slam area of effect
+#% increased tectonic slam area of effect
+#% chance for tectonic slam to not consume an endurance charge
+#% chance for tectonic slam to not consume an endurance charge
+tempest shield chains an additional # times
+tempest shield chains an additional # times
+#% increased temporal chains curse effect
+#% increased temporal chains curse effect
+#% increased temporal chains duration
+#% increased temporal chains duration
+#% increased tornado shot critical strike chance
+#% increased tornado shot critical strike chance
+tornado shot fires an additional secondary projectile
+tornado shot fires # additional secondary projectiles
+#% increased vengeance cooldown recovery speed
+#% increased vengeance cooldown recovery speed
+#% increased vigilant strike fortify duration
+#% increased vigilant strike fortify duration
+#% increased viper strike critical strike chance
+#% increased viper strike critical strike chance
+#% increased viper strike duration
+#% increased viper strike duration
+#% reduced vitality mana reservation
+#% reduced vitality mana reservation
+#% increased vortex area of effect
+#% increased vortex area of effect
+#% increased vortex duration
+#% increased vortex duration
+vortex has #% increased area of effect when cast on frostbolt
+vortex has #% increased area of effect when cast on frostbolt
+#% increased vulnerability curse effect
+#% increased vulnerability curse effect
+#% increased vulnerability duration
+#% increased vulnerability duration
+#% increased warlord's mark curse effect
+#% increased warlord's mark curse effect
+#% increased warlord's mark duration
+#% increased warlord's mark duration
+#% increased whirling blades attack speed
+#% increased whirling blades attack speed
+wild strike chains an additional # times
+wild strike chains an additional # times
+#% increased wild strike area of effect
+#% increased wild strike area of effect
+#% increased wither duration
+#% increased wither duration
+#% increased wither area of effect
+#% increased wither area of effect
+#% reduced wrath mana reservation
+#% reduced wrath mana reservation
+zombies have #% increased attack speed
+zombies have #% increased attack speed
+#% to raised zombie elemental resistances
+#% to raised zombie elemental resistances
+volatile dead destroys up to # additional corpse
+#% increased volatile dead damage
+#% increased volatile dead damage
+#% increased volatile dead cast speed
+#% increased volatile dead cast speed
+unearth creates corpses with # level
+unearth creates corpses with # level
+#% increased unearth damage
+#% increased unearth damage
+#% increased unearth cast speed
+#% increased unearth cast speed
+cremation can have up to # additional geyser at a time
+#% increased cremation damage
+#% increased cremation damage
+#% increased cremation cast speed
+#% increased cremation cast speed
+#% increased bodyswap damage
+#% increased bodyswap damage
+#% increased bodyswap cast speed
+#% increased bodyswap cast speed

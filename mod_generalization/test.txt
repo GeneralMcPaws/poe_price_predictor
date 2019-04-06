@@ -1,0 +1,23 @@
+5% chance to gain Unholy Might for 3 seconds on Kill
+5% chance to gain Unholy Might for 5 seconds on Kill
+1% increased Movement Speed per 450 Evasion Rating, up to 100%
+Corrupted
+5% chance to gain Onslaught for 4 seconds on Kill
+(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by at least 5 Poisons
+(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons
+Chill Enemy for 1 second when Hit, slowing them by 30%
++(20-25)% to all Elemental Resistances while you have at least 200 Strength
+1% increased Rarity of Items found per 15 Rampage Kills
++(20-25)% to all Elemental Resistances while you have at least 200 Strength
+(40-50)% increased Projectile Attack Damage while you have at least 200 Dexterity
++(20-25)% to all Elemental Resistances while you have at least 200 Strength
+(50-60)% increased Critical Strike Chance while you have at least 200 Intelligence
+1% increased Damage per 5 of your lowest Attribute
+You take 450 Chaos Damage per second for 3 seconds on Kill
+1% increased Movement Speed per 450 Evasion Rating, up to 100%
+1% increased Damage per 15 Dexterity
+Adds (13-19)-(23-29) Chaos Damage to Attacks while you have a Bestial Minion
+Adds (11-16)-(21-25) Physical Damage to Attacks while you have a Bestial Minion
++2 maximum Energy Shield per 5 Strength
+10% chance to Trigger Level 20 Animate Guardian’s Weapon when Animated Weapon Kills an Enemy
+Corrupted

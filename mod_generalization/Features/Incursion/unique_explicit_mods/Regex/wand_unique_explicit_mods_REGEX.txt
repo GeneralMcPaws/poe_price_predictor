@@ -1,0 +1,125 @@
+#% increased spell damage
+# to level of socketed spell gems
+#% increased spell damage
+#% increased cast speed
+# to maximum life
+# to maximum mana
+regenerate # life over # second when you cast a spell
+#% increased spell damage
+#% increased fire damage
+adds # fire damage to spells
+#% increased global critical strike chance
+# life gained on killing ignited enemies
+#% reduced ignite duration on enemies
+#% increased spell damage
+#% increased physical damage
+adds # lightning damage
+#% increased mana regeneration rate
+# to maximum power charges
+#% chance to gain a power charge on kill
+#% increased spell damage
+# to level of socketed active skill gems per # player levels
+adds # physical damage to attacks with this weapon per # player levels
+#% increased attack speed
+trigger a socketed spell when you attack
+#% increased spell damage
+adds # fire damage
+adds # fire damage to spells
+#% increased burning damage
+#% chance to ignite
+#% chance to trigger level # summon raging spirit on kill
+#% increased spell damage
+# to level of socketed gems
+socketed gems are supported by level # spell echo
+# to intelligence
+#% increased spell damage
+#% increased cast speed
+#% chance to gain a power charge on killing a frozen enemy
+adds # cold damage to spells per power charge
+# mana gained on killing a frozen enemy
+#% increased spell damage
+gain #% of elemental damage as extra chaos damage
+critical strikes deal no damage
+#% increased spell damage if you've dealt a critical strike recently
+#% increased spell damage
+socketed gems fire an additional projectile
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% increased critical strike chance
+#% increased spell damage
+# to level of socketed gems
+socketed gems are supported by level # increased area of effect
+socketed gems are supported by level # spell echo
+socketed gems are supported by level # controlled destruction
+# to intelligence
+#% increased spell damage
+# to intelligence
+minions have #% increased movement speed
+minions deal #% increased damage
+# to maximum number of zombies
+# to maximum number of skeletons
+# to maximum number of spectres
+reserves #% of life
+cannot be used with chaos inoculation
+#% increased spell damage
+adds # physical damage
+#% to global critical strike multiplier
+#% increased light radius
+nearby enemies are blinded
+#% increased critical strike chance against blinded enemies
+#% increased spell damage
+adds # physical damage
+#% increased critical strike chance
+gain #% of physical damage as extra chaos damage
+enemies you kill have a #% chance to explode, dealing a quarter of their maximum life as chaos damage
+#% increased spell damage
+socketed gems are supported by level # blind
+#% increased spell damage
+#% increased physical damage
+# to intelligence
+#% increased lightning damage
+#% increased cast speed
+#% chance to blind enemies on hit
+#% increased spell damage
+adds # chaos damage to spells
+#% increased cast speed
+#% to chaos resistance
+#% increased mana cost of skills
+#% increased spell damage
+triggers level # blinding aura when equipped
+adds # physical damage
+#% to global critical strike multiplier
+#% increased light radius
+#% increased critical strike chance against blinded enemies
+increases and reductions to light radius also apply to accuracy
+adds # fire damage to hits with this weapon against blinded enemies
+#% increased spell damage
+no physical damage
+#% increased attack speed
+# to accuracy rating
+#% increased critical strike chance
+attacks with this weapon have #% increased elemental damage
+damage with weapons penetrates #% elemental resistance
+#% increased spell damage
+#% increased spell damage
+adds # lightning damage to spells
+#% to critical strike multiplier per power charge
+#% critical strike chance per power charge
+#% additional chance to block spells per power charge
+adds # lightning damage to spells per power charge
+# lightning damage taken per second per power charge if you've dealt a critical strike recently
+#% increased spell damage
+#% increased cast speed
+#% chance to gain a power charge on killing a frozen enemy
+adds # cold damage to spells per power charge
+lose all power charges on reaching maximum power charges
+gain a frenzy charge on reaching maximum power charges
+#% increased cold damage per frenzy charge
+#% increased spell damage
+#% reduced spell damage
+#% increased cast speed
+#% increased global critical strike chance
+# to maximum mana
+# to maximum power charges
+#% increased spell damage per power charge

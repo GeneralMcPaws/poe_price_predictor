@@ -1,0 +1,21 @@
+#% increased area of effect
+#% increased attack speed
+#% increased physical damage
+#% increased physical damage
+#% chance to fortify on melee hit
+#% chance to gain onslaught for # seconds on kill
+adds # physical damage
+adds # physical damage
+adds # physical damage
+resolute technique
+#% increased critical strike chance
+damage penetrates #% elemental resistances
+gain a frenzy charge after spending a total of # mana
+skills fire an additional projectile
+#% increased global accuracy rating
+# to accuracy rating
+# to accuracy rating
+# to accuracy rating
+#% to global critical strike multiplier
+#% chance to dodge attack hits
+#% chance to cause bleeding on hit

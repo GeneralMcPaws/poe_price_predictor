@@ -1,0 +1,35 @@
+(8-10)% increased Area of Effect
++(20-25)% to Critical Strike Multiplier during any Flask Effect
+(8-12)% increased Attack Speed during any Flask Effect
+(8-12)% increased Cast Speed during any Flask Effect
+(35-40)% increased Critical Strike Chance during any Flask Effect
+(12-15)% increased Skill Effect Duration
+(8-10)% increased maximum Energy Shield
+(6-8)% increased maximum Life
+(8-12)% increased Movement Speed during any Flask Effect
+(20-30)% increased Rarity of Items found
+(3-5)% increased Quantity of Items found
+Wrath has (15-20)% increased Aura Effect
+Anger has (15-20)% increased Aura Effect
+Hatred has (15-20)% increased Aura Effect
+Determination has (15-20)% increased Aura Effect
+Discipline has (15-20)% increased Aura Effect
+Grace has (15-20)% increased Aura Effect
+(4-6)% increased Intelligence
+(4-6)% increased Dexterity
+(4-6)% increased Dexterity
+(4-6)% increased Strength
+(4-6)% increased Strength
+(4-6)% increased Intelligence
++(14-16)% to all Elemental Resistances
+18% increased Strength
+12% increased Intelligence
++30 to maximum Life
+16% increased Stun and Block Recovery
++36 to maximum Life
+Has 1 Abyssal Socket
++(25-35) to Strength
+(12-24)% increased Global Physical Damage
+(20-30)% increased Stun Duration on Enemies
++(9-20) to maximum Energy Shield
++(260-320) to Armour and Evasion Rating

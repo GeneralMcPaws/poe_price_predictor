@@ -1,0 +1,4 @@
+You can catch Corrupted Fish
+(10-20)% increased Cast Speed
+(5-10)% increased Quantity of Fish Caught
+(5-10)% increased Rarity of Fish Caught

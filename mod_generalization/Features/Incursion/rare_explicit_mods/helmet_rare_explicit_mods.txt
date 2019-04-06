@@ -1,0 +1,701 @@
+# to Armour
+#% increased Armour
+#% increased Armour 
+#% increased Stun and Block Recovery
+# to Armour 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to maximum Energy Shield
+# to Evasion Rating
+#% of physical damage from hits taken as lightning damage
+#% of physical damage from hits taken as fire damage
+#% of physical damage from hits taken as cold damage
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+# to Evasion Rating
+#% increased global accuracy rating
+# to maximum Mana
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+#% increased Light Radius 
+# to Strength
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Dexterity
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% chance to block spell damage
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour
+Nearby Enemies have #% to Fire Resistance
+Nearby Enemies have #% to Cold Resistance
+Nearby Enemies have #% to Lightning Resistance
+Nearby Enemies have #% to Chaos Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Evasion Rating 
+#% increased Stun and Block Recovery
+# to Evasion Rating 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to maximum Energy Shield
+# to Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+# to maximum Mana
+# to Armour
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are Supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Light Radius 
+# to Accuracy Rating 
+#% to Accuracy Rating
+# to Dexterity
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Strength
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% Chance to Block Spells
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion
+Nearby Enemies have -#% to Fire Resistance
+Nearby Enemies have -#% to Cold Resistance
+Nearby Enemies have -#% to Lightning Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second
+# to maximum Energy Shield
+#% increased Energy Shield
+#% increased Energy Shield 
+#% increased Stun and Block Recovery
+# to maximum Energy Shield 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+# to maximum Mana
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Evasion Rating and Energy Shield
+# to Evasion Rating
+# to Armour
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Light Radius 
+# to Accuracy Rating 
+#% to Accuracy Rating
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+# to Dexterity
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Dexterity
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+# to Strength
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% Chance to Block Spells
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Energy Shield
+Nearby Enemies have -#% to Fire Resistance
+Nearby Enemies have -#% to Cold Resistance
+Nearby Enemies have -#% to Lightning Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second
+# to Armour 
+# to maximum Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour and Energy Shield 
+#% increased Stun and Block Recovery
+# to Armour 
+# to maximum Life
+# to maximum Energy Shield 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+# to maximum Mana
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to Evasion Rating
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+# to Evasion Rating
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Light Radius 
+# to Accuracy Rating 
+#% to Accuracy Rating
+# to Strength
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+# to Dexterity
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Dexterity
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% Chance to Block Spells
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour and Energy Shield
+Nearby Enemies have -#% to Fire Resistance
+Nearby Enemies have -#% to Cold Resistance
+Nearby Enemies have -#% to Lightning Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second
+# to Armour 
+# to Evasion Rating
+#% increased Armour and Evasion Rating
+#% increased Armour and Evasion Rating 
+#% increased Stun and Block Recovery
+# to Armour 
+# to maximum Life
+# to Evasion Rating 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Mana
+# to Evasion Rating
+# to Armour
+# to maximum Energy Shield
+#% increased Evasion Rating
+#% increased Energy Shield
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Evasion Rating and Energy Shield
+# to maximum Energy Shield
+# to maximum Mana
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Light Radius 
+# to Accuracy Rating 
+#% to Accuracy Rating
+# to Strength
+# to Dexterity
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% Chance to Block Spells
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Armour and Evasion
+Nearby Enemies have -#% to Fire Resistance
+Nearby Enemies have -#% to Cold Resistance
+Nearby Enemies have -#% to Lightning Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second
+# to Evasion Rating 
+# to maximum Energy Shield
+#% increased Evasion Rating and Energy Shield
+#% increased Evasion Rating and Energy Shield 
+#% increased Stun and Block Recovery
+# to Evasion Rating 
+# to maximum Life
+# to maximum Energy Shield 
+# to maximum Life
+# to maximum Life
+# to Level of Socketed Minion Gems
+#% increased Rarity of Items found
+Reflects # Physical Damage to Melee Attackers
+# to maximum Mana
+Suffixes Cannot Be Changed
+#% increased Elemental Damage with Attack Skills
+# to maximum Energy Shield
+# to Evasion Rating
+# to Armour
+#% increased Evasion Rating
+#% increased Armour and Energy Shield
+#% increased Armour
+#% increased Armour and Evasion Rating
+#% increased Energy Shield
+# to Armour
+# to Level of Socketed Support Gems
+#% of Physical Damage taken as Fire Damage
+Socketed Gems are Supported by Level # Increased Area of Effect
+#% increased Area of Effect
+#% chance to gain a Power Charge on Kill
+Adds # Cold Damage to Spells
+Adds # Lightning Damage to Spells
+Socketed Gems are supported by Level # Concentrated Effect
+#% increased Area Damage
+Socketed Gems are supported by Level # Minion Damage
+Minions deal #% increased Damage
+Socketed Gems are supported by Level # Minion Life
+Minions have #% increased maximum Life
+Socketed Gems are Supported by Level # Less Duration
+#% increased maximum Mana
+Adds # Fire Damage to Spells
+Adds # Physical Damage to Spells
+Adds # Chaos Damage to Spells
+# to maximum Life 
+#% increased maximum Life
+# to Accuracy Rating
+#% increased Light Radius 
+# to Accuracy Rating 
+#% to Accuracy Rating
+# to Dexterity
+# to Intelligence
+# Life Regenerated per second
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Rarity of Items found
+#% increased Stun and Block Recovery
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+# to All Attributes
+#% chance to Avoid being Stunned
+# to Strength
+Minions have #% increased maximum Life
+#% chance to Avoid being Shocked
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+# to Strength
+#% reduced Mana Reserved
+#% chance to Avoid being Stunned
+# to Level of Socketed Aura Gems
+Socketed Gems deal #% more Elemental Damage
+Socketed Gems have #% chance to Ignite
+Socketed Gems gain #% of Physical Damage as extra Lightning Damage
+Socketed Gems are Supported by Level # Remote Mine
+Place an additional Mine
+Socketed Gems are Supported by Level # Remote Mine
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Trap And Mine Damage
+#% increased Mine Damage
+Socketed Gems are Supported by Level # Hypothermia
+#% increased Effect of Chill
+Socketed Gems are Supported by Level # Innervate
+#% increased Effect of Shock
+#% increased Mana Regeneration Rate
+# Mana Regenerated per second
+Socketed Spells have #% to Critical Strike Chance
+Socketed Gems are supported by Level # Immolate
+#% increased Ignite Duration on Enemies
+Socketed Gems are supported by Level # Burning Damage
+#% increased Burning Damage
+#% Chance to Block Spells
+Socketed Attacks have #% to Critical Strike Chance
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% chance to gain an additional Vaal Soul on Kill
+#% reduced Mana Reserved
+Ignore all Movement Penalties from Armour
+#% of Mana Regenerated per second
+Socketed Attacks have -# to Total Mana Cost
+Socketed Spells have -#% reduced Mana Cost
+#% reduced Elemental Ailment Duration on you
+#% chance to Avoid being Poisoned
+#% chance to Avoid Bleeding
+#% increased Evasion and Energy Shield
+Nearby Enemies have -#% to Fire Resistance
+Nearby Enemies have -#% to Cold Resistance
+Nearby Enemies have -#% to Lightning Resistance
+Nearby Enemies take #% increased Physical Damage
+#% of Life Regenerated per second

@@ -1,0 +1,29 @@
+bow attacks fire an additional arrow
+#% of cold damage leeched as life
+#% of lightning damage leeched as life
+adds # cold damage to bow attacks
+adds # lightning damage to bow attacks
+adds # cold damage to bow attacks
+adds # lightning damage to bow attack
+adds # lightning damage to bow attacks
+adds # cold damage to bow attacks
+adds # fire damage to bow attacks
+adds adds # fire damage to bow attack
+adds adds # fire damage to bow attacks
+gain #% of physical damage as extra cold damage
+gain #% of physical damage as extra fire damage
+gain #% of physical damage as extra lightning damage
+point blank
+projectiles deal #% increased damage for each time they have chained
+projectiles deal #% increased damage for each enemy pierced
+skills chain # times
+adds # physical damage to bow attacks
+#% increased global accuracy rating
+# life gained for each enemy hit by your attacks
+adds # fire damage to bow attacks
+adds # physical damage to bow attacks
+arrows pierce an additional target
+# life gained for each enemy hit by your attacks
+#% increased global critical strike chance
+#% increased stun duration on enemies
+#% of fire damage leeched as life

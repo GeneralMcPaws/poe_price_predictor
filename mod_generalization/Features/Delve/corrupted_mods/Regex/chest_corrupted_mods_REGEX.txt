@@ -1,0 +1,25 @@
+#% additional physical damage reduction while stationary
+#% increased damage
+#% increased maximum energy shield
+#% increased maximum life
+#% reduced chaos damage taken
+#% reduced cold damage taken
+#% reduced fire damage taken
+#% reduced lightning damage taken
+# to level of socketed gems
+#% to all maximum resistances
+# to level of socketed aoe gems
+# to level of socketed aura gems
+# to level of socketed curse gems
+# to level of socketed duration gems
+# to level of socketed projectile gems
+# to level of socketed trap or mine gems
+# to level of socketed warcry gems
+you take #% reduced extra damage from critical strikes
+#% reduced movement speed
+#% reduced movement speed
+#% to all elemental resistances
+#% increased spell damage
+# to maximum mana
+#% increased movement speed
+#% chance to block attack damage while dual wielding

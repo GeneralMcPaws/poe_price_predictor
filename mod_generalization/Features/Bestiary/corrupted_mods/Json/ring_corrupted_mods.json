@@ -1,0 +1,579 @@
+{
+    "# mana gained for each enemy hit by your attacks": {
+        "gen": "# mana gained for each enemy hit by your attacks",
+        "org": [
+            "+(4-6) mana gained for each enemy hit by your attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum energy shield": {
+        "gen": "# to maximum energy shield",
+        "org": [
+            "+(15-25) to maximum energy shield"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(20-30) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [
+            "+(20-25) to maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(8-10)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(8-10)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased dexterity": {
+        "gen": "#% increased dexterity",
+        "org": [
+            "(4-6)% increased dexterity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage": {
+        "gen": "#% increased elemental damage",
+        "org": [
+            "(15-25)% increased elemental damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "(20-30)% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global physical damage": {
+        "gen": "#% increased global physical damage",
+        "org": [
+            "(15-25)% increased global physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased intelligence": {
+        "gen": "#% increased intelligence",
+        "org": [
+            "(4-6)% increased intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of items found": {
+        "gen": "#% increased quantity of items found",
+        "org": [
+            "(3-5)% increased quantity of items found"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of items found": {
+        "gen": "#% increased rarity of items found",
+        "org": [
+            "(20-30)% increased rarity of items found",
+            "(6-15)% increased rarity of items found"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased strength": {
+        "gen": "#% increased strength",
+        "org": [
+            "(4-6)% increased strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of fire damage leeched as life": {
+        "gen": "#% of fire damage leeched as life",
+        "org": [
+            "0.5% of fire damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "0.5"
+            }
+        ]
+    },
+    "#% to all elemental resistances": {
+        "gen": "#% to all elemental resistances",
+        "org": [
+            "+(14-16)% to all elemental resistances",
+            "+(8-10)% to all elemental resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(9-13)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold and lightning resistances": {
+        "gen": "#% to cold and lightning resistances",
+        "org": [
+            "+(12-16)% to cold and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to cold resistance": {
+        "gen": "#% to cold resistance",
+        "org": [
+            "+(20-30)% to cold resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and cold resistances": {
+        "gen": "#% to fire and cold resistances",
+        "org": [
+            "+(12-16)% to fire and cold resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire and lightning resistances": {
+        "gen": "#% to fire and lightning resistances",
+        "org": [
+            "+(12-16)% to fire and lightning resistances"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to fire resistance": {
+        "gen": "#% to fire resistance",
+        "org": [
+            "+(20-30)% to fire resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to lightning resistance": {
+        "gen": "#% to lightning resistance",
+        "org": [
+            "+(20-30)% to lightning resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage to spells and attacks": {
+        "gen": "adds # cold damage to spells and attacks",
+        "org": [
+            "adds (3-4) to (7-8) cold damage to spells and attacks",
+            "adds (6-9) to (13-16) cold damage to spells and attacks",
+            "adds (12-16) to (24-28) cold damage to spells and attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage to spells and attacks": {
+        "gen": "adds # fire damage to spells and attacks",
+        "org": [
+            "adds (3-5) to (7-8) fire damage to spells and attacks",
+            "adds (7-10) to (15-18) fire damage to spells and attacks",
+            "adds (13-18) to (28-33) fire damage to spells and attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to spells and attacks": {
+        "gen": "adds # lightning damage to spells and attacks",
+        "org": [
+            "adds 1 to (14-15) lightning damage to spells and attacks",
+            "adds (1-2) to (27-28) lightning damage to spells and attacks",
+            "adds (1-5) to (50-52) lightning damage to spells and attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage to attacks": {
+        "gen": "adds # physical damage to attacks",
+        "org": [
+            "adds 1 to 4 physical damage to attacks",
+            "adds (3-4) to (10-14) physical damage to attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "anger has #% increased aura effect": {
+        "gen": "anger has #% increased aura effect",
+        "org": [
+            "anger has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "bleeding cannot be inflicted on you": {
+        "gen": "",
+        "org": [
+            "bleeding cannot be inflicted on you"
+        ],
+        "params": []
+    },
+    "cannot be ignited": {
+        "gen": "",
+        "org": [
+            "cannot be ignited"
+        ],
+        "params": []
+    },
+    "cannot be poisoned": {
+        "gen": "",
+        "org": [
+            "cannot be poisoned"
+        ],
+        "params": []
+    },
+    "determination has #% increased aura effect": {
+        "gen": "determination has #% increased aura effect",
+        "org": [
+            "determination has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "discipline has #% increased aura effect": {
+        "gen": "discipline has #% increased aura effect",
+        "org": [
+            "discipline has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grace has #% increased aura effect": {
+        "gen": "grace has #% increased aura effect",
+        "org": [
+            "grace has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "grants level # anger skill": {
+        "gen": "grants level # anger skill",
+        "org": [
+            "grants level 21 anger skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "21"
+            }
+        ]
+    },
+    "grants level # conductivity skill": {
+        "gen": "grants level # conductivity skill",
+        "org": [
+            "grants level 23 conductivity skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "23"
+            }
+        ]
+    },
+    "grants level # despair skill": {
+        "gen": "grants level # despair skill",
+        "org": [
+            "grants level 23 despair skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "23"
+            }
+        ]
+    },
+    "grants level # flammability skill": {
+        "gen": "grants level # flammability skill",
+        "org": [
+            "grants level 23 flammability skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "23"
+            }
+        ]
+    },
+    "grants level # frostbite skill": {
+        "gen": "grants level # frostbite skill",
+        "org": [
+            "grants level 23 frostbite skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "23"
+            }
+        ]
+    },
+    "grants level # hatred skill": {
+        "gen": "grants level # hatred skill",
+        "org": [
+            "grants level 21 hatred skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "21"
+            }
+        ]
+    },
+    "grants level # wrath skill": {
+        "gen": "grants level # wrath skill",
+        "org": [
+            "grants level 21 wrath skill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "21"
+            }
+        ]
+    },
+    "has # socket": {
+        "gen": "has # socket",
+        "org": [
+            "has 1 socket"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "hatred has #% increased aura effect": {
+        "gen": "hatred has #% increased aura effect",
+        "org": [
+            "hatred has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "properties are doubled while in a breach": {
+        "gen": "",
+        "org": [
+            "properties are doubled while in a breach"
+        ],
+        "params": []
+    },
+    "wrath has #% increased aura effect": {
+        "gen": "wrath has #% increased aura effect",
+        "org": [
+            "wrath has (15-20)% increased aura effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "you can catch corrupted fish": {
+        "gen": "",
+        "org": [
+            "you can catch corrupted fish"
+        ],
+        "params": []
+    }
+}

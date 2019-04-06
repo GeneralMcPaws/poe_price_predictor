@@ -1,0 +1,117 @@
+Adds # Physical Damage to Attacks
+Adds # Cold Damage to Attacks
+Adds # Fire Damage to Attacks
+Adds # Lightning Damage to Attacks
+#% increased Elemental Damage with Attack Skills
+# to maximum Energy Shield
+# to Evasion Rating
+# to maximum Life
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+# to maximum Mana
+#% increased Rarity of Items found
+# to Level of Socketed Gems
+#% increased Evasion Rating
+#% increased Armour
+Adds # Chaos Damage to your Attacks
+#% faster start of Energy Shield Recharge
+Suffixes Cannot Be Changed
+# to Armour
+# mana regenerated per second
+#% increased maximum energy shield
+#% increased maximum life
+# to total mana cost of skills
+#% of life regenerated per second
+#% of energy shield regenerated per second
+gain #% of physical damage as extra fire damage
+#% increased Damage with Poison
+# Cold Damage per Frenzy Charge
+#% of Physical Damage as Extra Fire Damage
+−# to Mana Cost of Skills
+#% increased Damage
+#% reduced Reflected Elemental Damage taken
+Adds # Cold Damage to Spells and Attacks
+Adds # Lightning Damage to Spells and Attacks
+#% increased Experience gain
+# Life gained for each Enemy hit by your Spells
+# Mana gained for each Enemy hit by your Spells
+Adds # Cold Damage against Chilled or Frozen Enemies
+#% chance to Freeze
+Adds # Lightning Damage against Shocked Enemies
+#% chance to Shock
+#% reduced Reflected Physical Damage taken
+Adds # Fire Damage to Spells and Attacks
+Adds # Fire Damage against Ignited Enemies
+#% chance to Ignite
+# Life gained for each Enemy hit by your Attacks
+# Mana gained for each Enemy hit by your Attacks
+#% of Fire Damage Leeched as Life
+#% of Cold Damage Leeched as Life
+#% of Lightning Damage Leeched as Life
+#% of Physical Damage Leeched as Life
+#% of Chaos Damage Leeched as Life
+# to Accuracy Rating
+# to All Attributes
+# to Dexterity
+# to Strength
+# to Intelligence
+#% increased Cast Speed
+#% increased Attack Speed
+# Life gained on Kill
+# Life gained for each Enemy hit by your Attacks
+# Mana gained on Kill
+#% increased Cold Damage
+#% increased Fire Damage
+#% increased Lightning Damage
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% to all Elemental Resistances
+#% increased Mana Regeneration Rate
+# Life Regenerated per second
+#% increased Rarity of Items found
+#% increased Light Radius
+# to Accuracy Rating 
+#% to Accuracy Rating
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% to Fire and Cold Resistances
+#% to Cold and Lightning Resistances
+#% to Fire and Lightning Resistances
+#% increased Critical Strike chance
+Minions have #% increased Movement Speed
+#% increased Critical Strike Chance
+#% to Global Critical Strike Multiplier
+#% increased Chaos Damage
+#% reduced Reflected Damage taken
+#% reduced Effect of Curses on You
+#% increased Spell Damage
+#% increased Global Critical Strike Chance
+Curse Enemies with Level # Assassin's Mark on Hit
+Grants Level # Herald of Ice Skill
+Grants Level # Herald of Thunder Skill
+#% increased Melee Damage
+#% increased Projectile Attack Damage
+#% to Global Critical Strike Multiplier
+#% increased Accuracy Rating
+#% increased Global Accuracy Rating
+Curse Enemies with Level # Poacher's Mark on Hit
+Curse Enemies with Level # Warlord's Mark on Hit
+Grants Level # Herald of Ash Skill
+#% chance to Evade Attacks
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Damage
+Minions have #% increased Movement Speed
+Cannot be Shocked or Ignited while moving
+#% reduced Mana Cost of Skills
+#% increased Elemental Damage
+#% increased Damage with Ailments
+#% chance to Evade Attacks
+#% chance when Hit for double Armour effect
+#% increased Energy Shield from Body Armour
+#% increased Life Recovery from Flasks

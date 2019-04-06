@@ -1,0 +1,23 @@
+#% increased maximum energy shield
+#% increased maximum life
+# to level of socketed aoe gems
+# to level of socketed aura gems
+# to level of socketed curse gems
+# to level of socketed duration gems
+# to level of socketed projectile gems
+# to level of socketed trap or mine gems
+# to level of socketed warcry gems
+#% of life regenerated per second
+#% increased effect of chill
+#% increased effect of shock
+#% increased burning damage
+# to maximum power charges
+# to level of socketed cold gems
+# to level of socketed fire gems
+# to level of socketed lightning gems
+#% of cold damage leeched as life
+#% of fire damage leeched as life
+#% of lightning damage leeched as life
+cannot be blinded
+socketed skill gems get a #% mana multiplier
+minions deal #% increased damage

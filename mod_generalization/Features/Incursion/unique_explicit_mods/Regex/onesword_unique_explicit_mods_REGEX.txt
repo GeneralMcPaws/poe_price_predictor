@@ -1,0 +1,210 @@
+#% increased damage when on low life
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+# to maximum life
+# life gained for each enemy hit by attacks
+uses both hand slots
+#% increased critical strike chance
+adds # physical damage to attacks per level
+gain her embrace for # seconds when you ignite an enemy
+while in her embrace, take #% of your total maximum life and energy shield as fire damage per second per level
+item has # sockets and is fully linked
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+gain #% of physical damage as extra cold damage
+#% increased damage taken from skeletons
+#% increased damage taken from ghosts
+adds # physical damage
+#% increased attack speed
+hits can't be evaded
+attacks with this weapon penetrate #% elemental resistances
+gain #% of physical attack damage as extra lightning damage
+gain #% of physical attack damage as extra fire damage
+#% increased physical damage
+#% increased physical damage
+#% increased physical damage
+#% increased attack speed
+#% of physical damage from hits with this weapon is converted to a random element
+hits with this weapon always inflict elemental ailments
+hits with this weapon deal #% increased damage to ignited enemies
+hits with this weapon deal #% increased damage to frozen enemies
+hits with this weapon deal #% increased damage to shocked enemies
+#% increased attack speed
+# life gained on kill
+#% of physical damage from hits with this weapon is converted to a random element
+hits with this weapon always inflict elemental ailments
+adds # physical damage
+#% increased attack speed
+#% reduced stun and block recovery
+#% chance to avoid being stunned
+socketed gems are supported by level # multistrike
+uses both hand slots
+#% increased physical damage
+#% increased critical strike chance
+#% to global critical strike multiplier
+#% to fire resistance
+cannot be ignited
+#% of physical damage converted to fire damage
+ignited enemies burn #% faster
+you can only deal damage with this weapon and ignite
+#% increased physical damage
+# to intelligence
+#% increased global critical strike chance
+#% of physical attack damage leeched as mana
+#% reduced maximum life
+#% increased maximum energy shield
+#% increased physical damage
+#% increased attack speed
+# life gained on kill
+#% of physical damage from hits with this weapon is converted to a random element
+hits with this weapon always inflict elemental ailments
+# to all attributes
+minions deal #% increased damage
+minions have #% to chaos resistance
+minions have #% chance to poison enemies on hit
+minions recover #% of maximum life on killing a poisoned enemy
+#% increased physical damage
+#% increased attack speed
+#% of chaos damage leeched as life
+#% of physical damage converted to chaos damage
+attacks with this weapon maim on hit
+#% additional block chance while dual wielding
+adds # physical damage
+#% increased global physical damage with weapons per red socket
+#% increased global attack speed per green socket
+#% of physical attack damage leeched as mana per blue socket
+# to melee weapon range per white socket
+#% increased physical damage
+#% increased attack speed
+#% of physical damage from hits with this weapon is converted to a random element
+hits with this weapon always inflict elemental ailments
+hits with this weapon deal #% increased damage to ignited enemies
+hits with this weapon deal #% increased damage to frozen enemies
+hits with this weapon deal #% increased damage to shocked enemies
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% increased effect of buffs on you
+#% reduced mana reserved
+allies' aura buffs do not affect you
+your aura buffs do not affect allies
+adds # physical damage
+#% increased critical strike chance
+#% of physical attack damage leeched as life per red socket
+#% to global critical strike multiplier per green socket
+#% of physical attack damage leeched as mana per blue socket
+#% increased global defences per white socket
+#% increased global critical strike chance when in main hand
+#% additional chance to block when in off hand
+#% increased damage when on low life
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+# to maximum life
+# life gained for each enemy hit by attacks
+you have onslaught while on low life
+adds # lightning damage
+#% increased attack speed
+#% increased damage taken per frenzy charge
+#% increased lightning damage per frenzy charge
+# life gained on kill per frenzy charge
+plays wolf call sound on kill (hidden)
+grants summon harbinger of the arcane skill
+trigger level # storm cascade when you attack
+#% increased spell damage
+#% increased physical damage
+adds # lightning damage
+adds # lightning damage to spells
+#% increased area of effect
+adds # physical damage
+adds # fire damage
+adds # cold damage
+adds # lightning damage
+adds # chaos damage
+#% increased attack speed
+#% increased physical damage
+adds # physical damage
+# mana gained for each enemy hit by attacks
+counts as all one handed melee weapon types
+#% increased physical damage
+#% increased attack speed
+#% increased evasion rating while moving
+skills fire # additional projectiles if you've used a movement skill recently
+far shot
+adds # physical damage
+#% increased attack speed
+# to accuracy rating
+# to evasion rating
+#% increased movement speed
+#% increased attack damage per # evasion rating
+#% increased physical damage
+#% increased attack speed
+#% increased armour while stationary
+skills fire # additional projectiles if you've been hit recently
+point blank
+iron reflexes while stationary
+adds # physical damage
+#% increased critical strike chance
+# to maximum frenzy charges
+#% increased area of effect
+# strength requirement
+#% global critical strike multiplier while you have no frenzy charges
+# to accuracy rating while at maximum frenzy charges
+adds # physical damage
+#% increased burning damage if you've ignited an enemy recently
+recover #% of maximum life when you ignite an enemy
+#% increased melee physical damage against ignited enemies
+#% additional block chance while dual wielding
+adds # physical damage
+#% increased physical damage with axes
+# to accuracy rating
+#% chance to gain a frenzy charge on kill
+grants level # envy skill
+minions deal #% increased damage
+minions have #% to chaos resistance
+minions have #% chance to poison enemies on hit
+minions leech #% of damage as life against poisoned enemies
+# to level of socketed melee gems
+uses both hand slots
+#% increased physical damage
+adds # fire damage
+#% increased attack speed
+#% increased global critical strike chance
+# to evasion rating
+#% reduced rarity of items found
+#% increased movement speed when on low life
+#% increased physical damage
+#% reduced rarity of items found
+#% to all elemental resistances
+# life gained for each enemy hit by attacks
+no physical damage
+adds # lightning damage
+#% increased attack speed
+# life gained for each enemy hit by attacks
+#% chance to shock
+#% increased herald of thunder buff effect
+#% increased elemental damage with attack skills
+adds # lightning damage
+#% increased attack speed
+attacks chain an additional time when in main hand
+attacks fire an additional projectile when in off hand
+#% increased physical damage
+# to strength
+# to maximum mana
+#% increased movement speed
+#% increased elemental damage
+# to weapon range
+adds # physical damage
+adds # cold damage
+#% reduced frenzy charge duration
+#% chance to gain a frenzy charge on kill
+#% increased damage while you have no frenzy charges
+no physical damage
+adds # cold damage
+adds # cold damage to spells
+#% increased attack speed
+# intelligence requirement
+#% increased critical strike chance against chilled enemies
+trigger a socketed cold spell on melee critical strike

@@ -1,0 +1,43 @@
+{
+    "# life gained for each enemy hit by attacks": {
+        "gen": "# life gained for each enemy hit by attacks",
+        "org": [
+            "+3 life gained for each enemy hit by attacks",
+            "+7 life gained for each enemy hit by attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# mana gained for each enemy hit by attacks": {
+        "gen": "# mana gained for each enemy hit by attacks",
+        "org": [
+            "(3-5) mana gained for each enemy hit by attacks"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "1.6% of physical attack damage leeched as life",
+            "2% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

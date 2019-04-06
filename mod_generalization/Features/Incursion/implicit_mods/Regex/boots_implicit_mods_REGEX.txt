@@ -1,0 +1,4 @@
+#% to all elemental resistances
+#% to cold and lightning resistances
+#% to fire and cold resistances
+#% to fire and lightning resistances

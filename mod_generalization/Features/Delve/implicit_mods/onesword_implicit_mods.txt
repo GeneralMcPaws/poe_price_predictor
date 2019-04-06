@@ -1,0 +1,10 @@
+40% increased Global Accuracy Rating
++190 to Accuracy Rating
++240 to Accuracy Rating
++330 to Accuracy Rating
++25% to Global Critical Strike Multiplier
++35% increased Global Critical Strike Multiplier
+6% chance to dodge attack hits
+4% chance to dodge attack hits
+20% chance to cause bleeding on hit
+15% chance to cause Bleeding on Hit

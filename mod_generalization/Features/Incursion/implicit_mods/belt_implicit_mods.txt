@@ -1,0 +1,9 @@
++30 to maximum Life
+16% increased Stun and Block Recovery
++36 to maximum Life
+Has 1 Abyssal Socket
++(25-35) to Strength
+(12-24)% increased Global Physical Damage
+(20-30)% increased Stun Duration on Enemies
++(9-20) to maximum Energy Shield
++(260-320) to Armour and Evasion Rating

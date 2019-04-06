@@ -1,0 +1,102 @@
+#% increased life recovered
+#% increased recovery rate
+recover full life at the end of the flask effect
+removes #% of your maximum energy shield on use
+you take #% of your maximum life as chaos damage on use
+you gain a power charge on use
+you gain a frenzy charge on use
+you gain an endurance charge on use
+#% increased charges used
+cannot gain mana during effect
+vaal skills deal #% increased damage during effect
+vaal skills have #% reduced soul cost during effect
+vaal skills used during effect have #% reduced soul gain prevention duration
+#% increased charges used
+skills used during flask effect grant #% of mana cost as life over # seconds
+#% increased amount recovered
+#% increased recovery rate
+your skills have no mana cost during flask effect
+#% increased rarity of items found during flask effect
+#% increased quantity of items found during flask effect
+#% increased light radius during flask effect
+#% to all maximum elemental resistances during flask effect
+instant recovery
+#% increased charges used
+vaal skills deal #% more damage during effect
+vaal skills used during effect do not apply soul gain prevention
+gains no charges during effect of any soul ripper flask
+#% reduced amount recovered
+# enemy writhing worms escape the flask when used writhing worms are destroyed when hit
+#% reduced charges used
+during flask effect, #% reduced damage taken of each element for which your uncapped elemental resistance is lowest
+during flask effect, damage penetrates #% resistance of each element for which your uncapped elemental resistance is highest
+creates a smoke cloud on use
+gain unholy might during flask effect
+immunity to ignite during flask effect
+removes burning on use
+chaos damage does not bypass energy shield during effect
+removes all but one life on use removed life is regenerated as energy shield over # seconds
+#% increased duration
+#% of physical damage from hits taken as cold damage during flask effect
+gain #% of physical damage as extra cold damage during effect
+#% chance to avoid being chilled during flask effect
+#% chance to avoid being frozen during flask effect
+immune to freeze, chill, curses and stuns during flask effect
+#% reduced duration
+recover #% of your maximum life on use
+#% of maximum life taken as chaos damage per second
+adds knockback to melee attacks during flask effect
+#% chance to cause enemies to flee on use
+#% more melee physical damage during effect
+knocks back enemies in an area when you use a flask
+creates consecrated ground on use
+#% increased charge recovery
+#% increased duration
+gains no charges during effect of any overflowing chalice flask
+#% increased charges gained by other flasks during flask effect
+creates consecrated ground on use
+#% increased duration
+zealot's oath during flask effect
+#% increased charges used
+#% chance to gain a flask charge when you deal a critical strike
+#% increased movement speed during flask effect
+consumes frenzy charges on use
+gain onslaught for # seconds per frenzy charge on use
+#% increased duration
+creates a smoke cloud on use
+#% increased charges used
+#% increased damage over time during flask effect
+grants level # despair curse aura during flask effect
+#% of chaos damage leeched as life during flask effect
+gain #% of physical damage as extra chaos damage during effect
+gain #% of elemental damage as extra chaos damage during effect
+#% increased charges used
+#% increased area of effect during flask effect
+skills fire # additional projectiles during flask effect
+#% chance to block during flask effect
+#% chance to block spells during flask effect
+#% increased charges used
+shocks nearby enemies during flask effect, causing #% increased damage taken
+you are shocked during flask effect, causing #% increased damage taken
+adds # lightning damage to attacks during flask effect
+#% of lightning damage leeched as life during flask effect
+#% increased charges used
+shocks nearby enemies during flask effect, causing #% increased damage taken
+you are shocked during flask effect, causing #% increased damage taken
+adds # lightning damage to spells during flask effect
+#% of lightning damage leeched as life during flask effect
+#% increased charges used
+shocks nearby enemies during flask effect, causing #% increased damage taken
+you are shocked during flask effect, causing #% increased damage taken
+damage penetrates #% lightning resistance during flask effect
+#% of lightning damage leeched as life during flask effect
+#% increased charges used
+shocks nearby enemies during flask effect, causing #% increased damage taken
+you are shocked during flask effect, causing #% increased damage taken
+#% of physical damage converted to lightning during flask effect
+#% of lightning damage leeched as life during flask effect
+take # chaos damage per second during flask effect
+#% chance to poison on hit during flask effect
+your critical strikes do not deal extra damage during flask effect
+#% increased duration of poisons you inflict during flask effect
+grants perfect agony during flask effect

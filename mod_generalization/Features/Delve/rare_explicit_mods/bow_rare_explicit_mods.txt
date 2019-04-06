@@ -1,0 +1,140 @@
+Adds # Physical Damage
+#% increased Physical Damage
+#% increased Physical Damage
+# to Accuracy Rating
+# to Level of Socketed Gems
+# to Level of Socketed Bow Gems
+#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana
+#% increased Elemental Damage with Attack Skills
+Adds # Cold Damage
+Adds # Fire Damage
+projectiles pierce # additional targets
+socketed skills deal #% more attack damage
+#% increased bleeding duration
+#% increased global accuracy rating
+socketed skills deal #% more spell damage
+# to evasion rating if hit an enemy recently
+your hits inflict decay, dealing # chaos damage per second for # seconds
+gain #% of physical damage as extra chaos damage
+#% increased chaos damage
+#% increased lightning damage
+triggers level # spectral spirits when equipped
+#% increased fire damage
+#% increased cold damage
+Adds # Lightning Damage
+Adds # Chaos Damage
+#% reduced Enemy Block Chance 
+Attack Projectiles Return to You after hitting targets
+Suffixes Cannot Be Changed
+#% increased Damage over Time
+#% increased Spell Damage
+Adds # Cold Damage to Spells
+Adds # Fire Damage to Spells
+Adds # Lightning Damage to Spells
+# to Level of Socketed Cold Gems
+# to Level of Socketed Fire Gems
+# to Level of Socketed Lightning Gems
+#% to Quality of Socketed Support Gems
+#% chance to cause bleeding on hit
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+socketed gems are supported by level # vicious projectiles
+Damage Penetrates #% Lightning Resistance
+Socketed Gems are supported by Level # Cast On Critical Strike
+Gain #% of Physical Damage as Extra Cold Damage
+Adds # Cold Damage to Attacks with this Weapon per # Dexterity
+#% chance to gain a Frenzy Charge on Kill
+Socketed Gems are Supported by Level # Physical Projectile Attack Damage
+#% increased Physical Damage
+Socketed Gems are Supported by Level # Iron Grip
+#% increased Physical Damage
+Socketed Gems are Supported by Level # Faster Projectiles
+#% increased Physical Damage
+# to Level of Socketed Strength Gems
+# to Level of Socketed Dexterity Gems
+# to Level of Socketed Intelligence Gems
+Minions deal #% increased Damage
+Socketed Attacks deal #% more Damage
+Socketed Spells deal #% more Damage
+#% increased Elemental Damage
+Attacks with this Weapon Penetrate #% Elemental Resistances
+#% chance for Poisons inflicted with this Weapon to deal #% more Damage
+#% chance for Bleeding inflicted with this Weapon to deal #% more Damage
+Damage Penetrates #% Fire Resistance
+Damage Penetrates #% Cold Resistance
+Damage Penetrates #% Lightning Resistance
+# to Accuracy Rating
+#% increased Light Radius
+# to Accuracy Rating 
+#% to Accuracy Rating
+#% increased Attack Speed
+# to Dexterity
+#% increased Critical Strike Chance
+#% to Global Critical Strike Multiplier
+# Life gained on Kill
+# Life gained for each Enemy hit by your Attacks
+# Life gained for each Enemy hit by Attacks
+# Mana gained on Kill
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% reduced Attribute Requirements
+#% increased Stun Duration on Enemies
+#% increased Projectile Speed
+#% increased Damage with Poison
+#% chance to Poison on Hit
+#% increased Poison Duration
+#% increased Damage with Bleeding
+#% chance to cause Bleeding on Hit
+#% increased Bleed Duration
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+#% reduced Damage taken from Damage Over Time
+Cannot roll Caster Mods
+Minions deal #% increased Damage
+#% chance to Cast Level # Fire Burst on Hit
+Casts level # Spectral Spirits when equipped
+#% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Hits inflict Decay, dealing # Chaos Damage per second for # seconds
+#% increased Cast Speed
+#% increased Critical Strike Chance for Spells
+#% increased Attack Speed
+#% chance to deal Double Damage
+#% increased Critical Strike Chance if you have Killed Recently
+#% increased Critical Strike Chance
+#% chance to gain Onslaught for # seconds on Kill
+Damage Penetrates #% Elemental Resistances
+#% increased Movement Speed
+# to Maximum Frenzy Charges
+#% chance to gain a Power Charge on Critical Strike
+#% to Global Critical Strike Multiplier
+Projectiles Pierce # additional Target
+Socketed Gems Chain # additional times
+Projectiles deal #% increased Damage for each Enemy Pierced
+#% increased Attack Speed if you've Killed Recently
+#% increased Attack Speed
+#% to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently
+#% increased Critical Strike Chance
+#% chance to Blind Enemies on Hit with Attacks
+#% of Physical Damage Converted to Chaos Damage
+Culling Strike
+#% increased Area of Effect
+Adds an additional
+bow attacks fire an additional arrow
+projectiles pierce an additional target
+#% increased Projectile Attack Damage per # Accuracy Rating
+Has # Abyssal Socket
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% reduced Soul Cost of Vaal Skills
+Auras from your Skills grant #% increased Damage to you and Allies
+#% chance to gain Onslaught for # seconds on Kill
+#% of Mana Regenerated per second if you've Hit an Enemy Recently
+#% chance to Intimidate Enemies for # seconds on Hit
+Curse Enemies with Level # Despair on Hit
+#% increased Damage when on Full Life
+# to Evasion if you've Hit an Enemy Recently

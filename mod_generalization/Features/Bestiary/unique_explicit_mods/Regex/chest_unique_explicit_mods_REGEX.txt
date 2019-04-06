@@ -1,0 +1,479 @@
+adds # physical damage to attacks
+# to maximum life
+# physical damage taken from attacks
+#% of melee physical damage taken reflected to attacker
+# to strength
+#% increased armour
+#% reduced chaos damage taken over time
+#% increased light radius
+chaos damage does not bypass energy shield
+# chaos damage taken
+adds # physical damage to attacks
+# to armour
+# to maximum life
+# physical damage taken from attacks
+#% of melee physical damage taken reflected to attacker
+#% increased quantity of items found
+#% increased rarity of items found
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% reduced movement speed
+#% reduced strength requirement
+#% increased armour
+#% reduced movement speed
+#% chance to block
+cannot block spells
+strength's damage bonus instead grants #% increased melee physical damage per # strength
+#% increased armour
+# to maximum life
+#% of physical attack damage leeched as mana
+socketed gems are supported by level # pierce
+enemy projectiles pierce you
+#% to all elemental resistances
+grants level # death aura skill
+# to all attributes
+#% increased attack speed
+#% increased armour
+# to maximum life
+#% of attack damage leeched as life
+you take # chaos damage per second for # seconds on kill
+gore footprints
+grants level # aspect of the crab skill
+#% increased armour
+# to maximum life
+#% to fire and cold resistances
+cannot be inflicted with bleeding
+# to maximum number of crab barriers
+#% reduced chance to block attack and spell damage
+#% increased armour
+#% reduced movement speed
+#% increased shock duration on you
+take no extra damage from critical strikes
+grants level # summon doedre's effigy skill socketed curse skills are triggered by doedre's effigy when summoned socketed curse skills ignore curse limit
+has no sockets
+# to maximum life
+has an additional implicit mod
+# to all attributes
+recover #% of maximum life on kill
+recover #% of maximum energy shield on kill
+#% to all resistances for each equipped corrupted item
+#% increased maximum energy shield for each equipped corrupted item
+#% increased maximum life for each equipped corrupted item
+item has # sockets and is fully linked
+#% increased fire damage
+#% increased attack speed
+# to evasion rating
+#% to cold resistance
+#% increased movement speed
+#% increased mana recovery from flasks
+#% increased dexterity
+socketed gems are supported by level # added fire damage
+#% increased evasion rating
+# to maximum life
+#% to fire resistance
+cannot be ignited
+#% increased physical damage with ranged weapons
+# physical damage taken from attacks
+adds # physical damage to attacks
+# to dexterity
+# to evasion rating while on full life
+#% increased evasion rating
+#% increased movement speed
+# to dexterity
+#% increased evasion rating
+# to maximum life
+#% chance to dodge spell damage
+#% chance to dodge spell hits
+#% increased arctic armour buff effect
+evasion rating is increased by uncapped cold resistance
+# to level of socketed movement gems
+#% increased attack speed
+#% increased damage with movement skills
+#% increased evasion rating
+#% increased movement speed
+#% increased attack and cast speed if you've used a movement skill recently
+adds # physical damage to attacks
+# to dexterity
+# to evasion rating while on full life
+# to evasion rating
+#% increased evasion rating
+#% increased movement speed
+enemies are unlucky when damaging you while you are on full life
+#% increased evasion rating
+# to maximum life
+#% to fire resistance
+#% increased movement speed
+#% increased fire damage taken
+#% of fire damage from hits taken as physical damage
+#% increased attack speed
+# to evasion rating
+#% to cold resistance
+#% increased movement speed
+#% increased mana recovery from flasks
+#% increased dexterity
+#% increased damage per # dexterity
+#% increased evasion rating
+# to maximum life
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% reduced movement speed
+1% increased movement speed per 450 evasion rating, up to 100%
+# physical damage taken when hit by animals
+#% increased evasion rating
+# to maximum life
+#% to fire resistance
+#% less damage taken if you have not been hit recently
+#% increased evasion rating if you have been hit recently
+grants level # summon bestial rhoa skill
+# to accuracy rating
+#% increased evasion rating
+# to maximum life
+projectile attack skills have #% increased critical strike chance
+projectiles from attacks have #% chance to maim on hit while you have a bestial minion
+#% increased attack and movement speed while you have a bestial minion
+grants level # summon bestial snake skill
+# to accuracy rating
+#% increased evasion rating
+# to maximum life
+projectile attack skills have #% increased critical strike chance
+projectiles from attacks have #% chance to poison on hit while you have a bestial minion
+adds # chaos damage to attacks while you have a bestial minion
+grants level # summon bestial ursa skill
+# to accuracy rating
+#% increased evasion rating
+# to maximum life
+projectile attack skills have #% increased critical strike chance
+projectiles from attacks have #% chance to inflict bleeding on hit while you have a bestial minion
+adds # physical damage to attacks while you have a bestial minion
+# to dexterity
+adds # cold damage to attacks
+#% increased evasion rating
+#% increased chill duration on enemies
+#% chance to dodge attack hits
+#% chance to dodge spell damage
+#% increased evasion rating
+# to maximum life
+#% to cold resistance
+#% increased dexterity
+#% reduced arctic armour mana reservation
+evasion rating is increased by uncapped cold resistance
+phase acrobatics
+#% increased movement speed
+#% increased evasion rating
+#% to chaos resistance
+enemies can have # additional curse
+your curses can apply to hexproof enemies
+#% chance to poison on hit against cursed enemies
+# to level of socketed gems
+#% increased global defences
+you can only socket corrupted gems in this item
+<random keystone>
+corrupted
+sockets cannot be modified
+# to level of socketed gems
+#% increased global defences
+item has no level requirement and energy shield
+item has # white sockets and is fully linked
+socketed gems are supported by level # elemental proliferation
+adds # fire damage to spells and attacks
+adds # cold damage to spells and attacks
+adds # lightning damage to spells and attacks
+# to evasion rating
+# to maximum life
+# to maximum mana
+# to maximum energy shield
+#% to fire resistance
+#% to cold resistance
+#% to lightning resistance
+#% to fire resistance
+#% increased ignite duration on enemies
+#% chance to ignite
+reflects # fire damage to melee attackers
+#% of physical damage from hits taken as fire damage
+gems can be socketed in this item ignoring socket colour
+gems socketed in red sockets have # to level
+gems socketed in green sockets have #% to quality
+gems socketed in blue sockets gain #% increased experience
+has no attribute requirements
+adds # lightning damage to attacks
+#% increased energy shield
+#% to chaos resistance
+#% increased light radius
+#% chance to create consecrated ground when you block
+#% chance to create desecrated ground when you block
+socketed gems are supported by level # spell totem
+#% increased spell damage
+#% increased energy shield
+#% increased totem life
+can have up to # additional totem summoned at a time
+inflicts a random level # curse on you when your totems die
+socketed gems are supported by level # added chaos damage
+socketed gems have blood magic
+# to intelligence
+#% increased maximum life
+#% increased energy shield
+# to level of socketed herald gems
+#% increased energy shield
+#% chance to avoid being stunned for each herald skill affecting you
+mana reservation of herald skills is always #%
+#% increased energy shield
+minions cannot be blinded
+minions have #% chance to blind enemies on hit
+socketed minion gems are supported by level # life leech
+found magic items drop identified
+# to maximum mana
+#% increased energy shield
+minions have #% reduced maximum life
+minions deal #% increased damage
+# to maximum number of spectres
+minions gain unholy might for # seconds on kill
+#% increased spell damage
+#% increased energy shield
+#% faster start of energy shield recharge
+#% to lightning resistance
+reflects # lightning damage to melee attackers
+chaos damage does not bypass energy shield
+socketed curse gems are supported by level # blasphemy
+# to intelligence
+#% increased energy shield
+#% reduced effect of your curses
+# to level of socketed fire gems
+#% increased fire damage
+#% increased global critical strike chance
+#% increased energy shield
+#% of fire damage converted to chaos damage
+#% increased spell damage taken when on low mana
+# to intelligence
+#% increased energy shield
+# energy shield regenerated per second
+enemies affected by your spider's webs deal #% reduced damage
+enemies affected by your spider's webs have #% to all resistances
+#% increased aspect of the spider area of effect
+#% increased spell damage
+#% increased energy shield
+# to maximum energy shield
+#% increased area of effect
+#% increased damage taken
+#% increased energy shield recovery rate
+#% increased armour and evasion
+# to maximum life
+#% to cold resistance
+#% increased movement speed
+#% chance to poison on hit with attacks
+cannot be poisoned
+#% increased global physical damage
+# to maximum life
+#% to cold resistance
+#% of life regenerated per second
+#% increased character size
+spell skills deal no damage
+your spells are disabled
+#% increased armour
+#% increased maximum life
+#% to all elemental resistances
+#% increased flask life recovery rate
+extra gore
+adds # lightning damage to attacks
+#% increased armour and evasion
+# to maximum life
+#% to lightning resistance
+#% of physical damage from hits taken as lightning damage
+#% increased armour and evasion
+# to maximum life
+#% of physical attack damage leeched as life
+#% chance to dodge attack hits
+you lose all endurance charges when hit
+you gain an endurance charge on kill
+you gain onslaught for # seconds per endurance charge when hit
+#% increased chaos damage
+#% increased armour and evasion
+# to maximum life
+#% increased life leeched per second
+#% increased armour and evasion
+# to maximum life
+aspect of the cat reserves no mana
+# seconds to cat's stealth duration
+gain up to your maximum number of frenzy and power charges when you gain cat's stealth
+you have phasing while you have cat's stealth
+#% increased armour and energy shield
+#% reduced maximum mana
+gain a power charge for each enemy you hit with a critical strike
+# to strength
+# to intelligence
+#% increased armour and energy shield
+#% to cold resistance
+cannot be chilled
+#% increased chill duration on enemies
+#% increased armour and energy shield
+# to maximum life
+#% to all elemental resistances
+gain an endurance charge when you take a critical strike
+share endurance charges with nearby party members
+#% of life regenerated per second if you have been hit recently
+#% increased armour and energy shield
+#% of physical damage converted to chaos damage
+reflects # chaos damage to melee attackers
+#% reduced light radius
+#% chance on block to create desecrated ground
+# to strength
+# to intelligence
+#% increased armour and energy shield
+#% to cold resistance
+cannot be chilled
+#% of physical damage from hits taken as cold damage
+#% of fire damage from hits taken as cold damage
+#% increased effect of chill
+#% increased armour and energy shield
+# to maximum life
+# to maximum mana
+#% reduced chance to block attack and spell damage
+#% increased endurance charge duration
+gain # life when you lose an endurance charge
+#% increased armour and energy shield
+# to maximum life
+# to maximum energy shield
+#% to all elemental resistances
+# maximum energy shield per # strength
+zealot's oath
+has # sockets
+adds # physical damage to attacks
+# to all attributes
+#% increased global critical strike chance
+# to maximum energy shield
+# to maximum life
+# to maximum mana
+#% increased rarity of items found
+#% increased elemental damage
+your maximum resistances are #%
+#% increased armour and energy shield
+# to maximum life
+animated guardian deals #% increased damage per animated weapon
+animated minions' melee attacks deal splash damage to surrounding targets
+animated minions' melee attacks deal #% less damage to surrounding targets
+trigger level # animate guardian's weapon when animated guardian kills an enemy
+#% chance to trigger level # animate guardian's weapon when animated weapon kills an enemy
+you cannot have non-animated minions
+#% increased armour and energy shield
+# to maximum life
+#% of attack damage leeched as life
+gain #% of elemental damage as extra chaos damage
+#% of elemental damage from hits taken as chaos damage
+#% increased light radius
+light radius is based on energy shield instead of life
+grants level # blood offering skill
+#% increased evasion and energy shield
+#% increased maximum life
+minions have #% increased maximum life
+#% of life regenerated per second
+minions have #% chance to dodge attack hits
+#% increased evasion and energy shield
+# to maximum mana
+#% of mana regenerated per second
+#% of damage is taken from mana before life
+mind over matter
+# to level of socketed aura gems
+socketed gems are supported by level # generosity
+socketed gems have #% reduced mana reservation
+#% increased evasion and energy shield
+#% increased area of effect of aura skills
+#% increased effect of non-curse auras you cast
+#% increased effect of non-curse auras from your skills
+socketed gems are supported by level # lesser poison
+#% increased evasion and energy shield
+# to maximum energy shield
+#% to all elemental resistances
+#% increased damage with poison if you have at least # dexterity
+#% increased poison duration if you have at least # intelligence
+#% increased evasion and energy shield
+# to maximum life
+#% to all elemental resistances
+#% increased area of effect
+#% increased area damage
+extra gore
+# to all attributes
+#% to lightning resistance
+#% reduced mana reserved
+#% increased aspect of the avian buff effect
+aspect of the avian also grants avian's might and avian's flight to nearby allies
+# to evasion rating and energy shield
+# to maximum life
+#% increased damage if you have shocked an enemy recently
+#% increased effect of shock
+unaffected by shock
+shocked enemies you kill explode, dealing #% of their maximum life as lightning damage which cannot shock
+#% increased evasion and energy shield
+# to maximum life
+#% increased cooldown recovery speed for throwing traps
+#% chance to gain a frenzy charge when your trap is triggered by an enemy
+#% chance to gain phasing for # seconds when your trap is triggered by an enemy
+recover # life when your trap is triggered by an enemy
+recover # energy shield when your trap is triggered by an enemy
+# to maximum mana
+has # abyssal socket
+socketed gems are supported by level # elemental penetration
+#% chance to trigger level # shade form when you use a socketed skill
+#% increased evasion and energy shield
+#% increased maximum life
+#% increased maximum mana
+#% increased maximum life per abyss jewel affecting you
+#% increased maximum mana per abyss jewel affecting you
+# to maximum mana
+# to maximum life
+#% increased evasion and energy shield
+#% increased movement speed per frenzy charge
+#% increased endurance, frenzy and power charge duration
+# life regenerated per second per endurance charge
+#% increased armour and energy shield
+# to maximum energy shield
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased armour
+# to maximum life
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased armour and energy shield
+# to maximum life
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased armour, evasion and energy shield
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased armour and evasion
+# to maximum life
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased energy shield
+# to maximum energy shield
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased evasion and energy shield
+# to maximum energy shield
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased evasion rating
+# to maximum life
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+#% increased evasion and energy shield
+# to maximum life
+#% to all elemental resistances
+# life gained on kill
+# mana gained on kill
+strength's damage bonus instead grants #% increased melee
+physical damage per # strength
+#% reduced movement speed
+#% increased armour
+#% chance to block attack damage per # strength
+chance to block spell damage is unlucky
+# to strength
+#% chance to block attack damage

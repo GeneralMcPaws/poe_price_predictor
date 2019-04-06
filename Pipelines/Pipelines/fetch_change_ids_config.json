@@ -1,0 +1,40 @@
+{
+  "CONFIG": {
+    "NEXT_CHANGE_IDS_URL": "https://www.pathofexile.com/api/trade/data/change-ids/",
+    "DEAMON_CSV_NAME": "next_change_ids_idx.csv",
+    "URL_HEADERS": { "content-type": "application/json " },
+    "ERROR_TRIES": 3,
+    "OUTPUT_PATH": "D:\\data_repo",
+    "RETRY_WAIT_TIME" : 5
+  },
+
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "verbose": {
+        "format": "%(levelname)s : %(asctime)s %(message)s"
+      }
+    },
+    "handlers": {
+      "verbose_file_handler": {
+        "level": "DEBUG",
+        "class": "logging.FileHandler",
+        "filename": "change_ids_logger.log",
+        "formatter": "verbose",
+        "mode": "a"
+      },
+      "verbose_console_handler": {
+        "level": "WARNING",
+        "class": "logging.StreamHandler",
+        "formatter": "verbose"
+      }
+    },
+    "loggers": {
+      "file_console_logger": {
+        "handlers": [ "verbose_console_handler", "verbose_file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

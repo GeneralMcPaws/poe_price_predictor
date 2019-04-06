@@ -1,0 +1,317 @@
+#% to lightning resistance
+#% increased movement speed
+#% increased shock duration on enemies
+#% of physical damage converted to lightning damage
+#% increased effect of shock
+#% increased armour
+#% to all elemental resistances
+#% increased movement speed
+#% increased elemental damage
+enemies can have # additional curse
+adds # physical damage to attacks
+#% reduced enemy stun threshold
+#% increased armour
+# to maximum life
+#% to fire resistance
+grants level # vaal impurity of fire skill
+grants level # vaal impurity of lightning skill
+grants level # vaal impurity of ice skill
+#% increased movement speed
+unaffected by burning ground
+#% increased armour
+# to maximum life
+#% to cold resistance
+#% increased movement speed
+cannot be stunned if you have at least # crab barriers
+you only lose # crab barriers when you take physical damage from a hit
+# to maximum life
+#% increased movement speed
+#% chance to block spell damage
+moving while bleeding doesn't cause you to take extra damage
+#% increased movement speed while bleeding
+#% chance to be inflicted with bleeding when hit by an attack
+#% increased armour
+#% to all elemental resistances
+#% increased movement speed
+#% increased elemental damage
+enemies can have # additional curse
+#% increased area of effect of curse skills
+has no sockets
+cannot be knocked back
+# to maximum life
+you cannot be slowed to below base speed
+unwavering stance
+#% increased armour
+# to maximum life
+#% increased movement speed
+#% additional physical damage reduction while stationary
+gain a frenzy charge on hit while bleeding
+#% increased movement speed while bleeding
+#% chance to be inflicted with bleeding when hit by an attack
+gore footprints
+#% increased maximum mana
+#% to lightning resistance
+#% increased movement speed
+2% chance to dodge attack and spell hits per 500 maximum mana, up to 20%
+you have onslaught while not on low mana
+lose #% of maximum mana per second
+# to maximum mana
+#% to lightning resistance
+#% increased movement speed
+you have onslaught while not on low mana
+lose # mana per second
+#% increased movement speed
+level requirement reduced by # (hidden)
+# to strength
+#% increased movement speed
+#% chance to ignite
+when you kill an ignited enemy, inflict an equivalent ignite on each nearby enemy
+triggers level # abberath's fury when equipped
+#% increased fire damage per # strength
+burning hoofprints
+# to dexterity
+# to intelligence
+#% increased evasion rating
+#% increased movement speed
+#% increased movement speed for you and nearby allies
+#% of damage taken gained as mana over # seconds when hit
+socketed gems are supported by level # trap
+#% increased evasion rating
+# to maximum life
+#% increased trap throwing speed
+#% increased movement speed
+#% increased movement speed for # seconds on throwing a trap
+#% increased mana regeneration rate
+#% increased quantity of items found
+#% to fire resistance
+#% increased movement speed
+# to dexterity
+#% increased movement speed
+#% increased movement speed per frenzy charge
+#% reduced attack and cast speed per frenzy charge
+#% of life regenerated per second per frenzy charge
+#% chance to gain a frenzy charge on kill
+#% increased damage per frenzy charge with hits against enemies on low life
+gore footprints
+# to dexterity
+#% increased evasion rating
+#% increased evasion rating during onslaught
+# to maximum life
+#% increased movement speed
+#% chance to dodge spell hits while phasing
+# to dexterity
+#% increased evasion rating
+#% increased movement speed
+immune to burning ground, shocked ground and chilled ground
+# life regenerated per second while moving
+# to maximum life per # dexterity
+# to dexterity
+# to intelligence
+#% increased evasion rating
+# to maximum energy shield
+#% increased movement speed
+enemies cannot leech life from you
+#% increased evasion rating
+# to maximum life
+#% increased movement speed
+#% chance to dodge spell damage
+trigger level # intimidating cry when you lose cat's stealth
+#% increased evasion rating
+# to maximum life
+#% increased movement speed
+#% chance to avoid bleeding
+#% increased movement speed while you have cat's stealth
+# to dexterity
+#% increased mana regeneration rate
+# to maximum energy shield
+#% increased movement speed
+cannot be frozen
+# to strength
+# to dexterity
+# to intelligence
+# to maximum energy shield
+#% increased rarity of items found when on low life
+#% increased movement speed
+# to maximum life
+# to maximum mana
+#% increased energy shield
+#% increased movement speed
+# to maximum number of zombies
+# to maximum number of spectres
+# to dexterity
+# to intelligence
+#% increased energy shield
+#% increased stun and block recovery
+#% increased movement speed
+#% increased movement speed when on full life
+#% of energy shield regenerated per second
+# to dexterity
+# to intelligence
+#% increased energy shield
+#% increased stun and block recovery
+#% increased movement speed
+#% increased movement speed when on full life
+# to strength
+# to dexterity
+# to intelligence
+# to maximum energy shield
+#% increased quantity of items found when on low life
+#% increased movement speed
+#% of block chance applied to spells
+# to maximum mana
+#% increased energy shield
+#% to all elemental resistances
+#% increased movement speed
+# to maximum life
+#% increased movement speed
+#% increased intelligence
+#% increased damage per power charge
+#% chance that if you would gain power charges, you instead gain up to your maximum number of power charges
+# to maximum mana
+#% increased movement speed
+#% chance to gain a power charge on critical strike
+#% reduced mana reserved
+you have no life regeneration
+stun threshold is based on #% of your mana instead of life
+#% increased energy shield
+# to maximum energy shield
+#% increased movement speed
+#% increased movement speed on shocked ground
+#% increased damage on burning ground
+#% of life regenerated per second on chilled ground
+unaffected by desecrated ground
+#% increased armour and evasion
+# to maximum life
+#% increased movement speed
+#% increased stun and block recovery
+#% reduced light radius
+#% to chaos resistance during any flask effect
+adds # chaos damage to spells and attacks during any flask effect
+# to strength
+# to dexterity
+adds # fire damage to attacks
+#% increased movement speed
+#% reduced movement speed when on low life
+#% increased stun and block recovery
+cannot be stunned when on low life
+socketed gems are supported by level # added chaos damage
+#% increased armour and evasion
+# to maximum life
+#% increased movement speed
+#% increased stun and block recovery
+#% reduced light radius
+#% to chaos resistance during any flask effect
+adds # cold damage to spells
+#% increased critical strike chance for spells
+#% increased evasion rating
+#% to cold resistance
+#% increased movement speed
+unaffected by chilled ground
+grants level # aspect of the avian skill
+#% increased armour and evasion
+#% increased movement speed
+# seconds to avian's flight duration
+# life regenerated per second while you have avian's flight
+# mana regenerated per second while you have avian's flight
+#% increased armour and evasion
+#% to lightning resistance
+#% increased movement speed per frenzy charge
+# to maximum frenzy charges
+#% reduced frenzy charge duration
+#% reduced light radius
+#% chance to dodge attack hits per frenzy charge
+adds # lightning damage to attacks
+#% increased armour and energy shield
+# life gained on kill
+#% chance to cause monsters to flee
+#% increased movement speed
+#% to cold resistance
+#% to chaos resistance
+#% increased movement speed
+gain a frenzy, endurance, or power charge once per second while you are stationary
+lose all frenzy, endurance, and power charges when you move
+adds # chaos damage to attacks
+# to armour
+#% to chaos resistance
+#% increased movement speed
+# to maximum number of skeletons
+#% increased strength
+#% increased armour and energy shield
+#% to fire resistance
+#% increased movement speed
+#% chance to ignite
+#% increased damage against ignited enemies
+# to strength
+#% increased armour and energy shield
+#% to all elemental resistances
+#% increased movement speed
+# to maximum endurance charges
+#% increased elemental ailment duration on you
+cannot be inflicted with bleeding
+bleeding cannot be inflicted on you
+# to dexterity
+# to evasion rating
+# to maximum energy shield
+#% to cold resistance
+#% increased movement speed
+#% increased damage taken while on full energy shield
+#% increased movement speed while on full energy shield
+#% increased attack speed
+#% increased evasion rating
+#% increased rarity of items found
+#% to fire resistance
+#% increased movement speed
+# to maximum energy shield
+#% increased global physical damage
+#% increased movement speed
+#% to lightning resistance
+#% increased projectile damage
+unaffected by shocked ground
+#% increased attack speed
+#% increased evasion and energy shield
+#% increased rarity of items found
+#% to fire resistance
+#% increased movement speed
+#% increased movement speed while ignited
+#% chance to be ignited
+# life regenerated per second while ignited
+#% increased evasion and energy shield
+#% to lightning resistance
+#% to chaos resistance
+#% increased movement speed
+aspect of the spider can inflict spider's web on enemies an additional time
+gain # energy shield for each enemy you hit which is affected by a spider's web
+#% increased aspect of the spider debuff duration
+has # abyssal socket
+triggers level # death walk when equipped
+#% increased maximum life
+#% increased movement speed
+#% increased damage for each type of abyss jewel affecting you
+has # abyssal sockets
+triggers level # death walk when equipped
+#% increased maximum life
+#% increased movement speed
+#% increased damage for each type of abyss jewel affecting you
+# to dexterity
+#% increased evasion and energy shield
+#% increased movement speed
+#% chance to avoid projectiles while phasing
+you have phasing if you've killed recently
+projectiles pierce # additional targets while you have phasing
+celestial footprints
+#% chance to dodge spell hits
+grants level # purity of fire skill
+adds # fire damage to spells and attacks
+#% increased armour
+# to maximum life
+#% increased movement speed
+grants level # purity of lightning skill
+adds # lightning damage to spells and attacks
+#% increased energy shield
+# to maximum life
+#% increased movement speed
+grants level # purity of ice skill
+adds # cold damage to spells and attacks
+#% increased evasion rating
+# to maximum life
+#% increased movement speed

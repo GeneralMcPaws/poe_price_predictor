@@ -1,0 +1,59 @@
+Socketed Gems are supported by Level 2 Chance to Flee
+Adds (10-15) to (25-30) Physical Damage
++(10-15) to maximum Life
++(5-7) Life gained on Kill
+10% increased Movement Speed
+Adds (5-15) to (20-25) Physical Damage
+Adds (5-15) to (20-25) Fire Damage
+5% increased Movement Speed
+(7-10)% increased Attack Speed
++(15-25)% to Fire Resistance
+Curse Enemies with Level 10 Flammability on Hit
+(60-80)% increased Physical Damage
+Adds (3-5) to (7-10) Physical Damage
+2% of Physical Attack Damage Leeched as Life
+Culling Strike
+You gain Onslaught for 3 seconds on Culling Strike
+Cannot be Chilled while you have Onslaught
+Socketed Gems are supported by Level 2 Chance to Flee
+(170-190)% increased Physical Damage
+Adds (10-15) to (25-30) Physical Damage
++(10-15) to maximum Life
++(5-7) Life gained on Kill
+10% increased Movement Speed
+15% increased Movement Speed if you've Killed Recently
+(70-90)% increased Physical Damage
+Adds (5-9) to (13-17) Physical Damage
+(30-50)% increased Critical Strike Chance
+25% of Physical Damage Converted to Cold Damage
+25% of Physical Damage Converted to Lightning Damage
+Grants Level 1 Lightning Warp Skill
+(100-140)% increased Physical Damage
+Adds 10 to 20 Physical Damage
+(20-25)% increased Attack Speed
++(20-25)% to Cold Resistance
+Insufficient Mana doesn't prevent your Melee Attacks
+Your Physical Damage can Chill
+Adds (5-15) to (20-25) Physical Damage
+Adds (223-250) to (264-280) Fire Damage
+5% increased Movement Speed
+(7-10)% increased Attack Speed
++(15-25)% to Fire Resistance
+Hits ignore Enemy Monster Fire Resistance while you are Ignited
+(90-110)% increased Physical Damage
+Adds (11-14) to (18-23) Physical Damage
+(10-15)% increased Attack Speed
+2% of Physical Attack Damage Leeched as Life
+50% reduced Life Leeched per second
+25% chance to cause Bleeding on Hit
+Adds (50-70) to (135-165) Physical Damage
+40% increased Physical Weapon Damage while Dual Wielding
+(10-15)% increased Attack Speed
+35% increased Attack Speed with Swords
+25% chance to cause Bleeding on Hit
+Adds (255-285) to (300-330) Fire Damage in Main Hand
+Adds (255-285) to (300-330) Cold Damage in Off Hand
+(10-15)% increased Attack Speed
+100% increased Damage with Ignite inflicted on Chilled Enemies
+25% chance to Ignite when in Main Hand
+Chill Enemies for 1 second on Hit with this Weapon when in Off Hand

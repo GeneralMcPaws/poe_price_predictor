@@ -1,0 +1,10 @@
+(4-5)% increased Area of Effect
+(4-5)% increased Damage
+(5-7)% increased Effect of non-Damaging Ailments on Enemies
+(8-10)% increased Global Critical Strike Chance
+1% reduced Mana Reserved
+Corrupted Blood cannot be inflicted on you
+Minions deal (4-5)% increased Damage
+You cannot be Cursed with Silence
+You cannot be Hindered
+You cannot be Maimed

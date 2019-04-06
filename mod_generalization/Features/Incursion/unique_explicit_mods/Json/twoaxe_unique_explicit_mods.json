@@ -1,0 +1,669 @@
+{
+    "# life gained on kill": {
+        "gen": "# life gained on kill",
+        "org": [
+            "+10 life gained on kill",
+            "+20 life gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# life regenerated per second": {
+        "gen": "# life regenerated per second",
+        "org": [
+            "10 life regenerated per second"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "# mana gained on kill": {
+        "gen": "# mana gained on kill",
+        "org": [
+            "+10 mana gained on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+(50-80) to accuracy rating",
+            "+(150-250) to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed strength gems": {
+        "gen": "# to level of socketed strength gems",
+        "org": [
+            "+1 to level of socketed strength gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of socketed support gems": {
+        "gen": "# to level of socketed support gems",
+        "org": [
+            "+2 to level of socketed support gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+100 to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+100"
+            }
+        ]
+    },
+    "# to strength": {
+        "gen": "# to strength",
+        "org": [
+            "+(15-30) to strength",
+            "+10 to strength"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to weapon range": {
+        "gen": "# to weapon range",
+        "org": [
+            "+2 to weapon range"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "#% additional block chance while dual wielding": {
+        "gen": "#% additional block chance while dual wielding",
+        "org": [
+            "8% additional block chance while dual wielding"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% chance to cause bleeding on hit": {
+        "gen": "#% chance to cause bleeding on hit",
+        "org": [
+            "50% chance to cause bleeding on hit",
+            "25% chance to cause bleeding on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to curse enemies with level # vulnerability on hit": {
+        "gen": "#% chance to curse enemies with level # vulnerability on hit",
+        "org": [
+            "25% chance to curse enemies with level 10 vulnerability on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% chance to trigger level # molten burst on melee hit": {
+        "gen": "#% chance to trigger level # molten burst on melee hit",
+        "org": [
+            "20% chance to trigger level 16 molten burst on melee hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "16"
+            }
+        ]
+    },
+    "#% increased area of effect per # rampage kills": {
+        "gen": "#% increased area of effect per # rampage kills",
+        "org": [
+            "2% increased area of effect per 25 rampage kills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "2"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(8-12)% increased attack speed",
+            "(7-12)% increased attack speed",
+            "(12-16)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(30-40)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased elemental damage if you've used a warcry recently": {
+        "gen": "#% increased elemental damage if you've used a warcry recently",
+        "org": [
+            "150% increased elemental damage if you've used a warcry recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "150"
+            }
+        ]
+    },
+    "#% increased global critical strike chance per level": {
+        "gen": "#% increased global critical strike chance per level",
+        "org": [
+            "3% increased global critical strike chance per level"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "#% increased mana cost of skills": {
+        "gen": "#% increased mana cost of skills",
+        "org": [
+            "50% increased mana cost of skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% increased movement speed if you've used a warcry recently": {
+        "gen": "#% increased movement speed if you've used a warcry recently",
+        "org": [
+            "15% increased movement speed if you've used a warcry recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% increased movement speed when on full life": {
+        "gen": "#% increased movement speed when on full life",
+        "org": [
+            "15% increased movement speed when on full life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "15"
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(80-100)% increased physical damage",
+            "(120-160)% increased physical damage",
+            "(100-125)% increased physical damage",
+            "(120-140)% increased physical damage",
+            "(180-200)% increased physical damage",
+            "(200-212)% increased physical damage",
+            "(140-170)% increased physical damage",
+            "(190-230)% increased physical damage",
+            "(160-220)% increased physical damage",
+            "(100-120)% increased physical damage",
+            "(150-170)% increased physical damage",
+            "(280-320)% increased physical damage",
+            "(200-250)% increased physical damage",
+            "(250-300)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of items found": {
+        "gen": "#% increased rarity of items found",
+        "org": [
+            "(30-40)% increased rarity of items found"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% of block chance applied to spells": {
+        "gen": "#% of block chance applied to spells",
+        "org": [
+            "25% of block chance applied to spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% of damage leeched as life on critical strike": {
+        "gen": "#% of damage leeched as life on critical strike",
+        "org": [
+            "1.2% of damage leeched as life on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1.2"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as life": {
+        "gen": "#% of physical attack damage leeched as life",
+        "org": [
+            "1% of physical attack damage leeched as life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% of physical attack damage leeched as mana": {
+        "gen": "#% of physical attack damage leeched as mana",
+        "org": [
+            "1% of physical attack damage leeched as mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "#% of physical damage converted to fire damage": {
+        "gen": "#% of physical damage converted to fire damage",
+        "org": [
+            "50% of physical damage converted to fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% reduced attack speed": {
+        "gen": "#% reduced attack speed",
+        "org": [
+            "15% reduced attack speed",
+            "(30-25)% reduced attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # chaos damage in off hand": {
+        "gen": "adds # chaos damage in off hand",
+        "org": [
+            "adds (55-65) to (100-120) chaos damage in off hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds (310-350) to (460-500) cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (16-21) to (32-38) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage in main hand": {
+        "gen": "adds # fire damage in main hand",
+        "org": [
+            "adds (55-65) to (100-120) fire damage in main hand"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds 5 to 10 physical damage",
+            "adds (30-40) to (70-80) physical damage",
+            "adds (7-10) to (15-25) physical damage",
+            "adds (220-235) to (270-290) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "attacks have #% chance to inflict bleeding when hitting cursed enemies": {
+        "gen": "attacks have #% chance to inflict bleeding when hitting cursed enemies",
+        "org": [
+            "attacks have 25% chance to inflict bleeding when hitting cursed enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "attacks have blood magic": {
+        "gen": "",
+        "org": [
+            "attacks have blood magic"
+        ],
+        "params": []
+    },
+    "counts as dual wielding": {
+        "gen": "",
+        "org": [
+            "counts as dual wielding"
+        ],
+        "params": []
+    },
+    "culling strike": {
+        "gen": "",
+        "org": [
+            "culling strike"
+        ],
+        "params": []
+    },
+    "damage penetrates #% fire resistance": {
+        "gen": "damage penetrates #% fire resistance",
+        "org": [
+            "damage penetrates 20% fire resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "enemies you hit are destroyed on kill": {
+        "gen": "",
+        "org": [
+            "enemies you hit are destroyed on kill"
+        ],
+        "params": []
+    },
+    "gain #% of physical damage as extra fire damage": {
+        "gen": "gain #% of physical damage as extra fire damage",
+        "org": [
+            "gain 70% of physical damage as extra fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "70"
+            }
+        ]
+    },
+    "gain a flask charge when you deal a critical strike": {
+        "gen": "",
+        "org": [
+            "gain a flask charge when you deal a critical strike"
+        ],
+        "params": []
+    },
+    "gain a frenzy charge on every #th rampage kill": {
+        "gen": "gain a frenzy charge on every #th rampage kill",
+        "org": [
+            "gain a frenzy charge on every 50th rampage kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "hits can't be evaded": {
+        "gen": "",
+        "org": [
+            "hits can't be evaded"
+        ],
+        "params": []
+    },
+    "insufficient mana doesn't prevent your melee attacks": {
+        "gen": "",
+        "org": [
+            "insufficient mana doesn't prevent your melee attacks"
+        ],
+        "params": []
+    },
+    "nearby allies have #% increased item rarity": {
+        "gen": "nearby allies have #% increased item rarity",
+        "org": [
+            "nearby allies have 30% increased item rarity"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "nearby allies have culling strike": {
+        "gen": "",
+        "org": [
+            "nearby allies have culling strike"
+        ],
+        "params": []
+    },
+    "rampage": {
+        "gen": "",
+        "org": [
+            "rampage"
+        ],
+        "params": []
+    },
+    "recover #% of maximum life on kill": {
+        "gen": "recover #% of maximum life on kill",
+        "org": [
+            "recover 5% of maximum life on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "socketed gems are supported by level # increased area of effect": {
+        "gen": "socketed gems are supported by level # increased area of effect",
+        "org": [
+            "socketed gems are supported by level 20 increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "socketed gems are supported by level # melee splash": {
+        "gen": "socketed gems are supported by level # melee splash",
+        "org": [
+            "socketed gems are supported by level 25 melee splash"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "trigger level # bone nova when you kill a bleeding enemy": {
+        "gen": "trigger level # bone nova when you kill a bleeding enemy",
+        "org": [
+            "trigger level 20 bone nova when you kill a bleeding enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "warcries knock enemies back in an area": {
+        "gen": "",
+        "org": [
+            "warcries knock enemies back in an area"
+        ],
+        "params": []
+    }
+}

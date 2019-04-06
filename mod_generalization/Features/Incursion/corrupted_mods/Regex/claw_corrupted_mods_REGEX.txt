@@ -1,0 +1,20 @@
+#% chance to gain a power charge on critical strike
+adds # cold damage
+adds # fire damage
+adds # cold damage
+adds # lightning damage
+adds # fire damage
+adds # lightning damage
+adds # lightning damage
+adds # cold damage
+adds # fire damage
+#% increased critical strike chance
+#% increased attack speed
+#% additional block chance while dual wielding
+#% chance to gain a frenzy charge on kill
+#% to global critical strike multiplier
+# life gained for each enemy hit by attacks
+# life gained for each enemy hit by attacks
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as life
+# mana gained for each enemy hit by attacks

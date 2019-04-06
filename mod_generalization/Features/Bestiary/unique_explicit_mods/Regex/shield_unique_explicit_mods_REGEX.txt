@@ -1,0 +1,358 @@
+# to maximum life
+# to armour
+# to maximum life
+#% increased light radius
+your hits can't be evaded
+#% chance to block
+adds # cold damage to counterattacks
+# to maximum life
+#% increased armour
+# to maximum life
+#% of life regenerated per second
+#% increased area of effect for skills used by totems
+#% of damage dealt by your totems is leeched to you as life
+# to maximum life
+#% increased armour
+# to maximum life
+# physical damage taken from projectile attacks
+#% increased armour against projectiles
+#% additional block chance against projectiles
+# to maximum life
+#% increased armour
+# to maximum life
+adds # chaos damage
+adds # fire damage to attacks
+# to maximum energy shield
+#% faster start of energy shield recharge
+you take chaos damage instead of physical damage from bleeding
+#% chance to be poisoned
+#% to all maximum resistances while poisoned
+poisons on you expire #% slower
+#% increased taunt duration
+#% chance to block
+#% to maximum chance to block attack damage
+#% increased warcry cooldown recovery speed
+adds # chaos damage
+# to maximum energy shield
+#% chance to be poisoned
+#% to all maximum resistances while poisoned
+# energy shield regenerated per second per poison on you, up to # per second
+poisons on you expire #% slower
+#% of attack damage leeched as life against taunted enemies
+# to maximum life
+#% increased armour
+# to maximum life
+#% to fire resistance
+#% of physical damage converted to fire damage
+#% chance to curse non-cursed enemies with enfeeble on hit
+adds # fire damage to spells and attacks
+# to maximum life
+#% increased totem damage
+# to maximum life
+can have up to # additional totem summoned at a time
+# armour per active totem
+blood magic
+# to maximum life
+#% increased armour
+# to maximum life
+#% chance to block
+# armour if you've blocked recently
+permanently intimidate enemies on block
+# to maximum life
+grants level # reckoning skill
+#% increased armour
+# to maximum life
+recover # life when you block
+#% chance to block
+# armour if you've blocked recently
+# to maximum life
+#% increased armour
+# to maximum life
+# to maximum endurance charges
+#% to maximum block chance
+#% chance to block
+#% to all maximum resistances while you have no endurance charges
+you have onslaught while at maximum endurance charges
+# to maximum life
+#% increased armour
+#% increased stun and block recovery
+# to maximum life
+#% reduced movement speed
+# physical damage taken from projectile attacks
+#% chance to block
+# to maximum life
+# to level of socketed gems
+triggers level # elemental aegis when equipped
+#% increased armour
+# to maximum life
+# to evasion rating and energy shield
+#% increased movement speed
+# to maximum life
+# life regenerated per second
+#% to lightning resistance
+#% of physical attack damage leeched as life
+#% chance to block
+#% increased movement speed
+#% increased evasion rating
+#% to maximum cold resistance
+#% to cold resistance
+gain #% of physical damage as extra cold damage
+reflects # cold damage to melee attackers
+#% chance to block
+#% increased movement speed
+#% increased evasion rating
+#% to maximum cold resistance
+#% to cold resistance
+gain #% of physical damage as extra cold damage
+reflects # cold damage to melee attackers
+#% chance to block
+#% of fire damage from hits taken as cold damage
+#% increased movement speed
+# to level of socketed curse gems
+#% increased evasion rating
+# to maximum life
+# to maximum energy shield
+#% increased curse duration
+#% chance to block
+#% chance to cause monster to flee on block
+#% increased movement speed
+# to level of socketed curse gems
+#% increased evasion rating
+# to maximum life
+# to maximum energy shield
+#% increased curse duration
+#% chance to block
+#% chance to cause monster to flee on block
+#% of damage leeched as life against cursed enemies
+#% increased movement speed
+#% increased evasion rating
+#% to cold resistance
+#% increased area of effect
+gain onslaught for # seconds when you warcry
+#% increased warcry buff effect
+#% increased movement speed
+adds # physical damage to attacks
+#% increased attack speed
+# to maximum life
+#% chance to block spells
+#% increased movement speed
+#% chance to block spell damage
+# to intelligence
+#% increased evasion rating
+#% to all elemental resistances
+#% reduced duration of curses on you
+curse reflection
+#% chance to block attack damage while not cursed
+#% chance to block spell damage while cursed
+#% increased movement speed
+#% increased evasion rating
+# to maximum life
+#% of physical attack damage leeched as life
+#% chance to block
+reflects # physical damage to attackers on block
+#% of damage you reflect to enemies is gained as life
+#% increased movement speed
+# to intelligence
+#% increased evasion rating
+# to maximum energy shield
+#% to all elemental resistances
+curse reflection
+unaffected by curses
+#% increased effect of your curses
+#% increased spell damage
+# to level of socketed warcry gems
+#% increased cast speed
+#% increased mana regeneration rate
+# to maximum energy shield
+gain # power charges when you warcry
+#% increased spell damage
+# to level of socketed minion gems
+# to maximum mana
+#% increased energy shield
+#% increased effect of auras on you
+#% increased effect of auras on your minions
+spreads tar when you take a critical strike
+tar lasts # seconds (hidden)
+when hit by a critical strike, creates patches of tar reducing movement speed by #% (hidden)
+#% increased spell damage
+#% increased critical strike chance for spells
+trigger commandment of inferno on critical strike
+#% increased global critical strike chance
+# to maximum life
+#% to fire resistance
+#% increased attack speed if you've dealt a critical strike recently
+#% increased cast speed if you've dealt a critical strike recently
+#% increased energy shield
+#% chance to block
+#% to critical strike multiplier per #% chance to block attack damage
+#% to critical strike multiplier if you've dealt a non-critical strike recently
+#% of block chance applied to spells
+# to intelligence
+#% increased quantity of items found
+#% chance to block
+applies level # punishment on blocking a melee attack, ignoring curse limit
+applies level # temporal chains on blocking a projectile attack, ignoring curse limit
+applies level # elemental weakness on blocking a spell, ignoring curse limit
+#% increased spell damage
+trigger level # fog of war when your trap is triggered
+# to intelligence
+#% increased energy shield
+#% increased fire damage with hits and ailments against blinded enemies
+#% reduced spell damage taken from blinded enemies
+no block chance
+# to intelligence
+# to maximum life
+#% increased energy shield
+#% to lightning resistance
+adds # lightning damage for each shocked enemy you've killed recently
+shock reflection
+#% increased spell damage
+# to maximum life
+#% increased energy shield
+#% to lightning resistance
+#% to chaos resistance
+chaos damage does not bypass energy shield while not on low life or low mana
+reflect shocks applied to you to all nearby enemies
+#% increased spell damage
+#% increased energy shield
+# to maximum power charges
+#% chance to gain a power charge on hit
+#% increased spell damage per power charge
+lose all power charges on reaching maximum power charges
+shocks you when you reach maximum power charges
+#% of block chance applied to spells
+#% increased spell damage
+#% increased maximum life
+#% increased energy shield
+#% to lightning resistance
+#% increased block recovery
+# to armour
+#% increased rarity of items found
+#% increased curse duration
+#% increased duration of curses on you
+#% chance to block
+#% increased block recovery
+adds # physical damage to attacks
+adds # cold damage to attacks
+#% increased armour and evasion
+#% to fire resistance
+curse enemies with level # vulnerability on block
+#% increased block recovery
+#% increased global physical damage
+#% increased armour and evasion
+#% to all elemental resistances
+#% of block chance applied to spells when on low life
+#% chance to block
+#% chance to block attacks if you have blocked a spell recently
+#% chance to block spells if you have blocked an attack recently
+# to level of socketed gems
+triggers level # cold aegis when equipped
+#% increased armour and evasion
+# to maximum life
+cannot be frozen
+#% to all elemental resistances
+#% increased armour and energy shield
+#% reduced freeze duration on you
+#% of life regenerated per second
+#% of life regenerated per second while on low life
+#% to all elemental resistances
+#% increased armour and energy shield
+# to maximum life
+#% reduced freeze duration on you
+#% chance to block attack damage if you have blocked spell damage recently
+#% of life regenerated per second
+#% chance to block spell damage while on low life
+#% of life regenerated per second while on low life
+#% chance to block spell damage if you have blocked attack damage recently
+#% to all elemental resistances
+# to maximum life
+#% to lightning resistance
+#% to chaos resistance
+#% increased area of effect of aura skills
+#% chance to block spell damage
+#% chance to grant a power charge to nearby allies on kill
+#% chance to grant a frenzy charge to nearby allies on hit
+#% to all elemental resistances
+#% of block chance applied to spells
+#% increased spell damage
+# to maximum energy shield
+# to maximum life
+#% increased area of effect per enemy killed recently, up to #%
+you have zealot's oath if you haven't been hit recently
+#% increased spell damage
+#% to all elemental resistances
+#% to all maximum resistances
+cannot block attacks
+#% increased elemental damage with attack skills
+#% increased armour and energy shield
+#% to all elemental resistances
+#% to maximum cold resistance
+#% chance to block
+replenishes energy shield by #% of armour when you block
+#% to all elemental resistances
+#% increased armour and energy shield
+# to maximum life
+# life regenerated per second
+#% to maximum fire resistance
+#% to fire resistance
+#% to fire resistance while on low life
+#% increased movement speed when on low life
+cannot be ignited while on low life
+#% to all elemental resistances
+#% of chaos damage leeched as life
+gain #% of physical damage as extra chaos damage
+#% chance to block
+gain unholy might on block for # seconds
+#% increased global armour while you have no energy shield
+#% to all elemental resistances
+# to level of socketed gems
+triggers level # fire aegis when equipped
+#% increased armour and energy shield
+# to maximum life
+cannot be ignited
+#% to all elemental resistances
+# to level of socketed aura gems
+socketed gems have blood magic
+socketed gems have #% reduced mana reservation
+# to dexterity
+#% to all elemental resistances
+#% to all elemental resistances
+grants summon harbinger of focus skill
+# to maximum life
+#% to all elemental resistances
+# mana gained when you block
+#% chance to block
+#% increased damage with channelling skills
+#% chance to dodge attacks
+#% increased evasion and energy shield
+# to maximum life
+# to maximum energy shield
+#% increased rarity of items found
+#% chance to avoid fire damage when hit
+you always ignite while burning
+#% chance to dodge spell damage
+#% increased attack speed
+#% increased maximum life
+#% to all elemental resistances
+#% increased area of effect
+nearby allies recover #% of your maximum life when you die
+#% chance to dodge attacks
+#% increased evasion and energy shield
+# to maximum life
+#% increased duration of ailments on enemies
+#% chance to block
+shared suffering
+#% chance to dodge spell damage
+#% increased trap damage
+#% increased global physical damage
+# to maximum life
+# physical damage taken from attacks
+#% chance to gain a power charge on throwing a trap
+grants level # bear trap skill
+you lose all endurance charges at maximum endurance charges
+trigger a socketed warcry skill when you lose endurance charges
+# to maximum life
+#% to chaos resistance
+#% increased warcry cooldown recovery speed
+cannot block
+#% chance to block projectile attack damage

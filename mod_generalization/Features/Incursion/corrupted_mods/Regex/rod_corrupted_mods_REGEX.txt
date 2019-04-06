@@ -1,0 +1,4 @@
+you can catch corrupted fish
+#% increased cast speed
+#% increased quantity of fish caught
+#% increased rarity of fish caught

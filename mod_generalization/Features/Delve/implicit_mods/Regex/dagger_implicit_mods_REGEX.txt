@@ -1,0 +1,4 @@
+#% increased global critical strike chance
+#% increased global critical strike chance
+#% chance to block attack damage
+#% chance to block attack damage

@@ -1,0 +1,20 @@
+Adds 1 to 4 Physical Damage to Attacks
++(20-25) to maximum Mana
++(20-30) to maximum Life
+Has 1 Socket
++(20-30)% to Cold Resistance
++(20-30)% to Fire Resistance
+(6-15)% increased Rarity of Items found
++(12-16)% to Cold and Lightning Resistances
++(12-16)% to Fire and Cold Resistances
++(12-16)% to Fire and Lightning Resistances
++(12-16)% to Cold and Lightning Resistances
++(15-25) to maximum Energy Shield
++(20-30)% to Lightning Resistance
++(20-30)% to Cold Resistance
+(20-30)% increased Global Critical Strike Chance
++(8-10)% to all Elemental Resistances
+You can catch Corrupted Fish
++(9-13)% to Chaos Resistance
+Adds (3-4) to (10-14) Physical Damage to Attacks
+(15-25)% increased Elemental Damage

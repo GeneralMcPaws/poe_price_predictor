@@ -1,0 +1,46 @@
+{
+  "CONFIG": {
+    "RARE_EXPLICIT_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\rare_explicit_mods\\Json",
+    "UNIQUE_EXPLICIT_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\unique_explicit_mods\\Json",
+    "IMPLICIT_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\implicit_mods\\Json",
+    "CORRUPTED_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\corrupted_mods\\Json",
+    "ENCHANTMENT_MODS_DIR": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\mod_generalization\\Features\\{}\\enchantment_mods\\Json",
+
+    "CURRENCY_RATES": "C:\\Users\\Digi\\Desktop\\poe_price_predictor\\feed_preprocessor\\feed_preprocessor\\currency_rates\\{}_currency_rates.json",
+
+    "MONO_ITEMS": [ "jewels", "maps", "currency", "cards", "flasks", "gems" ],
+    "FLAT_VALUES_CATEGORY": [ "Armour", "Energy Shield", "Evasion Rating", "Level" ],
+    "PERCENTAGE_CATEGORY": [ "Quality", "Quantity", "Rarity", "Critical Strike Chance", "Attacks per Second", "Chance to Block" ],
+    "DAMAGE_CATEGORY": [ "Physical Damage", "Elemental Damage" ],
+    "EXCLUDE_MODS_CATEGORY": [ "maps", "currency", "cards", "gems" ],
+
+    "OUTPUT_PATH": ".\\output_test_data",
+    "LEAGUES": [ "Delve", "Incursion", "Bestiary" ]
+
+  },
+
+  "LOGGING": {
+    "version": 1,
+    "disable_existing_loggers": "True",
+    "formatters": {
+      "simple": {
+        "format": "%(levelname)s : %(message)s"
+      }
+    },
+    "handlers": {
+      "file_handler": {
+        "level": "ERROR",
+        "class": "logging.FileHandler",
+        "filename": "feed_preprocessor_logger.log",
+        "formatter": "simple",
+        "mode": "a"
+      }
+    },
+    "loggers": {
+      "file_logger": {
+        "handlers": ["file_handler" ],
+        "level": "DEBUG"
+      }
+    }
+  }
+}

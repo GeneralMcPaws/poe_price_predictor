@@ -1,0 +1,29 @@
+{
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(3-5)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased stun duration on enemies": {
+        "gen": "#% increased stun duration on enemies",
+        "org": [
+            "45% increased stun duration on enemies",
+            "30% increased stun duration on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

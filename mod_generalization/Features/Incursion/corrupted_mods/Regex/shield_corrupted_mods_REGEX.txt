@@ -1,0 +1,36 @@
+#% reduced movement speed
+# to maximum life
+#% increased movement speed
+#% increased movement speed
+#% increased spell damage
+#% increased block recovery
+#% increased block recovery
+#% to all elemental resistances
+#% to all elemental resistances
+#% chance to dodge attack hits
+#% chance to dodge spell hits
+#% chance to dodge spell hits
+grants level # determination skill
+grants level # discipline skill
+#% of fire damage leeched as life
+# to level of socketed gems
+grants level # grace skill
+#% chance to block
+#% to maximum block chance
+#% of block chance applied to spells
+#% of physical damage from hits taken as cold damage
+#% of physical damage from hits taken as fire damage
+#% of physical damage from hits taken as lightning damage
+#% of physical damage from hits taken as chaos damage
+#% reduced area damage taken from hits
+#% reduced damage taken from projectiles
+# to level of socketed duration gems
+# to level of socketed aoe gems
+# to level of socketed aura gems
+# to level of socketed curse gems
+# to level of socketed trap or mine gems
+# to level of socketed warcry gems
+# to level of socketed projectile gems
+#% increased maximum life
+#% increased maximum energy shield
+you take #% reduced extra damage from critical strikes

@@ -1,0 +1,93 @@
+Reflects # Physical Damage to Melee Attackers
+# to Armour
+# to maximum Energy Shield
+# to maximum Life
+#% increased Flask Life Recovery rate
+#% increased Flask Mana Recovery rate
+#% increased Elemental Damage with Attack Skills
+Suffixes Cannot Be Changed
+#% increased Movement Speed
+#% chance for Flasks to gain a Charge when you take a Critical Strike
+# to Evasion Rating
+#% increased Damage
+Grants Level # Abyssal Cry Skill
+#% increased maximum Energy Shield
+You take #% reduced Extra Damage from Critical Strikes
+#% increased maximum Life
+#% increased effect of Flasks on You
+#% chance for your Flasks to not consume Charges
+#% chance to gain Fortify when you Stun an Enemy with Melee Damage
+Grants Level # Enduring Cry Skill
+Grants Level # Rallying Cry Skill
+#% increased Fire Damage
+#% increased Cold Damage
+#% increased Lightning Damage
+#% increased Global Physical Damage
+#% increased Chaos Damage
+# to Strength
+#% to Cold Resistance
+#% to Fire Resistance
+#% to Lightning Resistance
+#% to Chaos Resistance
+#% increased Stun Duration on Enemies
+#% reduced Enemy Stun Threshold
+#% increased Stun and Block Recovery
+#% increased Flask Charges gained
+#% reduced Flask Charges used
+#% increased Flask effect duration
+# Life Regenerated per second
+Cannot roll Attack Mods
+Can have multiple Crafted Mods
+Prefixes Cannot Be Changed
+Cannot roll Mods with Required Lvl above Lvl #
+Cannot roll Caster Mods
+#% increased Trap Damage
+#% increased Mine Damage
+#% increased Trap Throwing Speed
+#% increased Mine Laying Speed
+Minions have #% increased maximum Life
+# to Dexterity
+# to Intelligence
+#% chance to Avoid being Frozen
+#% chance to Avoid being Ignited
+#% chance to Avoid being Shocked
+#% to Chaos Resistance while using a Flask
+#% additional Physical Damage Reduction while using a Flask
+damage penetrates #% elemental resistances during any flask effect
+#% Increased Movement Speed During Any Flask Effect
+# Physical Damage taken from Attacks
+#% increased Cooldown Recovery Speed
+#% increased Energy Shield Recovery rate
+#% increased Mana Recovery rate
+#% increased Movement Speed during any Flask Effect
+Remove Chill and Freeze when you use a Flask
+Remove Shock when you use a Flask
+#% increased Cast Speed during any Flask Effect
+#% increased Spell Damage during any Flask Effect
+#% increased Attributes
+#% to all Elemental Resistances
+#% increased Life Recovery rate
+#% to Chaos Resistance during any Flask Effect
+Remove Ignite and Burning when you use a Flask
+#% increased Attack Speed during any Flask Effect
+#% increased Melee Damage during any Flask Effect
+#% increased Projectile Attack Damage during any Flask Effect
+Can have multiple Crafted Mods
+Cannot roll Attack Mods
+#% increased Vaal Skill Damage
+Minions have #% increased maximum Life
+#% chance to gain Onslaught when you use a Flask
+#% increased Mana Recovery rate
+#% increased Elemental Damage
+#% increased Damage with Ailments
+#% chance to Evade Attacks
+#% chance when Hit for double Armour effect
+#% increased Energy Shield from Body Armour
+#% increased Life Recovery from Flasks
+grants level # aspect of the spider skill
+grants level # aspect of the crab skill
+grants level # aspect of the avian skill
+grants level # aspect of the cat skill
+#% additional physical damage reduction during any flask effect
+#% of energy shield regenerated per second
+#% to all maximum resistances

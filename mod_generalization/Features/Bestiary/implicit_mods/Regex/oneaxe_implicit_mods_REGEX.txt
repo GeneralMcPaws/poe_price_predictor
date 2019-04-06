@@ -1,0 +1,11 @@
+#% chance to fortify on melee hit
+#% chance to gain onslaught for # seconds on kill
+#% increased area of effect
+adds # physical damage
+adds # physical damage
+adds # physical damage
+#% increased attack speed
+#% chance to cause bleeding on hit
+#% increased attack damage against bleeding enemies
+#% increased physical damage
+#% increased global physical damage

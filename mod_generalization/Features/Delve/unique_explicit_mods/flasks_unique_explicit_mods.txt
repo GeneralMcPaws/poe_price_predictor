@@ -1,0 +1,102 @@
+100% increased Life Recovered
+(5-20)% increased Recovery rate
+Recover Full Life at the end of the Flask effect
+Removes 20% of your maximum Energy Shield on use
+You take 10% of your maximum Life as Chaos Damage on use
+You gain a Power Charge on use
+You gain a Frenzy Charge on use
+You gain an Endurance Charge on use
+(120-150)% increased Charges used
+Cannot gain Mana during effect
+Vaal Skills deal (60-100)% increased Damage during effect
+Vaal Skills have 25% reduced Soul Cost during effect
+Vaal Skills used during effect have (40-20)% reduced Soul Gain Prevention Duration
+50% increased Charges used
+Skills used during Flask effect grant (450-600)% of Mana Cost as Life over 4 Seconds
+(30-50)% increased Amount Recovered
+100% increased Recovery rate
+Your Skills have no Mana Cost during Flask effect
+(40-60)% increased Rarity of Items found during Flask effect
+(12-18)% increased Quantity of Items found during Flask effect
+25% increased Light Radius during Flask effect
++4% to all maximum Elemental Resistances during Flask effect
+Instant Recovery
+100% increased Charges used
+Vaal Skills deal (30-40)% more Damage during Effect
+Vaal Skills used during effect do not apply Soul Gain Prevention
+Gains no Charges during effect of any Soul Ripper Flask
+(75-65)% reduced Amount Recovered
+2 Enemy Writhing Worms escape the Flask when used Writhing Worms are destroyed when Hit
+(20-10)% reduced Charges used
+During Flask Effect, 10% reduced Damage taken of each Element for which your Uncapped Elemental Resistance is lowest
+During Flask Effect, Damage Penetrates (10-15)% Resistance of each Element for which your Uncapped Elemental Resistance is highest
+Creates a Smoke Cloud on Use
+Gain Unholy Might during Flask Effect
+Immunity to Ignite during Flask effect
+Removes Burning on use
+Chaos Damage does not bypass Energy Shield during effect
+Removes all but one Life on use Removed life is regenerated as Energy Shield over 2 seconds
+100% increased Duration
+20% of Physical Damage from Hits taken as Cold Damage during Flask effect
+Gain (15-20)% of Physical Damage as Extra Cold Damage during effect
+30% chance to Avoid being Chilled during Flask effect
+30% chance to Avoid being Frozen during Flask effect
+Immune to Freeze, Chill, Curses and Stuns during Flask Effect
+60% reduced Duration
+Recover (75-100)% of your maximum Life on use
+8% of maximum Life taken as Chaos Damage per second
+Adds Knockback to Melee Attacks during Flask effect
+75% chance to cause Enemies to Flee on use
+(20-25)% more Melee Physical Damage during effect
+Knocks Back Enemies in an Area when you use a Flask
+Creates Consecrated Ground on Use
+100% increased Charge Recovery
+(10-20)% increased Duration
+Gains no Charges during Effect of any Overflowing Chalice Flask
+100% increased Charges gained by Other Flasks during Flask Effect
+Creates Consecrated Ground on Use
+(25-50)% increased Duration
+Zealot's Oath during Flask effect
+(50-100)% increased Charges used
+50% chance to gain a Flask Charge when you deal a Critical Strike
+(10-30)% increased Movement Speed during Flask effect
+Consumes Frenzy Charges on use
+Gain Onslaught for 2 seconds per Frenzy Charge on use
+50% increased Duration
+Creates a Smoke Cloud on Use
+50% increased Charges used
+(25-40)% increased Damage Over Time during Flask Effect
+Grants Level 21 Despair Curse Aura during Flask Effect
+2% of Chaos Damage Leeched as Life during Flask effect
+Gain (15-20)% of Physical Damage as Extra Chaos Damage during effect
+Gain (10-15)% of Elemental Damage as Extra Chaos Damage during effect
+(-10-10)% increased Charges used
+(15-25)% increased Area of Effect during Flask Effect
+Skills fire 2 additional Projectiles during Flask Effect
++(14-20)% Chance to Block Attack Damage during Flask effect
++(6-10)% Chance to Block Spell Damage during Flask effect
+(80-100)% increased Charges used
+Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken
+You are Shocked during Flask effect, causing 50% increased Damage taken
+Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect
+20% of Lightning Damage Leeched as Life during Flask effect
+(80-100)% increased Charges used
+Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken
+You are Shocked during Flask effect, causing 50% increased Damage taken
+Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect
+20% of Lightning Damage Leeched as Life during Flask effect
+(80-100)% increased Charges used
+Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken
+You are Shocked during Flask effect, causing 50% increased Damage taken
+Damage Penetrates 10% Lightning Resistance during Flask effect
+20% of Lightning Damage Leeched as Life during Flask effect
+(80-100)% increased Charges used
+Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken
+You are Shocked during Flask effect, causing 50% increased Damage taken
+20% of Physical Damage Converted to Lightning during Flask effect
+20% of Lightning Damage Leeched as Life during Flask effect
+Take 30 Chaos Damage per Second during Flask effect
+25% chance to Poison on Hit during Flask effect
+Your Critical Strikes do not deal extra Damage during Flask effect
+(50-75)% increased Duration of Poisons you inflict during Flask effect
+Grants Perfect Agony during Flask effect

@@ -1,0 +1,82 @@
+{
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(30-40)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased quantity of fish caught": {
+        "gen": "#% increased quantity of fish caught",
+        "org": [
+            "(10-20)% increased quantity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased rarity of fish caught": {
+        "gen": "#% increased rarity of fish caught",
+        "org": [
+            "(50-60)% increased rarity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% reduced quantity of fish caught": {
+        "gen": "#% reduced quantity of fish caught",
+        "org": [
+            "(50-40)% reduced quantity of fish caught"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "glows while in an area containing a unique fish": {
+        "gen": "",
+        "org": [
+            "glows while in an area containing a unique fish"
+        ],
+        "params": []
+    },
+    "siren worm bait": {
+        "gen": "",
+        "org": [
+            "siren worm bait"
+        ],
+        "params": []
+    },
+    "thaumaturgical lure": {
+        "gen": "",
+        "org": [
+            "thaumaturgical lure"
+        ],
+        "params": []
+    },
+    "you can catch exotic fish": {
+        "gen": "",
+        "org": [
+            "you can catch exotic fish"
+        ],
+        "params": []
+    }
+}

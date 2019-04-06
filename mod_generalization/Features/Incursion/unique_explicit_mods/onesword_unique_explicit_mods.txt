@@ -1,0 +1,210 @@
+100% increased Damage when on Low Life
+50% increased Physical Damage
+Adds 2 to 6 Physical Damage
+10% increased Attack Speed
++(20-30) to maximum Life
++2 Life gained for each Enemy hit by Attacks
+Uses both hand slots
+(70-90)% increased Critical Strike Chance
+Adds 2 to 3 Physical Damage to Attacks per Level
+Gain Her Embrace for 3 seconds when you Ignite an Enemy
+While in Her Embrace, take 0.5% of your total Maximum Life and Energy Shield as Fire Damage per second per Level
+Item has 6 Sockets and is fully linked
+(20-50)% increased Physical Damage
+Adds (3-4) to (5-8) Physical Damage
+15% increased Attack Speed
+Gain (25-30)% of Physical Damage as Extra Cold Damage
+10% increased Damage taken from Skeletons
+10% increased Damage taken from Ghosts
+Adds (5-8) to (15-20) Physical Damage
+(8-14)% increased Attack Speed
+Hits can't be Evaded
+Attacks with this Weapon Penetrate 30% Elemental Resistances
+Gain 15% of Physical Attack Damage as Extra Lightning Damage
+Gain 15% of Physical Attack Damage as Extra Fire Damage
+(60-80)% increased Physical Damage
+(110-120)% increased Physical Damage
+(160-180)% increased Physical Damage
+(10-15)% increased Attack Speed
+100% of Physical Damage from Hits with this Weapon is Converted to a random Element
+Hits with this Weapon always inflict Elemental Ailments
+Hits with this Weapon deal (30-60)% increased Damage to Ignited Enemies
+Hits with this Weapon deal (30-60)% increased Damage to Frozen Enemies
+Hits with this Weapon deal (30-60)% increased Damage to Shocked Enemies
+(10-15)% increased Attack Speed
++(20-30) Life gained on Kill
+50% of Physical Damage from Hits with this Weapon is Converted to a random Element
+Hits with this Weapon always inflict Elemental Ailments
+Adds (5-8) to (10-14) Physical Damage
+(10-15)% increased Attack Speed
+(40-30)% reduced Stun and Block Recovery
+20% chance to Avoid being Stunned
+Socketed Gems are supported by Level 1 Multistrike
+Uses both hand slots
+(250-300)% increased Physical Damage
+(90-110)% increased Critical Strike Chance
++(20-30)% to Global Critical Strike Multiplier
++(40-50)% to Fire Resistance
+Cannot be Ignited
+100% of Physical Damage Converted to Fire Damage
+Ignited Enemies Burn 50% faster
+You can only deal Damage with this Weapon and Ignite
+150% increased Physical Damage
++10 to Intelligence
+50% increased Global Critical Strike Chance
+(0.6-1)% of Physical Attack Damage Leeched as Mana
+10% reduced maximum Life
+(40-50)% increased maximum Energy Shield
+(110-120)% increased Physical Damage
+(10-15)% increased Attack Speed
++(20-30) Life gained on Kill
+50% of Physical Damage from Hits with this Weapon is Converted to a random Element
+Hits with this Weapon always inflict Elemental Ailments
++(10-20) to all Attributes
+Minions deal (20-30)% increased Damage
+Minions have +17% to Chaos Resistance
+Minions have 60% chance to Poison Enemies on Hit
+Minions Recover 20% of Maximum Life on Killing a Poisoned Enemy
+(100-140)% increased Physical Damage
+(17-25)% increased Attack Speed
+0.2% of Chaos Damage Leeched as Life
+25% of Physical Damage Converted to Chaos Damage
+Attacks with this Weapon Maim on hit
+8% additional Block Chance while Dual Wielding
+Adds (20-30) to (31-40) Physical Damage
+25% increased Global Physical Damage with Weapons per Red Socket
+12% increased Global Attack Speed per Green Socket
+0.4% of Physical Attack Damage Leeched as Mana per Blue Socket
++2 to Melee Weapon Range per White Socket
+(160-180)% increased Physical Damage
+(10-15)% increased Attack Speed
+100% of Physical Damage from Hits with this Weapon is Converted to a random Element
+Hits with this Weapon always inflict Elemental Ailments
+Hits with this Weapon deal (30-60)% increased Damage to Ignited Enemies
+Hits with this Weapon deal (30-60)% increased Damage to Frozen Enemies
+Hits with this Weapon deal (30-60)% increased Damage to Shocked Enemies
+(80-95)% increased Physical Damage
+Adds (5-10) to (13-20) Physical Damage
+(20-25)% increased Attack Speed
+10% increased Effect of Buffs on you
+5% reduced Mana Reserved
+Allies' Aura Buffs do not affect you
+Your Aura Buffs do not affect allies
+Adds (75-92) to (125-154) Physical Damage
+(15-25)% increased Critical Strike Chance
+0.3% of Physical Attack Damage Leeched as Life per Red Socket
++10% to Global Critical Strike Multiplier per Green Socket
+0.3% of Physical Attack Damage Leeched as Mana per Blue Socket
+8% increased Global Defences per White Socket
+(60-80)% increased Global Critical Strike Chance when in Main Hand
+8% additional chance to Block when in Off Hand
+100% increased Damage when on Low Life
+50% increased Physical Damage
+Adds (90-98) to (133-140) Physical Damage
+10% increased Attack Speed
++(20-30) to maximum Life
++2 Life gained for each Enemy hit by Attacks
+You have Onslaught while on Low Life
+Adds 1 to (550-650) Lightning Damage
+(7-10)% increased Attack Speed
+1% increased Damage taken per Frenzy Charge
+12% increased Lightning Damage per Frenzy Charge
++20 Life gained on Kill per Frenzy Charge
+Plays Wolf Call sound on Kill (Hidden)
+Grants Summon Harbinger of the Arcane Skill
+Trigger Level 20 Storm Cascade when you Attack
+(75-90)% increased Spell Damage
+(140-160)% increased Physical Damage
+Adds 1 to (60-70) Lightning Damage
+Adds 1 to (60-70) Lightning Damage to Spells
+10% increased Area of Effect
+Adds (19-28) to (31-40) Physical Damage
+Adds (19-28) to (31-40) Fire Damage
+Adds (19-28) to (31-40) Cold Damage
+Adds 1 to (50-70) Lightning Damage
+Adds (19-28) to (31-40) Chaos Damage
+(10-20)% increased Attack Speed
+(40-60)% increased Physical Damage
+Adds (30-45) to (80-100) Physical Damage
++(2-3) Mana gained for each Enemy hit by Attacks
+Counts as all One Handed Melee Weapon Types
+(170-190)% increased Physical Damage
+(15-20)% increased Attack Speed
+80% increased Evasion Rating while moving
+Skills fire 2 additional Projectiles if you've used a Movement Skill Recently
+Far Shot
+Adds (30-50) to (65-80) Physical Damage
+(20-25)% increased Attack Speed
++(180-200) to Accuracy Rating
++(180-200) to Evasion Rating
+3% increased Movement Speed
+1% increased Attack Damage per 450 Evasion Rating
+(170-190)% increased Physical Damage
+(15-20)% increased Attack Speed
+80% increased Armour while stationary
+Skills fire 2 additional Projectiles if you've been Hit Recently
+Point Blank
+Iron Reflexes while stationary
+Adds (80-115) to (150-205) Physical Damage
+(15-25)% increased Critical Strike Chance
+-1 to Maximum Frenzy Charges
+10% increased Area of Effect
++100 Strength Requirement
++50% Global Critical Strike Multiplier while you have no Frenzy Charges
++(400-500) to Accuracy Rating while at Maximum Frenzy Charges
+Adds (65-75) to (110-130) Physical Damage
+100% increased Burning Damage if you've Ignited an Enemy Recently
+Recover 1% of Maximum Life when you Ignite an Enemy
+100% increased Melee Physical Damage against Ignited Enemies
+10% additional Block Chance while Dual Wielding
+Adds (60-80) to (150-180) Physical Damage
+80% increased Physical Damage with Axes
++(350-400) to Accuracy Rating
+15% chance to gain a Frenzy Charge on Kill
+Grants Level 15 Envy Skill
+Minions deal (30-40)% increased Damage
+Minions have +29% to Chaos Resistance
+Minions have 60% chance to Poison Enemies on Hit
+Minions Leech 5% of Damage as Life against Poisoned Enemies
++1 to Level of Socketed Melee Gems
+Uses both hand slots
+(250-300)% increased Physical Damage
+Adds 3 to 7 Fire Damage
+20% increased Attack Speed
+30% increased Global Critical Strike Chance
++(20-40) to Evasion Rating
+20% reduced Rarity of Items found
+30% increased Movement Speed when on Low Life
+(120-150)% increased Physical Damage
+20% reduced Rarity of Items found
++(40-60)% to all Elemental Resistances
++3 Life gained for each Enemy hit by Attacks
+No Physical Damage
+Adds 1 to (40-50) Lightning Damage
+(25-30)% increased Attack Speed
++2 Life gained for each Enemy hit by Attacks
+(15-20)% chance to Shock
+50% increased Herald of Thunder Buff Effect
+(40-55)% increased Elemental Damage with Attack Skills
+Adds 1 to (45-55) Lightning Damage
+(16-22)% increased Attack Speed
+Attacks Chain an additional time when in Main Hand
+Attacks fire an additional Projectile when in Off Hand
+(140-160)% increased Physical Damage
++30 to Strength
++30 to maximum Mana
+5% increased Movement Speed
+30% increased Elemental Damage
++2 to Weapon range
+Adds (30-38) to (40-50) Physical Damage
+Adds (30-38) to (40-50) Cold Damage
+20% reduced Frenzy Charge Duration
+25% chance to gain a Frenzy Charge on Kill
+(60-80)% increased Damage while you have no Frenzy Charges
+No Physical Damage
+Adds (80-100) to (160-200) Cold Damage
+Adds (40-60) to (90-110) Cold Damage to Spells
+(8-14)% increased Attack Speed
++257 Intelligence Requirement
+60% increased Critical Strike Chance against Chilled Enemies
+Trigger a Socketed Cold Spell on Melee Critical Strike

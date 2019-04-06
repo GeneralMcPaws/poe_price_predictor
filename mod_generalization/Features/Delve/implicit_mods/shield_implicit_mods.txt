@@ -1,0 +1,12 @@
+3% reduced Movement Speed
++(10-20) to maximum Life
+3% increased Movement Speed
+6% increased Movement Speed
+(5-10)% increased Spell Damage
+60% increased Block Recovery
+120% increased Block Recovery
++4% to all Elemental Resistances
++8% to all Elemental Resistances
+4% chance to Dodge Attack Hits
+2% chance to Dodge Spell Hits
+4% chance to Dodge Spell Hits

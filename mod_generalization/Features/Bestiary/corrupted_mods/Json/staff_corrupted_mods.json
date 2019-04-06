@@ -1,0 +1,164 @@
+{
+    "#% chance to block": {
+        "gen": "#% chance to block",
+        "org": [
+            "18% chance to block"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "18"
+            }
+        ]
+    },
+    "#% chance to block attack damage while wielding a staff": {
+        "gen": "#% chance to block attack damage while wielding a staff",
+        "org": [
+            "+20% chance to block attack damage while wielding a staff"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+20"
+            }
+        ]
+    },
+    "#% chance to gain a power charge on critical strike": {
+        "gen": "#% chance to gain a power charge on critical strike",
+        "org": [
+            "(5-7)% chance to gain a power charge on critical strike"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain an endurance charge when you stun an enemy": {
+        "gen": "#% chance to gain an endurance charge when you stun an enemy",
+        "org": [
+            "(5-7)% chance to gain an endurance charge when you stun an enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased area of effect": {
+        "gen": "#% increased area of effect",
+        "org": [
+            "(25-30)% increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(5-7)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(12-15)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(14-18)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage": {
+        "gen": "adds # cold damage",
+        "org": [
+            "adds (19-23) to (31-38) cold damage",
+            "adds (22-28) to (39-47) cold damage",
+            "adds (8-11) to (17-20) cold damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (10-15) to (20-23) fire damage",
+            "adds (23-27) to (34-43) fire damage",
+            "adds (27-34) to (45-53) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds (2-3) to (30-34) lightning damage",
+            "adds (3-6) to (63-72) lightning damage",
+            "adds (4-8) to (89-92) lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "socketed gems are supported by level # fortify": {
+        "gen": "socketed gems are supported by level # fortify",
+        "org": [
+            "socketed gems are supported by level 10 fortify"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    }
+}

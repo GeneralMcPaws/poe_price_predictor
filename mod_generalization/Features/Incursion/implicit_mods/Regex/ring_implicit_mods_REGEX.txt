@@ -1,0 +1,20 @@
+adds # physical damage to attacks
+# to maximum mana
+# to maximum life
+has # socket
+#% to cold resistance
+#% to fire resistance
+#% increased rarity of items found
+#% to cold and lightning resistances
+#% to fire and cold resistances
+#% to fire and lightning resistances
+#% to cold and lightning resistances
+# to maximum energy shield
+#% to lightning resistance
+#% to cold resistance
+#% increased global critical strike chance
+#% to all elemental resistances
+you can catch corrupted fish
+#% to chaos resistance
+adds # physical damage to attacks
+#% increased elemental damage

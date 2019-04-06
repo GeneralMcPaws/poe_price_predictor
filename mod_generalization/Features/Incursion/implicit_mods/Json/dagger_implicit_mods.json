@@ -1,0 +1,29 @@
+{
+    "#% chance to block": {
+        "gen": "#% chance to block",
+        "org": [
+            "(3-5)% chance to block"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "30% increased global critical strike chance",
+            "50% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    }
+}

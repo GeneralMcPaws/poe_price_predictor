@@ -1,0 +1,29 @@
+#% increased maximum energy shield
+#% increased maximum life
+# to level of socketed aoe gems
+# to level of socketed aura gems
+# to level of socketed curse gems
+# to level of socketed duration gems
+# to level of socketed projectile gems
+# to level of socketed trap or mine gems
+# to level of socketed warcry gems
+# to level of socketed gems
+#% chance to dodge attack hits
+#% chance to dodge spell hits
+#% chance to dodge attack hits while moving
+#% chance to dodge spell hits while moving
+#% increased attack speed
+#% increased movement speed
+# armour while stationary
+# to global evasion rating while moving
+# armour while stationary
+# to global evasion rating while moving
+# armour while stationary
+# to global evasion rating while moving
+# to maximum endurance charges
+# life regenerated per second while moving
+grants level # haste skill
+#% to all elemental resistances
+#% to fire and cold resistances
+#% to cold and lightning resistances
+#% to fire and lightning resistances

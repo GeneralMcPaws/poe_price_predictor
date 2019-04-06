@@ -1,0 +1,59 @@
+socketed gems are supported by level # chance to flee
+adds # physical damage
+# to maximum life
+# life gained on kill
+#% increased movement speed
+adds # physical damage
+adds # fire damage
+#% increased movement speed
+#% increased attack speed
+#% to fire resistance
+curse enemies with level # flammability on hit
+#% increased physical damage
+adds # physical damage
+#% of physical attack damage leeched as life
+culling strike
+you gain onslaught for # seconds on culling strike
+cannot be chilled while you have onslaught
+socketed gems are supported by level # chance to flee
+#% increased physical damage
+adds # physical damage
+# to maximum life
+# life gained on kill
+#% increased movement speed
+#% increased movement speed if you've killed recently
+#% increased physical damage
+adds # physical damage
+#% increased critical strike chance
+#% of physical damage converted to cold damage
+#% of physical damage converted to lightning damage
+grants level # lightning warp skill
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% to cold resistance
+insufficient mana doesn't prevent your melee attacks
+your physical damage can chill
+adds # physical damage
+adds # fire damage
+#% increased movement speed
+#% increased attack speed
+#% to fire resistance
+hits ignore enemy monster fire resistance while you are ignited
+#% increased physical damage
+adds # physical damage
+#% increased attack speed
+#% of physical attack damage leeched as life
+#% reduced life leeched per second
+#% chance to cause bleeding on hit
+adds # physical damage
+#% increased physical weapon damage while dual wielding
+#% increased attack speed
+#% increased attack speed with swords
+#% chance to cause bleeding on hit
+adds # fire damage in main hand
+adds # cold damage in off hand
+#% increased attack speed
+#% increased damage with ignite inflicted on chilled enemies
+#% chance to ignite when in main hand
+chill enemies for # second on hit with this weapon when in off hand

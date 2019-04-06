@@ -1,0 +1,17 @@
+#% increased area of effect
+#% chance to gain a power charge on critical strike
+adds # cold damage
+adds # fire damage
+adds # cold damage
+adds # lightning damage
+adds # fire damage
+adds # lightning damage
+adds # lightning damage
+adds # cold damage
+adds # fire damage
+#% chance to gain unholy might for # seconds on kill
+#% increased critical strike chance
+#% increased attack speed
+damage penetrates #% elemental resistances
+#% increased spell damage
+#% increased spell damage

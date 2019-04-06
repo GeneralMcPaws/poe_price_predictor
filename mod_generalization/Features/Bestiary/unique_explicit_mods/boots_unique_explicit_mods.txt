@@ -1,0 +1,317 @@
++(1-50)% to Lightning Resistance
+20% increased Movement Speed
+50% increased Shock Duration on Enemies
+30% of Physical Damage Converted to Lightning Damage
+(15-25)% increased Effect of Shock
+(50-80)% increased Armour
++(10-15)% to all Elemental Resistances
+15% increased Movement Speed
+(10-20)% increased Elemental Damage
+Enemies can have 1 additional Curse
+Adds (2-5) to (7-10) Physical Damage to Attacks
+(5-10)% reduced Enemy Stun Threshold
+(150-200)% increased Armour
++(50-70) to maximum Life
++(20-30)% to Fire Resistance
+Grants Level 25 Vaal Impurity of Fire Skill
+Grants Level 25 Vaal Impurity of Lightning Skill
+Grants Level 25 Vaal Impurity of Ice Skill
+25% increased Movement Speed
+Unaffected by Burning Ground
+(150-180)% increased Armour
++(50-70) to maximum Life
++(25-30)% to Cold Resistance
+25% increased Movement Speed
+Cannot be Stunned if you have at least 10 Crab Barriers
+You only lose (5-7) Crab Barriers when you take Physical Damage from a Hit
++(30-60) to maximum Life
+20% increased Movement Speed
+(4-6)% Chance to Block Spell Damage
+Moving while Bleeding doesn't cause you to take extra Damage
+15% increased Movement Speed while Bleeding
+50% chance to be inflicted with Bleeding when Hit by an Attack
+(200-250)% increased Armour
++(10-15)% to all Elemental Resistances
+25% increased Movement Speed
+(10-20)% increased Elemental Damage
+Enemies can have 1 additional Curse
+60% increased Area of Effect of Curse Skills
+Has no Sockets
+Cannot be Knocked Back
++(150-200) to maximum Life
+You cannot be slowed to below base speed
+Unwavering Stance
+(60-80)% increased Armour
++(50-70) to maximum Life
+25% increased Movement Speed
+10% additional Physical Damage Reduction while stationary
+Gain a Frenzy Charge on Hit while Bleeding
+15% increased Movement Speed while Bleeding
+50% chance to be inflicted with Bleeding when Hit by an Attack
+Gore Footprints
+(15-20)% increased maximum Mana
++(25-30)% to Lightning Resistance
+30% increased Movement Speed
+2% chance to Dodge Attack and Spell Hits per 500 Maximum Mana, up to 20%
+You have Onslaught while not on Low Mana
+Lose 7% of maximum Mana per Second
++(50-60) to maximum Mana
++(15-20)% to Lightning Resistance
+25% increased Movement Speed
+You have Onslaught while not on Low Mana
+Lose (30-40) Mana per Second
+50% increased Movement Speed
+Level Requirement reduced by 100 (Hidden)
++(20-30) to Strength
+15% increased Movement Speed
+(6-10)% chance to Ignite
+When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy
+Triggers Level 7 Abberath's Fury when Equipped
+1% increased Fire Damage per 20 Strength
+Burning Hoofprints
++15 to Dexterity
++15 to Intelligence
+(100-150)% increased Evasion Rating
+15% increased Movement Speed
+10% increased Movement Speed for you and nearby Allies
+(5-10)% of Damage taken gained as Mana over 4 seconds when Hit
+Socketed Gems are Supported by Level 11 Trap
+(160-200)% increased Evasion Rating
++(35-45) to maximum Life
+(14-18)% increased Trap Throwing Speed
+15% increased Movement Speed
+15% increased Movement Speed for 9 seconds on Throwing a Trap
+60% increased Mana Regeneration Rate
+(14-20)% increased Quantity of Items found
++(40-50)% to Fire Resistance
+10% increased Movement Speed
++(30-40) to Dexterity
+20% increased Movement Speed
+2% increased Movement Speed per Frenzy Charge
+3% reduced Attack and Cast Speed per Frenzy Charge
+0.5% of Life Regenerated per second per Frenzy Charge
+(20-30)% chance to gain a Frenzy Charge on Kill
+6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life
+Gore Footprints
++(25-35) to Dexterity
+(20-40)% increased Evasion Rating
+100% increased Evasion Rating during Onslaught
++(50-70) to maximum Life
+25% increased Movement Speed
+10% chance to Dodge Spell Hits while Phasing
++(30-40) to Dexterity
+(80-120)% increased Evasion Rating
+30% increased Movement Speed
+Immune to Burning Ground, Shocked Ground and Chilled Ground
+100 Life Regenerated per second while moving
++1 to Maximum Life per 10 Dexterity
++(20-30) to Dexterity
++(20-30) to Intelligence
+(80-100)% increased Evasion Rating
++(100-160) to maximum Energy Shield
+30% increased Movement Speed
+Enemies Cannot Leech Life From You
+180% increased Evasion Rating
++(55-75) to maximum Life
+30% increased Movement Speed
+(14-16)% chance to Dodge Spell Damage
+Trigger Level 20 Intimidating Cry when you lose Cat's Stealth
+(110-150)% increased Evasion Rating
++(50-70) to maximum Life
+20% increased Movement Speed
+(40-50)% chance to avoid Bleeding
+20% increased Movement Speed while you have Cat's Stealth
++5 to Dexterity
+(20-40)% increased Mana Regeneration Rate
++(10-20) to maximum Energy Shield
+20% increased Movement Speed
+Cannot be Frozen
++(5-10) to Strength
++(5-10) to Dexterity
++(5-10) to Intelligence
++(10-16) to maximum Energy Shield
+100% increased Rarity of Items found when on Low Life
+10% increased Movement Speed
++20 to maximum Life
++20 to maximum Mana
+(40-60)% increased Energy Shield
+(5-15)% increased Movement Speed
++1 to maximum number of Zombies
++1 to maximum number of Spectres
++10 to Dexterity
++(20-30) to Intelligence
+(100-140)% increased Energy Shield
+(10-15)% increased Stun and Block Recovery
+15% increased Movement Speed
+20% increased Movement Speed when on Full Life
+1% of Energy Shield Regenerated per second
++10 to Dexterity
++(20-30) to Intelligence
+(100-140)% increased Energy Shield
+(10-15)% increased Stun and Block Recovery
+15% increased Movement Speed
+20% increased Movement Speed when on Full Life
++(5-10) to Strength
++(5-10) to Dexterity
++(5-10) to Intelligence
++(90-110) to maximum Energy Shield
+(10-16)% increased Quantity of Items found when on Low Life
+20% increased Movement Speed
+(20-25)% of Block Chance applied to Spells
++(40-60) to maximum Mana
+(140-180)% increased Energy Shield
++20% to all Elemental Resistances
+25% increased Movement Speed
++(50-70) to maximum Life
+25% increased Movement Speed
+(5-8)% increased Intelligence
+5% increased Damage per Power Charge
+25% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges
++(60-120) to maximum Mana
+30% increased Movement Speed
+25% chance to gain a Power Charge on Critical Strike
+6% reduced Mana Reserved
+You have no Life Regeneration
+Stun Threshold is based on 500% of your Mana instead of Life
+(50-80)% increased Energy Shield
++(20-30) to maximum Energy Shield
+30% increased Movement Speed
+20% increased Movement Speed on Shocked Ground
+50% increased Damage on Burning Ground
+2% of Life Regenerated per second on Chilled Ground
+Unaffected by Desecrated Ground
+(40-60)% increased Armour and Evasion
++(20-30) to maximum Life
+15% increased Movement Speed
+50% increased Stun and Block Recovery
+20% reduced Light Radius
++50% to Chaos Resistance during any Flask Effect
+Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks during any Flask Effect
++(40-60) to Strength
++(40-60) to Dexterity
+Adds 12 to 24 Fire Damage to Attacks
+20% increased Movement Speed
+40% reduced Movement Speed when on Low Life
+20% increased Stun and Block Recovery
+Cannot be Stunned when on Low Life
+Socketed Gems are Supported by Level 15 Added Chaos Damage
+(120-150)% increased Armour and Evasion
++(50-60) to maximum Life
+20% increased Movement Speed
+50% increased Stun and Block Recovery
+20% reduced Light Radius
++50% to Chaos Resistance during any Flask Effect
+Adds (25-30) to (40-50) Cold Damage to Spells
+(50-70)% increased Critical Strike Chance for Spells
+(100-150)% increased Evasion Rating
++(20-30)% to Cold Resistance
+25% increased Movement Speed
+Unaffected by Chilled Ground
+Grants Level 20 Aspect of the Avian Skill
+(100-150)% increased Armour and Evasion
+(20-30)% increased Movement Speed
++(-2-2) seconds to Avian's Flight Duration
+100 Life Regenerated per Second while you have Avian's Flight
+12 Mana Regenerated per Second while you have Avian's Flight
+(40-70)% increased Armour and Evasion
++(20-40)% to Lightning Resistance
+5% increased Movement Speed per Frenzy Charge
++1 to Maximum Frenzy Charges
+40% reduced Frenzy Charge Duration
+25% reduced Light Radius
+2% chance to Dodge Attack Hits per Frenzy Charge
+Adds 1 to 120 Lightning Damage to Attacks
+(20-60)% increased Armour and Energy Shield
++(10-20) Life gained on Kill
+10% chance to Cause Monsters to Flee
+15% increased Movement Speed
++(15-25)% to Cold Resistance
++(15-25)% to Chaos Resistance
+20% increased Movement Speed
+Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary
+Lose all Frenzy, Endurance, and Power Charges when you Move
+Adds 1 to 80 Chaos Damage to Attacks
++(180-220) to Armour
++(9-12)% to Chaos Resistance
+20% increased Movement Speed
++1 to maximum number of Skeletons
+(15-18)% increased Strength
+(160-180)% increased Armour and Energy Shield
++(50-60)% to Fire Resistance
+25% increased Movement Speed
+(10-15)% chance to Ignite
+(25-40)% increased Damage against Ignited Enemies
++(20-40) to Strength
+200% increased Armour and Energy Shield
++(10-15)% to all Elemental Resistances
+25% increased Movement Speed
++1 to Maximum Endurance Charges
+50% increased Elemental Ailment Duration on you
+Cannot be inflicted with Bleeding
+bleeding cannot be inflicted on you
++(20-30) to Dexterity
++(30-50) to Evasion Rating
++(15-30) to maximum Energy Shield
++20% to Cold Resistance
+20% increased Movement Speed
+15% increased Damage taken while on Full Energy Shield
+20% increased Movement Speed while on Full Energy Shield
+10% increased Attack Speed
+(80-120)% increased Evasion Rating
+(20-30)% increased Rarity of Items found
++(30-40)% to Fire Resistance
+20% increased Movement Speed
++(80-100) to maximum Energy Shield
+20% increased Global Physical Damage
+25% increased Movement Speed
++(20-30)% to Lightning Resistance
+(20-40)% increased Projectile Damage
+Unaffected by Shocked Ground
+10% increased Attack Speed
+(260-300)% increased Evasion and Energy Shield
+(20-30)% increased Rarity of Items found
++(30-40)% to Fire Resistance
+20% increased Movement Speed
+(10-20)% increased Movement Speed while Ignited
++25% chance to be Ignited
+(75-125) Life Regenerated per second while Ignited
+(160-200)% increased Evasion and Energy Shield
++(20-30)% to Lightning Resistance
++(17-23)% to Chaos Resistance
+25% increased Movement Speed
+Aspect of the Spider can inflict Spider's Web on Enemies an additional time
+Gain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web
+(40-50)% increased Aspect of the Spider Debuff Duration
+Has 1 Abyssal Socket
+Triggers Level 20 Death Walk when Equipped
+(4-6)% increased maximum Life
+30% increased Movement Speed
+10% increased Damage for each type of Abyss Jewel affecting you
+Has 2 Abyssal Sockets
+Triggers Level 20 Death Walk when Equipped
+(4-6)% increased maximum Life
+30% increased Movement Speed
+10% increased Damage for each type of Abyss Jewel affecting you
++(30-50) to Dexterity
+(140-180)% increased Evasion and Energy Shield
+30% increased Movement Speed
+20% chance to Avoid Projectiles while Phasing
+You have Phasing if you've Killed Recently
+Projectiles Pierce 5 additional Targets while you have Phasing
+Celestial Footprints
+(14-16)% chance to Dodge Spell Hits
+Grants Level 25 Purity of Fire Skill
+Adds (25-30) to (40-45) Fire Damage to Spells and Attacks
+(100-120)% increased Armour
++(50-70) to maximum Life
+30% increased Movement Speed
+Grants Level 25 Purity of Lightning Skill
+Adds (1-3) to (68-72) Lightning Damage to Spells and Attacks
+(180-220)% increased Energy Shield
++(50-70) to maximum Life
+30% increased Movement Speed
+Grants Level 25 Purity of Ice Skill
+Adds (25-30) to (40-45) Cold Damage to Spells and Attacks
+(100-120)% increased Evasion Rating
++(50-70) to maximum Life
+30% increased Movement Speed

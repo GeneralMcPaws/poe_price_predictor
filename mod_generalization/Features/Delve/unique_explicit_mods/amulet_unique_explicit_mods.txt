@@ -1,0 +1,377 @@
+(2-4) Life Regenerated per second
++100 to Evasion Rating while on Low Life
++(30-50) to maximum Life
++(20-30)% to Fire Resistance
+1% of Life Regenerated per second while on Low Life
+(20-30)% increased Mana Regeneration Rate
++25% to Cold Resistance
+0.2% of Physical Attack Damage Leeched as Mana
+Minions have (10-15)% increased maximum Life
+Minions have (10-15)% increased Movement Speed
+(15-10)% reduced Mana Cost of Minion Skills
+Minions deal (10-15)% increased Damage
++(20-30) to Dexterity
++(20-30) to Strength
+(3-5)% reduced movement speed
++100 to Accuracy Rating
+30% increased Projectile Speed
+5% Chance to Block Attack Damage
+8% Chance to Block Attack Damage
+12% Chance to Block Spell Damage
+10% increased Movement Speed
+30% increased Projectile Damage
++(20-30) to Intelligence
++3% to maximum Chance to Block Attack Damage
+50% of Block Chance applied to Spells
+(10-15)% increased Cast Speed
++(30-50) to maximum Mana
+(12-20)% increased Rarity of Items found
+(80-100)% increased Rarity of Items found with a Normal Item Equipped
+(10-15)% increased Quantity of Items found with a Magic Item Equipped
+Adds (48-53) to (58-60) Chaos Damage
+Items and Gems have 50% increased Attribute Requirements
+Chaos Damage can Ignite, Chill and Shock
+Gain Soul Eater for 10 seconds when you use a Vaal Skill
+(12-20)% increased Rarity of Items found
++10 to Dexterity
+Adds (22-27) to (34-38) Fire Damage
+Adds (20-23) to (31-35) Cold Damage
+Adds (1-3) to (47-52) Lightning Damage
+Gain a Power Charge when you use a Vaal Skill
+10 Life gained for each Enemy Hit if you have used a Vaal Skill Recently
+10% increased Movement Speed if you have used a Vaal Skill Recently
+Adds 12 to 24 Fire Damage to Attacks
++(100-150) to Accuracy Rating
++(100-150) to Evasion Rating
++20% to Fire Resistance
+(20-30)% increased Mana Regeneration Rate
++100 to maximum Mana
+(16-24)% increased maximum Mana
+(80-100)% increased Mana Regeneration Rate
+Items and Gems have 25% reduced Attribute Requirements
++(16-24) to Strength and Dexterity
+50% reduced maximum Energy Shield
++(30-40)% to Fire Resistance
++(30-40)% to Cold Resistance
+10% increased Movement Speed when on Full Life
++2 to Melee Weapon and Unarmed Attack range
+60% increased Melee Damage when on Full Life
++(16-24) to Strength and Intelligence
++(30-50) to Strength
+5% chance to grant Unholy Might to nearby Enemies on Kill
+5% chance to grant Onslaught to nearby Enemies on Kill
+5% chance to gain Unholy Might for 3 seconds on Kill
+5% chance to gain Onslaught for 4 seconds on Kill
+Recover 1% of Maximum Life on Kill
++(16-24) to Strength and Intelligence
+(30-50)% increased Mana Regeneration Rate
+2% of Life Regenerated per second
+Nearby Allies gain 2% of Life Regenerated per second
+Nearby Allies gain 40% increased Mana Regeneration Rate
++(16-24) to Dexterity and Intelligence
++(30-40)% to Lightning Resistance
++(8-10)% to Chaos Resistance
+10% chance to gain a Frenzy Charge on Kill
+10% chance to gain a Power Charge on Kill
+5% increased Projectile Speed per Frenzy Charge
+5% increased Projectile Damage per Power Charge
++(10-16) to all Attributes
++(80-100) to all Attributes
+-4 Physical Damage taken from Attacks
++(20-30) to Strength
+Grants Level 10 Gluttony of Elements Skill
+Adds 19 to 43 Chaos Damage to Attacks
+-(10-5)% to all Elemental Resistances
++(17-29)% to Chaos Resistance
+Corrupted
++(10-16) to all Attributes
++(20-40) to all Attributes
++(10-20)% to all Elemental Resistances
+(1.2-2)% of Physical Attack Damage Leeched as Life
+50% increased Life Leeched per second
+(30-40)% increased Damage while Leeching
+Extra gore
++(10-16) to all Attributes
+20% reduced maximum Life
+30% increased Rarity of Items found
+Cannot be Stunned
++(10-16) to all Attributes
++1000 to Accuracy Rating
+(6-10)% chance to Dodge Attack Hits
+(6-10)% chance to Dodge Spell Hits
+Cannot be Blinded
++(16-24) to Dexterity and Intelligence
+(4-8)% increased maximum Life
+(25-30)% chance to gain a Frenzy Charge on Killing an Enemy affected by at least 5 Poisons
+(12-15)% chance to gain a Power Charge on Killing an Enemy affected by fewer than 5 Poisons
+10% increased Damage with Poison per Frenzy Charge
+3% increased Poison Duration per Power Charge
++(20-30) to Intelligence
+Grants Level 10 Purity of Elements Skill
++(5-10) to all Attributes
++(20-40) to maximum Life
+5% chance to Avoid Elemental Ailments
++(16-24) to Dexterity and Intelligence
+100% increased Global Critical Strike Chance
+-25% to Global Critical Strike Multiplier
++(30-50) to maximum Life
++(30-50) to maximum Mana
+40% increased Stun and Block Recovery
++(20-30) to Dexterity
++(20-30) to Strength
+(5-10)% increased Attack Speed
++100 to Accuracy Rating
+30% increased Projectile Speed
+10% increased Movement Speed
+30% increased Projectile Damage
+(15-25)% increased Global Defences
++(20-30) to maximum Energy Shield
++(15-30)% to Fire Resistance
++(15-30)% to Lightning Resistance
+30% slower start of Energy Shield Recharge during any Flask Effect
+400% increased Energy Shield Recharge Rate during any Flask Effect
+Corrupted
++(24-36)% to Global Critical Strike Multiplier
++7% to Unarmed Attack Critical Strike Chance
+Modifiers to Claw Damage also apply to Unarmed Attack Damage
+Modifiers to Claw Attack Speed also apply to Unarmed Attack Speed
+Modifiers to Claw Critical Strike Chance also apply to Unarmed Attack Critical Strike Chance
+Corrupted
++(20-30)% to Fire Resistance
+(30-50)% increased Cold Damage
++(10-15)% to all Elemental Resistances
+60% increased Area of Effect of Curse Skills
+You cannot be Cursed with Silence
+Grants Level 20 Illusory Warp Skill
+Corrupted
+20% increased Armour
+(12-20)% increased Rarity of Items found
+(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies
+(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies
++(16-24) to Strength and Intelligence
++(30-50) to maximum Life
++(50-70) to maximum Mana
++1 to Maximum Power Charges
+10% increased Mana Regeneration Rate per Power Charge
+(80-100)% increased Power Charge Duration
+1% of Damage is taken from Mana before Life per Power Charge
+40% reduced Critical Strike Chance per Power Charge
++(16-24) to Strength and Intelligence
++(30-40) to maximum Life
++(20-30) to maximum Energy Shield
++(15-20)% to all Elemental Resistances
+30% reduced Endurance Charge Duration
+30% reduced Power Charge Duration
+Gain an Endurance Charge when a Power Charge expires or is consumed
++(20-30) to Dexterity
+(10-20)% increased Cold Damage
++(35-40)% to Cold Resistance
+30% increased Freeze Duration on Enemies
+10% chance to Freeze
+60% increased Damage if you've Frozen an Enemy Recently
++(20-30) to Strength
++(20-30) to Strength
+25% increased Fire Damage
++(25-35) to maximum Life
++(20-40)% to Fire Resistance
+Cover Enemies in Ash when they Hit you
+(2-4) Life Regenerated per second
+(50-70)% increased Fire Damage
++100 to Evasion Rating while on Low Life
++(30-50) to maximum Life
++(20-30)% to Fire Resistance
+1% of Life Regenerated per second while on Low Life
++(20-30) to Intelligence
++(80-120) to Accuracy Rating
++(210-240)% to Global Critical Strike Multiplier
++(80-100) to Evasion Rating
+(10-15)% increased Light Radius
+40% less Critical Strike Chance
+Critical Strikes have Culling Strike
+Has 1 Socket
++2 to Level of Socketed Gems
+Socketed Gems are Supported by Level 10 Added Chaos Damage
+Socketed Gems are supported by Level 10 Blind
+Socketed Gems are supported by Level 10 Cast when Stunned
+Corrupted
++(20-30) to Intelligence
++(10-15) to all Attributes
+(10-20)% increased maximum Mana
+Critical Strike Chance is increased by Lightning Resistance
+Trigger Level 12 Lightning Bolt when you deal a Critical Strike
+(12-20)% increased Rarity of Items found
++(20-30) to Dexterity
++(50-70) to maximum Life
++75% to Cold Resistance
+Cannot be Chilled
+20% of Life Regenerated per second while Frozen
+(25-35)% increased Damage
+(10-15)% increased Global Physical Damage
+(25-30)% increased Fire Damage
+(20-25)% increased Cold Damage
+(15-20)% increased Lightning Damage
+(30-35)% increased Chaos Damage
+Corrupted
++(20-30) to Strength
+10% reduced Attack Speed
+10% reduced Cast Speed
++(400-500) to Armour
++(34-48) Life gained when you Block
++(18-24) Mana gained when you Block
+8% Chance to Block
+Reflects 240 to 300 Physical Damage to Attackers on Block
++(16-24) to Dexterity and Intelligence
+(8-12)% increased Attack Speed
+(8-12)% increased Cast Speed
+12% increased Movement Speed
+(12-8)% reduced Skill Effect Duration
+30% increased Life Leeched per second
+30% increased Mana Leeched per second
+(12-20)% increased Rarity of Items found
++10 to Dexterity
+Adds 12 to 24 Fire Damage to Attacks
++(100-150) to Accuracy Rating
++(100-150) to Evasion Rating
++(20-30)% to Fire Resistance
+Your Hits can't be Evaded by Blinded Enemies
+Damage Penetrates 10% Fire Resistance against Blinded Enemies
+Implicit Modifier magnitudes are doubled
++(10-16) to all Attributes
+30% increased Rarity of Items found
++60% to Chaos Resistance
+Cannot be Stunned
+20% of Maximum Life Converted to Energy Shield
++(20-30) to Dexterity
++(40-80) to maximum Life
++(20-40) to maximum Mana
+20% increased Duration of Elemental Ailments on Enemies
+Items and Gems have 10% reduced Attribute Requirements
+5% chance to Freeze, Shock and Ignite
+Cannot gain Power Charges
++(10-16) to all Attributes
+(30-40)% increased Damage over Time
+Adds (17-19) to (23-29) Chaos Damage
++(50-70) to maximum Life
++(17-23)% to Chaos Resistance
+100% reduced Despair Mana Reservation
+Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
++(10-16) to all Attributes
+Adds (20-24) to (33-36) Cold Damage
++(50-70) to maximum Life
+(45-50)% increased Mana Regeneration Rate
++(20-25)% to Cold Resistance
+100% reduced Frostbite Mana Reservation
+Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
++(10-16) to all Attributes
+Adds (20-24) to (33-36) Fire Damage
++(50-70) to maximum Life
++(20-25)% to Fire Resistance
+1% of Life Regenerated per second
+100% reduced Flammability Mana Reservation
+Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
++(10-16) to all Attributes
+Adds (10-13) to (43-47) Lightning Damage
++(50-70) to maximum Life
++(20-25)% to Lightning Resistance
+1% of Energy Shield Regenerated per second
+100% reduced Conductivity Mana Reservation
+Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
++(10-16) to all Attribute
+Adds (12-16) to (20-25) Physical Damage
++(400-500) to Armour
++(50-70) to maximum Life
+(30-40)% increased Stun and Block Recovery
+100% reduced Vulnerability Mana Reservation
+Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
++(20-30) to Dexterity
+(20-30)% increased Cold Damage
++(35-40)% to Cold Resistance
+Chill Enemy for 1 second when Hit, slowing them by 30%
+Blind Chilled Enemies on Hit
+Damage Penetrates 20% Cold Resistance against Chilled Enemies
++(20-30) to Strength
+10% increased maximum Life
++(20-40)% to Fire Resistance
+10% increased Strength
+Damage Penetrates 10% Fire Resistance
+Cover Enemies in Ash when they Hit you
+Avatar of Fire
++(16-24) to Strength and Dexterity
+10% chance to Ignite
+(50-70)% increased Damage while Ignited
+Take 100 Fire Damage when you Ignite an Enemy
+2% of Fire Damage Leeched as Life while Ignited
++(20-30) to Intelligence
+(10-20)% increased maximum Mana
+Critical Strike Chance is increased by Lightning Resistance
+50% increased Lightning Damage
+Trigger Level 20 Lightning Bolt when you deal a Critical Strike
++(10-16) to all Attributes
++(10-20)% to Fire Resistance
++(10-20)% to Cold Resistance
++(20-40)% to Lightning Resistance
+30% reduced Duration of Ailments on Enemies
+(5-10)% chance to Shock
+Enemies take 5% increased Damage for each type of Ailment you have inflicted on them
+Your Elemental Damage can Shock
+(1.2-1.6)% of Life Regenerated per second
+Adds 10 to 20 Physical Damage to Attacks
++(60-70) to maximum Life
+(8-12) Life Regenerated per second
+100% increased Life Recovery from Flasks
+Moving while Bleeding doesn't cause you to take extra Damage
+(48-56)% increased Mana Regeneration Rate
+0.5% of Chaos Damage Leeched as Life
+Lose (15-10) Life for each Enemy hit by your Spells
+Lose (25-20) Life for each Enemy hit by your Attacks
+Skills Chain +1 times
+Projectiles gain (15-20)% of Non-Chaos Damage as extra Chaos Damage per Chain
++(20-30) to Intelligence
+(15-20)% increased maximum Energy Shield
++(50-70) to maximum Life
+2% additional Chance to receive a Critical Strike
+Nearby Enemies have an additional 2% chance to receive a Critical Strike
+Nearby Enemies have 10% reduced Stun and Block Recovery
+Wrath Reserves no Mana
+Can Summon up to 3 additional Golems at a time
+You cannot have non-Golem Minions
+25% reduced Golem Size
+Golems Deal (35-45)% less Damage
+Golems have (35-45)% less Life
+Golems have (80-100)% increased Movement Speed
+Primordial
++(10-16) to all Attributes
++(20-30) to Strength
+(15-20)% increased Armour
++(50-70) to maximum Life
+10% reduced Stun and Block Recovery
+Nearby Enemies have 10% reduced Stun and Block Recovery
+Nearby Enemies grant 25% increased Flask Charges
+Monster gives 25% increased Flask Charges on death (Hidden)
+2% additional Chance to receive a Critical Strike
+Nearby Enemies have an additional 2% chance to receive a Critical Strike
+Grants Level 15 Envy Skill
+(15-20)% increased Global Defences
+Envy Reserves no Mana
++(20-30) to Dexterity
+(15-20)% increased Evasion Rating
++(50-70) to maximum Life
++(20-30) to Strength
+(15-20)% increased Armour
++(50-70) to maximum Life
++(20-30) to Intelligence
+(15-20)% increased maximum Energy Shield
++(50-70) to maximum Life
+Clarity Reserves no Mana
+Discipline Reserves no Mana
+Purity of Lightning Reserves no Mana
+Purity of Elements Reserves no Mana
+Wrath Reserves no Mana
+Grace Reserves no Mana
+Haste Reserves no Mana
+Hatred Reserves no Mana
+Purity of Ice Reserves no Mana
+Anger Reserves no Mana
+Determination Reserves no Mana
+Purity of Fire Reserves no Mana
+Vitality Reserves no Mana

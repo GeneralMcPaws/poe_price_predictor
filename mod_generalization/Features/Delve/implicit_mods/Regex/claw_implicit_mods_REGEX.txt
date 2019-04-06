@@ -1,0 +1,7 @@
+# life gained for each enemy hit by attacks
+# life gained for each enemy hit by attacks
+#% of physical attack damage leeched as life
+#% of physical attack damage leeched as life
+# life gained for each enemy hit by attacks
+# mana gained for each enemy hit by attacks
+# mana gained for each enemy hit by attacks

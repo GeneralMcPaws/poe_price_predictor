@@ -1,0 +1,975 @@
+{
+    "# life gained on killing ignited enemies": {
+        "gen": "# life gained on killing ignited enemies",
+        "org": [
+            "+10 life gained on killing ignited enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+10"
+            }
+        ]
+    },
+    "# lightning damage taken per second per power charge if your skills have dealt a critical strike recently": {
+        "gen": "# lightning damage taken per second per power charge if your skills have dealt a critical strike recently",
+        "org": [
+            "200 lightning damage taken per second per power charge if your skills have dealt a critical strike recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "200"
+            }
+        ]
+    },
+    "# mana gained on killing a frozen enemy": {
+        "gen": "# mana gained on killing a frozen enemy",
+        "org": [
+            "+(20-25) mana gained on killing a frozen enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to accuracy rating": {
+        "gen": "# to accuracy rating",
+        "org": [
+            "+(340-400) to accuracy rating"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to intelligence": {
+        "gen": "# to intelligence",
+        "org": [
+            "+(10-30) to intelligence",
+            "+(10-20) to intelligence",
+            "+10 to intelligence"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to level of socketed active skill gems per # player levels": {
+        "gen": "# to level of socketed active skill gems per # player levels",
+        "org": [
+            "+1 to level of socketed active skill gems per 25 player levels"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "# to level of socketed gems": {
+        "gen": "# to level of socketed gems",
+        "org": [
+            "+1 to level of socketed gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to level of socketed spell gems": {
+        "gen": "# to level of socketed spell gems",
+        "org": [
+            "+1 to level of socketed spell gems"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum life": {
+        "gen": "# to maximum life",
+        "org": [
+            "+(15-20) to maximum life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum mana": {
+        "gen": "# to maximum mana",
+        "org": [
+            "+(15-20) to maximum mana",
+            "+(40-50) to maximum mana"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "# to maximum number of skeletons": {
+        "gen": "# to maximum number of skeletons",
+        "org": [
+            "+1 to maximum number of skeletons"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum number of spectres": {
+        "gen": "# to maximum number of spectres",
+        "org": [
+            "+1 to maximum number of spectres"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum number of zombies": {
+        "gen": "# to maximum number of zombies",
+        "org": [
+            "+1 to maximum number of zombies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "# to maximum power charges": {
+        "gen": "# to maximum power charges",
+        "org": [
+            "+1 to maximum power charges"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+1"
+            }
+        ]
+    },
+    "#% chance to blind enemies on hit": {
+        "gen": "#% chance to blind enemies on hit",
+        "org": [
+            "10% chance to blind enemies on hit"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            }
+        ]
+    },
+    "#% chance to block spell damage per power charge": {
+        "gen": "#% chance to block spell damage per power charge",
+        "org": [
+            "+2% chance to block spell damage per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+2"
+            }
+        ]
+    },
+    "#% chance to gain a power charge on kill": {
+        "gen": "#% chance to gain a power charge on kill",
+        "org": [
+            "(25-35)% chance to gain a power charge on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to gain a power charge on killing a frozen enemy": {
+        "gen": "#% chance to gain a power charge on killing a frozen enemy",
+        "org": [
+            "50% chance to gain a power charge on killing a frozen enemy"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "50"
+            }
+        ]
+    },
+    "#% chance to ignite": {
+        "gen": "#% chance to ignite",
+        "org": [
+            "(16-22)% chance to ignite"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% chance to trigger level # summon raging spirit on kill": {
+        "gen": "#% chance to trigger level # summon raging spirit on kill",
+        "org": [
+            "10% chance to trigger level 8 summon raging spirit on kill"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "10"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "8"
+            }
+        ]
+    },
+    "#% critical strike chance per power charge": {
+        "gen": "#% critical strike chance per power charge",
+        "org": [
+            "+0.3% critical strike chance per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "+0.3"
+            }
+        ]
+    },
+    "#% increased attack speed": {
+        "gen": "#% increased attack speed",
+        "org": [
+            "(8-12)% increased attack speed",
+            "(5-10)% increased attack speed",
+            "(10-18)% increased attack speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased burning damage": {
+        "gen": "#% increased burning damage",
+        "org": [
+            "(40-50)% increased burning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cast speed": {
+        "gen": "#% increased cast speed",
+        "org": [
+            "(5-8)% increased cast speed",
+            "(10-15)% increased cast speed",
+            "10% increased cast speed",
+            "(25-30)% increased cast speed",
+            "(10-20)% increased cast speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased cold damage per frenzy charge": {
+        "gen": "#% increased cold damage per frenzy charge",
+        "org": [
+            "(10-15)% increased cold damage per frenzy charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance": {
+        "gen": "#% increased critical strike chance",
+        "org": [
+            "(10-20)% increased critical strike chance",
+            "(26-32)% increased critical strike chance",
+            "(20-30)% increased critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased critical strike chance against blinded enemies": {
+        "gen": "#% increased critical strike chance against blinded enemies",
+        "org": [
+            "(120-140)% increased critical strike chance against blinded enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased fire damage": {
+        "gen": "#% increased fire damage",
+        "org": [
+            "(20-30)% increased fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased global critical strike chance": {
+        "gen": "#% increased global critical strike chance",
+        "org": [
+            "(40-60)% increased global critical strike chance",
+            "(50-65)% increased global critical strike chance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased light radius": {
+        "gen": "#% increased light radius",
+        "org": [
+            "20% increased light radius"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "#% increased lightning damage": {
+        "gen": "#% increased lightning damage",
+        "org": [
+            "(20-30)% increased lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased mana cost of skills": {
+        "gen": "#% increased mana cost of skills",
+        "org": [
+            "40% increased mana cost of skills"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "40"
+            }
+        ]
+    },
+    "#% increased mana regeneration rate": {
+        "gen": "#% increased mana regeneration rate",
+        "org": [
+            "(15-25)% increased mana regeneration rate"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased physical damage": {
+        "gen": "#% increased physical damage",
+        "org": [
+            "(40-60)% increased physical damage",
+            "(80-120)% increased physical damage",
+            "(250-275)% increased physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage": {
+        "gen": "#% increased spell damage",
+        "org": [
+            "(8-12)% increased spell damage",
+            "(20-28)% increased spell damage",
+            "(10-14)% increased spell damage",
+            "(11-15)% increased spell damage",
+            "(18-22)% increased spell damage",
+            "(15-19)% increased spell damage",
+            "(17-21)% increased spell damage",
+            "(22-26)% increased spell damage",
+            "(29-33)% increased spell damage",
+            "(31-35)% increased spell damage",
+            "(33-37)% increased spell damage",
+            "(30-40)% increased spell damage",
+            "(38-42)% increased spell damage",
+            "(35-39)% increased spell damage",
+            "(36-40)% increased spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% increased spell damage if you've dealt a critical strike recently": {
+        "gen": "#% increased spell damage if you've dealt a critical strike recently",
+        "org": [
+            "120% increased spell damage if you've dealt a critical strike recently"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "120"
+            }
+        ]
+    },
+    "#% increased spell damage per power charge": {
+        "gen": "#% increased spell damage per power charge",
+        "org": [
+            "25% increased spell damage per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% reduced ignite duration on enemies": {
+        "gen": "#% reduced ignite duration on enemies",
+        "org": [
+            "25% reduced ignite duration on enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "25"
+            }
+        ]
+    },
+    "#% reduced spell damage": {
+        "gen": "#% reduced spell damage",
+        "org": [
+            "80% reduced spell damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "80"
+            }
+        ]
+    },
+    "#% to chaos resistance": {
+        "gen": "#% to chaos resistance",
+        "org": [
+            "+(5-10)% to chaos resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to critical strike multiplier per power charge": {
+        "gen": "#% to critical strike multiplier per power charge",
+        "org": [
+            "+(6-10)% to critical strike multiplier per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "#% to global critical strike multiplier": {
+        "gen": "#% to global critical strike multiplier",
+        "org": [
+            "+(27-33)% to global critical strike multiplier"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # chaos damage to spells": {
+        "gen": "adds # chaos damage to spells",
+        "org": [
+            "adds (50-65) to (90-105) chaos damage to spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # cold damage to spells per power charge": {
+        "gen": "adds # cold damage to spells per power charge",
+        "org": [
+            "adds 10 to 20 cold damage to spells per power charge",
+            "adds 15 to 25 cold damage to spells per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage": {
+        "gen": "adds # fire damage",
+        "org": [
+            "adds (10-14) to (18-22) fire damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # fire damage to hits with this weapon against blinded enemies": {
+        "gen": "adds # fire damage to hits with this weapon against blinded enemies",
+        "org": [
+            "adds 146 to 200 fire damage to hits with this weapon against blinded enemies"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "146 to 200"
+            }
+        ]
+    },
+    "adds # fire damage to spells": {
+        "gen": "adds # fire damage to spells",
+        "org": [
+            "adds (4-6) to (8-12) fire damage to spells",
+            "adds (4-6) to (7-9) fire damage to spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage": {
+        "gen": "adds # lightning damage",
+        "org": [
+            "adds 1 to (35-45) lightning damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to spells": {
+        "gen": "adds # lightning damage to spells",
+        "org": [
+            "adds (26-35) to (95-105) lightning damage to spells"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # lightning damage to spells per power charge": {
+        "gen": "adds # lightning damage to spells per power charge",
+        "org": [
+            "adds 3 to 9 lightning damage to spells per power charge"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3 to 9"
+            }
+        ]
+    },
+    "adds # physical damage": {
+        "gen": "adds # physical damage",
+        "org": [
+            "adds (5-8) to (13-17) physical damage",
+            "adds (18-22) to (36-44) physical damage",
+            "adds (24-30) to (80-92) physical damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "adds # physical damage to attacks with this weapon per # player levels": {
+        "gen": "adds # physical damage to attacks with this weapon per # player levels",
+        "org": [
+            "adds 3 to 5 physical damage to attacks with this weapon per 3 player levels"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "3 to 5"
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "3"
+            }
+        ]
+    },
+    "attacks with this weapon have #% increased elemental damage": {
+        "gen": "attacks with this weapon have #% increased elemental damage",
+        "org": [
+            "attacks with this weapon have (100-115)% increased elemental damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "cannot be used with chaos inoculation": {
+        "gen": "",
+        "org": [
+            "cannot be used with chaos inoculation"
+        ],
+        "params": []
+    },
+    "critical strikes deal no damage": {
+        "gen": "",
+        "org": [
+            "critical strikes deal no damage"
+        ],
+        "params": []
+    },
+    "damage with weapons penetrates #% elemental resistance": {
+        "gen": "damage with weapons penetrates #% elemental resistance",
+        "org": [
+            "damage with weapons penetrates 5% elemental resistance"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "5"
+            }
+        ]
+    },
+    "enemies you kill have a #% chance to explode, dealing a quarter of their maximum life as chaos damage": {
+        "gen": "enemies you kill have a #% chance to explode, dealing a quarter of their maximum life as chaos damage",
+        "org": [
+            "enemies you kill have a 20% chance to explode, dealing a quarter of their maximum life as chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "gain #% of elemental damage as extra chaos damage": {
+        "gen": "gain #% of elemental damage as extra chaos damage",
+        "org": [
+            "gain (10-20)% of elemental damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain #% of physical damage as extra chaos damage": {
+        "gen": "gain #% of physical damage as extra chaos damage",
+        "org": [
+            "gain (13-15)% of physical damage as extra chaos damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "gain a frenzy charge on reaching maximum power charges": {
+        "gen": "",
+        "org": [
+            "gain a frenzy charge on reaching maximum power charges"
+        ],
+        "params": []
+    },
+    "increases and reductions to light radius also apply to accuracy": {
+        "gen": "",
+        "org": [
+            "increases and reductions to light radius also apply to accuracy"
+        ],
+        "params": []
+    },
+    "lose all power charges on reaching maximum power charges": {
+        "gen": "",
+        "org": [
+            "lose all power charges on reaching maximum power charges"
+        ],
+        "params": []
+    },
+    "minions deal #% increased damage": {
+        "gen": "minions deal #% increased damage",
+        "org": [
+            "minions deal (10-30)% increased damage"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "minions have #% increased movement speed": {
+        "gen": "minions have #% increased movement speed",
+        "org": [
+            "minions have (10-20)% increased movement speed"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            }
+        ]
+    },
+    "nearby enemies are blinded": {
+        "gen": "",
+        "org": [
+            "nearby enemies are blinded"
+        ],
+        "params": []
+    },
+    "no physical damage": {
+        "gen": "",
+        "org": [
+            "no physical damage"
+        ],
+        "params": []
+    },
+    "regenerate # life over # second when you cast a spell": {
+        "gen": "regenerate # life over # second when you cast a spell",
+        "org": [
+            "regenerate (6-8) life over 1 second when you cast a spell"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "R",
+                "value": ""
+            },
+            {
+                "pos": 1,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "reserves #% of life": {
+        "gen": "reserves #% of life",
+        "org": [
+            "reserves 30% of life"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "30"
+            }
+        ]
+    },
+    "socketed gems are supported by level # blind": {
+        "gen": "socketed gems are supported by level # blind",
+        "org": [
+            "socketed gems are supported by level 20 blind"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    },
+    "socketed gems are supported by level # controlled destruction": {
+        "gen": "socketed gems are supported by level # controlled destruction",
+        "org": [
+            "socketed gems are supported by level 1 controlled destruction"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "socketed gems are supported by level # increased area of effect": {
+        "gen": "socketed gems are supported by level # increased area of effect",
+        "org": [
+            "socketed gems are supported by level 1 increased area of effect"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "socketed gems are supported by level # spell echo": {
+        "gen": "socketed gems are supported by level # spell echo",
+        "org": [
+            "socketed gems are supported by level 1 spell echo"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "1"
+            }
+        ]
+    },
+    "socketed gems fire an additional projectile": {
+        "gen": "",
+        "org": [
+            "socketed gems fire an additional projectile"
+        ],
+        "params": []
+    },
+    "trigger a socketed spell when you attack": {
+        "gen": "",
+        "org": [
+            "trigger a socketed spell when you attack"
+        ],
+        "params": []
+    },
+    "triggers level # blinding aura when equipped": {
+        "gen": "triggers level # blinding aura when equipped",
+        "org": [
+            "triggers level 20 blinding aura when equipped"
+        ],
+        "params": [
+            {
+                "pos": 0,
+                "type": "D",
+                "value": "20"
+            }
+        ]
+    }
+}

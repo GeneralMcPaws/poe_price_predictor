@@ -1,1 +1,0 @@
-python data_extraction.py -w c -d H:\\processed_incursion\\unique\\stash_repo_2018_06-10\\

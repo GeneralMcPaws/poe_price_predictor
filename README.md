@@ -21,7 +21,7 @@ For my diploma thesis i analysed the item transactions of the online game Path o
 The dataset was split into two types of items. The first was analysed using LSTM techniques as a stock price and i forecasted the future momentum of the price of specific unique, in name and features, items. The second dataset, consisted of a observations with a variable number of features and my goal was to predict the price of an item given the features it had.
 
 
-**Technologies used:** Python, Jupyter Notebooks
+**Technologies used:** Python, Jupyter Notebooks, Bash
 
 
 The architecture consists of :

@@ -54,3 +54,8 @@ The architecture consists of :
 * **Ensemble Learning** to produce better results in the Regression approach.
 
 * **Using GridSearch and K-fold cross validation** to optimise the machine learning models.
+
+# Coming Soon
+
+* Decribe how to setup the data pipeline
+* Upload data files
